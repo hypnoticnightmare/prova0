@@ -12797,5 +12797,39 @@
             {"id":8100, "colors":["pink"]},
             {"id":8101, "colors":["yellow"]}
          ], "criteria":{"type":"episode", "info":"14", "text":"Unlocked after playing Episode 14"}
+    },
+    {
+        "groupId":8032, "zone":"torso", "category":"top", "security":"395b2744c4fe953d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"T-shirt",
+        "outfitName":"Restored Health",
+        "variations":[
+            {"id":8032, "colors":["purple"]},
+            {"id":8033, "colors":["yellow"]},
+            {"id":8034, "colors":["blue"]},
+            {"id":8035, "colors":["pink"]},
+            {"id":8036, "colors":["black"]},
+            {"id":8037, "colors":["white"]},
+            {"id":8038, "colors":["brown"]},
+            {"id":8039, "colors":["red"]},
+            {"id":8040, "colors":["green"]},
+            {"id":8041, "colors":["blue"]}
+         ], "criteria":{"type":"episode", "info":"14", "text":"Unlocked after playing Episode 14"}
+    },
+    {
+        "groupId":1359, "zone":"torso", "category":"top", "security":"a90a4548c6319fdd", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Biker Soul",
+        "variations":[
+            {"id":1359, "colors":["purple"]},
+            {"id":1360, "colors":["yellow"]},
+            {"id":1361, "colors":["blue"]},
+            {"id":1362, "colors":["pink"]},
+            {"id":1363, "colors":["black"]},
+            {"id":1364, "colors":["white"]},
+            {"id":1365, "colors":["brown"]},
+            {"id":1366, "colors":["red"]},
+            {"id":1367, "colors":["green"]},
+            {"id":1368, "colors":["blue"]}
+         ], "criteria":null
     }
 ]
