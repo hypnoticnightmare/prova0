@@ -12763,5 +12763,39 @@
             {"id":9195, "colors":["orange","silver"]},
             {"id":9196, "colors":["pink","silver"]}
         ], "criteria":null
+    },
+    {
+        "groupId":1569, "zone":"head", "category":"hat", "security":"0ffc15bdcc2afe9a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Barrette",
+        "outfitName":"Magical Heart",
+        "variations":[
+            {"id":1569, "colors":["white"]},
+            {"id":1570, "colors":["black"]},
+            {"id":1571, "colors":["red"]},
+            {"id":1572, "colors":["orange"]},
+            {"id":1573, "colors":["blue"]},
+            {"id":1574, "colors":["purple"]},
+            {"id":1575, "colors":["yellow"]},
+            {"id":1576, "colors":["green"]},
+            {"id":1577, "colors":["grey"]},
+            {"id":1578, "colors":["black"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":8092, "zone":"torso", "category":"top", "security":"f5148f18d46aa268", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tank Top",
+        "outfitName":"Replenished Strenght",
+        "variations":[
+            {"id":8092, "colors":["green"]},
+            {"id":8093, "colors":["red"]},
+            {"id":8094, "colors":["blue"]},
+            {"id":8095, "colors":["black"]},
+            {"id":8096, "colors":["white"]},
+            {"id":8097, "colors":["purple"]},
+            {"id":8098, "colors":["brown"]},
+            {"id":8099, "colors":["grey"]},
+            {"id":8100, "colors":["pink"]},
+            {"id":8101, "colors":["yellow"]}
+         ], "criteria":{"type":"episode", "info":"14", "text":"Unlocked after playing Episode 14"}
     }
 ]
