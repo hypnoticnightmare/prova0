@@ -12933,5 +12933,73 @@
             {"id":1315, "colors":["green"]},
             {"id":1316, "colors":["blue"]}
          ], "criteria":null
+    },
+    {
+        "groupId":8022, "zone":"waistToKnee", "category":"pants", "security":"f528530aefebad70", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shorts",
+        "outfitName":"Restored Health",
+        "variations":[
+            {"id":8022, "colors":["purple"]},
+            {"id":8023, "colors":["yellow"]},
+            {"id":8024, "colors":["blue"]},
+            {"id":8025, "colors":["pink"]},
+            {"id":8026, "colors":["black"]},
+            {"id":8027, "colors":["white"]},
+            {"id":8028, "colors":["brown"]},
+            {"id":8029, "colors":["red"]},
+            {"id":8030, "colors":["green"]},
+            {"id":8031, "colors":["blue"]}
+         ], "criteria":{"type":"episode", "info":"14", "text":"Unlocked after playing Episode 14"}
+    },
+    {
+        "groupId":1339, "zone":"waistToKnee", "category":"pants", "security":"27802f7760b71186", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pants",
+        "outfitName":"Biker Soul",
+        "variations":[
+            {"id":1339, "colors":["purple"]},
+            {"id":1340, "colors":["yellow"]},
+            {"id":1341, "colors":["blue"]},
+            {"id":1342, "colors":["pink"]},
+            {"id":1343, "colors":["black"]},
+            {"id":1344, "colors":["white"]},
+            {"id":1345, "colors":["brown"]},
+            {"id":1346, "colors":["red"]},
+            {"id":1347, "colors":["green"]},
+            {"id":1348, "colors":["blue"]}
+         ], "criteria":null
+    },
+    {
+        "groupId":8112, "zone":"waistToKnee", "category":"skirt", "security":"ddf50136b8a0e848", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Skirt",
+        "outfitName":"Replenished Strenght",
+        "variations":[
+            {"id":8112, "colors":["purple"]},
+            {"id":8113, "colors":["yellow"]},
+            {"id":8114, "colors":["blue"]},
+            {"id":8115, "colors":["pink"]},
+            {"id":8116, "colors":["black"]},
+            {"id":8117, "colors":["white"]},
+            {"id":8118, "colors":["brown"]},
+            {"id":8119, "colors":["red"]},
+            {"id":8120, "colors":["green"]},
+            {"id":8121, "colors":["blue"]}
+         ], "criteria":{"type":"episode", "info":"14", "text":"Unlocked after playing Episode 14"}
+    },
+    {
+        "groupId":1237, "zone":"waistToKnee", "category":"skirt", "security":"0ba8e97aeb7c34dd", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Skirt",
+        "outfitName":"Hololove",
+        "variations":[
+            {"id":1237, "colors":["purple"]},
+            {"id":1238, "colors":["yellow"]},
+            {"id":1239, "colors":["blue"]},
+            {"id":1240, "colors":["pink"]},
+            {"id":1241, "colors":["black"]},
+            {"id":1242, "colors":["white"]},
+            {"id":1243, "colors":["brown"]},
+            {"id":1244, "colors":["red"]},
+            {"id":1245, "colors":["green"]},
+            {"id":1246, "colors":["blue"]}
+         ], "criteria":null
     }
 ]
