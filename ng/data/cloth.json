@@ -12831,5 +12831,73 @@
             {"id":1367, "colors":["green"]},
             {"id":1368, "colors":["blue"]}
          ], "criteria":null
+    },
+    {
+        "groupId":8102, "zone":"torso", "category":"jacket", "security":"1448887dbbf03a63", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sweatshirt",
+        "outfitName":"Replenished Strenght",
+        "variations":[
+            {"id":8102, "colors":["purple"]},
+            {"id":8103, "colors":["yellow"]},
+            {"id":8104, "colors":["blue"]},
+            {"id":8105, "colors":["pink"]},
+            {"id":8106, "colors":["black"]},
+            {"id":8107, "colors":["white"]},
+            {"id":8108, "colors":["brown"]},
+            {"id":8109, "colors":["red"]},
+            {"id":8110, "colors":["green"]},
+            {"id":8111, "colors":["blue"]}
+         ], "criteria":{"type":"episode", "info":"14", "text":"Unlocked after playing Episode 14"}
+    },
+    {
+        "groupId":8102, "zone":"torso", "category":"jacket", "security":"f8f0cee19c68feb8", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sleeves",
+        "outfitName":"Replenished Strenght",
+        "variations":[
+            {"id":8062, "colors":["purple"]},
+            {"id":8063, "colors":["yellow"]},
+            {"id":8064, "colors":["blue"]},
+            {"id":8065, "colors":["pink"]},
+            {"id":8066, "colors":["black"]},
+            {"id":8067, "colors":["white"]},
+            {"id":8068, "colors":["brown"]},
+            {"id":8069, "colors":["red"]},
+            {"id":8070, "colors":["green"]},
+            {"id":8071, "colors":["blue"]}
+         ], "criteria":{"type":"episode", "info":"14", "text":"Unlocked after playing Episode 14"}
+    },
+    {
+        "groupId":8102, "zone":"torso", "category":"jacket", "security":"bf3c02a184edec88", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Jacket",
+        "outfitName":"Restored Health",
+        "variations":[
+            {"id":8042, "colors":["purple"]},
+            {"id":8043, "colors":["yellow"]},
+            {"id":8044, "colors":["blue"]},
+            {"id":8045, "colors":["pink"]},
+            {"id":8046, "colors":["black"]},
+            {"id":8047, "colors":["white"]},
+            {"id":8048, "colors":["brown"]},
+            {"id":8049, "colors":["red"]},
+            {"id":8050, "colors":["green"]},
+            {"id":8051, "colors":["blue"]}
+         ], "criteria":{"type":"episode", "info":"14", "text":"Unlocked after playing Episode 14"}
+    },
+    {
+        "groupId":8102, "zone":"torso", "category":"jacket", "security":"a65905d91703c54e", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Coat",
+        "outfitName":"Femme Fatale",
+        "variations":[
+            {"id":1307, "colors":["purple"]},
+            {"id":1308, "colors":["yellow"]},
+            {"id":1309, "colors":["blue"]},
+            {"id":1310, "colors":["pink"]},
+            {"id":1311, "colors":["black"]},
+            {"id":1312, "colors":["white"]},
+            {"id":1313, "colors":["brown"]},
+            {"id":1314, "colors":["red"]},
+            {"id":1315, "colors":["green"]},
+            {"id":1316, "colors":["blue"]}
+         ], "criteria":null
     }
 ]
