@@ -12779,7 +12779,7 @@
             {"id":1576, "colors":["green"]},
             {"id":1577, "colors":["grey"]},
             {"id":1578, "colors":["black"]}
-        ], "criteria":null
+        ], "criteria":{"type":"jobTask", "info":"Sticky Notes 2", "text":"Unlocked through Daily Missions \nSticky Notes 2"}
     },
     {
         "groupId":8092, "zone":"torso", "category":"top", "security":"f5148f18d46aa268", "multiLayered":false, "layerBehavior":"normal",
@@ -12830,7 +12830,7 @@
             {"id":1366, "colors":["red"]},
             {"id":1367, "colors":["green"]},
             {"id":1368, "colors":["blue"]}
-         ], "criteria":null
+         ], "criteria":{"type":"jobTask", "info":"Sticky Notes 2", "text":"Unlocked through Daily Missions \nSticky Notes 2"}
     },
     {
         "groupId":8102, "zone":"torso", "category":"jacket", "security":"1448887dbbf03a63", "multiLayered":false, "layerBehavior":"normal",
@@ -12932,7 +12932,7 @@
             {"id":1314, "colors":["red"]},
             {"id":1315, "colors":["green"]},
             {"id":1316, "colors":["blue"]}
-         ], "criteria":null
+         ], "criteria":{"type":"jobTask", "info":"Sticky Notes 2", "text":"Unlocked through Daily Missions \nSticky Notes 2"}
     },
     {
         "groupId":8022, "zone":"waistToKnee", "category":"pants", "security":"f528530aefebad70", "multiLayered":false, "layerBehavior":"normal",
@@ -12966,7 +12966,7 @@
             {"id":1346, "colors":["red"]},
             {"id":1347, "colors":["green"]},
             {"id":1348, "colors":["blue"]}
-         ], "criteria":null
+         ], "criteria":{"type":"jobTask", "info":"Sticky Notes 2", "text":"Unlocked through Daily Missions \nSticky Notes 2"}
     },
     {
         "groupId":8112, "zone":"waistToKnee", "category":"skirt", "security":"ddf50136b8a0e848", "multiLayered":false, "layerBehavior":"normal",
@@ -13000,7 +13000,7 @@
             {"id":1244, "colors":["red"]},
             {"id":1245, "colors":["green"]},
             {"id":1246, "colors":["blue"]}
-         ], "criteria":null
+         ], "criteria":{"type":"jobTask", "info":"Sticky Notes 2", "text":"Unlocked through Daily Missions \nSticky Notes 2"}
     },
     {
         "groupId":8072, "zone":"feet", "category":"shoes", "security":"2bfe994a416b97b7", "multiLayered":false, "layerBehavior":"normal",
@@ -13051,7 +13051,7 @@
             {"id":2720, "colors":["blue"]},
             {"id":2721, "colors":["black"]},
             {"id":2722, "colors":["white"]}
-        ], "criteria":null
+        ], "criteria":{"type":"jobTask", "info":"Sticky Notes 2", "text":"Unlocked through Daily Missions \nSticky Notes 2"}
     },
     {
         "groupId":8082, "zone":"feet", "category":"socks", "security":"6546d2e42ef64f73", "multiLayered":false, "layerBehavior":"normal",
@@ -13121,7 +13121,7 @@
             {"id":1887, "colors":["blue"]},
             {"id":1888, "colors":["black"]},
             {"id":1889, "colors":["white"]}
-        ], "criteria":null
+        ], "criteria":{"type":"jobTask", "info":"Sticky Notes 2", "text":"Unlocked through Daily Missions \nSticky Notes 2"}
     },
     {
         "groupId":9043, "zone":"feet", "category":"socks", "security":"e05530b44899e348", "multiLayered":false, "layerBehavior":"normal",
