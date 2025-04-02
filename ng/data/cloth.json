@@ -13092,16 +13092,16 @@
         "name":"Tights",
         "outfitName":"Restored Health",
         "variations":[
-            {"id":7992, "colors":["yellow"]},
-            {"id":7993, "colors":["orange"]},
-            {"id":7994, "colors":["red"]},
-            {"id":7995, "colors":["brown"]},
-            {"id":7996, "colors":["green"]},
-            {"id":7997, "colors":["purple"]},
-            {"id":7998, "colors":["pink"]},
-            {"id":7999, "colors":["blue"]},
-            {"id":8000, "colors":["black"]},
-            {"id":8001, "colors":["white"]}
+            {"id":7992, "colors":["green","pink"]},
+            {"id":7993, "colors":["brown"]},
+            {"id":7994, "colors":["pink","blue"]},
+            {"id":7995, "colors":["blue","brown"]},
+            {"id":7996, "colors":["white","black"]},
+            {"id":7997, "colors":["black","white"]},
+            {"id":7998, "colors":["green"]},
+            {"id":7999, "colors":["grey","red"]},
+            {"id":8000, "colors":["yellow","brown"]},
+            {"id":8001, "colors":["purple","grey"]}
         ], "criteria":{"type":"episode", "info":"14", "text":"Unlocked after playing Episode 14"}
     },
     {
@@ -13109,16 +13109,16 @@
         "name":"Fishnets",
         "outfitName":"Kitty Girl",
         "variations":[
-            {"id":1880, "colors":["yellow"]},
-            {"id":1881, "colors":["orange"]},
-            {"id":1882, "colors":["red"]},
-            {"id":1883, "colors":["brown"]},
-            {"id":1884, "colors":["green"]},
+            {"id":1880, "colors":["white"]},
+            {"id":1881, "colors":["yellow"]},
+            {"id":1882, "colors":["green"]},
+            {"id":1883, "colors":["blue"]},
+            {"id":1884, "colors":["pink"]},
             {"id":1885, "colors":["purple"]},
-            {"id":1886, "colors":["pink"]},
-            {"id":1887, "colors":["blue"]},
-            {"id":1888, "colors":["black"]},
-            {"id":1889, "colors":["white"]}
+            {"id":1886, "colors":["orange"]},
+            {"id":1887, "colors":["black"]},
+            {"id":1888, "colors":["purple"]},
+            {"id":1889, "colors":["red"]}
         ], "criteria":null
     }
 ]
