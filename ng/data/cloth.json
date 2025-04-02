@@ -12901,14 +12901,6 @@
          ], "criteria":null
     },
     {
-        "groupId":9046, "zone":"torso", "category":"jacket", "security":"8b77afaa763218f7", "multiLayered":true, "layerBehavior":"normal",
-        "name":"Hoodie",
-        "outfitName":"Oca",
-        "variations":[
-            {"id":1307, "colors":["white"]}
-         ], "criteria":null
-    },
-    {
         "groupId":8052, "zone":"torso_waistToKnee", "category":"underwear", "security":"491d293b04b9e344", "multiLayered":false, "layerBehavior":"normal",
         "name":"Underwear",
         "outfitName":"Replenished strenght",
