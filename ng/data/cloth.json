@@ -12916,5 +12916,22 @@
             {"id":8060, "colors":["green"]},
             {"id":8061, "colors":["blue"]}
          ], "criteria":{"type":"episode", "info":"14", "text":"Unlocked after playing Episode 14"}
+    },
+    {
+        "groupId":7982, "zone":"torso_waistToKnee", "category":"underwear", "security":"fab7b1fe968adfda", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Underwear",
+        "outfitName":"Restored Health",
+        "variations":[
+            {"id":7982, "colors":["purple"]},
+            {"id":7983, "colors":["yellow"]},
+            {"id":7984, "colors":["blue"]},
+            {"id":7985, "colors":["pink"]},
+            {"id":7986, "colors":["black"]},
+            {"id":7987, "colors":["white"]},
+            {"id":7988, "colors":["brown"]},
+            {"id":7989, "colors":["red"]},
+            {"id":7990, "colors":["green"]},
+            {"id":7991, "colors":["blue"]}
+         ], "criteria":{"type":"episode", "info":"14", "text":"Unlocked after playing Episode 14"}
     }
 ]
