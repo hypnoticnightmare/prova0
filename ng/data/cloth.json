@@ -13018,5 +13018,117 @@
             {"id":8080, "colors":["black"]},
             {"id":8081, "colors":["white"]}
         ], "criteria":{"type":"episode", "info":"14", "text":"Unlocked after playing Episode 14"}
+    },
+    {
+        "groupId":8002, "zone":"feet", "category":"shoes", "security":"40ccaa427236a855", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sneakers",
+        "outfitName":"Restored Health",
+        "variations":[
+            {"id":8002, "colors":["yellow"]},
+            {"id":8003, "colors":["orange"]},
+            {"id":8004, "colors":["red"]},
+            {"id":8005, "colors":["brown"]},
+            {"id":8006, "colors":["green"]},
+            {"id":8007, "colors":["purple"]},
+            {"id":8008, "colors":["pink"]},
+            {"id":8009, "colors":["blue"]},
+            {"id":8010, "colors":["black"]},
+            {"id":8011, "colors":["white"]}
+        ], "criteria":{"type":"episode", "info":"14", "text":"Unlocked after playing Episode 14"}
+    },
+    {
+        "groupId":2713, "zone":"feet", "category":"shoes", "security":"7c9641eb928ca374", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Low Boots",
+        "outfitName":"Neo-Victorian",
+        "variations":[
+            {"id":2713, "colors":["yellow"]},
+            {"id":2714, "colors":["orange"]},
+            {"id":2715, "colors":["red"]},
+            {"id":2716, "colors":["brown"]},
+            {"id":2717, "colors":["green"]},
+            {"id":2718, "colors":["purple"]},
+            {"id":2719, "colors":["pink"]},
+            {"id":2720, "colors":["blue"]},
+            {"id":2721, "colors":["black"]},
+            {"id":2722, "colors":["white"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":8082, "zone":"feet", "category":"socks", "security":"6546d2e42ef64f73", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Socks",
+        "outfitName":"Replenished strenght",
+        "variations":[
+            {"id":8082, "colors":["yellow"]},
+            {"id":8083, "colors":["orange"]},
+            {"id":8084, "colors":["red"]},
+            {"id":8085, "colors":["brown"]},
+            {"id":8086, "colors":["green"]},
+            {"id":8087, "colors":["purple"]},
+            {"id":8088, "colors":["pink"]},
+            {"id":8089, "colors":["blue"]},
+            {"id":8090, "colors":["black"]},
+            {"id":8091, "colors":["white"]}
+        ], "criteria":{"type":"episode", "info":"14", "text":"Unlocked after playing Episode 14"}
+    },
+    {
+        "groupId":8012, "zone":"feet", "category":"socks", "security":"c20fa85cb6738acf", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Warmers",
+        "outfitName":"Restored Health",
+        "variations":[
+            {"id":8012, "colors":["yellow"]},
+            {"id":8013, "colors":["orange"]},
+            {"id":8014, "colors":["red"]},
+            {"id":8015, "colors":["brown"]},
+            {"id":8016, "colors":["green"]},
+            {"id":8017, "colors":["purple"]},
+            {"id":8018, "colors":["pink"]},
+            {"id":8019, "colors":["blue"]},
+            {"id":8020, "colors":["black"]},
+            {"id":8021, "colors":["white"]}
+        ], "criteria":{"type":"episode", "info":"14", "text":"Unlocked after playing Episode 14"}
+    },
+    {
+        {
+        "groupId":7992, "zone":"feet", "category":"socks", "security":"198e6614df651165", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tights",
+        "outfitName":"Restored Health",
+        "variations":[
+            {"id":7992, "colors":["yellow"]},
+            {"id":7993, "colors":["orange"]},
+            {"id":7994, "colors":["red"]},
+            {"id":7995, "colors":["brown"]},
+            {"id":7996, "colors":["green"]},
+            {"id":7997, "colors":["purple"]},
+            {"id":7998, "colors":["pink"]},
+            {"id":7999, "colors":["blue"]},
+            {"id":8000, "colors":["black"]},
+            {"id":8001, "colors":["white"]}
+        ], "criteria":{"type":"episode", "info":"14", "text":"Unlocked after playing Episode 14"}
+    },
+    {
+        {
+        "groupId":1880, "zone":"feet", "category":"socks", "security":"6d77ae7dc30f8ddf", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Fishnets",
+        "outfitName":"Kitty Girl",
+        "variations":[
+            {"id":1880, "colors":["yellow"]},
+            {"id":1881, "colors":["orange"]},
+            {"id":1882, "colors":["red"]},
+            {"id":1883, "colors":["brown"]},
+            {"id":1884, "colors":["green"]},
+            {"id":1885, "colors":["purple"]},
+            {"id":1886, "colors":["pink"]},
+            {"id":1887, "colors":["blue"]},
+            {"id":1888, "colors":["black"]},
+            {"id":1889, "colors":["white"]}
+        ], "criteria":null
+    },
+    {
+        "groupId":9043, "zone":"feet", "category":"socks", "security":"e05530b44899e348", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Socks",
+        "outfitName":"Honk Honk",
+        "variations":[
+            {"id":2713, "colors":["yellow"]}
+        ], "criteria":null
     }
 ]
