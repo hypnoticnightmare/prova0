@@ -13122,13 +13122,5 @@
             {"id":1888, "colors":["black"]},
             {"id":1889, "colors":["white"]}
         ], "criteria":{"type":"jobTask", "info":"Sticky Notes 2", "text":"Unlocked through Daily Missions \nSticky Notes 2"}
-    },
-    {
-        "groupId":9043, "zone":"feet", "category":"socks", "security":"e05530b44899e348", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Socks",
-        "outfitName":"Honk Honk",
-        "variations":[
-            {"id":2713, "colors":["yellow"]}
-        ], "criteria":null
     }
 ]
