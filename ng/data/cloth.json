@@ -12884,7 +12884,7 @@
          ], "criteria":{"type":"episode", "info":"14", "text":"Unlocked after playing Episode 14"}
     },
     {
-        "groupId":8102, "zone":"torso", "category":"jacket", "security":"a65905d91703c54e", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":8102, "zone":"torso", "category":"jacket", "security":"a65905d91703c54e", "multiLayered":false, "layerBehavior":"normal",
         "name":"Coat",
         "outfitName":"Femme Fatale",
         "variations":[
