@@ -307,6 +307,15 @@
                     {"id":135, "colors":["blue"]},
                     {"id":136, "colors":["pink"]}
                 ], "criteria":null
+            },
+
+            {
+                "groupId":126, "zone":"face", "category":"eyes", "security":"5daa9f917bbea82f",
+                "name":"Ojos",
+                "outfitName":"Dark Circle Eyes",
+                "variations":[
+                    {"id":126, "colors":["black"]}
+                ], "criteria":null
             }
         ],
         "mouth":[
