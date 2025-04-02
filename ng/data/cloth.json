@@ -13001,5 +13001,22 @@
             {"id":1245, "colors":["green"]},
             {"id":1246, "colors":["blue"]}
          ], "criteria":null
+    },
+    {
+        "groupId":8072, "zone":"feet", "category":"shoes", "security":"2bfe994a416b97b7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Boots",
+        "outfitName":"Replenished Strenght",
+        "variations":[
+            {"id":8072, "colors":["yellow"]},
+            {"id":8073, "colors":["orange"]},
+            {"id":8074, "colors":["red"]},
+            {"id":8075, "colors":["brown"]},
+            {"id":8076, "colors":["green"]},
+            {"id":8077, "colors":["purple"]},
+            {"id":8078, "colors":["pink"]},
+            {"id":8079, "colors":["blue"]},
+            {"id":8080, "colors":["black"]},
+            {"id":8081, "colors":["white"]}
+        ], "criteria":{"type":"episode", "info":"14", "text":"Unlocked after playing Episode 14"}
     }
 ]
