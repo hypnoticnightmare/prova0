@@ -12901,7 +12901,6 @@
          ], "criteria":null
     },
     {
-        {
         "groupId":9046, "zone":"torso", "category":"jacket", "security":"8b77afaa763218f7", "multiLayered":true, "layerBehavior":"normal",
         "name":"Hoodie",
         "outfitName":"Oca",
