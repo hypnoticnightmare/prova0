@@ -12916,5 +12916,22 @@
             {"id":7990, "colors":["green"]},
             {"id":7991, "colors":["blue"]}
          ], "criteria":{"type":"episode", "info":"14", "text":"Unlocked after playing Episode 14"}
+    },
+    {
+        "groupId":1307, "zone":"torso", "category":"jacket", "security":"a65905d91703c54e", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Coat",
+        "outfitName":"Femme Fatale",
+        "variations":[
+            {"id":1307, "colors":["purple"]},
+            {"id":1308, "colors":["yellow"]},
+            {"id":1309, "colors":["blue"]},
+            {"id":1310, "colors":["pink"]},
+            {"id":1311, "colors":["black"]},
+            {"id":1312, "colors":["white"]},
+            {"id":1313, "colors":["brown"]},
+            {"id":1314, "colors":["red"]},
+            {"id":1315, "colors":["green"]},
+            {"id":1316, "colors":["blue"]}
+         ], "criteria":null
     }
 ]
