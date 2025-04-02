@@ -12850,7 +12850,7 @@
          ], "criteria":{"type":"episode", "info":"14", "text":"Unlocked after playing Episode 14"}
     },
     {
-        "groupId":8102, "zone":"torso", "category":"jacket", "security":"f8f0cee19c68feb8", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":8062, "zone":"torso", "category":"jacket", "security":"f8f0cee19c68feb8", "multiLayered":false, "layerBehavior":"normal",
         "name":"Sleeves",
         "outfitName":"Replenished Strenght",
         "variations":[
@@ -12867,7 +12867,7 @@
          ], "criteria":{"type":"episode", "info":"14", "text":"Unlocked after playing Episode 14"}
     },
     {
-        "groupId":8102, "zone":"torso", "category":"jacket", "security":"bf3c02a184edec88", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":8042, "zone":"torso", "category":"jacket", "security":"bf3c02a184edec88", "multiLayered":false, "layerBehavior":"normal",
         "name":"Jacket",
         "outfitName":"Restored Health",
         "variations":[
@@ -12884,7 +12884,7 @@
          ], "criteria":{"type":"episode", "info":"14", "text":"Unlocked after playing Episode 14"}
     },
     {
-        "groupId":8102, "zone":"torso", "category":"jacket", "security":"a65905d91703c54e", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":1307, "zone":"torso", "category":"jacket", "security":"a65905d91703c54e", "multiLayered":false, "layerBehavior":"normal",
         "name":"Coat",
         "outfitName":"Femme Fatale",
         "variations":[
@@ -12902,11 +12902,28 @@
     },
     {
         {
-        "groupId":9046, "zone":"torso", "category":"jacket", "security":"8b77afaa763218f7", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":9046, "zone":"torso", "category":"jacket", "security":"8b77afaa763218f7", "multiLayered":true, "layerBehavior":"normal",
         "name":"Hoodie",
         "outfitName":"Oca",
         "variations":[
             {"id":1307, "colors":["white"]}
          ], "criteria":null
+    },
+    {
+        "groupId":8052, "zone":"torso_waistToKnee", "category":"underwear", "security":"491d293b04b9e344", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Underwear",
+        "outfitName":"Replenished strenght",
+        "variations":[
+            {"id":8052, "colors":["purple"]},
+            {"id":8053, "colors":["yellow"]},
+            {"id":8054, "colors":["blue"]},
+            {"id":8055, "colors":["pink"]},
+            {"id":8056, "colors":["black"]},
+            {"id":8057, "colors":["white"]},
+            {"id":8058, "colors":["brown"]},
+            {"id":8059, "colors":["red"]},
+            {"id":8060, "colors":["green"]},
+            {"id":8061, "colors":["blue"]}
+         ], "criteria":{"type":"episode", "info":"14", "text":"Unlocked after playing Episode 14"}
     }
 ]
