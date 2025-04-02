@@ -12884,6 +12884,14 @@
          ], "criteria":{"type":"episode", "info":"14", "text":"Unlocked after playing Episode 14"}
     },
     {
+        "groupId":9046, "zone":"torso", "category":"jacket", "security":"8b77afaa763218f7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Hoodie",
+        "outfitName":"Honk Honk",
+        "variations":[
+            {"id":9046, "colors":["white","yellow"]}
+         ], "criteria":{"type":"episode", "info":"14", "text":"Unlocked after playing Episode 14"}
+    },
+    {
         "groupId":8052, "zone":"torso_waistToKnee", "category":"underwear", "security":"491d293b04b9e344", "multiLayered":false, "layerBehavior":"normal",
         "name":"Underwear",
         "outfitName":"Replenished strenght",
