@@ -13088,7 +13088,6 @@
         ], "criteria":{"type":"episode", "info":"14", "text":"Unlocked after playing Episode 14"}
     },
     {
-        {
         "groupId":7992, "zone":"feet", "category":"socks", "security":"198e6614df651165", "multiLayered":false, "layerBehavior":"normal",
         "name":"Tights",
         "outfitName":"Restored Health",
@@ -13106,7 +13105,6 @@
         ], "criteria":{"type":"episode", "info":"14", "text":"Unlocked after playing Episode 14"}
     },
     {
-        {
         "groupId":1880, "zone":"feet", "category":"socks", "security":"6d77ae7dc30f8ddf", "multiLayered":false, "layerBehavior":"normal",
         "name":"Fishnets",
         "outfitName":"Kitty Girl",
