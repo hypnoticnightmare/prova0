@@ -12899,5 +12899,14 @@
             {"id":1315, "colors":["green"]},
             {"id":1316, "colors":["blue"]}
          ], "criteria":null
+    },
+    {
+        {
+        "groupId":9046, "zone":"torso", "category":"jacket", "security":"8b77afaa763218f7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Hoodie",
+        "outfitName":"Oca",
+        "variations":[
+            {"id":1307, "colors":["white"]}
+         ], "criteria":null
     }
 ]
