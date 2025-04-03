@@ -13054,7 +13054,7 @@
         ], "criteria":null
     },
     {
-        "groupId":8082, "zone":"feet", "category":"socks", "security":"6546d2e42ef64f73", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":8082, "zone":"feet", "category":"socks", "security":"6546d2e42ef64f73", "multiLayered":true, "layerBehavior":"backInFront",
         "name":"Socks",
         "outfitName":"Replenished strenght",
         "variations":[
