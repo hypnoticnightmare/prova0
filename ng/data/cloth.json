@@ -13408,9 +13408,9 @@
             {"id":8787, "colors":["black","purple","silver"]},
             {"id":8786, "colors":["blue","golden","white"]},
             {"id":8785, "colors":["brown","yellow"]},
-            {"id":8784, "colors":[""]},
-            {"id":8783, "colors":[""]},
-            {"id":8782, "colors":[""]}
+            {"id":8784, "color":[""]},
+            {"id":8783, "color":[""]},
+            {"id":8782, "color":[""]}
         ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during Easter 2025"}
     },
     {
