@@ -13193,7 +13193,7 @@
         ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
     },
     {
-        "groupId":8973, "zone":"torso_waistToKnee", "category":"dress", "security":"d893c28bb3f95003", "multiLayered":true, "layerBehavior":"backInFront",
+        "groupId":8973, "zone":"torso_waistToKnee", "category":"dress", "security":"d893c28bb3f95003", "multiLayered":true, "layerBehavior":"normal",
         "name":"Dress",
         "outfitName":"Caring Shepherdess",
         "variations":[
