@@ -13533,7 +13533,7 @@
         ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during the Easter 2025 event"}
     },
     {
-        "groupId":8923, "zone":"head", "category":"earring", "security":"921286f7bd26e1b4", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":8923, "zone":"head", "category":"earring", "security":"921286f7bd26e1b4", "multiLayered":false, "layerBehavior":"backInFront",
         "name":"Earrings",
         "outfitName":"Rural Radiance",
         "variations":[
