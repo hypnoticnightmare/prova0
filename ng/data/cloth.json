@@ -13176,7 +13176,7 @@
         ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
     },
     {
-        "groupId":141, "zone":"face", "category":"makeup", "security":"9aed8576a4d41d52", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":141, "zone":"face", "category":"mouth", "security":"9aed8576a4d41d52", "multiLayered":false, "layerBehavior":"normal",
         "name":"Lips",
         "outfitName":"Caring Shepherdess",
         "variations":[
@@ -13310,5 +13310,243 @@
             {"id":8951, "colors":[""]},
             {"id":8952, "colors":[""]}
         ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
+    },
+    {
+        "groupId":8771, "zone":"torso", "category":"top", "security":"aa234c63475dc357", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shirt",
+        "outfitName":"Pastoral Charm",
+        "variations":[
+            {"id":8771, "colors":["red","silver"]},
+            {"id":8772, "colors":["black","red"]},
+            {"id":8773, "colors":["black","orange","pink"]},
+            {"id":8774, "colors":["white","blue"]},
+            {"id":8775, "colors":["black","purple","silver"]},
+            {"id":8776, "colors":["blue","golden","white"]},
+            {"id":8777, "colors":["brown","yellow"]},
+            {"id":8778, "colors":[""]},
+            {"id":8779, "colors":[""]},
+            {"id":8800, "colors":[""]}
+        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during Easter 2025"}
+    },
+    {
+        "groupId":8741, "zone":"torso_waistToKnee", "category":"dress", "security":"4ae132d639b159f6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Salopette",
+        "outfitName":"Pastoral Charm",
+        "variations":[
+            {"id":8741, "colors":["red","silver"]},
+            {"id":8742, "colors":["black","red"]},
+            {"id":8743, "colors":["black","orange","pink"]},
+            {"id":8744, "colors":["white","blue"]},
+            {"id":8745, "colors":["black","purple","silver"]},
+            {"id":8746, "colors":["blue","golden","white"]},
+            {"id":8747, "colors":["brown","yellow"]},
+            {"id":8748, "colors":[""]},
+            {"id":8749, "colors":[""]},
+            {"id":8750, "colors":[""]}
+        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during Easter 2025"}
+    },
+    {
+        "groupId":8863, "zone":"torso_waistToKnee", "category":"dress", "security":"40d183ec58db16c9", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Salopette",
+        "outfitName":"Rural Radiance",
+        "variations":[
+            {"id":8863, "colors":["red","silver"]},
+            {"id":8864, "colors":["black","red"]},
+            {"id":8865, "colors":["black","orange","pink"]},
+            {"id":8866, "colors":["white","blue"]},
+            {"id":8867, "colors":["black","purple","silver"]},
+            {"id":8868, "colors":["blue","golden","white"]},
+            {"id":8869, "colors":["brown","yellow"]},
+            {"id":8870, "colors":[""]},
+            {"id":8871, "colors":[""]},
+            {"id":8872, "colors":[""]}
+        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during Easter 2025"}
+    },
+    {
+        "groupId":8893, "zone":"torso", "category":"jacket", "security":"c1cf2f5a87ce4903", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Jacket",
+        "outfitName":"Rural Radiance",
+        "variations":[
+            {"id":8893, "colors":["red","silver"]},
+            {"id":8894, "colors":["black","red"]},
+            {"id":8895, "colors":["black","orange","pink"]},
+            {"id":8896, "colors":["white","blue"]},
+            {"id":8897, "colors":["black","purple","silver"]},
+            {"id":8898, "colors":["blue","golden","white"]},
+            {"id":8899, "colors":["brown","yellow"]},
+            {"id":8900, "colors":[""]},
+            {"id":8901, "colors":[""]},
+            {"id":8902, "colors":[""]}
+        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during Easter 2025"}
+    },
+    {
+        "groupId":8873, "zone":"torso_waistToKnee", "category":"belt", "security":"24b84b7a2ed66f7b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Belt",
+        "outfitName":"Rural Radiance",
+        "variations":[
+            {"id":8873, "colors":["red","silver"]},
+            {"id":8874, "colors":["black","red"]},
+            {"id":8875, "colors":["black","orange","pink"]},
+            {"id":8876, "colors":["white","blue"]},
+            {"id":8877, "colors":["black","purple","silver"]},
+            {"id":8878, "colors":["blue","golden","white"]},
+            {"id":8879, "colors":["brown","yellow"]},
+            {"id":8880, "colors":[""]},
+            {"id":8881, "colors":[""]},
+            {"id":8882, "colors":[""]}
+        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during Easter 2025"}
+    },
+    {
+        "groupId":8791, "zone":"feet", "category":"shoes", "security":"258a68ce1bc9ef47", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shoes",
+        "outfitName":"Pastoral Charm",
+        "variations":[
+            {"id":8791, "colors":["red","silver"]},
+            {"id":8792, "colors":["black","red"]},
+            {"id":8793, "colors":["black","orange","pink"]},
+            {"id":8794, "colors":["white","blue"]},
+            {"id":8795, "colors":["black","purple","silver"]},
+            {"id":8796, "colors":["blue","golden","white"]},
+            {"id":8797, "colors":["brown","yellow"]},
+            {"id":8798, "colors":[""]},
+            {"id":8799, "colors":[""]},
+            {"id":8800, "colors":[""]}
+        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during Easter 2025"}
+    },
+    {
+        "groupId":8883, "zone":"feet", "category":"shoes", "security":"27cf57bb8bfc49af", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shoes",
+        "outfitName":"Rural Radiance",
+        "variations":[
+            {"id":8883, "colors":["red","silver"]},
+            {"id":8884, "colors":["black","red"]},
+            {"id":8885, "colors":["black","orange","pink"]},
+            {"id":8886, "colors":["white","blue"]},
+            {"id":8887, "colors":["black","purple","silver"]},
+            {"id":8888, "colors":["blue","golden","white"]},
+            {"id":8889, "colors":["brown","yellow"]},
+            {"id":8890, "colors":[""]},
+            {"id":8891, "colors":[""]},
+            {"id":8892, "colors":[""]}
+        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during Easter 2025"}
+    },
+    {
+        "groupId":8781, "zone":"feet", "category":"socks", "security":"1d72781a2b8a3772", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Band-aid",
+        "outfitName":"Pastoral Charm",
+        "variations":[
+            {"id":8781, "colors":["red","silver"]},
+            {"id":8782, "colors":["black","red"]},
+            {"id":8783, "colors":["black","orange","pink"]},
+            {"id":8784, "colors":["white","blue"]},
+            {"id":8785, "colors":["black","purple","silver"]},
+            {"id":8786, "colors":["blue","golden","white"]},
+            {"id":8787, "colors":["brown","yellow"]},
+            {"id":8788, "colors":[""]},
+            {"id":8789, "colors":[""]},
+            {"id":8790, "colors":[""]}
+        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during Easter 2025"}
+    },
+    {
+        "groupId":8933, "zone":"arms", "category":"armAccessory", "security":"b1251a030096fd77", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Basket",
+        "outfitName":"Rural Radiance",
+        "variations":[
+            {"id":8933, "colors":["red","silver"]},
+            {"id":8934, "colors":["black","red"]},
+            {"id":8935, "colors":["black","orange","pink"]},
+            {"id":8936, "colors":["white","blue"]},
+            {"id":8937, "colors":["black","purple","silver"]},
+            {"id":8938, "colors":["blue","golden","white"]},
+            {"id":8939, "colors":["brown","yellow"]},
+            {"id":8940, "colors":[""]},
+            {"id":8941, "colors":[""]},
+            {"id":8942, "colors":[""]}
+        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during the Easter 2025 event"}
+    },
+    {
+        "groupId":8903, "zone":"face", "category":"neckAccessory", "security":"04580d933182009f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Necklace",
+        "outfitName":"Rural Radiance",
+        "variations":[
+            {"id":8903, "colors":["red","silver"]},
+            {"id":8904, "colors":["black","red"]},
+            {"id":8905, "colors":["black","orange","pink"]},
+            {"id":8906, "colors":["white","blue"]},
+            {"id":8907, "colors":["black","purple","silver"]},
+            {"id":8908, "colors":["blue","golden","white"]},
+            {"id":8909, "colors":["brown","yellow"]},
+            {"id":8910, "colors":[""]},
+            {"id":8911, "colors":[""]},
+            {"id":8912, "colors":[""]}
+        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during the Easter 2025 event"}
+    },
+    {
+        "groupId":8751, "zone":"head", "category":"hats", "security":"20eb2fbe984e5326", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Hat",
+        "outfitName":"Pastoral Charm",
+        "variations":[
+            {"id":8751, "colors":["red","silver"]},
+            {"id":8752, "colors":["black","red"]},
+            {"id":8753, "colors":["black","orange","pink"]},
+            {"id":8754, "colors":["white","blue"]},
+            {"id":8756, "colors":["black","purple","silver"]},
+            {"id":8757, "colors":["blue","golden","white"]},
+            {"id":8758, "colors":["brown","yellow"]},
+            {"id":8759, "colors":[""]},
+            {"id":8760, "colors":[""]},
+            {"id":8761, "colors":[""]}
+        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during the Easter 2025 event"}
+    },
+    {
+        "groupId":8761, "zone":"head", "category":"wig", "security":"2fdea62b77217568", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Hair",
+        "outfitName":"Pastoral Charm",
+        "variations":[
+            {"id":8761, "colors":["red","silver"]},
+            {"id":8762, "colors":["black","red"]},
+            {"id":8763, "colors":["black","orange","pink"]},
+            {"id":8764, "colors":["white","blue"]},
+            {"id":8765, "colors":["black","purple","silver"]},
+            {"id":8766, "colors":["blue","golden","white"]},
+            {"id":8767, "colors":["brown","yellow"]},
+            {"id":8768, "colors":["golden","orange"]},
+            {"id":8769, "colors":["green","silver"]},
+            {"id":8770, "colors":["blue","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during the Easter 2025 event"}
+    },
+    {
+        "groupId":8913, "zone":"head", "category":"wig", "security":"0d53b0518e869feb", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Hair",
+        "outfitName":"Rural Radiance",
+        "variations":[
+            {"id":8913, "colors":["red","silver"]},
+            {"id":8914, "colors":["black","red"]},
+            {"id":8915, "colors":["black","orange","pink"]},
+            {"id":8916, "colors":["white","blue"]},
+            {"id":8917, "colors":["black","purple","silver"]},
+            {"id":8918, "colors":["blue","golden","white"]},
+            {"id":8919, "colors":["brown","yellow"]},
+            {"id":8920, "colors":["golden","orange"]},
+            {"id":8921, "colors":["green","silver"]},
+            {"id":8922, "colors":["blue","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during the Easter 2025 event"}
+    },
+    {
+        "groupId":8923, "zone":"head", "category":"earring", "security":"921286f7bd26e1b4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Earrings",
+        "outfitName":"Rural Radiance",
+        "variations":[
+            {"id":8923, "colors":["pink"]},
+            {"id":8924, "colors":["red"]},
+            {"id":8925, "colors":["purple"]},
+            {"id":8926, "colors":["yellow"]},
+            {"id":8927, "colors":["green"]},
+            {"id":8928, "colors":["blue"]},
+            {"id":8929, "colors":["blue"]},
+            {"id":8939, "colors":["white"]},
+            {"id":8931, "colors":["black"]},
+            {"id":8932, "colors":["multi"]}
+        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
     }
 ]
