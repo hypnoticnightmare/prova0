@@ -13482,7 +13482,7 @@
         ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during the Easter 2025 event"}
     },
     {
-        "groupId":8751, "zone":"head", "category":"hats", "security":"20eb2fbe984e5326", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":8751, "zone":"head", "category":"hat", "security":"20eb2fbe984e5326", "multiLayered":true, "layerBehavior":"normal",
         "name":"Hat",
         "outfitName":"Pastoral Charm",
         "variations":[
@@ -13499,7 +13499,7 @@
         ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during the Easter 2025 event"}
     },
     {
-        "groupId":8761, "zone":"head", "category":"wig", "security":"148e7157cca3f908", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":8761, "zone":"head", "category":"wig", "security":"148e7157cca3f908", "multiLayered":true, "layerBehavior":"normal",
         "name":"Hair",
         "outfitName":"Pastoral Charm",
         "variations":[
