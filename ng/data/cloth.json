@@ -13120,5 +13120,195 @@
             {"id":1888, "colors":["purple"]},
             {"id":1889, "colors":["red"]}
         ], "criteria":null
+    },
+
+
+    
+    {
+        "groupId":8993, "zone":"torso", "category":"top", "security":"ef99039abd9ae925", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pulsera",
+        "outfitName":"Caring Shepherdess",
+        "variations":[
+            {"id":8993, "colors":["red","silver"]},
+            {"id":8994, "colors":["black","red"]},
+            {"id":8995, "colors":["black","orange","pink"]},
+            {"id":8996, "colors":["white","blue"]},
+            {"id":8997, "colors":["black","purple","silver"]},
+            {"id":8998, "colors":["blue","golden","white"]},
+            {"id":8999, "colors":["brown","yellow"]},
+            {"id":9000, "colors":["golden","orange"]},
+            {"id":9001, "colors":["green","silver"]},
+            {"id":9002, "colors":["blue","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
+    },
+    {
+        "groupId":9023, "zone":"head", "category":"wig", "security":"2fdea62b77217568", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Hair",
+        "outfitName":"Caring Shepherdess",
+        "variations":[
+            {"id":9023, "colors":["red","silver"]},
+            {"id":9024, "colors":["black","red"]},
+            {"id":9025, "colors":["black","orange","pink"]},
+            {"id":9026, "colors":["white","blue"]},
+            {"id":9027, "colors":["black","purple","silver"]},
+            {"id":9028, "colors":["blue","golden","white"]},
+            {"id":9029, "colors":["brown","yellow"]},
+            {"id":9030, "colors":["golden","orange"]},
+            {"id":9031, "colors":["green","silver"]},
+            {"id":9032, "colors":["blue","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
+    },
+    {
+        "groupId":8953, "zone":"face", "category":"neckAccessory", "security":"c5b4289e77d23942", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Choker",
+        "outfitName":"Caring Shepherdess",
+        "variations":[
+            {"id":8953, "colors":["red","silver"]},
+            {"id":8954, "colors":["black","red"]},
+            {"id":8955, "colors":["black","orange","pink"]},
+            {"id":8956, "colors":["white","blue"]},
+            {"id":8957, "colors":["black","purple","silver"]},
+            {"id":8958, "colors":["blue","golden","white"]},
+            {"id":8959, "colors":["brown","yellow"]},
+            {"id":8960, "colors":["golden","orange"]},
+            {"id":8961, "colors":["green","silver"]},
+            {"id":8962, "colors":["blue","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
+    },
+    {
+        "groupId":141, "zone":"face", "category":"makeup", "security":"9aed8576a4d41d52", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Lips",
+        "outfitName":"Caring Shepherdess",
+        "variations":[
+            {"id":141, "colors":["red","silver"]},
+            {"id":142, "colors":["black","red"]},
+            {"id":143, "colors":["black","orange","pink"]},
+            {"id":144, "colors":["white","blue"]},
+            {"id":145, "colors":["black","purple","silver"]},
+            {"id":146, "colors":["blue","golden","white"]},
+            {"id":147, "colors":["brown","yellow"]},
+            {"id":148, "colors":["golden","orange"]},
+            {"id":149, "colors":["green","silver"]},
+            {"id":150, "colors":["blue","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
+    },
+    {
+        "groupId":8973, "zone":"torso_waistToKnee", "category":"dress", "security":"d893c28bb3f95003", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Dress",
+        "outfitName":"Caring Shepherdess",
+        "variations":[
+            {"id":8973, "colors":["red","silver"]},
+            {"id":8974, "colors":["black","red"]},
+            {"id":8975, "colors":["black","orange","pink"]},
+            {"id":8976, "colors":["white","blue"]},
+            {"id":8977, "colors":["black","purple","silver"]},
+            {"id":8978, "colors":["blue","golden","white"]},
+            {"id":8979, "colors":["brown","yellow"]},
+            {"id":8980, "colors":["golden","orange"]},
+            {"id":8981, "colors":["green","silver"]},
+            {"id":8982, "colors":["blue","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
+    },
+    {
+        "groupId":9033, "zone":"general", "category":"other", "security":"49b36c898e6f0d40", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Capre",
+        "outfitName":"Caring Shepherdess",
+        "variations":[
+            {"id":9033, "colors":["red","silver"]},
+            {"id":9034, "colors":["black","red"]},
+            {"id":9035, "colors":["black","orange","pink"]},
+            {"id":9036, "colors":["white","blue"]},
+            {"id":9037, "colors":["black","purple","silver"]},
+            {"id":9038, "colors":["blue","golden","white"]},
+            {"id":9039, "colors":["brown","yellow"]},
+            {"id":9040, "colors":["golden","orange"]},
+            {"id":9041, "colors":["green","silver"]},
+            {"id":9042, "colors":["blue","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
+    },
+    {
+        "groupId":8963, "zone":"arms", "category":"armAccessory", "security":"74556bc702b7b6a4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"guanti",
+        "outfitName":"Caring Shepherdess",
+        "variations":[
+            {"id":8963, "colors":["red","silver"]},
+            {"id":8964, "colors":["black","red"]},
+            {"id":8965, "colors":["black","orange","pink"]},
+            {"id":8966, "colors":["white","blue"]},
+            {"id":8967, "colors":["black","purple","silver"]},
+            {"id":8968, "colors":["blue","golden","white"]},
+            {"id":8969, "colors":["brown","yellow"]},
+            {"id":8970, "colors":["golden","orange"]},
+            {"id":8971, "colors":["green","silver"]},
+            {"id":8972, "colors":["blue","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
+    },
+    {
+        "groupId":9003, "zone":"arms", "category":"bag", "security":"5e4cf7b8a27f2e15", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bag",
+        "outfitName":"Caring Shepherdess",
+        "variations":[
+            {"id":9003, "colors":["red","silver"]},
+            {"id":9004, "colors":["black","red"]},
+            {"id":9005, "colors":["black","orange","pink"]},
+            {"id":9006, "colors":["white","blue"]},
+            {"id":9007, "colors":["black","purple","silver"]},
+            {"id":9008, "colors":["blue","golden","white"]},
+            {"id":9009, "colors":["brown","yellow"]},
+            {"id":9010, "colors":["golden","orange"]},
+            {"id":9011, "colors":["green","silver"]},
+            {"id":9012, "colors":["blue","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
+    },
+    {
+        "groupId":9013, "zone":"arms", "category":"armAccessory", "security":"0bf7fc1349e65612", "multiLayered":false, "layerBehavior":"normal",
+        "name":"bastone",
+        "outfitName":"Caring Shepherdess",
+        "variations":[
+            {"id":9013, "colors":["red","silver"]},
+            {"id":9014, "colors":["black","red"]},
+            {"id":9015, "colors":["black","orange","pink"]},
+            {"id":9016, "colors":["white","blue"]},
+            {"id":9017, "colors":["black","purple","silver"]},
+            {"id":9018, "colors":["blue","golden","white"]},
+            {"id":9019, "colors":["brown","yellow"]},
+            {"id":9020, "colors":["golden","orange"]},
+            {"id":9021, "colors":["green","silver"]},
+            {"id":9022, "colors":["blue","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
+    },
+    {
+        "groupId":8983, "zone":"waistToKnee", "category":"skirt", "security":"c537186f3be6b1d3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Skirt",
+        "outfitName":"Caring Shepherdess",
+        "variations":[
+            {"id":8983, "colors":["red","silver"]},
+            {"id":8984, "colors":["black","red"]},
+            {"id":8985, "colors":["black","orange","pink"]},
+            {"id":8986, "colors":["white","blue"]},
+            {"id":8987, "colors":["black","purple","silver"]},
+            {"id":8988, "colors":["blue","golden","white"]},
+            {"id":8989, "colors":["brown","yellow"]},
+            {"id":8990, "colors":["golden","orange"]},
+            {"id":8991, "colors":["green","silver"]},
+            {"id":8992, "colors":["blue","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
+    },
+    {
+        "groupId":8943, "zone":"feet", "category":"shoes", "security":"5ea5fb08ae1555e9", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Skirt",
+        "outfitName":"Caring Shepherdess",
+        "variations":[
+            {"id":8943, "colors":["red","silver"]},
+            {"id":8944, "colors":["black","red"]},
+            {"id":8945, "colors":["black","orange","pink"]},
+            {"id":8946, "colors":["white","blue"]},
+            {"id":8947, "colors":["black","purple","silver"]},
+            {"id":8948, "colors":["blue","golden","white"]},
+            {"id":8949, "colors":["brown","yellow"]},
+            {"id":8950, "colors":["golden","orange"]},
+            {"id":8951, "colors":["green","silver"]},
+            {"id":8952, "colors":["blue","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
     }
 ]
