@@ -13142,7 +13142,7 @@
         ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
     },
     {
-        "groupId":9023, "zone":"head", "category":"wig", "security":"2fdea62b77217568", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":9023, "zone":"head", "category":"wig", "security":"2fdea62b77217568", "multiLayered":true, "layerBehavior":"backInFront",
         "name":"Hair",
         "outfitName":"Caring Shepherdess",
         "variations":[
