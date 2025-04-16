@@ -13533,20 +13533,20 @@
         ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during the Easter 2025 event"}
     },
     {
-        "groupId":8923, "zone":"head", "category":"earring", "security":"921286f7bd26e1b4", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":8923, "zone":"head", "category":"earring", "security":"921286f7bd26e1b4", "multiLayered":false, "layerBehavior":"normal",
         "name":"Earrings",
         "outfitName":"Rural Radiance",
         "variations":[
-            {"id":8923, "colors":["pink"]},
-            {"id":8924, "colors":["red"]},
-            {"id":8925, "colors":["purple"]},
-            {"id":8926, "colors":["yellow"]},
-            {"id":8927, "colors":["green"]},
-            {"id":8928, "colors":["blue"]},
-            {"id":8929, "colors":["blue"]},
-            {"id":8930, "colors":["white"]},
-            {"id":8931, "colors":["black"]},
-            {"id":8932, "colors":["multi"]}
+            {"id":8923, "color":["pink"]},
+            {"id":8924, "color":["red"]},
+            {"id":8925, "color":["purple"]},
+            {"id":8926, "color":["yellow"]},
+            {"id":8927, "color":["green"]},
+            {"id":8928, "color":["blue"]},
+            {"id":8929, "color":["blue"]},
+            {"id":8930, "color":["white"]},
+            {"id":8931, "color":["black"]},
+            {"id":8932, "color":[""]}
         ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during the Easter 2025 event"}
     }
 ]
