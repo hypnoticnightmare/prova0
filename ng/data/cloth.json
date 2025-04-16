@@ -13307,8 +13307,8 @@
             {"id":8948, "colors":["blue","golden","white"]},
             {"id":8949, "colors":["brown","yellow"]},
             {"id":8950, "colors":["golden","orange"]},
-            {"id":8951, "colors":["green","silver"]},
-            {"id":8952, "colors":["blue","pink"]}
+            {"id":8951, "colors":[""]},
+            {"id":8952, "colors":[""]}
         ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
     }
 ]
