@@ -13547,6 +13547,6 @@
             {"id":8930, "colors":["white"]},
             {"id":8931, "colors":["black"]},
             {"id":8932, "colors":["multi"]}
-        ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during the Easter 2025 event"}
     }
 ]
