@@ -13380,7 +13380,7 @@
         ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during Easter 2025"}
     },
     {
-        "groupId":8873, "zone":"torso_waistToKnee", "category":"belt", "security":"24b84b7a2ed66f7b", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":8873, "zone":"torso_waistToKnee", "category":"belts", "security":"24b84b7a2ed66f7b", "multiLayered":false, "layerBehavior":"normal",
         "name":"Belt",
         "outfitName":"Rural Radiance",
         "variations":[
