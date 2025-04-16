@@ -13317,15 +13317,15 @@
         "outfitName":"Pastoral Charm",
         "variations":[
             {"id":8771, "colors":["red","silver"]},
-            {"id":8772, "colors":["black","red"]},
-            {"id":8773, "colors":["black","orange","pink"]},
-            {"id":8774, "colors":["white","blue"]},
-            {"id":8775, "colors":["black","purple","silver"]},
-            {"id":8776, "colors":["blue","golden","white"]},
-            {"id":8777, "colors":["brown","yellow"]},
-            {"id":8778, "colors":[""]},
-            {"id":8779, "colors":[""]},
-            {"id":8800, "colors":[""]}
+            {"id":8770, "colors":["black","red"]},
+            {"id":8769, "colors":["black","orange","pink"]},
+            {"id":8768, "colors":["white","blue"]},
+            {"id":8767, "colors":["black","purple","silver"]},
+            {"id":8766, "colors":["blue","golden","white"]},
+            {"id":8765, "colors":["brown","yellow"]},
+            {"id":8764, "colors":[""]},
+            {"id":8763, "colors":[""]},
+            {"id":8762, "colors":[""]}
         ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during Easter 2025"}
     },
     {
