@@ -13521,15 +13521,15 @@
         "outfitName":"Rural Radiance",
         "variations":[
             {"id":8913, "colors":["red","silver"]},
-            {"id":8914, "colors":["black","red"]},
-            {"id":8915, "colors":["black","orange","pink"]},
-            {"id":8916, "colors":["white","blue"]},
-            {"id":8917, "colors":["black","purple","silver"]},
-            {"id":8918, "colors":["blue","golden","white"]},
-            {"id":8919, "colors":["brown","yellow"]},
-            {"id":8920, "colors":["golden","orange"]},
-            {"id":8921, "colors":["green","silver"]},
-            {"id":8922, "colors":["blue","pink"]}
+            {"id":8912, "colors":["black","red"]},
+            {"id":8911, "colors":["black","orange","pink"]},
+            {"id":8910, "colors":["white","blue"]},
+            {"id":8909, "colors":["black","purple","silver"]},
+            {"id":8908, "colors":["blue","golden","white"]},
+            {"id":8907, "colors":["brown","yellow"]},
+            {"id":8906, "colors":["golden","orange"]},
+            {"id":8905, "colors":["green","silver"]},
+            {"id":8904, "colors":["blue","pink"]}
         ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during the Easter 2025 event"}
     },
     {
@@ -13544,7 +13544,7 @@
             {"id":8927, "colors":["green"]},
             {"id":8928, "colors":["blue"]},
             {"id":8929, "colors":["blue"]},
-            {"id":8939, "colors":["white"]},
+            {"id":8930, "colors":["white"]},
             {"id":8931, "colors":["black"]},
             {"id":8932, "colors":["multi"]}
         ], "criteria":{"type":"gameEvent", "info":"valentinesDay-2025", "text":"Desbloqueado durante el evento\nSan Valentín 2025"}
