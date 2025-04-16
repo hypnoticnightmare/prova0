@@ -13316,13 +13316,13 @@
         "name":"Shirt",
         "outfitName":"Pastoral Charm",
         "variations":[
-            {"id":8771, "colors":["red","silver"]},
-            {"id":8770, "colors":["black","red"]},
-            {"id":8769, "colors":["black","orange","pink"]},
-            {"id":8768, "colors":["white","blue"]},
-            {"id":8767, "colors":["black","purple","silver"]},
-            {"id":8766, "colors":["blue","golden","white"]},
-            {"id":8765, "colors":["brown","yellow"]},
+            {"id":8771, "color":["red"]},
+            {"id":8770, "color":["black"]},
+            {"id":8769, "color":["black"]},
+            {"id":8768, "color":["white"]},
+            {"id":8767, "color":["black"]},
+            {"id":8766, "color":["blue"]},
+            {"id":8765, "color":["brown"]},
             {"id":8764, "colors":[""]},
             {"id":8763, "colors":[""]},
             {"id":8762, "colors":[""]}
@@ -13347,7 +13347,7 @@
     },
     {
         "groupId":8863, "zone":"torso_waistToKnee", "category":"dress", "security":"40d183ec58db16c9", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Salopette",
+        "name":"Dress",
         "outfitName":"Rural Radiance",
         "variations":[
             {"id":8863, "colors":["red","silver"]},
