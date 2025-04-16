@@ -13142,7 +13142,7 @@
         ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
     },
     {
-        "groupId":9023, "zone":"head", "category":"wig", "security":"2fdea62b77217568", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":9023, "zone":"head", "category":"wig", "security":"2fdea62b77217568", "multiLayered":true, "layerBehavior":"normal",
         "name":"Hair",
         "outfitName":"Caring Shepherdess",
         "variations":[
@@ -13504,15 +13504,15 @@
         "outfitName":"Pastoral Charm",
         "variations":[
             {"id":8761, "colors":["red","silver"]},
-            {"id":8762, "colors":["black","red"]},
-            {"id":8763, "colors":["black","orange","pink"]},
-            {"id":8764, "colors":["white","blue"]},
-            {"id":8765, "colors":["black","purple","silver"]},
-            {"id":8766, "colors":["blue","golden","white"]},
-            {"id":8767, "colors":["brown","yellow"]},
-            {"id":8768, "colors":["golden","orange"]},
-            {"id":8769, "colors":["green","silver"]},
-            {"id":8770, "colors":["blue","pink"]}
+            {"id":8760, "colors":["black","red"]},
+            {"id":8759, "colors":["black","orange","pink"]},
+            {"id":8758, "colors":["white","blue"]},
+            {"id":8757, "colors":["black","purple","silver"]},
+            {"id":8756, "colors":["blue","golden","white"]},
+            {"id":8754, "colors":["brown","yellow"]},
+            {"id":8753, "colors":["golden","orange"]},
+            {"id":8752, "colors":["green","silver"]},
+            {"id":8751, "colors":["blue","pink"]}
         ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during the Easter 2025 event"}
     },
     {
