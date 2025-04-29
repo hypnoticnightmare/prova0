@@ -13767,4 +13767,58 @@
         ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
         "releaseDate":"2025-04-29"
     }
+    {
+        "groupId":9347, "zone":"arms", "category":"bag", "security":"17a89094d252442e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Prize",  
+        "outfitName":"Red Carpet Spotlight",
+        "variations":[
+            {"id":9347, "colors":["grey", "silver"]},
+            {"id":9348, "colors":["red"]},
+            {"id":9349, "colors":["white"]},
+            {"id":9350, "colors":["black"]},
+            {"id":9351, "colors":["yellow", "gold"]},
+            {"id":9352, "colors":["pink"]},
+            {"id":9353, "colors":["green"]},
+            {"id":9354, "colors":["purple"]},
+            {"id":9355, "colors":["blue"]},
+            {"id":9356, "colors":["blue"]}
+        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
+        "releaseDate":"2025-04-29"
+    },
+    {
+        "groupId":9317, "zone":"arms", "category":"armAccessory", "security":"faf5907846bce7e8", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bow",  
+        "outfitName":"Red Carpet Spotlight",
+        "variations":[
+            {"id":9317, "colors":["grey", "silver"]},
+            {"id":9318, "colors":["red"]},
+            {"id":9319, "colors":["white"]},
+            {"id":9320, "colors":["black"]},
+            {"id":9321, "colors":["yellow", "gold"]},
+            {"id":9322, "colors":["pink"]},
+            {"id":9323, "colors":["green"]},
+            {"id":9324, "colors":["purple"]},
+            {"id":9325, "colors":["blue"]},
+            {"id":9326, "colors":["blue"]}
+        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
+        "releaseDate":"2025-04-29"
+    },
+    {
+        "groupId":9337, "zone":"arms", "category":"armAccessory", "security":"34ffc44c24ca0818", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bracelet",  
+        "outfitName":"Red Carpet Spotlight",
+        "variations":[
+            {"id":9337, "colors":["grey", "silver"]},
+            {"id":9338, "colors":["red"]},
+            {"id":9339, "colors":["white"]},
+            {"id":9340, "colors":["black"]},
+            {"id":9341, "colors":["yellow", "gold"]},
+            {"id":9342, "colors":["pink"]},
+            {"id":9343, "colors":["green"]},
+            {"id":9344, "colors":["purple"]},
+            {"id":9345, "colors":["blue"]},
+            {"id":9346, "colors":["blue"]}
+        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
+        "releaseDate":"2025-04-29"
+    }
 ]
