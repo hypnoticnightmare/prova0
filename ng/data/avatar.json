@@ -504,6 +504,23 @@
                     {"id":139, "colors":["grey","pink"]},
                     {"id":140, "colors":["pink","yellow"]}
                 ], "criteria":{"type":"pack", "name":"Bold", "text":"Desbloqueado en el Pack exclusivo\nBold"}
+            },
+            {
+                "groupId":137, "zone":"face", "category":"eyes", "security":"8044fe1bc7ddedb6",
+                "name":"Eyes",  
+                "outfitName":"Red Carpet Spotlight",
+                "variations":[
+                    {"id":137, "colors":["grey", "silver"]},
+                    {"id":138, "colors":["red"]},
+                    {"id":139, "colors":["white"]},
+                    {"id":140, "colors":["black"]},
+                    {"id":141, "colors":["yellow", "gold"]},
+                    {"id":142, "colors":["pink"]},
+                    {"id":143, "colors":["green"]},
+                    {"id":144, "colors":["purple"]},
+                    {"id":145, "colors":["blue"]},
+                    {"id":146, "colors":["blue"]}
+                ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
             }
         ]
     },
