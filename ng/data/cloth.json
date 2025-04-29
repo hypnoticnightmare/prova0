@@ -13551,7 +13551,7 @@
     },
      {
         "groupId":9077, "zone":"waistToKnee", "category":"skirt", "security":"24eb5e40a7adc78d", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Falda",
+        "name":"Skirt",
         "outfitName":"Skirt 'n' Skates",
         "variations":[
             {"id":9077, "colors":["green"]},
@@ -13569,7 +13569,7 @@
     },
     {
         "groupId":9087, "zone":"arms", "category":"bag", "security":"1e2fa0dedfabc448", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Bandeja",
+        "name":"BOh",
         "outfitName":"Skirt 'n' Skates",
         "variations":[
             {"id":9087, "colors":["pink","red","silver"]},
@@ -13587,7 +13587,7 @@
     },
     {
         "groupId":9097, "zone":"torso_waistToKnee", "category":"waist", "security":"3e1fb87c6b00a3c6", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Delantal",
+        "name":"Apron",
         "outfitName":"Skirt 'n' Skates",
         "variations":[
             {"id":9097, "colors":["white"]},
@@ -13605,7 +13605,7 @@
     },
     {
         "groupId":9067, "zone":"torso", "category":"top", "security":"a821c7f38f7de529", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Blusa",
+        "name":"Shirt",
         "outfitName":"Skirt 'n' Skates",
         "variations":[
             {"id":9067, "colors":["pink"]},
@@ -13623,7 +13623,7 @@
     },
     {
         "groupId":9057, "zone":"feet", "category":"shoes", "security":"4980aa7e6fd08284", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Patines de ruedas",
+        "name":"Rollers",
         "outfitName":"Skirt 'n' Skates",
         "variations":[
             {"id":9057, "colors":["pink","green","silver"]},
@@ -13641,7 +13641,7 @@
     },
     {
         "groupId":9047, "zone":"head", "category":"hat", "security":"dac7fefbbcf7f2e3", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Diadema",
+        "name":"Hat",
         "outfitName":"Skirt 'n' Skates",
         "variations":[
             {"id":9047, "colors":["pink","white"]},
@@ -13659,12 +13659,11 @@
     },
     {
         "groupId":9045, "zone":"arms", "category":"bag", "security":"8d04a4454b5aadd0", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Maíz",
+        "name":"Corn",
         "outfitName":"Honk Honk",
         "variations":[
             {"id":9045, "colors":["yellow"]}
         ], "criteria":null,
-        "releaseDate":"2000"
     },
     {
         "groupId":9046, "zone":"torso", "category":"jacket", "security":"8b77afaa763218f7", "multiLayered":true, "layerBehavior":"normal",
@@ -13673,25 +13672,22 @@
         "variations":[
             {"id":9046, "colors":["brown","white"]}
         ], "criteria":null,
-        "releaseDate":"2000"
     },
     {
         "groupId":9043, "zone":"feet", "category":"socks", "security":"e05530b44899e348", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Calcetines",
+        "name":"Socks",
         "outfitName":"Honk Honk",
         "variations":[
             {"id":9043, "colors":["yellow"]}
         ], "criteria":null,
-        "releaseDate":"2000"
     },
     {
         "groupId":9044, "zone":"feet", "category":"shoes", "security":"d6c2cfb88fc7f5a1", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Botines",
+        "name":"Boots",
         "outfitName":"Honk Honk",
         "variations":[
             {"id":9044, "colors":["yellow"]}
         ], "criteria":null,
-        "releaseDate":"2000"
     },
 
     
