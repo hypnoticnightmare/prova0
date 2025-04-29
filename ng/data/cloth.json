@@ -13139,7 +13139,7 @@
             {"id":9000, "colors":["golden","orange"]},
             {"id":9001, "colors":["green","silver"]},
             {"id":9002, "colors":["blue","pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
     },
     {
         "groupId":9023, "zone":"head", "category":"wig", "security":"2fdea62b77217568", "multiLayered":true, "layerBehavior":"backInFront",
@@ -13156,7 +13156,7 @@
             {"id":9030, "colors":["golden","orange"]},
             {"id":9031, "colors":["green","silver"]},
             {"id":9032, "colors":["blue","pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
     },
     {
         "groupId":8953, "zone":"face", "category":"neckAccessory", "security":"c5b4289e77d23942", "multiLayered":false, "layerBehavior":"normal",
@@ -13173,7 +13173,7 @@
             {"id":8960, "colors":["golden","orange"]},
             {"id":8961, "colors":["green","silver"]},
             {"id":8962, "colors":["blue","pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
     },
     {
         "groupId":141, "zone":"face", "category":"mouth", "security":"9aed8576a4d41d52", "multiLayered":false, "layerBehavior":"normal",
@@ -13190,7 +13190,7 @@
             {"id":148, "colors":["golden","orange"]},
             {"id":149, "colors":["green","silver"]},
             {"id":150, "colors":["blue","pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
     },
     {
         "groupId":8973, "zone":"torso_waistToKnee", "category":"dress", "security":"d893c28bb3f95003", "multiLayered":true, "layerBehavior":"normal",
@@ -13207,7 +13207,7 @@
             {"id":8980, "colors":["golden","orange"]},
             {"id":8981, "colors":["green","silver"]},
             {"id":8982, "colors":["blue","pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
     },
     {
         "groupId":9033, "zone":"general", "category":"other", "security":"49b36c898e6f0d40", "multiLayered":false, "layerBehavior":"normal",
@@ -13224,7 +13224,7 @@
             {"id":9040, "colors":["golden","orange"]},
             {"id":9041, "colors":["green","silver"]},
             {"id":9042, "colors":["blue","pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
     },
     {
         "groupId":8963, "zone":"arms", "category":"armAccessory", "security":"74556bc702b7b6a4", "multiLayered":false, "layerBehavior":"normal",
@@ -13241,7 +13241,7 @@
             {"id":8970, "colors":["golden","orange"]},
             {"id":8971, "colors":["green","silver"]},
             {"id":8972, "colors":["blue","pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
     },
     {
         "groupId":9003, "zone":"arms", "category":"bag", "security":"5e4cf7b8a27f2e15", "multiLayered":false, "layerBehavior":"normal",
@@ -13258,7 +13258,7 @@
             {"id":9010, "colors":["golden","orange"]},
             {"id":9011, "colors":["green","silver"]},
             {"id":9012, "colors":["blue","pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
     },
     {
         "groupId":9013, "zone":"arms", "category":"armAccessory", "security":"0bf7fc1349e65612", "multiLayered":false, "layerBehavior":"normal",
@@ -13275,7 +13275,7 @@
             {"id":9020, "colors":["golden","orange"]},
             {"id":9021, "colors":["green","silver"]},
             {"id":9022, "colors":["blue","pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
     },
     {
         "groupId":8983, "zone":"waistToKnee", "category":"skirt", "security":"c537186f3be6b1d3", "multiLayered":false, "layerBehavior":"normal",
@@ -13292,7 +13292,7 @@
             {"id":8990, "colors":["golden","orange"]},
             {"id":8991, "colors":["green","silver"]},
             {"id":8992, "colors":["blue","pink"]}
-        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
     },
     {
         "groupId":8943, "zone":"feet", "category":"shoes", "security":"5ea5fb08ae1555e9", "multiLayered":false, "layerBehavior":"normal",
@@ -13309,7 +13309,7 @@
             {"id":8950, "colors":[""]},
             {"id":8951, "colors":[""]},
             {"id":8952, "colors":[""]}
-        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Unlocked Exclusive Pack \nCaring Shepherdess (Easter 2025)"}
     },
     {
         "groupId":8771, "zone":"torso", "category":"top", "security":"aa234c63475dc357", "multiLayered":false, "layerBehavior":"normal",
@@ -13326,7 +13326,7 @@
             {"id":8764, "colors":[""]},
             {"id":8763, "colors":[""]},
             {"id":8762, "colors":[""]}
-        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during Easter 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Unlocked during Easter 2025"}
     },
     {
         "groupId":8741, "zone":"torso_waistToKnee", "category":"dress", "security":"4ae132d639b159f6", "multiLayered":false, "layerBehavior":"normal",
@@ -13343,7 +13343,7 @@
             {"id":8734, "colors":[""]},
             {"id":8733, "colors":[""]},
             {"id":8732, "colors":[""]}
-        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during Easter 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Unlocked during Easter 2025"}
     },
     {
         "groupId":8863, "zone":"torso_waistToKnee", "category":"dress", "security":"40d183ec58db16c9", "multiLayered":false, "layerBehavior":"normal",
@@ -13360,7 +13360,7 @@
             {"id":8870, "colors":[""]},
             {"id":8871, "colors":[""]},
             {"id":8872, "colors":[""]}
-        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during Easter 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Unlocked during Easter 2025"}
     },
     {
         "groupId":8893, "zone":"torso", "category":"jacket", "security":"c1cf2f5a87ce4903", "multiLayered":false, "layerBehavior":"normal",
@@ -13377,7 +13377,7 @@
             {"id":8900, "colors":[""]},
             {"id":8901, "colors":[""]},
             {"id":8902, "colors":[""]}
-        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during Easter 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Unlocked during Easter 2025"}
     },
     {
         "groupId":8873, "zone":"torso_waistToKnee", "category":"belts", "security":"24b84b7a2ed66f7b", "multiLayered":false, "layerBehavior":"normal",
@@ -13394,7 +13394,7 @@
             {"id":8880, "colors":[""]},
             {"id":8881, "colors":[""]},
             {"id":8882, "colors":[""]}
-        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during Easter 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Unlocked during Easter 2025"}
     },
     {
         "groupId":8791, "zone":"feet", "category":"shoes", "security":"258a68ce1bc9ef47", "multiLayered":false, "layerBehavior":"normal",
@@ -13411,7 +13411,7 @@
             {"id":8784, "color":[""]},
             {"id":8783, "color":[""]},
             {"id":8782, "color":[""]}
-        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during Easter 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Unlocked during Easter 2025"}
     },
     {
         "groupId":8883, "zone":"feet", "category":"shoes", "security":"27cf57bb8bfc49af", "multiLayered":false, "layerBehavior":"normal",
@@ -13428,7 +13428,7 @@
             {"id":8890, "colors":[""]},
             {"id":8891, "colors":[""]},
             {"id":8892, "colors":[""]}
-        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during Easter 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Unlocked during Easter 2025"}
     },
     {
         "groupId":8781, "zone":"feet", "category":"socks", "security":"1d72781a2b8a3772", "multiLayered":false, "layerBehavior":"normal",
@@ -13445,7 +13445,7 @@
             {"id":8788, "colors":[""]},
             {"id":8789, "colors":[""]},
             {"id":8790, "colors":[""]}
-        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during Easter 2025"}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Unlocked during Easter 2025"}
     },
     {
         "groupId":8933, "zone":"arms", "category":"armAccessory", "security":"b1251a030096fd77", "multiLayered":false, "layerBehavior":"normal",
@@ -13462,7 +13462,7 @@
             {"id":8940, "colors":[""]},
             {"id":8941, "colors":[""]},
             {"id":8942, "colors":[""]}
-        ], "criteria":{"type":"gameEvent", "info":"aster-2025", "text":"Unlocked during the Easter 2025 event"}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Unlocked during the Easter 2025 event"}
     },
     {
         "groupId":8903, "zone":"face", "category":"neckAccessory", "security":"04580d933182009f", "multiLayered":false, "layerBehavior":"normal",
@@ -13693,4 +13693,78 @@
         ], "criteria":null,
         "releaseDate":"2000"
     },
+
+    
+    {
+        "groupId":9297, "zone":"torso", "category":"top", "security":"82a0a024f5b0443c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",  
+        "outfitName":"Red Carpet Spotlight",
+        "variations":[
+            {"id":9297, "colors":["red"]},
+            {"id":9298, "colors":["grey", "silver"]},
+            {"id":9299, "colors":["white"]},
+            {"id":9230, "colors":["black"]},
+            {"id":9231, "colors":["yellow", "gold"]},
+            {"id":9232, "colors":["pink"]},
+            {"id":9233, "colors":["green"]},
+            {"id":9234, "colors":["purple"]},
+            {"id":9235, "colors":["blue"]},
+            {"id":9236, "colors":["blue"]}
+        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
+        "releaseDate":"2025-04-29"
+    },
+    {
+        "groupId":9307, "zone":"torso_waistToKnee", "category":"waist", "security":"a82bf99f00fa7272", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Train",  
+        "outfitName":"Red Carpet Spotlight",
+        "variations":[
+            {"id":9307, "colors":["red"]},
+            {"id":9308, "colors":["grey", "silver"]},
+            {"id":9309, "colors":["white"]},
+            {"id":9310, "colors":["black"]},
+            {"id":9311, "colors":["yellow", "gold"]},
+            {"id":9312, "colors":["pink"]},
+            {"id":9313, "colors":["green"]},
+            {"id":9314, "colors":["purple"]},
+            {"id":9315, "colors":["blue"]},
+            {"id":9316, "colors":["blue"]}
+        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
+        "releaseDate":"2025-04-29"
+    },
+    {
+        "groupId":9287, "zone":"waistToKnee", "category":"skirt", "security":"fe29569b143365a5", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Skirt",  
+        "outfitName":"Red Carpet Spotlight",
+        "variations":[
+            {"id":9287, "colors":["red"]},
+            {"id":9288, "colors":["grey", "silver"]},
+            {"id":9289, "colors":["white"]},
+            {"id":9290, "colors":["black"]},
+            {"id":9291, "colors":["yellow", "gold"]},
+            {"id":9292, "colors":["pink"]},
+            {"id":9293, "colors":["green"]},
+            {"id":9294, "colors":["purple"]},
+            {"id":9295, "colors":["blue"]},
+            {"id":9296, "colors":["blue"]}
+        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
+        "releaseDate":"2025-04-29"
+    },
+    {
+        "groupId":9277, "zone":"feet", "category":"shoes", "security":"e100f3b3ea34b709", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Heels",  
+        "outfitName":"Red Carpet Spotlight",
+        "variations":[
+            {"id":9277, "colors":["grey", "silver"]},
+            {"id":9278, "colors":["red"]},
+            {"id":9279, "colors":["white"]},
+            {"id":9280, "colors":["black"]},
+            {"id":9281, "colors":["yellow", "gold"]},
+            {"id":9282, "colors":["pink"]},
+            {"id":9283, "colors":["green"]},
+            {"id":9284, "colors":["purple"]},
+            {"id":9285, "colors":["blue"]},
+            {"id":9286, "colors":["blue"]}
+        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
+        "releaseDate":"2025-04-29"
+    }
 ]
