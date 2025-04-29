@@ -13855,7 +13855,6 @@
             {"id":145, "colors":["blue"]},
             {"id":146, "colors":["blue"]}
         ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
-        "releaseDate":"2025-04-29"
     },
     {
         "groupId":9327, "zone":"head", "category":"wig", "security":"14caad0ca35833b6", "multiLayered":true, "layerBehavior":"normal",
@@ -13873,7 +13872,6 @@
             {"id":9335, "colors":["orange"]},
             {"id":9336, "colors":["pink"]}
         ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
-        "releaseDate":"2025-04-29"
     },
     {
         "groupId":9267, "zone":"head", "category":"earring", "security":"4ec256d9cafd094e", "multiLayered":false, "layerBehavior":"normal",
@@ -13891,6 +13889,5 @@
             {"id":9275, "colors":["blue"]},
             {"id":9276, "colors":["blue"]}
         ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
-        "releaseDate":"2025-04-29"
     }
 ]
