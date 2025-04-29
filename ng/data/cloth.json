@@ -13548,7 +13548,7 @@
             {"id":8931, "color":["black"]},
             {"id":8932, "color":[""]}
         ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during the Easter 2025 event"}
-    },
+     },
      {
         "groupId":9077, "zone":"waistToKnee", "category":"skirt", "security":"24eb5e40a7adc78d", "multiLayered":false, "layerBehavior":"normal",
         "name":"Skirt",
