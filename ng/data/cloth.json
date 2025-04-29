@@ -13462,7 +13462,7 @@
             {"id":8940, "colors":[""]},
             {"id":8941, "colors":[""]},
             {"id":8942, "colors":[""]}
-        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during the Easter 2025 event"}
+        ], "criteria":{"type":"gameEvent", "info":"aster-2025", "text":"Unlocked during the Easter 2025 event"}
     },
     {
         "groupId":8903, "zone":"face", "category":"neckAccessory", "security":"04580d933182009f", "multiLayered":false, "layerBehavior":"normal",
@@ -13479,7 +13479,7 @@
             {"id":8910, "colors":[""]},
             {"id":8911, "colors":[""]},
             {"id":8912, "colors":[""]}
-        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during the Easter 2025 event"}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Unlocked during the Easter 2025 event"}
     },
     {
         "groupId":8751, "zone":"head", "category":"hat", "security":"20eb2fbe984e5326", "multiLayered":true, "layerBehavior":"normal",
@@ -13496,7 +13496,7 @@
             {"id":8744, "colors":[""]},
             {"id":8743, "colors":[""]},
             {"id":8742, "colors":[""]}
-        ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during the Easter 2025 event"}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2025", "text":"Unlocked during the Easter 2025 event"}
     },
     {
         "groupId":8761, "zone":"head", "category":"wig", "security":"148e7157cca3f908", "multiLayered":true, "layerBehavior":"normal",
@@ -13548,5 +13548,149 @@
             {"id":8931, "color":["black"]},
             {"id":8932, "color":[""]}
         ], "criteria":{"type":"gameEvent", "info":"Easter-2025", "text":"Unlocked during the Easter 2025 event"}
-    }
+    },
+     {
+        "groupId":9077, "zone":"waistToKnee", "category":"skirt", "security":"24eb5e40a7adc78d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Skirt 'n' Skates",
+        "variations":[
+            {"id":9077, "colors":["green"]},
+            {"id":9078, "colors":["green"]},
+            {"id":9079, "colors":["blue"]},
+            {"id":9080, "colors":["red"]},
+            {"id":9081, "colors":["white"]},
+            {"id":9082, "colors":["pink"]},
+            {"id":9083, "colors":["yellow"]},
+            {"id":9084, "colors":["purple"]},
+            {"id":9085, "colors":["brown"]},
+            {"id":9086, "colors":["black"]}
+        ], "criteria":{"type":"calendar", "info":"2025-13", "text":"Desbloqueado en el calendario\nN°13 - 2025"},
+        "releaseDate":"2025-04-07"
+    },
+    {
+        "groupId":9087, "zone":"arms", "category":"bag", "security":"1e2fa0dedfabc448", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bandeja",
+        "outfitName":"Skirt 'n' Skates",
+        "variations":[
+            {"id":9087, "colors":["pink","red","silver"]},
+            {"id":9088, "colors":["white","golden"]},
+            {"id":9089, "colors":["black","grey","silver"]},
+            {"id":9090, "colors":["brown","grey","silver"]},
+            {"id":9091, "colors":["red","pink","golden"]},
+            {"id":9092, "colors":["purple","silver"]},
+            {"id":9093, "colors":["blue","silver"]},
+            {"id":9094, "colors":["green","golden"]},
+            {"id":9095, "colors":["yellow","golden"]},
+            {"id":9096, "colors":["yellow","orange","silver"]}
+        ], "criteria":{"type":"calendar", "info":"2025-13", "text":"Desbloqueado en el calendario\nN°13 - 2025"},
+        "releaseDate":"2025-04-07"
+    },
+    {
+        "groupId":9097, "zone":"torso_waistToKnee", "category":"waist", "security":"3e1fb87c6b00a3c6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Delantal",
+        "outfitName":"Skirt 'n' Skates",
+        "variations":[
+            {"id":9097, "colors":["white"]},
+            {"id":9098, "colors":["brown"]},
+            {"id":9099, "colors":["grey"]},
+            {"id":9100, "colors":["black"]},
+            {"id":9101, "colors":["pink"]},
+            {"id":9102, "colors":["yellow"]},
+            {"id":9103, "colors":["purple"]},
+            {"id":9104, "colors":["blue"]},
+            {"id":9105, "colors":["green"]},
+            {"id":9106, "colors":["red"]}
+        ], "criteria":{"type":"calendar", "info":"2025-13", "text":"Desbloqueado en el calendario\nN°13 - 2025"},
+        "releaseDate":"2025-04-07"
+    },
+    {
+        "groupId":9067, "zone":"torso", "category":"top", "security":"a821c7f38f7de529", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Blusa",
+        "outfitName":"Skirt 'n' Skates",
+        "variations":[
+            {"id":9067, "colors":["pink"]},
+            {"id":9068, "colors":["white"]},
+            {"id":9069, "colors":["black"]},
+            {"id":9070, "colors":["green"]},
+            {"id":9071, "colors":["red"]},
+            {"id":9072, "colors":["purple"]},
+            {"id":9073, "colors":["blue"]},
+            {"id":9074, "colors":["green"]},
+            {"id":9075, "colors":["yellow"]},
+            {"id":9076, "colors":["brown"]}
+        ], "criteria":{"type":"calendar", "info":"2025-13", "text":"Desbloqueado en el calendario\nN°13 - 2025"},
+        "releaseDate":"2025-04-07"
+    },
+    {
+        "groupId":9057, "zone":"feet", "category":"shoes", "security":"4980aa7e6fd08284", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Patines de ruedas",
+        "outfitName":"Skirt 'n' Skates",
+        "variations":[
+            {"id":9057, "colors":["pink","green","silver"]},
+            {"id":9058, "colors":["white","golden"]},
+            {"id":9059, "colors":["black","grey","silver"]},
+            {"id":9060, "colors":["grey","black","silver"]},
+            {"id":9061, "colors":["golden","red"]},
+            {"id":9062, "colors":["purple","silver"]},
+            {"id":9063, "colors":["blue","silver"]},
+            {"id":9064, "colors":["golden","green"]},
+            {"id":9065, "colors":["golden","yellow"]},
+            {"id":9066, "colors":["brown","silver"]}
+        ], "criteria":{"type":"calendar", "info":"2025-13", "text":"Desbloqueado en el calendario\nN°13 - 2025"},
+        "releaseDate":"2025-04-07"
+    },
+    {
+        "groupId":9047, "zone":"head", "category":"hat", "security":"dac7fefbbcf7f2e3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Diadema",
+        "outfitName":"Skirt 'n' Skates",
+        "variations":[
+            {"id":9047, "colors":["pink","white"]},
+            {"id":9048, "colors":["brown","white"]},
+            {"id":9049, "colors":["blue","white"]},
+            {"id":9050, "colors":["black","grey"]},
+            {"id":9051, "colors":["red","pink"]},
+            {"id":9052, "colors":["yellow"]},
+            {"id":9053, "colors":["purple"]},
+            {"id":9054, "colors":["blue"]},
+            {"id":9055, "colors":["green"]},
+            {"id":9056, "colors":["red"]}
+        ], "criteria":{"type":"calendar", "info":"2025-13", "text":"Desbloqueado en el calendario\nN°13 - 2025"},
+        "releaseDate":"2025-04-07"
+    },
+    {
+        "groupId":9045, "zone":"arms", "category":"bag", "security":"8d04a4454b5aadd0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Maíz",
+        "outfitName":"Honk Honk",
+        "variations":[
+            {"id":9045, "colors":["yellow"]}
+        ], "criteria":null,
+        "releaseDate":"2000"
+    },
+    {
+        "groupId":9046, "zone":"torso", "category":"jacket", "security":"8b77afaa763218f7", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Hoodie",
+        "outfitName":"Honk Honk",
+        "variations":[
+            {"id":9046, "colors":["brown","white"]}
+        ], "criteria":null,
+        "releaseDate":"2000"
+    },
+    {
+        "groupId":9043, "zone":"feet", "category":"socks", "security":"e05530b44899e348", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Calcetines",
+        "outfitName":"Honk Honk",
+        "variations":[
+            {"id":9043, "colors":["yellow"]}
+        ], "criteria":null,
+        "releaseDate":"2000"
+    },
+    {
+        "groupId":9044, "zone":"feet", "category":"shoes", "security":"d6c2cfb88fc7f5a1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botines",
+        "outfitName":"Honk Honk",
+        "variations":[
+            {"id":9044, "colors":["yellow"]}
+        ], "criteria":null,
+        "releaseDate":"2000"
+    },
 ]
