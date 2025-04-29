@@ -3,25 +3,28 @@ $(document).ready(function() {
         $.get("./data/avatar.json", dbAvatar => {
             $.get("./data/room.json", dbRoom => {
                 $.get("./data/pet.json", dbPet => {
+                    $.get("./data/crush.json", dbCrush => {
                     
-                    cloth = dbCloth;
-                    avatar = dbAvatar;
-                    room = dbRoom;
-                    pet = dbPet;
-                    
-                    customTheme();
-                    userSettings();
-                    clearInputFilter();
-                    drawCategory();
-                    fillCounter();
-                    updateVWVH();
-                    drawAvatarZone();
-                    $("#asng-z-index .ss-scroll").addClass("ss-hidden");
+                        cloth = dbCloth;
+                        avatar = dbAvatar;
+                        room = dbRoom;
+                        pet = dbPet;
+                        crush = dbCrush;
+                        
+                        customTheme();
+                        userSettings();
+                        clearInputFilter();
+                        drawCategory();
+                        fillCounter();
+                        updateVWVH();
+                        drawAvatarZone();
+                        $("#asng-z-index .ss-scroll").addClass("ss-hidden");
 
-                    checkAndGetTempCode();
-                    codeUpdate();
-                    currentPage("wardrobe");
-                    // tempWM("load");
+                        checkAndGetTempCode();
+                        codeUpdate();
+                        currentPage("wardrobe");
+                        // tempWM("load");
+                    });
                 });
             });
         });
@@ -59,6 +62,7 @@ async function codeUpdate() {
 
     $("#loading-layout").addClass("room avatar");
 
+    drawCrush();
     drawSucrette();
     drawRoomCanvas();
     drawZIndex();
@@ -96,7 +100,13 @@ async function drawCategory(c = "top", declination = null) {
 
         $("asng-cloth-list-panel .empty").remove();
 
+        // debe ordenarse segun releaseDate
+        // Orden temporal hasta añadir todas las fechas
+        lista.sort((a,b) => (a.releaseDate > b.releaseDate) ? 1 : ((b.releaseDate > a.releaseDate) ? -1 : 0));
         lista.reverse();
+
+        // Orden definitivo
+        //lista.sort((a,b) => (a.releaseDate < b.releaseDate) ? 1 : ((b.releaseDate < a.releaseDate) ? -1 : 0))
 
         if (declination == null) {
             moveScroll("#clothes-container .ss-content", "reset");
@@ -269,14 +279,20 @@ function drawExpressions(e) {
     };
 };
 
-function toggleCategoryMenu(status) {
-    status.includes("open") ? $(".list").removeClass("open").addClass("closed") : $(".list").removeClass("closed").addClass("open");
+function toggleCategoryMenu(status, crush = false) {
 
-    setTimeout(function() {
-        $(".list .ss-content").scrollTop(1);
-        $(".list .ss-content").scrollTop(0);
-    }, 200);
+    if (!crush) {
+        status.includes("open") ? $("asng-category-list .list").removeClass("open").addClass("closed") : $("asng-category-list .list").removeClass("closed").addClass("open");
 
+        setTimeout(function() {
+            $("asng-category-list .list .ss-content").scrollTop(1);
+            $("asng-category-list .list .ss-content").scrollTop(0);
+        }, 200);
+
+    } else {
+        status.includes("open") ? $("asng-crush-list .list").removeClass("open").addClass("closed") : $("asng-crush-list .list").removeClass("closed").addClass("open");
+    };
+    
 };
 
 function drawAvatarZone(c = "top", z = "auto") {
@@ -343,6 +359,11 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
         if (mode != "update_avatar") $(".avatar-canvas").remove();
         if (mode == "load") $("#loading-layout").addClass("avatar");
 
+        // check crush save position
+        if ($("#save-canvas").length == 1 && sucrette.crush.position == "back" && sucrette.crush.outfit != null) {
+            await drawCrush(true);
+        };
+
         for (m = 0; m < sucrette.orderInfo.length; m++) {
             if (sucrette.orderInfo[m].category == "avatar") {
                 $("#asng-avatar").append('<canvas class="avatar-canvas" id="avatar-base" width="1200" height="1550"></canvas>');
@@ -357,8 +378,18 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
                     w = 1920; h = 1080;
                 };
 
-                var img = (sucrette.avatar.customSkin == null) ? composeAvatarUrl("skin", size, sucrette.avatar.skin) : composeCanvasUrl("cloth", size, sucrette.avatar.customSkin);
-                var ready = await preloadIMG(img);
+                let img = "", ready = "";
+
+                // // draw crush first ?
+                // if ($("#save-canvas").length == 1 && sucrette.crush.position == "back" && sucrette.crush.outfit != null && size == "hd") {
+                //     let c = (sucrette.crush.outfit).split("-");
+                //     img = size == "hd" ? composeCrushUrl(c[0], c[1], "full", size) : composeCrushUrl(c[0], c[1], "big", size);
+                //     ready = await preloadIMG(img);
+                //     ctx.drawImage(ready, 0, 0, w, h);
+                // };
+
+                img = (sucrette.avatar.customSkin == null) ? composeAvatarUrl("skin", size, sucrette.avatar.skin) : composeCanvasUrl("cloth", size, sucrette.avatar.customSkin);
+                ready = await preloadIMG(img);
                 ctx.drawImage(ready, 0, 0, w, h);
 
                 img = composeAvatarUrl("mouth", size, sucrette.avatar.mouth);
@@ -384,7 +415,7 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
                 if (mode == "basics") {
                     // Ropa interior
                     let x = sucrette.orderInfo.findIndex(v => v.category == "underwear");
-                    var img = composeCanvasUrl("cloth", size, sucrette.orderInfo[x].value);
+                    img = composeCanvasUrl("cloth", size, sucrette.orderInfo[x].value);
                     $("#save-canvas").length == 0 ? newCanvas(sucrette.orderInfo[x].category, img, 1) : await newCanvas(sucrette.orderInfo[x].category, img, 1);
 
                     // Cabello
@@ -424,6 +455,11 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
 
                 };
             };
+        };
+
+        // check crush save position
+        if ($("#save-canvas").length == 1 && sucrette.crush.position == "front" && sucrette.crush.outfit != null) {
+            await drawCrush(true);
         };
 
         // tempWM("save");
@@ -895,6 +931,7 @@ function drawRoomItems(c = "background") {
 
     const slot = room.filter(v => v.slot == c);
 
+    slot.sort((a,b) => (a.releaseDate > b.releaseDate) ? 1 : ((b.releaseDate > a.releaseDate) ? -1 : 0));
     slot.reverse();
 
     for (b = 0; b < slot.length; b++) {
@@ -1051,6 +1088,7 @@ function drawPetItems() {
     let p = sucrette.pet.status ? " off" : " on";
     $(".pet-outfits .items-container").append(`<div class="pet-option visibility${p}"></div>`);
 
+    pet.sort((a,b) => (a.releaseDate > b.releaseDate) ? 1 : ((b.releaseDate > a.releaseDate) ? -1 : 0));
     pet.reverse();
 
     for (i = 0; i < pet.length; i++) {
@@ -1066,29 +1104,6 @@ function drawPetItems() {
 
     $(".pet-outfits .ss-content").scrollTop(1)
     $(".pet-outfits .ss-content").scrollTop(0);
-};
-
-function drawItemIcons (criteria, elmnt) {
-
-    let icon = "";
-    switch(criteria.type) {
-        case "episode": icon = "episodes";break;
-        case "jobTask": icon = "jobTasks";break;
-        case "pack": icon = "bankPacks";break;
-        case "calendar": icon = "calendar";break;
-        case "gameEvent":case "gauge": icon = "gameEvents";break;
-    };
-
-    let macaroon = "assets/game-event/";
-    if (criteria.type == "gameEvent") {
-        macaroon += `gacha/${(criteria.info).split("-")[0]}/event-icon-${(criteria.info).split("-")[1]}.png`;
-    } else if ((criteria.type == "gauge")) {
-        macaroon += "gauge/icon.png";
-    };
-
-    elmnt.append(`<img class="locked" title="${criteria.text}" src="assets/personalization/icon/${icon}.svg">`);
-    if (macaroon != "assets/game-event/") elmnt.prepend(`<div class="asng-item-macaron"><img src="${macaroon}"></div>`);
-
 };
 
 function checkPet(c) {
@@ -1126,6 +1141,67 @@ function drawPet() {
     };
 };
 
+// CRUSH
+function drawCrushPortraits() {
+    $(".crush-portraits .items-container").html("");
+    let c = $(".crush-list-item.current").attr("data-crush");
+
+    let crushInfo = crush.filter(v => v.crushName == c);
+
+    for (b = 0; b < crushInfo.length; b++) {
+        let item = sucrette.crush.outfit != null ? (sucrette.crush.outfit).split("-")[1] : null;
+        $("#asng-crush-outfit-list-panel .items-container").append(`<div class="asng-crush-item"></div>`);
+        $(".asng-crush-item").eq(b)
+            .append(`<div class="item ${c}"><div class="item-outline${crushInfo[b].security == item ? " equipped" : ""}"></div></div>`);
+        $(".asng-crush-item .item").eq(b)
+            .append(`<div tooltipplacement="bottom"><img class="thumbnail" alt="${crushInfo[b].name}" src="${composeCrushUrl(crushInfo[b].id, crushInfo[b].security, "portrait")}"></div>`);
+
+        // if (crushInfo[b].criteria != null) drawItemIcons(crushInfo[b].criteria, $('.asng-room-item .item div[tooltipplacement="bottom"]').eq(b));
+    };
+
+    moveScroll(".crush-portraits .ss-content", "reset");
+};
+
+async function drawCrush(save = false) {
+
+    let item = sucrette.crush.outfit;
+    let ctx = !save ? document.getElementById("crush-canvas").getContext("2d") : document.getElementById("save-canvas").getContext("2d");
+    let w = 1200, h = 1550;
+
+    if (item != null) {
+        // Dibujar canvas
+        let img = !save ? composeCrushUrl(item.split("-")[0], item.split("-")[1]) : composeCrushUrl(item.split("-")[0], item.split("-")[1], "full", "hd");
+        ready = await preloadIMG(img);
+        if (!save) ctx.clearRect(0, 0, w, h);
+        ctx.drawImage(ready, 0, 0, w, h);
+    } else {
+        if (!save) ctx.clearRect(0, 0, w, h);
+    };
+};
+
+function drawItemIcons (criteria, elmnt) {
+
+    let icon = "";
+    switch(criteria.type) {
+        case "episode": icon = "episodes";break;
+        case "jobTask": icon = "jobTasks";break;
+        case "pack": icon = "bankPacks";break;
+        case "calendar": icon = "calendar";break;
+        case "gameEvent":case "gauge": icon = "gameEvents";break;
+    };
+
+    let macaroon = "assets/game-event/";
+    if (criteria.type == "gameEvent") {
+        macaroon += `gacha/${(criteria.info).split("-")[0]}/event-icon-${(criteria.info).split("-")[1]}.png`;
+    } else if ((criteria.type == "gauge")) {
+        macaroon += "gauge/icon.png";
+    };
+
+    elmnt.append(`<img class="locked" title="${criteria.text}" src="assets/personalization/icon/${icon}.svg">`);
+    if (macaroon != "assets/game-event/") elmnt.prepend(`<div class="asng-item-macaron"><img src="${macaroon}"></div>`);
+
+};
+
 function closeFiltersPanel() {
     $(".filters-button").removeClass("active");
     $(".asng-filters").removeClass("active");
@@ -1140,14 +1216,23 @@ function clearInputFilter() {
 $(function () {
 
     $(".category-list-current-category").click(function() {
-        var status = $(".list").attr("class");
+        var status = $("asng-category-list .list").attr("class");
         toggleCategoryMenu(status);
     });
 
+    $(".crush-list-current-crush").click(function() {
+        var status = $("asng-crush-list .list").attr("class");
+        toggleCategoryMenu(status, true);
+    });
+
     $(document).on('click', function (event) {
-        if ($(".list.open").length == 1) {
-            if (!$(event.target).closest('.list').length && !$(event.target).closest('.category-list-current-category').length) {
+        if ($("asng-category-list .list.open").length == 1) {
+            if (!$(event.target).closest('asng-category-list .list').length && !$(event.target).closest('.category-list-current-category').length) {
                 toggleCategoryMenu("open");
+            };
+        } else if ($("asng-crush-list .list.open").length == 1) {
+            if (!$(event.target).closest('asng-crush-list .list').length && !$(event.target).closest('.crush-list-current-crush').length) {
+                toggleCategoryMenu("open", true);
             };
         };
     });
@@ -1212,6 +1297,17 @@ $(function () {
         };
     });
 
+    $(".crush-list-item").on('click', function() {
+        var clase = $(this).attr("class");
+        if (!clase.includes("current")) {
+            $(".crush-list-item.current").removeClass("current");
+            $(this).addClass("current");
+            $(".current-crush").text($(this).attr("data-crush"));
+            toggleCategoryMenu("open", true);
+            drawCrushPortraits($(this).attr("data-crush"));
+        };
+    });
+
     $("#asng-zone-selector path").click(function() {
         clearInputFilter();
         let zone = ($(this).attr("id")).split("-")[1];
@@ -1252,6 +1348,28 @@ $(function () {
         if (checkCurrentItems(s)) {
             $(this).find(".item-outline").addClass("equipped");
         };
+    });
+
+    $(".items-container").on("click", ".asng-crush-item", function() {
+
+        let s = $(this).find(".thumbnail").attr("src").split("/");
+        s = s[s.length - 1].split(".")[0];
+        let c = $(this).data("crush");
+        
+        // Categoría única
+        if ( ($(this).find(".item-outline").attr("class")).includes("equipped") ) {
+            $(this).find(".item-outline").removeClass("equipped");
+            // Quitar del canvas
+            sucrette.crush.outfit = null;
+
+        } else {
+            $(".item-outline").removeClass("equipped");
+            $(this).find(".item-outline").addClass("equipped");
+            // Añadir al canvas
+            sucrette.crush.outfit = s;
+        };
+
+        drawCrush();
     });
 
     $(".items-container").on("click", ".show-presets h2", function() {
@@ -1468,6 +1586,27 @@ $(function () {
         drawPetItems();
     });
 
+    $(".shortcut.crush").click(function() {
+        $(".shortcut").removeClass("active");
+        $(this).addClass("active");
+        $(".sub-shortcuts").hide();
+        $(".sub-shortcuts.room").hide();
+        $(".asng-player-room").removeAttr("style");
+        $(".asng-sucrette-personalization").show();
+        $(".left-panel-container").removeClass("room-panel");
+
+        $(".asng-room-personalization").hide();
+        $(".avatar-personalization").hide();
+        $("#asng-z-index").fadeOut(100);
+
+        $("#asng-avatar-item-list-panel").hide();
+        $("#asng-avatar-part-color-list-panel").hide();
+        $("#asng-room-item-list-panel").hide();
+        $("#asng-pet-outfit-list-panel").hide();
+        $("#asng-crush-outfit-list-panel").show();
+        
+        drawCrushPortraits();
+    });
 
     // avatar color menu
     $(".eye-color .color").click(function() {
@@ -1649,34 +1788,34 @@ $(function () {
 });
 
 function getCategoryName(arg) {
-    if (arg == "hat") return "Cappelli";
-    if (arg == "wig") return "Capelli";
-    if (arg == "eyebrows") return "Sopracciglia";
-    if (arg == "faceAccessory") return "Accessori viso";
-    if (arg == "earring") return "Orecchini";
-    if (arg == "expression") return "Espressioni";
-    if (arg == "makeup") return "Trucco";
-    if (arg == "eyes") return "Occhi";
-    if (arg == "mouth") return "Bocca";
-    if (arg == "neckAccessory") return "Collane";
-    if (arg == "top") return "Top";
-    if (arg == "dress") return "Vestiti";
-    if (arg == "jacket") return "Giacche";
-    if (arg == "waist") return "Cinture";
-    if (arg == "underwear") return "Intimo";
-    if (arg == "gloves") return "Guanti";
-    if (arg == "bag") return "Borse";
-    if (arg == "armAccessory") return "Accessori mano";
-    if (arg == "handNailPolish") return "Smalto mani";
-    if (arg == "pants") return "Pantaloni";
-    if (arg == "skirt") return "Gonne";
-    if (arg == "shoes") return "Scarpe";
-    if (arg == "socks") return "Calze";
-    if (arg == "legAccessory") return "Accessori gambe";
-    if (arg == "footNailPolish") return "Smalto piedi";
-    if (arg == "skin") return "Pelle";
-    if (arg == "tattoo") return "Tatuaggi";
-    if (arg == "other") return "Altro";
+    if (arg == "hat") return "Sombreros";
+    if (arg == "wig") return "Pelucas";
+    if (arg == "eyebrows") return "Cejas";
+    if (arg == "faceAccessory") return "Accesorios cara";
+    if (arg == "earring") return "Pendientes";
+    if (arg == "expression") return "Expresiones";
+    if (arg == "makeup") return "Maquillaje";
+    if (arg == "eyes") return "Ojos";
+    if (arg == "mouth") return "Bocas";
+    if (arg == "neckAccessory") return "Collares";
+    if (arg == "top") return "Partes de arriba";
+    if (arg == "dress") return "Vestidos";
+    if (arg == "jacket") return "Chaquetas";
+    if (arg == "waist") return "Cinturones";
+    if (arg == "underwear") return "Ropa interior";
+    if (arg == "gloves") return "Guantes";
+    if (arg == "bag") return "Bolsos";
+    if (arg == "armAccessory") return "Joyas brazo";
+    if (arg == "handNailPolish") return "Esmalte manos";
+    if (arg == "pants") return "Pantalones";
+    if (arg == "skirt") return "Faldas";
+    if (arg == "shoes") return "Zapatos";
+    if (arg == "socks") return "Calcetines";
+    if (arg == "legAccessory") return "Joyas piernas";
+    if (arg == "footNailPolish") return "Esmalte pies";
+    if (arg == "skin") return "Pieles";
+    if (arg == "tattoo") return "Tatuajes";
+    if (arg == "other") return "Otros";
 };
 
 function composeHangerUrl (id, e, type = "cloth", s = hr) {
@@ -1793,6 +1932,16 @@ function composePetUrl(t, i, e) {
     }
 }
 
+function composeCrushUrl(i, e, t = "full", s = cr) {
+    let url = 'https://assets.corazondemelon-newgen.es/npc-model/image/';
+    if (t == "full" || t == "big") {
+        url += `avatar/${t}/${s}/${i}-${e}.png`;
+    } else { // t = portrait
+        url += `dressing/${t}/${hr}/${i}-${e}.png`;
+    };
+    return url;
+};
+
 function fillCounter() {
     var sum = 0;
     for (i = 0; i < cloth.length; i++) {
@@ -1818,6 +1967,9 @@ function fillCounter() {
 
     sum = pet.length;
     $(".shortcut.pet p.counter").text(sum);
+
+    sum = crush.length;
+    $(".shortcut.crush p.counter").text(sum);
 }
 
 function updateVWVH() {
@@ -1831,4 +1983,4 @@ window.onbeforeunload = function () {
 };
 
 // global variables
-var cloth = [], avatar = [], room = [], pet = [];
+var cloth = [], avatar = [], room = [], pet = [], crush = [];
