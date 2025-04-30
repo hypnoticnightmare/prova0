@@ -14763,5 +14763,24 @@
             {"id":9335, "colors":["orange"]},
             {"id":9336, "colors":["pink"]}
         ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
-    }
+        "releaseDate":"2025-04-29"
+    },
+    {
+        "groupId":9267, "zone":"head", "category":"earring", "security":"4ec256d9cafd094e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Earrings",  
+        "outfitName":"Red Carpet Spotlight",
+        "variations":[
+            {"id":9267, "colors":["grey","silver"]},
+            {"id":9268, "colors":["red"]},
+            {"id":9269, "colors":["white"]},
+            {"id":9270, "colors":["black"]},
+            {"id":9271, "colors":["yellow", "gold"]},
+            {"id":9272, "colors":["pink"]},
+            {"id":9273, "colors":["green"]},
+            {"id":9274, "colors":["purple"]},
+            {"id":9275, "colors":["blue"]},
+            {"id":9276, "colors":["blue"]}
+        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
+        "releaseDate":"2025-04-29"
+    }      
 ]
