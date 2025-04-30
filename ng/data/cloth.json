@@ -14764,5 +14764,24 @@
             {"id":9296, "colors":["blue"]}
         ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
         "releaseDate":"2025-04-29"
+    },
+    {
+        "groupId":9277, "zone":"feet", "category":"shoes", "security":"e100f3b3ea34b709", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Heels",  
+        "outfitName":"Red Carpet Spotlight",
+        "variations":[
+            {"id":9277, "colors":["grey", "silver"]},
+            {"id":9278, "colors":["red"]},
+            {"id":9279, "colors":["white"]},
+            {"id":9280, "colors":["black"]},
+            {"id":9281, "colors":["yellow", "gold"]},
+            {"id":9282, "colors":["pink"]},
+            {"id":9283, "colors":["green"]},
+            {"id":9284, "colors":["purple"]},
+            {"id":9285, "colors":["blue"]},
+            {"id":9286, "colors":["blue"]}
+        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
+        "releaseDate":"2025-04-29"
     }
+    
 ]
