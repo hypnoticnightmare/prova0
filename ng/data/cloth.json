@@ -14711,8 +14711,6 @@
         ], "criteria":{"type":"calendar", "info":"2025-13", "text":"Desbloqueado en el calendario\nN°13 - 2025"},
         "releaseDate":"2025-04-07"
     },
-
-    
     {
         "groupId":9297, "zone":"torso", "category":"top", "security":"82a0a024f5b0443c", "multiLayered":false, "layerBehavior":"normal",
         "name":"Top",  
