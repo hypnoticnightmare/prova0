@@ -14924,24 +14924,7 @@
         ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
         "releaseDate":"2025-04-29"
     },
-    {
-        "groupId":137, "zone":"face", "category":"eyes", "security":"8044fe1bc7ddedb6", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Eyes",  
-        "outfitName":"Red Carpet Spotlight",
-        "variations":[
-            {"id":137, "colors":["grey", "silver"]},
-            {"id":138, "colors":["red"]},
-            {"id":139, "colors":["white"]},
-            {"id":140, "colors":["black"]},
-            {"id":141, "colors":["yellow", "gold"]},
-            {"id":142, "colors":["pink"]},
-            {"id":143, "colors":["green"]},
-            {"id":144, "colors":["purple"]},
-            {"id":145, "colors":["blue"]},
-            {"id":146, "colors":["blue"]}
-        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
-        "releaseDate":"2025-04-29"
-    },
+    
     {
         "groupId":9327, "zone":"head", "category":"wig", "security":"14caad0ca35833b6", "multiLayered":true, "layerBehavior":"normal",
         "name":"Hair",  
@@ -14977,6 +14960,5 @@
             {"id":9276, "colors":["blue"]}
         ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
         "releaseDate":"2025-04-29"
-    }
-    
+    }   
 ]
