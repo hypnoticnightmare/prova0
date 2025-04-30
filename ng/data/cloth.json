@@ -14730,7 +14730,7 @@
         "releaseDate":"2025-04-29"
     },
     {
-        "groupId":9307, "zone":"torso_waistToKnee", "category":"waist", "security":"a82bf99f00fa7272", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":9307, "zone":"torso_waistToKnee", "category":"waist", "security":"a82bf99f00fa7272", "multiLayered":true, "layerBehavior":"normal",
         "name":"Train",  
         "outfitName":"Red Carpet Spotlight",
         "variations":[
@@ -14802,7 +14802,7 @@
         "releaseDate":"2025-04-29"
     },
     {
-        "groupId":9317, "zone":"arms", "category":"armAccessory", "security":"faf5907846bce7e8", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":9317, "zone":"arms", "category":"armAccessory", "security":"faf5907846bce7e8", "multiLayered":true, "layerBehavior":"normal",
         "name":"Bow",  
         "outfitName":"Red Carpet Spotlight",
         "variations":[
@@ -14940,6 +14940,7 @@
             {"id":145, "colors":["blue"]},
             {"id":146, "colors":["blue"]}
         ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
+        "releaseDate":"2025-04-29"
     },
     {
         "groupId":9327, "zone":"head", "category":"wig", "security":"14caad0ca35833b6", "multiLayered":true, "layerBehavior":"normal",
@@ -14957,6 +14958,7 @@
             {"id":9335, "colors":["orange"]},
             {"id":9336, "colors":["pink"]}
         ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
+        "releaseDate":"2025-04-29"
     }
     
 ]
