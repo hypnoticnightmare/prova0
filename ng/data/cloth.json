@@ -14711,6 +14711,8 @@
         ], "criteria":{"type":"calendar", "info":"2025-13", "text":"Desbloqueado en el calendario\nN°13 - 2025"},
         "releaseDate":"2025-04-07"
     },
+
+    
     {
         "groupId":9297, "zone":"torso", "category":"top", "security":"82a0a024f5b0443c", "multiLayered":false, "layerBehavior":"normal",
         "name":"Top",  
@@ -14855,60 +14857,6 @@
         ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
         "releaseDate":"2025-04-29"
     },
-    {
-        "groupId":137, "zone":"face", "category":"eyes", "security":"8044fe1bc7ddedb6", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Eyes",  
-        "outfitName":"Red Carpet Spotlight",
-        "variations":[
-            {"id":137, "colors":["grey", "silver"]},
-            {"id":138, "colors":["red"]},
-            {"id":139, "colors":["white"]},
-            {"id":140, "colors":["black"]},
-            {"id":141, "colors":["yellow", "gold"]},
-            {"id":142, "colors":["pink"]},
-            {"id":143, "colors":["green"]},
-            {"id":144, "colors":["purple"]},
-            {"id":145, "colors":["blue"]},
-            {"id":146, "colors":["blue"]}
-        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
-    },
-    {
-        "groupId":9337, "zone":"arms", "category":"armAccessory", "security":"34ffc44c24ca0818", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Bracelet",  
-        "outfitName":"Red Carpet Spotlight",
-        "variations":[
-            {"id":9337, "colors":["grey", "silver"]},
-            {"id":9338, "colors":["red"]},
-            {"id":9339, "colors":["white"]},
-            {"id":9340, "colors":["black"]},
-            {"id":9341, "colors":["yellow", "gold"]},
-            {"id":9342, "colors":["pink"]},
-            {"id":9343, "colors":["green"]},
-            {"id":9344, "colors":["purple"]},
-            {"id":9345, "colors":["blue"]},
-            {"id":9346, "colors":["blue"]}
-        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
-        "releaseDate":"2025-04-29"
-    },
-    {
-        "groupId":9257, "zone":"face", "category":"neckAccessory", "security":"bc170ae257f40c30", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Necklace",  
-        "outfitName":"Red Carpet Spotlight",
-        "variations":[
-            {"id":9257, "colors":["grey", "silver"]},
-            {"id":9258, "colors":["red"]},
-            {"id":9259, "colors":["white"]},
-            {"id":9260, "colors":["black"]},
-            {"id":9261, "colors":["yellow", "gold"]},
-            {"id":9262, "colors":["pink"]},
-            {"id":9263, "colors":["green"]},
-            {"id":9264, "colors":["purple"]},
-            {"id":9265, "colors":["blue"]},
-            {"id":9266, "colors":["blue"]}
-        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
-        "releaseDate":"2025-04-29"
-    },
-    
     {
         "groupId":9327, "zone":"head", "category":"wig", "security":"14caad0ca35833b6", "multiLayered":true, "layerBehavior":"normal",
         "name":"Hair",  
