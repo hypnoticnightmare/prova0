@@ -14730,7 +14730,7 @@
         "releaseDate":"2025-04-29"
     },
     {
-        "groupId":9307, "zone":"torso_waistToKnee", "category":"waist", "security":"a82bf99f00fa7272", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":9307, "zone":"torso_waistToKnee", "category":"waist", "security":"a82bf99f00fa7272", "multiLayered":true, "layerBehavior":"backInFront",
         "name":"Train",  
         "outfitName":"Red Carpet Spotlight",
         "variations":[
@@ -14802,7 +14802,7 @@
         "releaseDate":"2025-04-29"
     },
     {
-        "groupId":9317, "zone":"arms", "category":"armAccessory", "security":"faf5907846bce7e8", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":9317, "zone":"arms", "category":"armAccessory", "security":"faf5907846bce7e8", "multiLayered":true, "layerBehavior":"backInFront",
         "name":"Bow",  
         "outfitName":"Red Carpet Spotlight",
         "variations":[
