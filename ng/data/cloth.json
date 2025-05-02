@@ -14783,5 +14783,59 @@
             {"id":9276, "colors":["blue"]}
         ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
         "releaseDate":"2025-04-29"
-    }      
+    },
+    {
+        "groupId":6512, "zone":"torso", "category":"top", "security":"b45434ce4301a09a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tank Top",  
+        "outfitName":"Cheering Out",
+        "variations":[
+            {"id":6512, "colors":["purple"]},
+            {"id":6513, "colors":["red"]},
+            {"id":6514, "colors":["black"]},
+            {"id":6515, "colors":["brown"]},
+            {"id":6516, "colors":["white"]},
+            {"id":6517, "colors":["yellow"]},
+            {"id":6518, "colors":["pink"]},
+            {"id":6519, "colors":["purple"]},
+            {"id":6520, "colors":["green"]},
+            {"id":6521, "colors":["blue"]}
+        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
+        "releaseDate":"2025-04-29"
+    },
+    {
+        "groupId":6592, "zone":"torso", "category":"top", "security":"d3c0c3551f95d236", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Jersey",  
+        "outfitName":"Game On",
+        "variations":[
+            {"id":6592, "colors":["purple"]},
+            {"id":6593, "colors":["red"]},
+            {"id":6594, "colors":["black"]},
+            {"id":6595, "colors":["brown"]},
+            {"id":6596, "colors":["white"]},
+            {"id":6597, "colors":["yellow"]},
+            {"id":6598, "colors":["pink"]},
+            {"id":6599, "colors":["purple"]},
+            {"id":6600, "colors":["green"]},
+            {"id":6601, "colors":["blue"]}
+        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
+        "releaseDate":"2025-04-29"
+    },
+    {
+        "groupId":6762, "zone":"torso", "category":"top", "security":"35a328f7860460be", "multiLayered":false, "layerBehavior":"normal",
+        "name":"T-shirt",  
+        "outfitName":"Drive On",
+        "variations":[
+            {"id":6762, "colors":["purple"]},
+            {"id":6763, "colors":["red"]},
+            {"id":6764, "colors":["black"]},
+            {"id":6765, "colors":["brown"]},
+            {"id":6766, "colors":["white"]},
+            {"id":6768, "colors":["yellow"]},
+            {"id":6769, "colors":["pink"]},
+            {"id":6770, "colors":["purple"]},
+            {"id":6771, "colors":["green"]},
+            {"id":6772, "colors":["blue"]}
+        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
+        "releaseDate":"2025-04-29"
+    }
 ]
