@@ -14981,5 +14981,131 @@
             {"id":6621, "colors":["blue"]}
         ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
         "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6682, "zone":"feet", "category":"shoes", "security":"c8b24f1468e44ece", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Heels",  
+        "outfitName":"Lights On",
+        "variations":[
+            {"id":6682, "colors":["purple"]},
+            {"id":6683, "colors":["red"]},
+            {"id":6684, "colors":["black"]},
+            {"id":6685, "colors":["brown"]},
+            {"id":6686, "colors":["white"]},
+            {"id":6687, "colors":["yellow"]},
+            {"id":6688, "colors":["pink"]},
+            {"id":6689, "colors":["purple"]},
+            {"id":6690, "colors":["green"]},
+            {"id":6691, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6742, "zone":"feet", "category":"shoes", "security":"40a0957ca3fec796", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Boots",  
+        "outfitName":"Drive On",
+        "variations":[
+            {"id":6742, "colors":["purple"]},
+            {"id":6743, "colors":["red"]},
+            {"id":6744, "colors":["black"]},
+            {"id":6745, "colors":["brown"]},
+            {"id":6746, "colors":["white"]},
+            {"id":6747, "colors":["yellow"]},
+            {"id":6748, "colors":["pink"]},
+            {"id":6749, "colors":["purple"]},
+            {"id":6750, "colors":["green"]},
+            {"id":6751, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6482, "zone":"feet", "category":"socks", "security":"4da7820a2afeb36e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Socks",  
+        "outfitName":"Cheering On",
+        "variations":[
+            {"id":6482, "colors":["purple"]},
+            {"id":6483, "colors":["red"]},
+            {"id":6484, "colors":["black"]},
+            {"id":6485, "colors":["brown"]},
+            {"id":6486, "colors":["white"]},
+            {"id":6487, "colors":["yellow"]},
+            {"id":6488, "colors":["pink"]},
+            {"id":6489, "colors":["purple"]},
+            {"id":6490, "colors":["green"]},
+            {"id":6491, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6673, "zone":"feet", "category":"socks", "security":"02a1eef8235fed32", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tights",  
+        "outfitName":"Lights On",
+        "variations":[
+            {"id":6673, "colors":["purple"]},
+            {"id":6674, "colors":["red"]},
+            {"id":6675, "colors":["black"]},
+            {"id":6676, "colors":["brown"]},
+            {"id":6677, "colors":["white"]},
+            {"id":6678, "colors":["yellow"]},
+            {"id":6679, "colors":["pink"]},
+            {"id":6680, "colors":["purple"]},
+            {"id":6681, "colors":["green"]},
+            {"id":6682, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6542, "zone":"bags", "category":"armAccessory", "security":"582191211b803eaa", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bag",  
+        "outfitName":"Cheering Out",
+        "variations":[
+            {"id":6542, "colors":["purple"]},
+            {"id":6543, "colors":["red"]},
+            {"id":6544, "colors":["black"]},
+            {"id":6545, "colors":["brown"]},
+            {"id":6546, "colors":["white"]},
+            {"id":6547, "colors":["yellow"]},
+            {"id":6548, "colors":["pink"]},
+            {"id":6549, "colors":["purple"]},
+            {"id":6550, "colors":["green"]},
+            {"id":6551, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6642, "zone":"bags", "category":"armAccessory", "security":"6fe866a32e79eda8", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bag",  
+        "outfitName":"Negotiations On",
+        "variations":[
+            {"id":6642, "colors":["purple"]},
+            {"id":6643, "colors":["red"]},
+            {"id":6644, "colors":["black"]},
+            {"id":6645, "colors":["brown"]},
+            {"id":6646, "colors":["white"]},
+            {"id":6647, "colors":["yellow"]},
+            {"id":6648, "colors":["pink"]},
+            {"id":6649, "colors":["purple"]},
+            {"id":6650, "colors":["green"]},
+            {"id":6651, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6772, "zone":"bags", "category":"armAccessory", "security":"a4c15eb1db6f5b48", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Helmet",  
+        "outfitName":"Drive On",
+        "variations":[
+            {"id":6772, "colors":["purple"]},
+            {"id":6773, "colors":["red"]},
+            {"id":6774, "colors":["black"]},
+            {"id":6775, "colors":["brown"]},
+            {"id":6776, "colors":["white"]},
+            {"id":6777, "colors":["yellow"]},
+            {"id":6778, "colors":["pink"]},
+            {"id":6779, "colors":["purple"]},
+            {"id":6780, "colors":["green"]},
+            {"id":6781, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
+        "releaseDate":"2025-05-02"
     }
 ]
