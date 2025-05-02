@@ -14799,8 +14799,8 @@
             {"id":6519, "colors":["purple"]},
             {"id":6520, "colors":["green"]},
             {"id":6521, "colors":["blue"]}
-        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
-        "releaseDate":"2025-04-29"
+        ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
+        "releaseDate":"2025-05-02"
     },
     {
         "groupId":6592, "zone":"torso", "category":"top", "security":"d3c0c3551f95d236", "multiLayered":false, "layerBehavior":"normal",
@@ -14817,8 +14817,8 @@
             {"id":6599, "colors":["purple"]},
             {"id":6600, "colors":["green"]},
             {"id":6601, "colors":["blue"]}
-        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
-        "releaseDate":"2025-04-29"
+        ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
+        "releaseDate":"2025-05-02"
     },
     {
         "groupId":6762, "zone":"torso", "category":"top", "security":"35a328f7860460be", "multiLayered":false, "layerBehavior":"normal",
@@ -14835,7 +14835,151 @@
             {"id":6770, "colors":["purple"]},
             {"id":6771, "colors":["green"]},
             {"id":6772, "colors":["blue"]}
-        ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
-        "releaseDate":"2025-04-29"
+        ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6622, "zone":"torso_waistToKnee", "category":"dress", "security":"dc19fc3b406edc9d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Dress",  
+        "outfitName":"Negotiations On",
+        "variations":[
+            {"id":6622, "colors":["purple"]},
+            {"id":6623, "colors":["red"]},
+            {"id":6624, "colors":["black"]},
+            {"id":6625, "colors":["brown"]},
+            {"id":6626, "colors":["white"]},
+            {"id":6628, "colors":["yellow"]},
+            {"id":6629, "colors":["pink"]},
+            {"id":6630, "colors":["purple"]},
+            {"id":6631, "colors":["green"]},
+            {"id":6632, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6692, "zone":"torso_waistToKnee", "category":"dress", "security":"4ba43f96574f806a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Dress",  
+        "outfitName":"Lights On",
+        "variations":[
+            {"id":6692, "colors":["purple"]},
+            {"id":6693, "colors":["red"]},
+            {"id":6694, "colors":["black"]},
+            {"id":6695, "colors":["brown"]},
+            {"id":6696, "colors":["white"]},
+            {"id":6698, "colors":["yellow"]},
+            {"id":6699, "colors":["pink"]},
+            {"id":6700, "colors":["purple"]},
+            {"id":6701, "colors":["green"]},
+            {"id":6702, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6522, "zone":"torso", "category":"jacket", "security":"c54a9716ed14c041", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shirt",  
+        "outfitName":"Cheering Out",
+        "variations":[
+            {"id":6522, "colors":["purple"]},
+            {"id":6523, "colors":["red"]},
+            {"id":6524, "colors":["black"]},
+            {"id":6525, "colors":["brown"]},
+            {"id":6526, "colors":["white"]},
+            {"id":6527, "colors":["yellow"]},
+            {"id":6528, "colors":["pink"]},
+            {"id":6529, "colors":["purple"]},
+            {"id":6530, "colors":["green"]},
+            {"id":6531, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6652, "zone":"torso", "category":"jacket", "security":"69aff1e7b42ed7c4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Jacket",  
+        "outfitName":"Negotiations On",
+        "variations":[
+            {"id":6652, "colors":["purple"]},
+            {"id":6653, "colors":["red"]},
+            {"id":6654, "colors":["black"]},
+            {"id":6655, "colors":["brown"]},
+            {"id":6656, "colors":["white"]},
+            {"id":6658, "colors":["yellow"]},
+            {"id":6659, "colors":["pink"]},
+            {"id":6660, "colors":["purple"]},
+            {"id":6661, "colors":["green"]},
+            {"id":6662, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6572, "zone":"torso", "category":"jacket", "security":"b6917896a2250991", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Belt",  
+        "outfitName":"Game On",
+        "variations":[
+            {"id":6572, "colors":["purple"]},
+            {"id":6573, "colors":["red"]},
+            {"id":6574, "colors":["black"]},
+            {"id":6575, "colors":["brown"]},
+            {"id":6576, "colors":["white"]},
+            {"id":6577, "colors":["yellow"]},
+            {"id":6578, "colors":["pink"]},
+            {"id":6579, "colors":["purple"]},
+            {"id":6580, "colors":["green"]},
+            {"id":6581, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6492, "zone":"feet", "category":"shoes", "security":"15dd5284a15cbca5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sneakers",  
+        "outfitName":"Cheering Out",
+        "variations":[
+            {"id":6492, "colors":["purple"]},
+            {"id":6493, "colors":["red"]},
+            {"id":6494, "colors":["black"]},
+            {"id":6495, "colors":["brown"]},
+            {"id":6496, "colors":["white"]},
+            {"id":6497, "colors":["yellow"]},
+            {"id":6498, "colors":["pink"]},
+            {"id":6499, "colors":["purple"]},
+            {"id":6450, "colors":["green"]},
+            {"id":6451, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6562, "zone":"feet", "category":"shoes", "security":"4d361e7bbeb7bf2a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Boots",  
+        "outfitName":"Game On",
+        "variations":[
+            {"id":6562, "colors":["purple"]},
+            {"id":6563, "colors":["red"]},
+            {"id":6564, "colors":["black"]},
+            {"id":6565, "colors":["brown"]},
+            {"id":6566, "colors":["white"]},
+            {"id":6567, "colors":["yellow"]},
+            {"id":6568, "colors":["pink"]},
+            {"id":6569, "colors":["purple"]},
+            {"id":6570, "colors":["green"]},
+            {"id":6571, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6612, "zone":"feet", "category":"shoes", "security":"0266567ade28e5d9", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Heels",  
+        "outfitName":"Negotiation On",
+        "variations":[
+            {"id":6612, "colors":["purple"]},
+            {"id":6613, "colors":["red"]},
+            {"id":6614, "colors":["black"]},
+            {"id":6615, "colors":["brown"]},
+            {"id":6616, "colors":["white"]},
+            {"id":6617, "colors":["yellow"]},
+            {"id":6618, "colors":["pink"]},
+            {"id":6619, "colors":["purple"]},
+            {"id":6620, "colors":["green"]},
+            {"id":6621, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
+        "releaseDate":"2025-05-02"
     }
 ]
