@@ -14911,7 +14911,7 @@
         "releaseDate":"2025-05-02"
     },
     {
-        "groupId":6572, "zone":"torso", "category":"jacket", "security":"b6917896a2250991", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":6572, "zone":"torso", "category":"belts", "security":"b6917896a2250991", "multiLayered":false, "layerBehavior":"normal",
         "name":"Belt",  
         "outfitName":"Game On",
         "variations":[
@@ -15055,7 +15055,7 @@
         "releaseDate":"2025-05-02"
     },
     {
-        "groupId":6542, "zone":"bags", "category":"armAccessory", "security":"582191211b803eaa", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":6542, "zone":"arms", "category":"bag", "security":"582191211b803eaa", "multiLayered":false, "layerBehavior":"normal",
         "name":"Bag",  
         "outfitName":"Cheering Out",
         "variations":[
@@ -15073,7 +15073,7 @@
         "releaseDate":"2025-05-02"
     },
     {
-        "groupId":6642, "zone":"bags", "category":"armAccessory", "security":"6fe866a32e79eda8", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":6642, "zone":"arms", "category":"bags", "security":"6fe866a32e79eda8", "multiLayered":false, "layerBehavior":"normal",
         "name":"Bag",  
         "outfitName":"Negotiations On",
         "variations":[
@@ -15091,21 +15091,94 @@
         "releaseDate":"2025-05-02"
     },
     {
-        "groupId":6772, "zone":"bags", "category":"armAccessory", "security":"a4c15eb1db6f5b48", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Helmet",  
-        "outfitName":"Drive On",
+        "groupId":6602, "zone":"arms", "category":"armAccessory", "security":"ff1103a296a34a75", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Rings",  
+        "outfitName":"Game On",
         "variations":[
-            {"id":6772, "colors":["purple"]},
-            {"id":6773, "colors":["red"]},
-            {"id":6774, "colors":["black"]},
-            {"id":6775, "colors":["brown"]},
-            {"id":6776, "colors":["white"]},
-            {"id":6777, "colors":["yellow"]},
-            {"id":6778, "colors":["pink"]},
-            {"id":6779, "colors":["purple"]},
-            {"id":6780, "colors":["green"]},
-            {"id":6781, "colors":["blue"]}
+            {"id":6602, "colors":["purple"]},
+            {"id":6603, "colors":["red"]},
+            {"id":6604, "colors":["black"]},
+            {"id":6605, "colors":["brown"]},
+            {"id":6606, "colors":["white"]},
+            {"id":6607, "colors":["yellow"]},
+            {"id":6608, "colors":["pink"]},
+            {"id":6609, "colors":["purple"]},
+            {"id":6610, "colors":["green"]},
+            {"id":6611, "colors":["blue"]}
         ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
         "releaseDate":"2025-05-02"
-    }
+    },
+    {
+        "groupId":6722, "zone":"arms", "category":"armAccessory", "security":"0aea10e7b418ff34", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bracelet",  
+        "outfitName":"Drive On",
+        "variations":[
+            {"id":6722, "colors":["purple"]},
+            {"id":6723, "colors":["red"]},
+            {"id":6724, "colors":["black"]},
+            {"id":6725, "colors":["brown"]},
+            {"id":6726, "colors":["white"]},
+            {"id":6727, "colors":["yellow"]},
+            {"id":6728, "colors":["pink"]},
+            {"id":6729, "colors":["purple"]},
+            {"id":6730, "colors":["green"]},
+            {"id":6731, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6532, "zone":"face", "category":"neckAccessory", "security":"fdc3822ec953a35a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Necklace",  
+        "outfitName":"Cheering Out",
+        "variations":[
+            {"id":6532, "colors":["purple"]},
+            {"id":6533, "colors":["red"]},
+            {"id":6534, "colors":["black"]},
+            {"id":6535, "colors":["brown"]},
+            {"id":6536, "colors":["white"]},
+            {"id":6537, "colors":["yellow"]},
+            {"id":6538, "colors":["pink"]},
+            {"id":6539, "colors":["purple"]},
+            {"id":6540, "colors":["green"]},
+            {"id":6541, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6582, "zone":"face", "category":"neckAccessory", "security":"1eb95d2dd5a60684", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Necklace",  
+        "outfitName":"Game On",
+        "variations":[
+            {"id":6582, "colors":["purple"]},
+            {"id":6583, "colors":["red"]},
+            {"id":6584, "colors":["black"]},
+            {"id":6585, "colors":["brown"]},
+            {"id":6586, "colors":["white"]},
+            {"id":6587, "colors":["yellow"]},
+            {"id":6588, "colors":["pink"]},
+            {"id":6589, "colors":["purple"]},
+            {"id":6590, "colors":["green"]},
+            {"id":6591, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
+        "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6582, "zone":"face", "category":"neckAccessory", "security":"1eb95d2dd5a60684", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Necklace",  
+        "outfitName":"Game On",
+        "variations":[
+            {"id":6582, "colors":["purple"]},
+            {"id":6583, "colors":["red"]},
+            {"id":6584, "colors":["black"]},
+            {"id":6585, "colors":["brown"]},
+            {"id":6586, "colors":["white"]},
+            {"id":6587, "colors":["yellow"]},
+            {"id":6588, "colors":["pink"]},
+            {"id":6589, "colors":["purple"]},
+            {"id":6590, "colors":["green"]},
+            {"id":6591, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
+        "releaseDate":"2025-05-02"
+    },
+    
 ]
