@@ -15236,8 +15236,8 @@
     },
     {
         "groupId":6502, "zone":"waistToKnee", "category":"skirt", "security":"34f3783ef0eb7ec6", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Pants",  
-        "outfitName":"Game On",
+        "name":"Skirt",  
+        "outfitName":"Cheering Out",
         "variations":[
             {"id":6502, "colors":["purple"]},
             {"id":6503, "colors":["red"]},
