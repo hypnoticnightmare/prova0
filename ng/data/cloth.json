@@ -14784,6 +14784,9 @@
         ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
         "releaseDate":"2025-04-29"
     },
+
+// Episode 15
+    
     {
         "groupId":6512, "zone":"torso", "category":"top", "security":"b45434ce4301a09a", "multiLayered":false, "layerBehavior":"normal",
         "name":"Tank Top",  
