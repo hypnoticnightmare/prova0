@@ -15163,22 +15163,39 @@
         "releaseDate":"2025-05-02"
     },
     {
-        "groupId":6582, "zone":"face", "category":"neckAccessory", "security":"1eb95d2dd5a60684", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":6632, "zone":"face", "category":"neckAccessory", "security":"9e56a1278a572eca", "multiLayered":false, "layerBehavior":"normal",
         "name":"Necklace",  
-        "outfitName":"Game On",
+        "outfitName":"Negotiations On",
         "variations":[
-            {"id":6582, "colors":["purple"]},
-            {"id":6583, "colors":["red"]},
-            {"id":6584, "colors":["black"]},
-            {"id":6585, "colors":["brown"]},
-            {"id":6586, "colors":["white"]},
-            {"id":6587, "colors":["yellow"]},
-            {"id":6588, "colors":["pink"]},
-            {"id":6589, "colors":["purple"]},
-            {"id":6590, "colors":["green"]},
-            {"id":6591, "colors":["blue"]}
+            {"id":6632, "colors":["purple"]},
+            {"id":6633, "colors":["red"]},
+            {"id":6634, "colors":["black"]},
+            {"id":6635, "colors":["brown"]},
+            {"id":6636, "colors":["white"]},
+            {"id":6637, "colors":["yellow"]},
+            {"id":6638, "colors":["pink"]},
+            {"id":6639, "colors":["purple"]},
+            {"id":6640, "colors":["green"]},
+            {"id":6641, "colors":["blue"]}
         ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
         "releaseDate":"2025-05-02"
     },
-    
+    {
+        "groupId":6712, "zone":"head", "category":"hats", "security":"05003f8496ce4605", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Necklace",  
+        "outfitName":"Lights On",
+        "variations":[
+            {"id":6712, "colors":["purple"]},
+            {"id":6713, "colors":["red"]},
+            {"id":6714, "colors":["black"]},
+            {"id":6715, "colors":["brown"]},
+            {"id":6716, "colors":["white"]},
+            {"id":6717, "colors":["yellow"]},
+            {"id":6718, "colors":["pink"]},
+            {"id":6719, "colors":["purple"]},
+            {"id":6720, "colors":["green"]},
+            {"id":6721, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
+        "releaseDate":"2025-05-02"
+    }
 ]
