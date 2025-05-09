@@ -14552,7 +14552,7 @@
     {
         "groupId":9067, "zone":"torso", "category":"top", "security":"a821c7f38f7de529", "multiLayered":false, "layerBehavior":"normal",
         "name":"Shirt",
-        "outfitName":"Skirt 'n' Skates",
+        "outfitName":"Shirt 'n' Skates",
         "variations":[
             {"id":9067, "colors":["pink"]},
             {"id":9068, "colors":["white"]},
