@@ -332,6 +332,60 @@
                     {"id":146, "colors":["blue"]}
                 ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
                 "releaseDate":"2025-04-29"
+            },
+            {
+                "groupId":147, "zone":"face", "category":"eyes", "security":"5ddc3ca48d0d4dd8",
+                "name":"Eyes",  
+                "outfitName":"Lights on",
+                "variations":[
+                    {"id":147, "colors":["grey", "silver"]},
+                    {"id":148, "colors":["red"]},
+                    {"id":149, "colors":["white"]},
+                    {"id":150, "colors":["black"]},
+                    {"id":151, "colors":["yellow", "gold"]},
+                    {"id":152, "colors":["pink"]},
+                    {"id":153, "colors":["green"]},
+                    {"id":154, "colors":["purple"]},
+                    {"id":155, "colors":["blue"]},
+                    {"id":156, "colors":["blue"]}
+                ], "criteria":{"type":"episode", "info":"Lights On", "text":"Unlocked after playing Episode 15"},
+                "releaseDate":"2025-04-29"
+            },
+            {
+                "groupId":157, "zone":"face", "category":"eyes", "security":"132138047a0e6ae4",
+                "name":"Eyes",  
+                "outfitName":"Game on",
+                "variations":[
+                    {"id":157, "colors":["grey", "silver"]},
+                    {"id":158, "colors":["red"]},
+                    {"id":159, "colors":["white"]},
+                    {"id":160, "colors":["black"]},
+                    {"id":161, "colors":["yellow", "gold"]},
+                    {"id":162, "colors":["pink"]},
+                    {"id":163, "colors":["green"]},
+                    {"id":164, "colors":["purple"]},
+                    {"id":165, "colors":["blue"]},
+                    {"id":166, "colors":["blue"]}
+                ], "criteria":{"type":"episode", "info":"Game On", "text":"Unlocked after playing Episode 15"},
+                "releaseDate":"2025-04-29"
+            },
+            {
+                "groupId":167, "zone":"face", "category":"eyes", "security":"650aad90cfb07a3f",
+                "name":"Eyes",  
+                "outfitName":"Drive on",
+                "variations":[
+                    {"id":167, "colors":["grey", "silver"]},
+                    {"id":168, "colors":["red"]},
+                    {"id":169, "colors":["white"]},
+                    {"id":170, "colors":["black"]},
+                    {"id":171, "colors":["yellow", "gold"]},
+                    {"id":172, "colors":["pink"]},
+                    {"id":173, "colors":["green"]},
+                    {"id":174, "colors":["purple"]},
+                    {"id":175, "colors":["blue"]},
+                    {"id":176, "colors":["blue"]}
+                ], "criteria":{"type":"episode", "info":"Game On", "text":"Unlocked after playing Episode 15"},
+                "releaseDate":"2025-04-29"
             }
         ],
         "mouth":[
