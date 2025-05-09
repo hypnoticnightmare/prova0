@@ -15219,7 +15219,7 @@
     {
         "groupId":6553, "zone":"waistToKnee", "category":"bottoms", "security":"7b8198077d3b69e4", "multiLayered":false, "layerBehavior":"normal",
         "name":"Pants",  
-        "outfitName":"Drive On",
+        "outfitName":"Game On",
         "variations":[
             {"id":6553, "colors":["purple"]},
             {"id":6554, "colors":["red"]},
