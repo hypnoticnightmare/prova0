@@ -348,8 +348,8 @@
                     {"id":154, "colors":["purple"]},
                     {"id":155, "colors":["blue"]},
                     {"id":156, "colors":["blue"]}
-                ], "criteria":{"type":"episode", "info":"Lights On", "text":"Unlocked after playing Episode 15"},
-                "releaseDate":"2025-04-29"
+                ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked after playing Episode 15"},
+                "releaseDate":"2025-05-02"
             },
             {
                 "groupId":157, "zone":"face", "category":"eyes", "security":"132138047a0e6ae4",
@@ -366,8 +366,8 @@
                     {"id":164, "colors":["purple"]},
                     {"id":165, "colors":["blue"]},
                     {"id":166, "colors":["blue"]}
-                ], "criteria":{"type":"episode", "info":"Game On", "text":"Unlocked after playing Episode 15"},
-                "releaseDate":"2025-04-29"
+                ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked after playing Episode 15"},
+                "releaseDate":"2025-05-02"
             },
             {
                 "groupId":167, "zone":"face", "category":"eyes", "security":"650aad90cfb07a3f",
@@ -384,8 +384,8 @@
                     {"id":174, "colors":["purple"]},
                     {"id":175, "colors":["blue"]},
                     {"id":176, "colors":["blue"]}
-                ], "criteria":{"type":"episode", "info":"Game On", "text":"Unlocked after playing Episode 15"},
-                "releaseDate":"2025-04-29"
+                ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked after playing Episode 15"},
+                "releaseDate":"2025-05-02"
             }
         ],
         "mouth":[
@@ -608,8 +608,8 @@
                     {"id":168, "colors":["brown"]},
                     {"id":169, "colors":["white"]},
                     {"id":170, "colors":["black"]}
-                ], "criteria":{"type":"episode", "info":"Episode 15", "text":"Unlocked after playing episode 15"},
-                "releaseDate":"2025-04-15"
+                ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked after playing episode 15"},
+                "releaseDate":"2025-05-02"
             },
             {
                 "groupId":151, "zone":"face", "category":"mouth", "security":"ff168129a98cc173",
@@ -626,8 +626,8 @@
                     {"id":158, "colors":["brown"]},
                     {"id":159, "colors":["white"]},
                     {"id":160, "colors":["black"]}
-                ], "criteria":{"type":"episode", "info":"Episode 15", "text":"Unlocked after playing episode 15"},
-                "releaseDate":"2025-04-15"
+                ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked after playing episode 15"},
+                "releaseDate":"2025-05-02"
             },
         ]
     },
