@@ -15233,5 +15233,23 @@
             {"id":6562, "colors":["blue"]}
         ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
         "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6502, "zone":"waistToKnee", "category":"skirts", "security":"34f3783ef0eb7ec6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pants",  
+        "outfitName":"Game On",
+        "variations":[
+            {"id":6502, "colors":["purple"]},
+            {"id":6503, "colors":["red"]},
+            {"id":6504, "colors":["black"]},
+            {"id":6505, "colors":["brown"]},
+            {"id":6506, "colors":["white"]},
+            {"id":6507, "colors":["yellow"]},
+            {"id":6508, "colors":["pink"]},
+            {"id":6509, "colors":["purple"]},
+            {"id":6510, "colors":["green"]},
+            {"id":6511, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
+        "releaseDate":"2025-05-02"
     }
 ]
