@@ -1,9 +1,9 @@
 $(document).ready(function() {
-    $.get("./data/cloth.json", dbCloth => {
-        $.get("./data/avatar.json", dbAvatar => {
-            $.get("./data/room.json", dbRoom => {
-                $.get("./data/pet.json", dbPet => {
-                    $.get("./data/crush.json", dbCrush => {
+    $.fetch("./data/cloth.json", dbCloth => {
+        $.fetch("./data/avatar.json", dbAvatar => {
+            $.fetch("./data/room.json", dbRoom => {
+                $.fetch("./data/pet.json", dbPet => {
+                    $.fetch("./data/crush.json", dbCrush => {
                     
                         cloth = dbCloth;
                         avatar = dbAvatar;
@@ -20,7 +20,7 @@ $(document).ready(function() {
                         drawAvatarZone();
                         $("#asng-z-index .ss-scroll").addClass("ss-hidden");
 
-                        checkAndGetTempCode();
+                        checkAndfetchTempCode();
                         codeUpdate();
                         currentPage("wardrobe");
                         // tempWM("load");
@@ -39,7 +39,7 @@ async function tempWM(type) {
     } else if (type == "save") {
 
         if ($("#save-canvas").length == 1 && $("#save-canvas").attr("width") != 1920) {
-            let ctx = document.getElementById("save-canvas").getContext("2d");
+            let ctx = document.fetchElementById("save-canvas").fetchContext("2d");
 
             let w = 1200, h = 1550;
             let t = h * 34/100, l = w * 44/100;
@@ -321,7 +321,7 @@ function drawAvatarZone(c = "top", z = "auto") {
         // change category !
         $(".category-list-item.current").removeClass("current");
         $(`.category-list-item[data-category="${c}"]`).addClass("current");
-        $(".current-category").text(getCategoryName(c));
+        $(".current-category").text(fetchCategoryName(c));
         toggleCategoryMenu("open");
         drawCategory(c);
     };
@@ -370,7 +370,7 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
 
                 // draw avatar base
 
-                var ctx = $("#save-canvas").length == 0 ? document.getElementById("avatar-base").getContext("2d") : document.getElementById("save-canvas").getContext("2d");
+                var ctx = $("#save-canvas").length == 0 ? document.fetchElementById("avatar-base").fetchContext("2d") : document.fetchElementById("save-canvas").fetchContext("2d");
                 if (mode == "update_avatar" || mode == "basics") ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
 
                 let w = 1200, h = 1550;
@@ -489,7 +489,7 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
         };
 
     } else if (mode == "replace") {
-        var ctx = document.getElementsByClassName("avatar-canvas")[rd].getContext("2d");
+        var ctx = document.fetchElementsByClassName("avatar-canvas")[rd].fetchContext("2d");
         
         var T = sucrette.orderInfo[rd].category != "hair" ? "cloth" : "avatar-part";
         var V = sucrette.orderInfo[rd].category != "hair" ? sucrette.orderInfo[rd].value : sucrette.avatar.hair;
@@ -510,12 +510,12 @@ async function newCanvas(info, img, i = new Number, p = "append") {
             $("#asng-avatar").prepend(`<canvas class="avatar-canvas" data-info="${info}" width="1200" height="1550"></canvas>`);
         };
 
-        var ctx = document.getElementsByClassName("avatar-canvas")[i].getContext("2d");
+        var ctx = document.fetchElementsByClassName("avatar-canvas")[i].fetchContext("2d");
         ready = await preloadIMG(img);
         ctx.drawImage(ready, 0, 0, 1200, 1550);
 
     } else {
-        var ctx = document.getElementById("save-canvas").getContext("2d");
+        var ctx = document.fetchElementById("save-canvas").fetchContext("2d");
         ready = await preloadIMG(img);
         ( $("#save-canvas").attr("width") == 1200 ) ?
         ctx.drawImage(ready, 0, 0, 1200, 1550) : ctx.drawImage(ready, 0, 0, 1920, 1080);
@@ -776,7 +776,7 @@ function drawZIndex() {
         $("#z-index-content .item").eq(z).append(`<img resolution="${hr}" src="${img}">`);
 
         if (l != null) {
-            let p = window.localStorage.getItem("personality");
+            let p = window.localStorage.fetchItem("personality");
 
             if (l == "front") {
                 $("#z-index-content .item").eq(z).append(`<div class="front-icon"><img src="assets/personalization/z-index/top-${p}.svg"</div>`);
@@ -839,7 +839,7 @@ function arrayMove(from, to) {
 };
 
 function moveCanvas(from, to) {
-    let elmnt = document.getElementsByClassName("avatar-canvas")[from];
+    let elmnt = document.fetchElementsByClassName("avatar-canvas")[from];
     if (from > to) { // baja
         elmnt.parentNode.insertBefore(elmnt, elmnt.previousElementSibling);
     } else { // sube
@@ -982,7 +982,7 @@ async function drawBackgroundPopUp(elmnt = "#save-canvas") {
 
     if (elmnt == "#save-canvas") $("#loading-layout").addClass("room");
 
-    let ctx = document.querySelector(elmnt).getContext("2d");
+    let ctx = document.querySelector(elmnt).fetchContext("2d");
     let w = ctx.canvas.width, h = ctx.canvas.height;
     let size = elmnt == "#save-canvas" ? "md" : rr;
 
@@ -994,7 +994,7 @@ async function drawBackgroundPopUp(elmnt = "#save-canvas") {
     // temp canvas
     const e = document.createElement("canvas");
     e.width = w; e.height = h;
-    const p = e.getContext("2d");
+    const p = e.fetchContext("2d");
 
     // Filters
     let bgEffects = room.filter(v => v.security == sucrette.room.background.split("-")[1]);
@@ -1069,11 +1069,11 @@ async function drawBackgroundPopUp(elmnt = "#save-canvas") {
     if (elmnt.includes("asng-room-canvas")) {
         // No es popup
         let copy = null;
-        let main = document.querySelector(elmnt).getContext("2d");
+        let main = document.querySelector(elmnt).fetchContext("2d");
         if (elmnt.includes("preview")) {
-            copy = document.querySelector(".asng-room-canvas").getContext("2d");
+            copy = document.querySelector(".asng-room-canvas").fetchContext("2d");
         } else {
-            copy = document.querySelector(".asng-room-canvas.preview").getContext("2d");
+            copy = document.querySelector(".asng-room-canvas.preview").fetchContext("2d");
         };
 
         copy.drawImage(main.canvas, 0, 0, copy.canvas.width, copy.canvas.height);
@@ -1165,7 +1165,7 @@ function drawCrushPortraits() {
 async function drawCrush(save = false) {
 
     let item = sucrette.crush.outfit;
-    let ctx = !save ? document.getElementById("crush-canvas").getContext("2d") : document.getElementById("save-canvas").getContext("2d");
+    let ctx = !save ? document.fetchElementById("crush-canvas").fetchContext("2d") : document.fetchElementById("save-canvas").fetchContext("2d");
     let w = 1200, h = 1550;
 
     if (item != null) {
@@ -1227,11 +1227,11 @@ $(function () {
 
     $(document).on('click', function (event) {
         if ($("asng-category-list .list.open").length == 1) {
-            if (!$(event.target).closest('asng-category-list .list').length && !$(event.target).closest('.category-list-current-category').length) {
+            if (!$(event.tarfetch).closest('asng-category-list .list').length && !$(event.tarfetch).closest('.category-list-current-category').length) {
                 toggleCategoryMenu("open");
             };
         } else if ($("asng-crush-list .list.open").length == 1) {
-            if (!$(event.target).closest('asng-crush-list .list').length && !$(event.target).closest('.crush-list-current-crush').length) {
+            if (!$(event.tarfetch).closest('asng-crush-list .list').length && !$(event.tarfetch).closest('.crush-list-current-crush').length) {
                 toggleCategoryMenu("open", true);
             };
         };
@@ -1290,7 +1290,7 @@ $(function () {
         if (!clase.includes("current")) {
             $(".category-list-item.current").removeClass("current");
             $(this).addClass("current");
-            $(".current-category").text(getCategoryName($(this).attr("data-category")));
+            $(".current-category").text(fetchCategoryName($(this).attr("data-category")));
             toggleCategoryMenu("open");
             drawCategory($(this).attr("data-category"));
             drawAvatarZone($(this).attr("data-category"));
@@ -1419,7 +1419,7 @@ $(function () {
         
         if (newCategory != "general") {
             $(`.category-list-item[data-category="${newCategory}"]`).addClass("current");
-            $(".current-category").text(getCategoryName($(".category-list-item.current").attr("data-category")));
+            $(".current-category").text(fetchCategoryName($(".category-list-item.current").attr("data-category")));
 
             drawCategory(newCategory);
 
@@ -1433,7 +1433,7 @@ $(function () {
 
         } else {
             $(`.category-list-item[data-category="tattoo"]`).addClass("current");
-            $(".current-category").text(getCategoryName($(".category-list-item.current").attr("data-category")));
+            $(".current-category").text(fetchCategoryName($(".category-list-item.current").attr("data-category")));
 
             drawCategory("tattoo");
             drawAvatarZone("tattoo", "general");
@@ -1673,7 +1673,7 @@ $(function () {
     $('body').on("click", "#canvas-container .reload", function() {
         let w = parseInt($("#save-canvas").attr("width"));
         let h = parseInt($("#save-canvas").attr("height"));
-        document.getElementById("save-canvas").getContext("2d").clearRect(0, 0, w, h);
+        document.fetchElementById("save-canvas").fetchContext("2d").clearRect(0, 0, w, h);
 
         if ($(".room-panel").length == 0) {
             (w != 1920) ? drawSucrette("hd", "load") : drawSucrette("md", "load");
@@ -1776,7 +1776,7 @@ $(function () {
     $("#z-index-content").on("click", ".cdk-drag.item img", function() {
         let category = $(this).parent().attr("data-category");
         drawAvatarZone(category);
-        $(".current-category").text( getCategoryName(category) );
+        $(".current-category").text( fetchCategoryName(category) );
         $(".category-list-item.current").removeClass("current");
         $(`.category-list-item[data-category="${category}"]`).addClass("current");
         drawCategory(category);
@@ -1787,7 +1787,7 @@ $(function () {
     });
 });
 
-function getCategoryName(arg) {
+function fetchCategoryName(arg) {
     if (arg == "hat") return "Sombreros";
     if (arg == "wig") return "Pelucas";
     if (arg == "eyebrows") return "Cejas";
