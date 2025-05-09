@@ -15197,5 +15197,23 @@
             {"id":6721, "colors":["blue"]}
         ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
         "releaseDate":"2025-05-02"
+    },
+    {
+        "groupId":6732, "zone":"waistToKnee", "category":"bottoms", "security":"c73f20efc916c1af", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pants",  
+        "outfitName":"Drive On",
+        "variations":[
+            {"id":6732, "colors":["purple"]},
+            {"id":6733, "colors":["red"]},
+            {"id":6734, "colors":["black"]},
+            {"id":6735, "colors":["brown"]},
+            {"id":6736, "colors":["white"]},
+            {"id":6737, "colors":["yellow"]},
+            {"id":6738, "colors":["pink"]},
+            {"id":6739, "colors":["purple"]},
+            {"id":6740, "colors":["green"]},
+            {"id":6741, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked during episode 15"},
+        "releaseDate":"2025-05-02"
     }
 ]
