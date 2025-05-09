@@ -1,9 +1,9 @@
 $(document).ready(function() {
-    $.fetch("./data/cloth.json", dbCloth => {
-        $.fetch("./data/avatar.json", dbAvatar => {
-            $.fetch("./data/room.json", dbRoom => {
-                $.fetch("./data/pet.json", dbPet => {
-                    $.fetch("./data/crush.json", dbCrush => {
+    $.get("./data/cloth.json", dbCloth => {
+        $.get("./data/avatar.json", dbAvatar => {
+            $.get("./data/room.json", dbRoom => {
+                $.get("./data/pet.json", dbPet => {
+                    $.get("./data/crush.json", dbCrush => {
                     
                         cloth = dbCloth;
                         avatar = dbAvatar;
