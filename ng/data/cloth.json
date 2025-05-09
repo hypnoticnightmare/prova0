@@ -15199,7 +15199,7 @@
         "releaseDate":"2025-05-02"
     },
     {
-        "groupId":6732, "zone":"waistToKnee", "category":"bottoms", "security":"c73f20efc916c1af", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":6732, "zone":"waistToKnee", "category":"pants", "security":"c73f20efc916c1af", "multiLayered":false, "layerBehavior":"normal",
         "name":"Pants",  
         "outfitName":"Drive On",
         "variations":[
@@ -15217,7 +15217,7 @@
         "releaseDate":"2025-05-02"
     },
     {
-        "groupId":6553, "zone":"waistToKnee", "category":"bottoms", "security":"7b8198077d3b69e4", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":6553, "zone":"waistToKnee", "category":"pants", "security":"7b8198077d3b69e4", "multiLayered":false, "layerBehavior":"normal",
         "name":"Pants",  
         "outfitName":"Game On",
         "variations":[
