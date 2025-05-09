@@ -15235,7 +15235,7 @@
         "releaseDate":"2025-05-02"
     },
     {
-        "groupId":6502, "zone":"waistToKnee", "category":"skirts", "security":"34f3783ef0eb7ec6", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":6502, "zone":"waistToKnee", "category":"skirt", "security":"34f3783ef0eb7ec6", "multiLayered":false, "layerBehavior":"normal",
         "name":"Pants",  
         "outfitName":"Game On",
         "variations":[
