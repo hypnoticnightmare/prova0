@@ -317,74 +317,74 @@
             },
             {
                 "groupId":137, "zone":"face", "category":"eyes", "security":"8044fe1bc7ddedb6",
-                "name":"Eyes",  
+                "name":"Ojos",
                 "outfitName":"Red Carpet Spotlight",
                 "variations":[
-                    {"id":137, "colors":["grey", "silver"]},
-                    {"id":138, "colors":["red"]},
-                    {"id":139, "colors":["white"]},
+                    {"id":137, "colors":["golden","yellow"]},
+                    {"id":138, "colors":["silver","white"]},
+                    {"id":139, "colors":["red"]},
                     {"id":140, "colors":["black"]},
-                    {"id":141, "colors":["yellow", "gold"]},
+                    {"id":141, "colors":["brown"]},
                     {"id":142, "colors":["pink"]},
                     {"id":143, "colors":["green"]},
                     {"id":144, "colors":["purple"]},
                     {"id":145, "colors":["blue"]},
                     {"id":146, "colors":["blue"]}
-                ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Unlocked through event meter"},
+                ], "criteria":{"type":"gauge", "info":"Red Carpet Spotlight", "text":"Desbloqueado en el evento de medidor\nRed Carpet Spotlight"},
                 "releaseDate":"2025-04-29"
             },
             {
                 "groupId":147, "zone":"face", "category":"eyes", "security":"5ddc3ca48d0d4dd8",
-                "name":"Eyes",  
-                "outfitName":"Lights on",
+                "name":"Ojos",
+                "outfitName":"Lights On",
                 "variations":[
-                    {"id":147, "colors":["grey", "silver"]},
-                    {"id":148, "colors":["red"]},
+                    {"id":147, "colors":["red"]},
+                    {"id":148, "colors":["black"]},
                     {"id":149, "colors":["white"]},
-                    {"id":150, "colors":["black"]},
-                    {"id":151, "colors":["yellow", "gold"]},
-                    {"id":152, "colors":["pink"]},
-                    {"id":153, "colors":["green"]},
+                    {"id":150, "colors":["pink"]},
+                    {"id":151, "colors":["blue"]},
+                    {"id":152, "colors":["green"]},
+                    {"id":153, "colors":["grey"]},
                     {"id":154, "colors":["purple"]},
                     {"id":155, "colors":["blue"]},
-                    {"id":156, "colors":["blue"]}
-                ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked after playing Episode 15"},
+                    {"id":156, "colors":["yellow"]}
+                ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
                 "releaseDate":"2025-05-02"
             },
             {
                 "groupId":157, "zone":"face", "category":"eyes", "security":"132138047a0e6ae4",
-                "name":"Eyes",  
-                "outfitName":"Game on",
+                "name":"Eyeliner",
+                "outfitName":"Game On",
                 "variations":[
-                    {"id":157, "colors":["grey", "silver"]},
+                    {"id":157, "colors":["orange"]},
                     {"id":158, "colors":["red"]},
-                    {"id":159, "colors":["white"]},
-                    {"id":160, "colors":["black"]},
-                    {"id":161, "colors":["yellow", "gold"]},
-                    {"id":162, "colors":["pink"]},
+                    {"id":159, "colors":["pink"]},
+                    {"id":160, "colors":["yellow"]},
+                    {"id":161, "colors":["blue"]},
+                    {"id":162, "colors":["white"]},
                     {"id":163, "colors":["green"]},
-                    {"id":164, "colors":["purple"]},
-                    {"id":165, "colors":["blue"]},
-                    {"id":166, "colors":["blue"]}
-                ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked after playing Episode 15"},
+                    {"id":164, "colors":["blue"]},
+                    {"id":165, "colors":["black"]},
+                    {"id":166, "colors":["purple"]}
+                ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
                 "releaseDate":"2025-05-02"
             },
             {
                 "groupId":167, "zone":"face", "category":"eyes", "security":"650aad90cfb07a3f",
-                "name":"Eyes",  
-                "outfitName":"Drive on",
+                "name":"Smokey",
+                "outfitName":"Drive On",
                 "variations":[
-                    {"id":167, "colors":["grey", "silver"]},
+                    {"id":167, "colors":["brown"]},
                     {"id":168, "colors":["red"]},
-                    {"id":169, "colors":["white"]},
-                    {"id":170, "colors":["black"]},
-                    {"id":171, "colors":["yellow", "gold"]},
-                    {"id":172, "colors":["pink"]},
-                    {"id":173, "colors":["green"]},
+                    {"id":169, "colors":["brown"]},
+                    {"id":170, "colors":["yellow"]},
+                    {"id":171, "colors":["green"]},
+                    {"id":172, "colors":["white"]},
+                    {"id":173, "colors":["blue"]},
                     {"id":174, "colors":["purple"]},
-                    {"id":175, "colors":["blue"]},
-                    {"id":176, "colors":["blue"]}
-                ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked after playing Episode 15"},
+                    {"id":175, "colors":["pink","red"]},
+                    {"id":176, "colors":["black"]}
+                ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
                 "releaseDate":"2025-05-02"
             }
         ],
@@ -594,41 +594,41 @@
                 "releaseDate":"2025-04-15"
             },
             {
-                "groupId":161, "zone":"face", "category":"mouth", "security":"6699787eb4ebf569",
-                "name":"Mouth",
-                "outfitName":"Lights On",
+                "groupId":151, "zone":"face", "category":"mouth", "security":"ff168129a98cc173",
+                "name":"Boca",
+                "outfitName":"Negotiations On",
                 "variations":[
-                    {"id":161, "colors":["red"]},
-                    {"id":162, "colors":["purple"]},
-                    {"id":163, "colors":["pink"]},
-                    {"id":164, "colors":["orange"]},
-                    {"id":165, "colors":["red"]},
-                    {"id":166, "colors":["purple"]},
-                    {"id":167, "colors":["pink"]},
-                    {"id":168, "colors":["brown"]},
-                    {"id":169, "colors":["white"]},
-                    {"id":170, "colors":["black"]}
-                ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked after playing episode 15"},
+                    {"id":151, "colors":["brown"]},
+                    {"id":152, "colors":["brown"]},
+                    {"id":153, "colors":["pink"]},
+                    {"id":154, "colors":["black"]},
+                    {"id":155, "colors":["pink"]},
+                    {"id":156, "colors":["pink"]},
+                    {"id":157, "colors":["red"]},
+                    {"id":158, "colors":["red"]},
+                    {"id":159, "colors":["red"]},
+                    {"id":160, "colors":["pink"]}
+                ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
                 "releaseDate":"2025-05-02"
             },
             {
-                "groupId":151, "zone":"face", "category":"mouth", "security":"ff168129a98cc173",
-                "name":"Mouth",
-                "outfitName":"Negotiations On",
+                "groupId":161, "zone":"face", "category":"mouth", "security":"6699787eb4ebf569",
+                "name":"Boca",
+                "outfitName":"Lights On",
                 "variations":[
-                    {"id":151, "colors":["red"]},
-                    {"id":152, "colors":["purple"]},
-                    {"id":153, "colors":["pink"]},
-                    {"id":154, "colors":["orange"]},
-                    {"id":155, "colors":["red"]},
-                    {"id":156, "colors":["purple"]},
-                    {"id":157, "colors":["pink"]},
-                    {"id":158, "colors":["brown"]},
-                    {"id":159, "colors":["white"]},
-                    {"id":160, "colors":["black"]}
-                ], "criteria":{"type":"episode", "info":"15", "text":"Unlocked after playing episode 15"},
+                    {"id":161, "colors":["red"]},
+                    {"id":162, "colors":["black"]},
+                    {"id":163, "colors":["white"]},
+                    {"id":164, "colors":["pink"]},
+                    {"id":165, "colors":["blue"]},
+                    {"id":166, "colors":["green"]},
+                    {"id":167, "colors":["grey"]},
+                    {"id":168, "colors":["purple"]},
+                    {"id":169, "colors":["blue"]},
+                    {"id":170, "colors":["yellow"]}
+                ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
                 "releaseDate":"2025-05-02"
-            },
+            }
         ]
     },
     "expressions":{
