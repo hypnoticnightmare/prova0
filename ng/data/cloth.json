@@ -17275,6 +17275,7 @@
             {"id":10148, "colors":["green"]}
         ], "criteria":{"type":"calendar", "info":"2025-17", "text":"Calendar 17"},
         "releaseDate":"2025-08-10"
+    },
     {
         "groupId":1780, "zone":"head", "category":"wigs", "security":"d1bc61b2a833de5a", "multiLayered":true, "layerBehavior":"normal",
         "name":"Wig",
@@ -17293,7 +17294,7 @@
         ], "criteria":{"type":"jobTask", "info":"Headphones", "text":"Unlock after episode 18"},
         "releaseDate":"2025-08-01"
     },
-        {
+    {
         "groupId":10059, "zone":"head", "category":"earrings", "security":"18c69da03dee2112", "multiLayered":true, "layerBehavior":"normal",
         "name":"Earrings",
         "outfitName":"...and chill",
@@ -17311,14 +17312,14 @@
         ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
         "releaseDate":"2025-08-01"
     },
-        {
+    {
         "groupId":9999, "zone":"head", "category":"earrings", "security":"1f487fe3811749f6", "multiLayered":true, "layerBehavior":"normal",
         "name":"Earrings",
         "outfitName":"Netflix...",
         "variations":[
             {"id":9999, "colors":["white"]},
             {"id":10000, "colors":["blue"]},
-            {"id":10001, "colors":["red "]},
+            {"id":10001, "colors":["red"]},
             {"id":10002, "colors":["pink"]},
             {"id":10003, "colors":["black"]},
             {"id":10004, "colors":["green"]},
@@ -17326,6 +17327,96 @@
             {"id":10006, "colors":["yellow"]},
             {"id":10007, "colors":["orange"]},
             {"id":10008, "colors":["brown"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":9989, "zone":"torso_waistToKnee", "category":"dress", "security":"c7532f808b9a02d7", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Sweater-Dress",
+        "outfitName":"Netflix...",
+        "variations":[
+            {"id":9989, "colors":["pink"]},
+            {"id":9990, "colors":["brown"]},
+            {"id":9991, "colors":["black"]},
+            {"id":9992, "colors":["white"]},
+            {"id":9993, "colors":["yellow"]},
+            {"id":9994, "colors":["orange"]},
+            {"id":9995, "colors":["red"]},
+            {"id":9996, "colors":["purple"]},
+            {"id":9997, "colors":["blue"]},
+            {"id":9998, "colors":["green"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":1287, "zone":"torso_waistToKnee", "category":"Dress", "security":"aa1a2f7a264eea3c", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Dress",
+        "outfitName":"Femme Fatale",
+        "variations":[
+            {"id":1287, "colors":["red"]},
+            {"id":1288, "colors":["pink"]},
+            {"id":1289, "colors":["white"]},
+            {"id":1290, "colors":["yellow"]},
+            {"id":1291, "colors":["green"]},
+            {"id":1292, "colors":["black"]},
+            {"id":1293, "colors":["brown"]},
+            {"id":1294, "colors":["purple"]},
+            {"id":1295, "colors":["blue"]},
+            {"id":1296, "colors":["brown"]}
+        ], "criteria":{"type":"jobTask", "info":"Headphones", "text":"Unlock after episode 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":1257, "zone":"torso_waistToKnee", "category":"Dress", "security":"aa1a2f7a264eea3c", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Hololove",
+        "variations":[
+            {"id":1257, "colors":["lilac"]},
+            {"id":1258, "colors":["pink"]},
+            {"id":1259, "colors":["green"]},
+            {"id":1260, "colors":["black"]},
+            {"id":1261, "colors":["yellow"]},
+            {"id":1262, "colors":["red"]},
+            {"id":1263, "colors":["green"]},
+            {"id":1264, "colors":["purple"]},
+            {"id":1265, "colors":["blue"]},
+            {"id":1266, "colors":["white"]}
+        ], "criteria":{"type":"jobTask", "info":"Headphones", "text":"Unlock after episode 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10119, "zone":"torso_waistToKnee", "category":"dreaa", "security":"9ce9036f57b9c457", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Dress",
+        "outfitName":"Wuggly Jelly",
+        "variations":[
+            {"id":10119, "colors":["blue"]},
+            {"id":10120, "colors":["red"]},
+            {"id":10121, "colors":["orange"]},
+            {"id":10122, "colors":["pink"]},
+            {"id":10123, "colors":["green"]},
+            {"id":10124, "colors":["pink"]},
+            {"id":10125, "colors":["purple"]},
+            {"id":10126, "colors":["black"]},
+            {"id":10127, "colors":["white"]},
+            {"id":10128, "colors":["blue"]}
+        ], "criteria":{"type":"calendar", "info":"2025-17", "text":"Calendar 17"},
+        "releaseDate":"2025-08-10"
+    },
+    {
+        "groupId":10089, "zone":"torso_waistToKnee", "category":"dress", "security":"78984535dc550d2f", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Sweater",
+        "outfitName":"...and chill",
+        "variations":[
+            {"id":10089, "colors":["brown"]},
+            {"id":10090, "colors":["white"]},
+            {"id":10091, "colors":["black"]},
+            {"id":10092, "colors":["pink"]},
+            {"id":10093, "colors":["purple"]},
+            {"id":10094, "colors":["green"]},
+            {"id":10095, "colors":["red"]},
+            {"id":10096, "colors":["yellow"]},
+            {"id":10097, "colors":["blue"]},
+            {"id":10098, "colors":["green"]}
         ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
         "releaseDate":"2025-08-01"
     },
