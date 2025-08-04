@@ -17275,7 +17275,7 @@
             {"id":10146, "colors":["black"]},
             {"id":10147, "colors":["blue"]},
             {"id":10148, "colors":["green"]}
-        ], "criteria":{"type":"calendar", "info":"2025-17", "text":"Calendar 17"},
+        ], "criteria":{"type":"calendar"},
         "releaseDate":"2025-08-10"
     },
     {
