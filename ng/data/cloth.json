@@ -17476,4 +17476,22 @@
         ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
         "releaseDate":"2025-08-01"
     },
+    {
+        "groupId":9959, "zone":"torso_waistToKnee", "category":"underwear", "security":"9d0860d0e456e620", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Lingerie",
+        "outfitName":"Netflix...",
+        "variations":[
+            {"id":9959, "colors":["yellow"]},
+            {"id":9960, "colors":["blue"]},
+            {"id":9961, "colors":["red"]},
+            {"id":9962, "colors":["pink"]},
+            {"id":9963, "colors":["black"]},
+            {"id":9964, "colors":["green"]},
+            {"id":9965, "colors":["purple"]},
+            {"id":9966, "colors":["yellow"]},
+            {"id":9967, "colors":["orange"]},
+            {"id":9968, "colors":["white"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },
 ]
