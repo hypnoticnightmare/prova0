@@ -17279,7 +17279,7 @@
         "releaseDate":"2025-08-10"
     },
     {
-        "groupId":1780, "zone":"head", "category":"wigs", "security":"d1bc61b2a833de5a", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":1780, "zone":"head", "category":"wigs", "security":"d1bc61b2a833de5a", "multiLayered":true, "layerBehavior":"backInFront",
         "name":"Wig",
         "outfitName":"Flowerly",
         "variations":[
@@ -17297,7 +17297,7 @@
         "releaseDate":"2025-08-01"
     },
     {
-        "groupId":10059, "zone":"head", "category":"earrings", "security":"18c69da03dee2112", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":10059, "zone":"head", "category":"earrings", "security":"18c69da03dee2112", "multiLayered":false, "layerBehavior":"normal",
         "name":"Earrings",
         "outfitName":"...and chill",
         "variations":[
@@ -17315,7 +17315,7 @@
         "releaseDate":"2025-08-01"
     },
     {
-        "groupId":9999, "zone":"head", "category":"earrings", "security":"1f487fe3811749f6", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":9999, "zone":"head", "category":"earrings", "security":"1f487fe3811749f6", "multiLayered":false, "layerBehavior":"normal",
         "name":"Earrings",
         "outfitName":"Netflix...",
         "variations":[
@@ -17333,7 +17333,7 @@
         "releaseDate":"2025-08-01"
     },
     {
-        "groupId":9989, "zone":"torso_waistToKnee", "category":"dress", "security":"c7532f808b9a02d7", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":9989, "zone":"torso_waistToKnee", "category":"dress", "security":"c7532f808b9a02d7", "multiLayered":false, "layerBehavior":"normal",
         "name":"Sweater-Dress",
         "outfitName":"Netflix...",
         "variations":[
@@ -17351,7 +17351,7 @@
         "releaseDate":"2025-08-01"
     },
     {
-        "groupId":1287, "zone":"torso_waistToKnee", "category":"Dress", "security":"aa1a2f7a264eea3c", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":1287, "zone":"torso_waistToKnee", "category":"Dress", "security":"aa1a2f7a264eea3c", "multiLayered":false, "layerBehavior":"normal",
         "name":"Dress",
         "outfitName":"Femme Fatale",
         "variations":[
@@ -17369,7 +17369,7 @@
         "releaseDate":"2025-08-01"
     },
     {
-        "groupId":1257, "zone":"torso_waistToKnee", "category":"Dress", "security":"aa1a2f7a264eea3c", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":1257, "zone":"torso_waistToKnee", "category":"Dress", "security":"aa1a2f7a264eea3c", "multiLayered":false, "layerBehavior":"normal",
         "name":"Top",
         "outfitName":"Hololove",
         "variations":[
@@ -17405,7 +17405,7 @@
         "releaseDate":"2025-08-10"
     },
     {
-        "groupId":10089, "zone":"torso", "category":"jacket", "security":"78984535dc550d2f", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":10089, "zone":"torso", "category":"jacket", "security":"78984535dc550d2f", "multiLayered":false, "layerBehavior":"normal",
         "name":"Sweater",
         "outfitName":"...and chill",
         "variations":[
@@ -17423,7 +17423,7 @@
         "releaseDate":"2025-08-01"
     },    
     {
-        "groupId":1509, "zone":"torso", "category":"jacket", "security":"468baa3750615e2e", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":1509, "zone":"torso", "category":"jacket", "security":"468baa3750615e2e", "multiLayered":false, "layerBehavior":"normal",
         "name":"Coat",
         "outfitName":"What the...?",
         "variations":[
@@ -17459,7 +17459,7 @@
         "releaseDate":"2025-08-10"
     },
     {
-        "groupId":10029, "zone":"torso_waistToKnee", "category":"underwear", "security":"bd242f2ca5693771", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":10029, "zone":"torso_waistToKnee", "category":"underwear", "security":"bd242f2ca5693771", "multiLayered":false, "layerBehavior":"normal",
         "name":"Lingerie",
         "outfitName":"...and chill",
         "variations":[
@@ -17477,7 +17477,7 @@
         "releaseDate":"2025-08-01"
     },
     {
-        "groupId":9959, "zone":"torso_waistToKnee", "category":"underwear", "security":"9d0860d0e456e620", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":9959, "zone":"torso_waistToKnee", "category":"underwear", "security":"9d0860d0e456e620", "multiLayered":false, "layerBehavior":"normal",
         "name":"Lingerie",
         "outfitName":"Netflix...",
         "variations":[
@@ -17495,25 +17495,7 @@
         "releaseDate":"2025-08-01"
     },
     {
-        "groupId":1549, "zone":"torso_waistToKnee", "category":"underwear", "security":"80bc313b209440f5", "multiLayered":true, "layerBehavior":"normal",
-        "name":"Body Blouse",
-        "outfitName":"Magical Heart",
-        "variations":[
-            {"id":9959, "colors":["pink"]},
-            {"id":9960, "colors":["purple"]},
-            {"id":9961, "colors":["green"]},
-            {"id":9962, "colors":["white"]},
-            {"id":9963, "colors":["yellow"]},
-            {"id":9964, "colors":["white"]},
-            {"id":9965, "colors":["black"]},
-            {"id":9966, "colors":["purple"]},
-            {"id":9967, "colors":["black"]},
-            {"id":9968, "colors":["red"]}
-        ], "criteria":{"type":"jobTask"},
-        "releaseDate":"2025-08-01"
-    },
-    {
-        "groupId":1549, "zone":"torso_waistToKnee", "category":"underwear", "security":"80bc313b209440f5", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":1549, "zone":"torso_waistToKnee", "category":"underwear", "security":"80bc313b209440f5", "multiLayered":false, "layerBehavior":"normal",
         "name":"Body Blouse",
         "outfitName":"Magical Heart",
         "variations":[
