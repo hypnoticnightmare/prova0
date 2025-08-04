@@ -17385,7 +17385,7 @@
         "releaseDate":"2025-08-01"
     },
     {
-        "groupId":10119, "zone":"torso_waistToKnee", "category":"dreaa", "security":"9ce9036f57b9c457", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":10119, "zone":"torso_waistToKnee", "category":"dress", "security":"9ce9036f57b9c457", "multiLayered":true, "layerBehavior":"normal",
         "name":"Dress",
         "outfitName":"Wuggly Jelly",
         "variations":[
@@ -17403,7 +17403,7 @@
         "releaseDate":"2025-08-10"
     },
     {
-        "groupId":10089, "zone":"torso_waistToKnee", "category":"dress", "security":"78984535dc550d2f", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":10089, "zone":"torso", "category":"jacket", "security":"78984535dc550d2f", "multiLayered":true, "layerBehavior":"normal",
         "name":"Sweater",
         "outfitName":"...and chill",
         "variations":[
@@ -17417,6 +17417,60 @@
             {"id":10096, "colors":["yellow"]},
             {"id":10097, "colors":["blue"]},
             {"id":10098, "colors":["green"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
+    },    
+    {
+        "groupId":1509, "zone":"torso", "category":"jacket", "security":"468baa3750615e2e", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Coat",
+        "outfitName":"What the...?",
+        "variations":[
+            {"id":1509, "colors":["green"]},
+            {"id":1510, "colors":["pink"]},
+            {"id":1511, "colors":["white"]},
+            {"id":1512, "colors":["orange"]},
+            {"id":1513, "colors":["purple"]},
+            {"id":1514, "colors":["red"]},
+            {"id":1515, "colors":["black"]},
+            {"id":1516, "colors":["blue"]},
+            {"id":1517, "colors":["green"]},
+            {"id":1518, "colors":["yellow"]}
+        ], "criteria":{"type":"jobTask", "info":"Headphones", "text":"Unlock after episode 18"},
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10129, "zone":"torso_waistToKnee", "category":"belt", "security":"6e868e6300fd885a", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Tentacles",
+        "outfitName":"Wuggly Jelly",
+        "variations":[
+            {"id":10129, "colors":["blue"]},
+            {"id":10130, "colors":["red"]},
+            {"id":10131, "colors":["orange"]},
+            {"id":10132, "colors":["pink"]},
+            {"id":10133, "colors":["green"]},
+            {"id":10134, "colors":["pink"]},
+            {"id":10135, "colors":["purple"]},
+            {"id":10136, "colors":["black"]},
+            {"id":10137, "colors":["white"]},
+            {"id":10138, "colors":["blue"]}
+        ], "criteria":{"type":"calendar", "info":"2025-17", "text":"Calendar 17"},
+        "releaseDate":"2025-08-10"
+    },
+    {
+        "groupId":10029, "zone":"torso_waistToKnee", "category":"underwear", "security":"bd242f2ca5693771", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Lingerie",
+        "outfitName":"...and chill",
+        "variations":[
+            {"id":10029, "colors":["black"]},
+            {"id":10030, "colors":["brown"]},
+            {"id":10031, "colors":["purple"]},
+            {"id":10032, "colors":["white"]},
+            {"id":10033, "colors":["green"]},
+            {"id":10034, "colors":["yellow"]},
+            {"id":10035, "colors":["pink"]},
+            {"id":10036, "colors":["green"]},
+            {"id":10037, "colors":["red"]},
+            {"id":10038, "colors":["blue"]}
         ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
         "releaseDate":"2025-08-01"
     },
