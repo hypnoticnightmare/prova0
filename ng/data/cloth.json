@@ -17257,7 +17257,7 @@
             {"id":1867, "colors":["yellow"]},
             {"id":1868, "colors":["green"]},
             {"id":1869, "colors":["pink"]}
-        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        ], "criteria":{"type":"jobTask"},
         "releaseDate":"2025-08-01"
     },
     {
@@ -17293,7 +17293,7 @@
             {"id":1787, "colors":["yellow"]},
             {"id":1788, "colors":["orange"]},
             {"id":1789, "colors":["pink"]}
-        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        ], "criteria":{"type":"jobTask"},
         "releaseDate":"2025-08-01"
     },
     {
@@ -17365,7 +17365,7 @@
             {"id":1294, "colors":["purple"]},
             {"id":1295, "colors":["blue"]},
             {"id":1296, "colors":["brown"]}
-        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        ], "criteria":{"type":"jobTask"},
         "releaseDate":"2025-08-01"
     },
     {
@@ -17383,7 +17383,7 @@
             {"id":1264, "colors":["purple"]},
             {"id":1265, "colors":["blue"]},
             {"id":1266, "colors":["white"]}
-        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        ], "criteria":{"type":"jobTask"},
         "releaseDate":"2025-08-01"
     },
     {
@@ -17437,7 +17437,7 @@
             {"id":1516, "colors":["blue"]},
             {"id":1517, "colors":["green"]},
             {"id":1518, "colors":["yellow"]}
-        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        ], "criteria":{"type":"jobTask"},
         "releaseDate":"2025-08-01"
     },
     {
@@ -17509,7 +17509,7 @@
             {"id":9966, "colors":["purple"]},
             {"id":9967, "colors":["black"]},
             {"id":9968, "colors":["red"]}
-        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        ], "criteria":{"type":"jobTask"},
         "releaseDate":"2025-08-01"
     },
     {
@@ -17527,7 +17527,7 @@
             {"id":9966, "colors":["purple"]},
             {"id":9967, "colors":["black"]},
             {"id":9968, "colors":["red"]}
-        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        ], "criteria":{"type":"jobTask"},
         "releaseDate":"2025-08-01"
-    },
+    }
 ]
