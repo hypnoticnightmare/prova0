@@ -20,7 +20,7 @@ $(document).ready(function() {
                         drawAvatarZone();
                         $("#asng-z-index .ss-scroll").addClass("ss-hidden");
 
-                        checkAndfetchTempCode();
+                        checkAndGetTempCode();
                         codeUpdate();
                         currentPage("wardrobe");
                         // tempWM("load");
@@ -39,7 +39,7 @@ async function tempWM(type) {
     } else if (type == "save") {
 
         if ($("#save-canvas").length == 1 && $("#save-canvas").attr("width") != 1920) {
-            let ctx = document.fetchElementById("save-canvas").fetchContext("2d");
+            let ctx = document.getElementById("save-canvas").getContext("2d");
 
             let w = 1200, h = 1550;
             let t = h * 34/100, l = w * 44/100;
@@ -100,13 +100,8 @@ async function drawCategory(c = "top", declination = null) {
 
         $("asng-cloth-list-panel .empty").remove();
 
-        // debe ordenarse segun releaseDate
-        // Orden temporal hasta añadir todas las fechas
-        lista.sort((a,b) => (a.releaseDate > b.releaseDate) ? 1 : ((b.releaseDate > a.releaseDate) ? -1 : 0));
-        lista.reverse();
-
-        // Orden definitivo
-        //lista.sort((a,b) => (a.releaseDate < b.releaseDate) ? 1 : ((b.releaseDate < a.releaseDate) ? -1 : 0))
+        // ordenar por fechas
+        lista.sort((a,b) => (a.releaseDate < b.releaseDate) ? 1 : ((b.releaseDate < a.releaseDate) ? -1 : 0))
 
         if (declination == null) {
             moveScroll("#clothes-container .ss-content", "reset");
@@ -321,7 +316,7 @@ function drawAvatarZone(c = "top", z = "auto") {
         // change category !
         $(".category-list-item.current").removeClass("current");
         $(`.category-list-item[data-category="${c}"]`).addClass("current");
-        $(".current-category").text(fetchCategoryName(c));
+        $(".current-category").text(getCategoryName(c));
         toggleCategoryMenu("open");
         drawCategory(c);
     };
@@ -370,7 +365,7 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
 
                 // draw avatar base
 
-                var ctx = $("#save-canvas").length == 0 ? document.fetchElementById("avatar-base").fetchContext("2d") : document.fetchElementById("save-canvas").fetchContext("2d");
+                var ctx = $("#save-canvas").length == 0 ? document.getElementById("avatar-base").getContext("2d") : document.getElementById("save-canvas").getContext("2d");
                 if (mode == "update_avatar" || mode == "basics") ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
 
                 let w = 1200, h = 1550;
@@ -489,7 +484,7 @@ async function drawSucrette(size = cr, mode = "load", rd = null) {
         };
 
     } else if (mode == "replace") {
-        var ctx = document.fetchElementsByClassName("avatar-canvas")[rd].fetchContext("2d");
+        var ctx = document.getElementsByClassName("avatar-canvas")[rd].getContext("2d");
         
         var T = sucrette.orderInfo[rd].category != "hair" ? "cloth" : "avatar-part";
         var V = sucrette.orderInfo[rd].category != "hair" ? sucrette.orderInfo[rd].value : sucrette.avatar.hair;
@@ -510,12 +505,12 @@ async function newCanvas(info, img, i = new Number, p = "append") {
             $("#asng-avatar").prepend(`<canvas class="avatar-canvas" data-info="${info}" width="1200" height="1550"></canvas>`);
         };
 
-        var ctx = document.fetchElementsByClassName("avatar-canvas")[i].fetchContext("2d");
+        var ctx = document.getElementsByClassName("avatar-canvas")[i].getContext("2d");
         ready = await preloadIMG(img);
         ctx.drawImage(ready, 0, 0, 1200, 1550);
 
     } else {
-        var ctx = document.fetchElementById("save-canvas").fetchContext("2d");
+        var ctx = document.getElementById("save-canvas").getContext("2d");
         ready = await preloadIMG(img);
         ( $("#save-canvas").attr("width") == 1200 ) ?
         ctx.drawImage(ready, 0, 0, 1200, 1550) : ctx.drawImage(ready, 0, 0, 1920, 1080);
@@ -776,7 +771,7 @@ function drawZIndex() {
         $("#z-index-content .item").eq(z).append(`<img resolution="${hr}" src="${img}">`);
 
         if (l != null) {
-            let p = window.localStorage.fetchItem("personality");
+            let p = window.localStorage.getItem("personality");
 
             if (l == "front") {
                 $("#z-index-content .item").eq(z).append(`<div class="front-icon"><img src="assets/personalization/z-index/top-${p}.svg"</div>`);
@@ -839,7 +834,7 @@ function arrayMove(from, to) {
 };
 
 function moveCanvas(from, to) {
-    let elmnt = document.fetchElementsByClassName("avatar-canvas")[from];
+    let elmnt = document.getElementsByClassName("avatar-canvas")[from];
     if (from > to) { // baja
         elmnt.parentNode.insertBefore(elmnt, elmnt.previousElementSibling);
     } else { // sube
@@ -877,18 +872,19 @@ function removeItem(z) {
                 sucrette.orderInfo.splice(z, 1);
                 $(".avatar-canvas").eq(z).remove();
             };
-
-            if (c == "wig") {
-                // añadir hair
-                sucrette.orderInfo.push({"category":"hair", "layer":"back", "value":"auto"});
-                drawSucrette(cr, "new");
-                sucrette.orderInfo.push({"category":"hair", "layer":"front", "value":"auto"});
-                drawSucrette(cr, "new");
-            };
+            
         };
-
-        drawZIndex();
     };
+
+    if (c == "wig") {
+        // añadir hair
+        sucrette.orderInfo.push({"category":"hair", "layer":"back", "value":"auto"});
+        drawSucrette(cr, "new");
+        sucrette.orderInfo.push({"category":"hair", "layer":"front", "value":"auto"});
+        drawSucrette(cr, "new");
+    };
+
+    drawZIndex();
 }
 
 function resetSucrette() {
@@ -906,10 +902,15 @@ function resetSucrette() {
 function drawSavePopUp(w, h) {
     let type = (w == 1200) ? "fullbody" : (h == 1080) ? "face" : "background";
     if ($("#save-canvas").length == 0) {
-        $("body").append(`<div id="overlay-popup"><div id="canvas-container"><canvas width="${w}" height="${h}" id="save-canvas"></canvas></div></div>`);
+        $("body").append(`<div id="overlay-popup"><div id="canvas-container"><canvas width="${w}" height="${h}" id="save-canvas" style="background-color:${colorPicker};"></canvas></div></div>`);
         $("#canvas-container").append(`<div class="button close"><span class="material-symbols-outlined">close</span></div>`);
         $("#canvas-container").append(`<div class="button reload"><span class="material-symbols-outlined">refresh</span></div>`);
         if (type != "background") {
+            $("#canvas-container").append(`
+                <div class="button bg-settings" style="background-color:${colorPicker};">
+                    <input type="color" value="${colorPicker}" id="color-picker">
+                    <label for="color-picker"><span class="material-symbols-outlined">palette</span></label>
+                </div>`);
             $("#canvas-container").append(`<div class="button portrait"><span class="material-symbols-outlined">person</span></div>`);
             $("#canvas-container").append(`<div class="button fullbody"><span class="material-symbols-outlined">boy</span></div>`);
             $("#canvas-container").append(`<div class="button code"><span class="material-symbols-outlined">code</span></div>`);
@@ -931,8 +932,8 @@ function drawRoomItems(c = "background") {
 
     const slot = room.filter(v => v.slot == c);
 
-    slot.sort((a,b) => (a.releaseDate > b.releaseDate) ? 1 : ((b.releaseDate > a.releaseDate) ? -1 : 0));
-    slot.reverse();
+    // ordenar por fechas
+    slot.sort((a,b) => (a.releaseDate < b.releaseDate) ? 1 : ((b.releaseDate < a.releaseDate) ? -1 : 0));
 
     for (b = 0; b < slot.length; b++) {
         let item = sucrette.room[c] != null ? (sucrette.room[c]).split("-")[1] : null;
@@ -982,7 +983,7 @@ async function drawBackgroundPopUp(elmnt = "#save-canvas") {
 
     if (elmnt == "#save-canvas") $("#loading-layout").addClass("room");
 
-    let ctx = document.querySelector(elmnt).fetchContext("2d");
+    let ctx = document.querySelector(elmnt).getContext("2d");
     let w = ctx.canvas.width, h = ctx.canvas.height;
     let size = elmnt == "#save-canvas" ? "md" : rr;
 
@@ -994,7 +995,7 @@ async function drawBackgroundPopUp(elmnt = "#save-canvas") {
     // temp canvas
     const e = document.createElement("canvas");
     e.width = w; e.height = h;
-    const p = e.fetchContext("2d");
+    const p = e.getContext("2d");
 
     // Filters
     let bgEffects = room.filter(v => v.security == sucrette.room.background.split("-")[1]);
@@ -1069,11 +1070,11 @@ async function drawBackgroundPopUp(elmnt = "#save-canvas") {
     if (elmnt.includes("asng-room-canvas")) {
         // No es popup
         let copy = null;
-        let main = document.querySelector(elmnt).fetchContext("2d");
+        let main = document.querySelector(elmnt).getContext("2d");
         if (elmnt.includes("preview")) {
-            copy = document.querySelector(".asng-room-canvas").fetchContext("2d");
+            copy = document.querySelector(".asng-room-canvas").getContext("2d");
         } else {
-            copy = document.querySelector(".asng-room-canvas.preview").fetchContext("2d");
+            copy = document.querySelector(".asng-room-canvas.preview").getContext("2d");
         };
 
         copy.drawImage(main.canvas, 0, 0, copy.canvas.width, copy.canvas.height);
@@ -1088,8 +1089,8 @@ function drawPetItems() {
     let p = sucrette.pet.status ? " off" : " on";
     $(".pet-outfits .items-container").append(`<div class="pet-option visibility${p}"></div>`);
 
-    pet.sort((a,b) => (a.releaseDate > b.releaseDate) ? 1 : ((b.releaseDate > a.releaseDate) ? -1 : 0));
-    pet.reverse();
+    // ordenar por fechas
+    pet.sort((a,b) => (a.releaseDate < b.releaseDate) ? 1 : ((b.releaseDate < a.releaseDate) ? -1 : 0));
 
     for (i = 0; i < pet.length; i++) {
         $(".pet-outfits .items-container").append('<div class="asng-pet-outfit-item"><div class="item"></div></div>');
@@ -1165,10 +1166,11 @@ function drawCrushPortraits() {
 async function drawCrush(save = false) {
 
     let item = sucrette.crush.outfit;
-    let ctx = !save ? document.fetchElementById("crush-canvas").fetchContext("2d") : document.fetchElementById("save-canvas").fetchContext("2d");
+    let ctx = !save ? document.getElementById("crush-canvas").getContext("2d") : document.getElementById("save-canvas").getContext("2d");
     let w = 1200, h = 1550;
+    if (save) w = document.getElementById("save-canvas").getAttribute("width");
 
-    if (item != null) {
+    if (item != null && w != 1920) {
         // Dibujar canvas
         let img = !save ? composeCrushUrl(item.split("-")[0], item.split("-")[1]) : composeCrushUrl(item.split("-")[0], item.split("-")[1], "full", "hd");
         ready = await preloadIMG(img);
@@ -1185,7 +1187,7 @@ function drawItemIcons (criteria, elmnt) {
     switch(criteria.type) {
         case "episode": icon = "episodes";break;
         case "jobTask": icon = "jobTasks";break;
-        case "pack": icon = "bankPacks";break;
+        case "pack":case "loyaltyPack": icon = "bankPacks";break;
         case "calendar": icon = "calendar";break;
         case "gameEvent":case "gauge": icon = "gameEvents";break;
     };
@@ -1227,11 +1229,11 @@ $(function () {
 
     $(document).on('click', function (event) {
         if ($("asng-category-list .list.open").length == 1) {
-            if (!$(event.tarfetch).closest('asng-category-list .list').length && !$(event.tarfetch).closest('.category-list-current-category').length) {
+            if (!$(event.target).closest('asng-category-list .list').length && !$(event.target).closest('.category-list-current-category').length) {
                 toggleCategoryMenu("open");
             };
         } else if ($("asng-crush-list .list.open").length == 1) {
-            if (!$(event.tarfetch).closest('asng-crush-list .list').length && !$(event.tarfetch).closest('.crush-list-current-crush').length) {
+            if (!$(event.target).closest('asng-crush-list .list').length && !$(event.target).closest('.crush-list-current-crush').length) {
                 toggleCategoryMenu("open", true);
             };
         };
@@ -1290,7 +1292,7 @@ $(function () {
         if (!clase.includes("current")) {
             $(".category-list-item.current").removeClass("current");
             $(this).addClass("current");
-            $(".current-category").text(fetchCategoryName($(this).attr("data-category")));
+            $(".current-category").text(getCategoryName($(this).attr("data-category")));
             toggleCategoryMenu("open");
             drawCategory($(this).attr("data-category"));
             drawAvatarZone($(this).attr("data-category"));
@@ -1339,10 +1341,18 @@ $(function () {
         
         if (c == "eyebrows" || c == "eyes" || c == "wig" || c == "mouth" || c == "underwear" || c == "skin") {
             // Categorías únicas
-            $(".item-outline").removeClass("equipped");
+            // Comprobar si el item seleccionado ya está puesto
+            let clase = $(this).find(".item-outline").attr("class");
+            
+            if (!clase.includes("equipped") || c == "skin" || c == "wig") {
+                $(".item-outline").removeClass("equipped");
+            };
 
         } else if ($(this).parent().attr("class") == "declinations-panel") {
             $(".declinations-panel .item-outline").removeClass("equipped");
+
+        } else {
+            $(this).find(".item-outline").removeClass("equipped");
         };
 
         if (checkCurrentItems(s)) {
@@ -1419,7 +1429,7 @@ $(function () {
         
         if (newCategory != "general") {
             $(`.category-list-item[data-category="${newCategory}"]`).addClass("current");
-            $(".current-category").text(fetchCategoryName($(".category-list-item.current").attr("data-category")));
+            $(".current-category").text(getCategoryName($(".category-list-item.current").attr("data-category")));
 
             drawCategory(newCategory);
 
@@ -1433,7 +1443,7 @@ $(function () {
 
         } else {
             $(`.category-list-item[data-category="tattoo"]`).addClass("current");
-            $(".current-category").text(fetchCategoryName($(".category-list-item.current").attr("data-category")));
+            $(".current-category").text(getCategoryName($(".category-list-item.current").attr("data-category")));
 
             drawCategory("tattoo");
             drawAvatarZone("tattoo", "general");
@@ -1673,7 +1683,7 @@ $(function () {
     $('body').on("click", "#canvas-container .reload", function() {
         let w = parseInt($("#save-canvas").attr("width"));
         let h = parseInt($("#save-canvas").attr("height"));
-        document.fetchElementById("save-canvas").fetchContext("2d").clearRect(0, 0, w, h);
+        document.getElementById("save-canvas").getContext("2d").clearRect(0, 0, w, h);
 
         if ($(".room-panel").length == 0) {
             (w != 1920) ? drawSucrette("hd", "load") : drawSucrette("md", "load");
@@ -1681,6 +1691,14 @@ $(function () {
             drawBackgroundPopUp("#save-canvas");
         }
     });
+
+    
+    $("body").on("change", "#color-picker", function() {
+        colorPicker = $(this).val();
+        $("#save-canvas").css("background-color", colorPicker);
+        $("#canvas-container .button.bg-settings").css("background-color", colorPicker);
+    });
+
 
     $('body').on("click", "#canvas-container .portrait", function() {
         $(this).hide();
@@ -1701,7 +1719,7 @@ $(function () {
             $(this).parent().addClass("open");
 
             if (inp.length == 0) {
-                $(this).parent().css("width", "calc(100% - 290px)");
+                $(this).parent().css("width", "calc(100% - 390px)");
     
                 $(this).parent().append('<textarea class="code-container" type="text" readonly></textarea><div id="generated-code-info">¡Código copiado!</div>');
                 $("textarea").delay(100).fadeIn(200);
@@ -1776,7 +1794,7 @@ $(function () {
     $("#z-index-content").on("click", ".cdk-drag.item img", function() {
         let category = $(this).parent().attr("data-category");
         drawAvatarZone(category);
-        $(".current-category").text( fetchCategoryName(category) );
+        $(".current-category").text( getCategoryName(category) );
         $(".category-list-item.current").removeClass("current");
         $(`.category-list-item[data-category="${category}"]`).addClass("current");
         drawCategory(category);
@@ -1787,7 +1805,7 @@ $(function () {
     });
 });
 
-function fetchCategoryName(arg) {
+function getCategoryName(arg) {
     if (arg == "hat") return "Sombreros";
     if (arg == "wig") return "Pelucas";
     if (arg == "eyebrows") return "Cejas";
@@ -1984,3 +2002,4 @@ window.onbeforeunload = function () {
 
 // global variables
 var cloth = [], avatar = [], room = [], pet = [], crush = [];
+let colorPicker = "#000000";
