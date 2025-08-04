@@ -17511,5 +17511,23 @@
             {"id":1558, "colors":["red"]}
         ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
         "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":1287, "zone":"torso_waistToKnee", "category":"dress", "security":"aa1a2f7a264eea3c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"dress",
+        "outfitName":"Femme Fatale",
+        "variations":[
+            {"id":1287, "colors":["pink"]},
+            {"id":1288, "colors":["purple"]},
+            {"id":1289, "colors":["green"]},
+            {"id":1290, "colors":["white"]},
+            {"id":1291, "colors":["yellow"]},
+            {"id":1292, "colors":["white"]},
+            {"id":1293, "colors":["black"]},
+            {"id":1294, "colors":["purple"]},
+            {"id":1295, "colors":["black"]},
+            {"id":1296, "colors":["red"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
     }
 ]
