@@ -17225,7 +17225,7 @@
 
     
     {
-        "groupId":10009, "zone":"head", "category":"hats", "security":"89f4e5bbfcffe217", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":10009, "zone":"head", "category":"hat", "security":"89f4e5bbfcffe217", "multiLayered":false, "layerBehavior":"normal",
         "name":"Barrettes",
         "outfitName":"Netflix...",
         "variations":[
@@ -17243,7 +17243,7 @@
         "releaseDate":"2025-08-01"
     },
     {
-        "groupId":1860, "zone":"head", "category":"hats", "security":"cb8d43d9f8d45cfb", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":1860, "zone":"head", "category":"hat", "security":"cb8d43d9f8d45cfb", "multiLayered":false, "layerBehavior":"normal",
         "name":"Tiara",
         "outfitName":"Royal fighter",
         "variations":[
@@ -17459,7 +17459,7 @@
         "releaseDate":"2025-08-01"
     },
     {
-        "groupId":1257, "zone":"torso_waistToKnee", "category":"Dress", "security":"f6e94e12267ff8ab", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":1257, "zone":"torso_waistToKnee", "category":"dress", "security":"f6e94e12267ff8ab", "multiLayered":false, "layerBehavior":"normal",
         "name":"Top",
         "outfitName":"Hololove",
         "variations":[
@@ -17491,24 +17491,6 @@
             {"id":1787, "colors":["yellow"]},
             {"id":1788, "colors":["orange"]},
             {"id":1789, "colors":["pink"]}
-        ], "criteria":null,
-        "releaseDate":"2025-08-01"
-    },
-    {
-        "groupId":1257, "zone":"torso_waistToKnee", "category":"Dress", "security":"f6e94e12267ff8ab", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Top",
-        "outfitName":"Hololove",
-        "variations":[
-            {"id":1257, "colors":["lilac"]},
-            {"id":1258, "colors":["pink"]},
-            {"id":1259, "colors":["green"]},
-            {"id":1260, "colors":["black"]},
-            {"id":1261, "colors":["yellow"]},
-            {"id":1262, "colors":["red"]},
-            {"id":1263, "colors":["green"]},
-            {"id":1264, "colors":["purple"]},
-            {"id":1265, "colors":["blue"]},
-            {"id":1266, "colors":["white"]}
         ], "criteria":null,
         "releaseDate":"2025-08-01"
     },
