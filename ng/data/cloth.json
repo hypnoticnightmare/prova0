@@ -17478,7 +17478,7 @@
     },
      {
         "groupId":1780, "zone":"head", "category":"wig", "security":"d1bc61b2a833de5a", "multiLayered":true, "layerBehavior":"backInFront",
-        "name":"Wig",
+        "name":"Peluca",
         "outfitName":"Flowerly",
         "variations":[
             {"id":1780, "colors":["brown"]},
@@ -17493,5 +17493,41 @@
             {"id":1789, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":1257, "zone":"torso_waistToKnee", "category":"Dress", "security":"f6e94e12267ff8ab", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Hololove",
+        "variations":[
+            {"id":1257, "colors":["lilac"]},
+            {"id":1258, "colors":["pink"]},
+            {"id":1259, "colors":["green"]},
+            {"id":1260, "colors":["black"]},
+            {"id":1261, "colors":["yellow"]},
+            {"id":1262, "colors":["red"]},
+            {"id":1263, "colors":["green"]},
+            {"id":1264, "colors":["purple"]},
+            {"id":1265, "colors":["blue"]},
+            {"id":1266, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10139, "zone":"head", "category":"hat", "security":"dbde6cbbcd71a0d4", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Sunshade",
+        "outfitName":"Wuggly Jelly",
+        "variations":[
+            {"id":10139, "colors":["pink"]},
+            {"id":10140, "colors":["purple"]},
+            {"id":10141, "colors":["red"]},
+            {"id":10142, "colors":["pink"]},
+            {"id":10143, "colors":["green"]},
+            {"id":10144, "colors":["white"]},
+            {"id":10145, "colors":["blue"]},
+            {"id":10146, "colors":["black"]},
+            {"id":10147, "colors":["blue"]},
+            {"id":10148, "colors":["green"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-10"
     }
 ]
