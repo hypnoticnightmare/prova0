@@ -17458,22 +17458,5 @@
         ], "criteria":{"type":"calendar", "info":"2025-17", "text":"Calendar 17"},
         "releaseDate":"2025-08-10"
     },
-    {
-        "groupId":10029, "zone":"torso_waistToKnee", "category":"underwear", "security":"bd242f2ca5693771", "multiLayered":true, "layerBehavior":"normal",
-        "name":"Lingerie",
-        "outfitName":"...and chill",
-        "variations":[
-            {"id":10029, "colors":["black"]},
-            {"id":10030, "colors":["brown"]},
-            {"id":10031, "colors":["purple"]},
-            {"id":10032, "colors":["white"]},
-            {"id":10033, "colors":["green"]},
-            {"id":10034, "colors":["yellow"]},
-            {"id":10035, "colors":["pink"]},
-            {"id":10036, "colors":["green"]},
-            {"id":10037, "colors":["red"]},
-            {"id":10038, "colors":["blue"]}
-        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
-        "releaseDate":"2025-08-01"
-    },
+    
 ]
