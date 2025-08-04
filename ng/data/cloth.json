@@ -17459,7 +17459,7 @@
         "releaseDate":"2025-08-01"
     },
     {
-        "groupId":1257, "zone":"torso_waistToKnee", "category":"Dress", "security":"aa1a2f7a264eea3c", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":1257, "zone":"torso_waistToKnee", "category":"Dress", "security":"f6e94e12267ff8ab", "multiLayered":false, "layerBehavior":"normal",
         "name":"Top",
         "outfitName":"Hololove",
         "variations":[
