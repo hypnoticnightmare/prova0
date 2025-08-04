@@ -17222,6 +17222,8 @@
         ], "criteria":{"type":"gauge", "info":"Set kigurumi", "text":"Desbloqueado en el evento de medidor\nSet kigurumi"},
         "releaseDate":"2025-07-30"
     },
+
+    
     {
         "groupId":10009, "zone":"head", "category":"hats", "security":"89f4e5bbfcffe217", "multiLayered":true, "layerBehavior":"normal",
         "name":"Barrettes",
