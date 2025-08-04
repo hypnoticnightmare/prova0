@@ -17221,5 +17221,23 @@
             {"id":10311, "colors":["pink"]}
         ], "criteria":{"type":"gauge", "info":"Set kigurumi", "text":"Desbloqueado en el evento de medidor\nSet kigurumi"},
         "releaseDate":"2025-07-30"
+    },
+    {
+        "groupId":10009, "zone":"head", "category":"hats", "security":"89f4e5bbfcffe217", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Barrettes",
+        "outfitName":"Netflix...",
+        "variations":[
+            {"id":10009, "colors":["white"]},
+            {"id":10010, "colors":["blue"]},
+            {"id":10011, "colors":["red"]},
+            {"id":10012, "colors":["pink"]},
+            {"id":10013, "colors":["black"]},
+            {"id":10014, "colors":["green"]},
+            {"id":10015, "colors":["purple"]},
+            {"id":10016, "colors":["yellow"]},
+            {"id":10017, "colors":["orange"]},
+            {"id":10018, "colors":["brown"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 17"},
+        "releaseDate":"2025-08-01"
     }
 ]
