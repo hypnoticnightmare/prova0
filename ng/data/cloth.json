@@ -17567,20 +17567,20 @@
         "releaseDate":"2025-08-01"
     },
     {
-        "groupId":10109, "zone":"arms", "category":"armAccessory", "security":"e0e37f3ab88d8300", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":9227, "zone":"arms", "category":"armAccessory", "security":"e0e37f3ab88d8300", "multiLayered":false, "layerBehavior":"normal",
         "name":"Sleeves",
         "outfitName":"Wiggly Jelly",
         "variations":[
-            {"id":10109, "colors":["blue"]},
-            {"id":10110, "colors":["red"]},
-            {"id":10111, "colors":["orange"]},
-            {"id":10112, "colors":["pink"]},
-            {"id":10113, "colors":["green"]},
-            {"id":10114, "colors":["pink"]},
-            {"id":10115, "colors":["purple"]},
-            {"id":10116, "colors":["black"]},
-            {"id":10117, "colors":["white"]},
-            {"id":10118, "colors":["blue"]}
+            {"id":9227, "colors":["blue"]},
+            {"id":9228, "colors":["red"]},
+            {"id":9229, "colors":["orange"]},
+            {"id":9230, "colors":["pink"]},
+            {"id":9231, "colors":["green"]},
+            {"id":9232, "colors":["pink"]},
+            {"id":9233, "colors":["purple"]},
+            {"id":9234, "colors":["black"]},
+            {"id":9235, "colors":["white"]},
+            {"id":9236, "colors":["blue"]}
         ], "criteria":null,
         "releaseDate":"2025-08-10"
     }
