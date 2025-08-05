@@ -17317,7 +17317,7 @@
     {
         "groupId":10119, "zone":"torso_waistToKnee", "category":"dress", "security":"9ce9036f57b9c457", "multiLayered":true, "layerBehavior":"normal",
         "name":"Dress",
-        "outfitName":"Wuggly Jelly",
+        "outfitName":"Wiggly Jelly",
         "variations":[
             {"id":10119, "colors":["blue"]},
             {"id":10120, "colors":["red"]},
@@ -17479,7 +17479,7 @@
     {
         "groupId":10139, "zone":"head", "category":"hat", "security":"dbde6cbbcd71a0d4", "multiLayered":true, "layerBehavior":"backInFront",
         "name":"Sunshade",
-        "outfitName":"Wuggly Jelly",
+        "outfitName":"Wiggly Jelly",
         "variations":[
             {"id":10139, "colors":["pink"]},
             {"id":10140, "colors":["purple"]},
@@ -17497,7 +17497,7 @@
     {
         "groupId":10129, "zone":"torso_waistToKnee", "category":"belt", "security":"6e868e6300fd885a", "multiLayered":false, "layerBehavior":"normal",
         "name":"Tentacles",
-        "outfitName":"Wuggly Jelly",
+        "outfitName":"Wiggly Jelly",
         "variations":[
             {"id":10129, "colors":["blue"]},
             {"id":10130, "colors":["red"]},
