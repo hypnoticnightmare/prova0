@@ -17619,5 +17619,23 @@
             {"id":10078, "colors":["green"]}
         ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
         "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10099, "zone":"feet", "category":"shoes", "security":"596d982e53aff766", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Heels",
+        "outfitName":"Wiggly Jelly",
+        "variations":[
+            {"id":10099, "colors":["blue"]},
+            {"id":10100, "colors":["red"]},
+            {"id":10101, "colors":["orange"]},
+            {"id":10102, "colors":["pink"]},
+            {"id":10103, "colors":["green"]},
+            {"id":10104, "colors":["pink"]},
+            {"id":10105, "colors":["purple"]},
+            {"id":10106, "colors":["black"]},
+            {"id":10107, "colors":["white"]},
+            {"id":10108, "colors":["blue"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-10"
     }
 ]
