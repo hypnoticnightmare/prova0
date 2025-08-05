@@ -17583,5 +17583,23 @@
             {"id":10118, "colors":["blue"]}
         ], "criteria":null,
         "releaseDate":"2025-08-10"
+    },
+    {
+        "groupId":10039, "zone":"arms", "category":"handNailPolish", "security":"f0bacf32be6f5f3b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Nail Polish",
+        "outfitName":"...and chill",
+        "variations":[
+            {"id":10039, "colors":["pink"]},
+            {"id":10040, "colors":["white"]},
+            {"id":10041, "colors":["black"]},
+            {"id":10042, "colors":["pink"]},
+            {"id":10043, "colors":["purple"]},
+            {"id":10044, "colors":["green"]},
+            {"id":10045, "colors":["red"]},
+            {"id":10046, "colors":["yellow"]},
+            {"id":10047, "colors":["purple"]},
+            {"id":10048, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
     }
 ]
