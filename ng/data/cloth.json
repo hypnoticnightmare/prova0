@@ -17691,5 +17691,23 @@
             {"id":9979, "colors":["white"]}
         ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
         "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10149, "zone":"general", "category":"other", "security":"f1d87f41015b42d0", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Jellyfish",
+        "outfitName":"Wiggly Jelly",
+        "variations":[
+            {"id":10149, "colors":["blue"]},
+            {"id":10150, "colors":["red"]},
+            {"id":10151, "colors":["orange"]},
+            {"id":10152, "colors":["pink"]},
+            {"id":10153, "colors":["green"]},
+            {"id":10154, "colors":["pink"]},
+            {"id":10155, "colors":["purple"]},
+            {"id":10156, "colors":["black"]},
+            {"id":10157, "colors":["white"]},
+            {"id":10158, "colors":["blue"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-10"
     }
 ]
