@@ -17567,24 +17567,6 @@
         "releaseDate":"2025-08-01"
     },
     {
-        "groupId":10109, "zone":"arms", "category":"armAccessory", "security":"7d43c5d615a4982f", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Sleeves",
-        "outfitName":"Wiggly Jelly",
-        "variations":[
-            {"id":10109, "colors":["blue"]},
-            {"id":10110, "colors":["red"]},
-            {"id":10111, "colors":["orange"]},
-            {"id":10112, "colors":["pink"]},
-            {"id":10113, "colors":["green"]},
-            {"id":10114, "colors":["pink"]},
-            {"id":10115, "colors":["purple"]},
-            {"id":10116, "colors":["black"]},
-            {"id":10117, "colors":["white"]},
-            {"id":10118, "colors":["blue"]}
-        ], "criteria":null,
-        "releaseDate":"2025-08-10"
-    },
-    {
         "groupId":10039, "zone":"arms", "category":"handNailPolish", "security":"f0bacf32be6f5f3b", "multiLayered":false, "layerBehavior":"normal",
         "name":"Nail Polish",
         "outfitName":"...and chill",
