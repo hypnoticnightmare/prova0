@@ -17621,6 +17621,24 @@
         "releaseDate":"2025-08-01"
     },
     {
+        "groupId":1669, "zone":"feet", "category":"shoes", "security":"3fa5acdbc9620bd9", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Boots",
+        "outfitName":"Playing in the rain",
+        "variations":[
+            {"id":1669, "colors":["green"]},
+            {"id":1670, "colors":["blue"]},
+            {"id":1671, "colors":["orange"]},
+            {"id":1672, "colors":["red"]},
+            {"id":1673, "colors":["white"]},
+            {"id":1674, "colors":["green"]},
+            {"id":1675, "colors":["black"]},
+            {"id":1676, "colors":["pink"]},
+            {"id":1677, "colors":["bronw"]},
+            {"id":1678, "colors":["yellow"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
+    },
+    {
         "groupId":10099, "zone":"feet", "category":"shoes", "security":"596d982e53aff766", "multiLayered":false, "layerBehavior":"normal",
         "name":"Heels",
         "outfitName":"Wiggly Jelly",
@@ -17637,5 +17655,5 @@
             {"id":10108, "colors":["blue"]}
         ], "criteria":null,
         "releaseDate":"2025-08-10"
-    }
+    },    
 ]
