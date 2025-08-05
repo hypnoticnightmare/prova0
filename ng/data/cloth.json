@@ -17495,7 +17495,7 @@
         "releaseDate":"2025-08-10"
     },
     {
-        "groupId":10129, "zone":"torso_waistToKnee", "category":"belt", "security":"6e868e6300fd885a", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":10129, "zone":"torso_waistToKnee", "category":"belt", "security":"6e868e6300fd885a", "multiLayered":true, "layerBehavior":"backInFront",
         "name":"Tentacles",
         "outfitName":"Wuggly Jelly",
         "variations":[
@@ -17513,7 +17513,7 @@
         "releaseDate":"2025-08-10"
     },
      {
-        "groupId":10079, "zone":"waistToKnee", "category":"pants", "security":"258a0b742ba01b05", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":10079, "zone":"waistToKnee", "category":"pants", "security":"258a0b742ba01b05", "multiLayered":false, "layerBehavior":"normal",
         "name":"Pants",
         "outfitName":"...and chill",
         "variations":[
