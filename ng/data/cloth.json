@@ -17567,7 +17567,7 @@
         "releaseDate":"2025-08-01"
     },
     {
-        "groupId":10109, "zone":"arms", "category":"armAccessory", "security":"7d43c5d615a4982f", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":10109, "zone":"arms", "category":"armAccessory", "security":"7d43c5d615a4982f", "multiLayered":false, "layerBehavior":"normal",
         "name":"Sleeves",
         "outfitName":"Wiggly Jelly",
         "variations":[
