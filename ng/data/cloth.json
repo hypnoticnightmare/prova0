@@ -17567,22 +17567,22 @@
         "releaseDate":"2025-08-01"
     },
     {
-        "groupId":10109, "zone":"arms", "category":"armAccessory", "security":"7d43c5d615a4982f", "multiLayered":true, "layerBehavior":"backInFront",
+        "groupId":10109, "zone":"arms", "category":"armAccessory", "security":"7d43c5d615a4982f", "multiLayered":true, "layerBehavior":"normal",
         "name":"Sleeves",
         "outfitName":"Wiggly Jelly",
         "variations":[
-            {"id":10109, "colors":["blue"]},
-            {"id":10110, "colors":["red"]},
-            {"id":10111, "colors":["orange"]},
-            {"id":10112, "colors":["pink"]},
-            {"id":10113, "colors":["green"]},
-            {"id":10114, "colors":["pink"]},
-            {"id":10115, "colors":["purple"]},
-            {"id":10116, "colors":["black"]},
-            {"id":10117, "colors":["white"]},
-            {"id":10118, "colors":["blue"]}
-        ], "criteria":null,
-        "releaseDate":"2025-08-10"
+            {"id":10109, "colors":["golden","multi"]},
+            {"id":10110, "colors":["multi","silver"]},
+            {"id":10111, "colors":["black","silver"]},
+            {"id":10112, "colors":["golden","white"]},
+            {"id":10113, "colors":["golden","orange","red"]},
+            {"id":10114, "colors":["purple","pink","golden"]},
+            {"id":10115, "colors":["blue","silver"]},
+            {"id":10116, "colors":["green","blue","silver"]},
+            {"id":10117, "colors":["golden","pink","yellow"]},
+            {"id":10118, "colors":["pink","silver"]}
+        ], "criteria":{"type":"calendar", "info":"2025-15", "text":"Desbloqueado en el calendario\nN°15 - 2025"},
+        "releaseDate":"2025-06-05"
     },
     {
         "groupId":10039, "zone":"arms", "category":"handNailPolish", "security":"f0bacf32be6f5f3b", "multiLayered":false, "layerBehavior":"normal",
