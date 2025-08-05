@@ -17679,6 +17679,7 @@
         "name":"Tights",
         "outfitName":"...and chill",
         "variations":[
+            {"id":9969, "colors":["white"]}
             {"id":9970, "colors":["brown"]},
             {"id":9971, "colors":["blue"]},
             {"id":9972, "colors":["red"]},
@@ -17688,7 +17689,6 @@
             {"id":9976, "colors":["purple"]},
             {"id":9977, "colors":["yellow"]},
             {"id":9978, "colors":["orange"]},
-            {"id":9979, "colors":["white"]}
         ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
         "releaseDate":"2025-08-01"
     },
