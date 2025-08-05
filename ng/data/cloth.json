@@ -17601,5 +17601,23 @@
             {"id":10048, "colors":["blue"]}
         ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
         "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10069, "zone":"feet", "category":"shoes", "security":"2e01e088bb6b9b4e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Flats",
+        "outfitName":"...and chill",
+        "variations":[
+            {"id":10069, "colors":["brown"]},
+            {"id":10070, "colors":["white"]},
+            {"id":10071, "colors":["black"]},
+            {"id":10072, "colors":["pink"]},
+            {"id":10073, "colors":["purple"]},
+            {"id":10074, "colors":["green"]},
+            {"id":10075, "colors":["red"]},
+            {"id":10076, "colors":["yellow"]},
+            {"id":10077, "colors":["blue"]},
+            {"id":10078, "colors":["green"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
     }
 ]
