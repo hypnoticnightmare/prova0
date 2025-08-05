@@ -17547,5 +17547,23 @@
             {"id":10028, "colors":["green"]}
         ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
         "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10049, "zone":"arms", "category":"armAccessory", "security":"4c3c817578e4cd49", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Rings",
+        "outfitName":"...and chill",
+        "variations":[
+            {"id":10049, "colors":["yellow"]},
+            {"id":10050, "colors":["brown"]},
+            {"id":10051, "colors":["purple"]},
+            {"id":10052, "colors":["white"]},
+            {"id":10053, "colors":["blue"]},
+            {"id":10054, "colors":["orange"]},
+            {"id":10055, "colors":["pink"]},
+            {"id":10056, "colors":["green"]},
+            {"id":10057, "colors":["red"]},
+            {"id":10058, "colors":["black"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
     }
 ]
