@@ -17655,5 +17655,23 @@
             {"id":10108, "colors":["blue"]}
         ], "criteria":null,
         "releaseDate":"2025-08-10"
+    },
+    {
+        "groupId":9979, "zone":"feet", "category":"socks", "security":"e0e7d155540f76a2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Socks",
+        "outfitName":"Netflix...",
+        "variations":[
+            {"id":9979, "colors":["brown"]},
+            {"id":9980, "colors":["blue"]},
+            {"id":9981, "colors":["red"]},
+            {"id":9982, "colors":["pink"]},
+            {"id":9983, "colors":["black"]},
+            {"id":9984, "colors":["green"]},
+            {"id":9985, "colors":["purple"]},
+            {"id":9986, "colors":["yellow"]},
+            {"id":9987, "colors":["orange"]},
+            {"id":9988, "colors":["white"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
     }
 ]
