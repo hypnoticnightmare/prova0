@@ -17528,6 +17528,24 @@
             {"id":10087, "colors":["white"]},
             {"id":10088, "colors":["blue"]}
         ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
-        "releaseDate":"2025-08-10"
+        "releaseDate":"2025-08-01"
+    }
+    {
+        "groupId":10019, "zone":"arms", "category":"bag", "security":"c1e6ecc6eb569255", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cup",
+        "outfitName":"Netflix...",
+        "variations":[
+            {"id":10019, "colors":["white"]},
+            {"id":10020, "colors":["brown"]},
+            {"id":10021, "colors":["black"]},
+            {"id":10022, "colors":["pink"]},
+            {"id":10023, "colors":["yellow"]},
+            {"id":10024, "colors":["orange"]},
+            {"id":10025, "colors":["red"]},
+            {"id":10026, "colors":["purple"]},
+            {"id":10027, "colors":["blue"]},
+            {"id":10028, "colors":["green"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-01"
     }
 ]
