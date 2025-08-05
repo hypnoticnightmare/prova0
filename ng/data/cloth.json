@@ -17495,7 +17495,7 @@
         "releaseDate":"2025-08-10"
     },
     {
-        "groupId":10129, "zone":"torso_waistToKnee", "category":"waist", "security":"6e868e6300fd885a", "multiLayered":true, "layerBehavior":"backInFront",
+        "groupId":10129, "zone":"torso_waistToKnee", "category":"waist", "security":"6e868e6300fd885a", "multiLayered":true, "layerBehavior":"normal",
         "name":"Tentacles",
         "outfitName":"Wiggly Jelly",
         "variations":[
