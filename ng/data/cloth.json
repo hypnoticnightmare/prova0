@@ -17763,5 +17763,23 @@
             {"id":10331, "colors":["red"]}
         ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 10"},
         "releaseDate":"2025-08-29"
+    },
+    {
+        "groupId":10402, "zone":"face", "category":"neckAccessory", "security":"8ae6a23f1dd097ab", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Necklace",
+        "outfitName":"Sleeping in satin",
+        "variations":[
+            {"id":10402, "colors":["blue"]},
+            {"id":10403, "colors":["purple"]},
+            {"id":10404, "colors":["pink"]},
+            {"id":10405, "colors":["orange"]},
+            {"id":10406, "colors":["white"]},
+            {"id":10407, "colors":["black"]},
+            {"id":10408, "colors":["red"]},
+            {"id":10409, "colors":["blue"]},
+            {"id":10410, "colors":["pink"]},
+            {"id":10411, "colors":["green"]}
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 10"},
+        "releaseDate":"2025-08-29"
     }
 ]
