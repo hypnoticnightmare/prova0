@@ -17889,5 +17889,23 @@
             {"id":10341, "colors":["green"]}
         ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
         "releaseDate":"2025-08-29"
+    },
+        {
+        "groupId":10362, "zone":"arms", "category":"bag", "security":"be185a381d95468d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pillow",
+        "outfitName":"Sleeping in cotton",
+        "variations":[
+            {"id":10362, "colors":["purple"]},
+            {"id":10363, "colors":["red"]},
+            {"id":10364, "colors":["blue"]},
+            {"id":10365, "colors":["yellow"]},
+            {"id":10366, "colors":["pink"]},
+            {"id":10367, "colors":["white"]},
+            {"id":10368, "colors":["green"]},
+            {"id":10369, "colors":["black"]},
+            {"id":10370, "colors":["brown"]},
+            {"id":10371, "colors":["blue"]}
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
+        "releaseDate":"2025-08-29"
     }
 ]
