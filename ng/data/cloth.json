@@ -17910,8 +17910,8 @@
     },       
     {
         "groupId":10552, "zone":"arms", "category":"bag", "security":"54afa3542636b8b3", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Pillow",
-        "outfitName":"Sleeping in cotton",
+        "name":"Quick Travel",
+        "outfitName":"Bag",
         "variations":[
             {"id":10552, "colors":["green"]},
             {"id":10553, "colors":["purple"]},
@@ -17923,6 +17923,24 @@
             {"id":10559, "colors":["brown"]},
             {"id":10560, "colors":["rainbow"]},
             {"id":10561, "colors":["red"]}
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
+        "releaseDate":"2025-08-29"
+    },
+    {
+        "groupId":10332, "zone":"waistToKnee", "category":"pants", "security":"111644def9bf1dd2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shirt",
+        "outfitName":"Sleeping in cotton",
+        "variations":[
+            {"id":10332, "colors":["blue"]},
+            {"id":10333, "colors":["pink"]},
+            {"id":10334, "colors":["green"]},
+            {"id":10335, "colors":["purple"]},
+            {"id":10336, "colors":["white"]},
+            {"id":10337, "colors":["black"]},
+            {"id":10338, "colors":["green"]},
+            {"id":10339, "colors":["brown"]},
+            {"id":10340, "colors":["yellow"]},
+            {"id":10341, "colors":["red"]}
         ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
         "releaseDate":"2025-08-29"
     }
