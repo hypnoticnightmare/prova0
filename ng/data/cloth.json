@@ -17961,6 +17961,24 @@
             {"id":10401, "colors":["green"]}
         ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
         "releaseDate":"2025-08-29"
+    },
+    {
+        "groupId":10372, "zone":"feet", "category":"footNailPolish", "security":"8de644188ccb11cb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Nail polish",
+        "outfitName":"Sleeping in satin",
+        "variations":[
+            {"id":10372, "colors":["purple"]},
+            {"id":10373, "colors":["green"]},
+            {"id":10374, "colors":["pink"]},
+            {"id":10375, "colors":["yellow"]},
+            {"id":10376, "colors":["white"]},
+            {"id":10377, "colors":["black"]},
+            {"id":10378, "colors":["red"]},
+            {"id":10379, "colors":["blue"]},
+            {"id":10380, "colors":["brown"]},
+            {"id":10381, "colors":["green"]}
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
+        "releaseDate":"2025-08-29"
     }
     
 ]
