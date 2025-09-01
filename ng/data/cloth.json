@@ -17711,7 +17711,7 @@
         "releaseDate":"2025-08-10"
     },
    {
-        "groupId":10059, "zone":"head", "category":"earrings", "security":"18c69da03dee2112", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":10059, "zone":"head", "category":"earring", "security":"18c69da03dee2112", "multiLayered":false, "layerBehavior":"normal",
         "name":"Earrings",
         "outfitName":"...and chill",
         "variations":[
@@ -17729,7 +17729,7 @@
         "releaseDate":"2025-08-10"
     },
     {
-        "groupId":9999, "zone":"head", "category":"earrings", "security":"1f487fe3811749f6", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":9999, "zone":"head", "category":"earring", "security":"1f487fe3811749f6", "multiLayered":false, "layerBehavior":"normal",
         "name":"Earrings",
         "outfitName":"Netflix...",
         "variations":[
@@ -17747,7 +17747,7 @@
         "releaseDate":"2025-08-10"
     },
        {
-        "groupId":10322, "zone":"head", "category":"earrings", "security":"45f3c92279ead3d4", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":10322, "zone":"head", "category":"earring", "security":"45f3c92279ead3d4", "multiLayered":false, "layerBehavior":"normal",
         "name":"Earrings",
         "outfitName":"Sleeping in cotton",
         "variations":[
