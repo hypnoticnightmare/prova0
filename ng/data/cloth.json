@@ -17928,7 +17928,7 @@
     },
     {
         "groupId":10332, "zone":"waistToKnee", "category":"pants", "security":"111644def9bf1dd2", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Shirt",
+        "name":"Shorts",
         "outfitName":"Sleeping in cotton",
         "variations":[
             {"id":10332, "colors":["blue"]},
@@ -17941,6 +17941,24 @@
             {"id":10339, "colors":["brown"]},
             {"id":10340, "colors":["yellow"]},
             {"id":10341, "colors":["red"]}
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
+        "releaseDate":"2025-08-29"
+    },
+    {
+        "groupId":10392, "zone":"feet", "category":"shoes", "security":"7958ce49ccd8930a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Slippers",
+        "outfitName":"Sleeping in satin",
+        "variations":[
+            {"id":10392, "colors":["purple"]},
+            {"id":10393, "colors":["green"]},
+            {"id":10394, "colors":["pink"]},
+            {"id":10395, "colors":["yellow"]},
+            {"id":10396, "colors":["white"]},
+            {"id":10397, "colors":["black"]},
+            {"id":10398, "colors":["red"]},
+            {"id":10399, "colors":["blue"]},
+            {"id":10400, "colors":["brown"]},
+            {"id":10401, "colors":["green"]}
         ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
         "releaseDate":"2025-08-29"
     }
