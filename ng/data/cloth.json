@@ -17761,7 +17761,7 @@
             {"id":10329, "colors":["orange"]},
             {"id":10330, "colors":["yellow"]},
             {"id":10331, "colors":["red"]}
-        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 10"},
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
         "releaseDate":"2025-08-29"
     },
     {
@@ -17779,7 +17779,7 @@
             {"id":10409, "colors":["blue"]},
             {"id":10410, "colors":["pink"]},
             {"id":10411, "colors":["green"]}
-        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 10"},
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
         "releaseDate":"2025-08-29"
     },
         {
@@ -17797,10 +17797,10 @@
             {"id":10349, "colors":["brown"]},
             {"id":10350, "colors":["yellow"]},
             {"id":10351, "colors":["red"]}
-        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 10"},
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
         "releaseDate":"2025-08-29"
     },
-            {
+    {
         "groupId":10412, "zone":"torso_waistToKnee", "category":"dress", "security":"5eb0b2324af4cb8d", "multiLayered":false, "layerBehavior":"normal",
         "name":"Nightie",
         "outfitName":"Sleeping in satin",
@@ -17815,7 +17815,25 @@
             {"id":10419, "colors":["blue"]},
             {"id":10420, "colors":["brown"]},
             {"id":10421, "colors":["green"]}
-        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 10"},
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
+        "releaseDate":"2025-08-29"
+    },
+    {
+        "groupId":10352, "zone":"torso", "category":"jacket", "security":"f0cdf519aa1ed6a1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shirt",
+        "outfitName":"Sleeping in cotton",
+        "variations":[
+            {"id":10352, "colors":["blue"]},
+            {"id":10353, "colors":["pink"]},
+            {"id":10354, "colors":["green"]},
+            {"id":10355, "colors":["purple"]},
+            {"id":10356, "colors":["white"]},
+            {"id":10357, "colors":["black"]},
+            {"id":10358, "colors":["green"]},
+            {"id":10359, "colors":["brown"]},
+            {"id":10360, "colors":["yellow"]},
+            {"id":10361, "colors":["red"]}
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
         "releaseDate":"2025-08-29"
     }
 ]
