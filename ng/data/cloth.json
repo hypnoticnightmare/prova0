@@ -17781,5 +17781,23 @@
             {"id":10411, "colors":["green"]}
         ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 10"},
         "releaseDate":"2025-08-29"
+    },
+        {
+        "groupId":10342, "zone":"torso", "category":"top", "security":"820497d073f5bf13", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Sleeping in cotton",
+        "variations":[
+            {"id":10342, "colors":["blue"]},
+            {"id":10343, "colors":["pink"]},
+            {"id":10344, "colors":["green"]},
+            {"id":10345, "colors":["purple"]},
+            {"id":10346, "colors":["white"]},
+            {"id":10347, "colors":["black"]},
+            {"id":10348, "colors":["green"]},
+            {"id":10349, "colors":["brown"]},
+            {"id":10350, "colors":["yellow"]},
+            {"id":10351, "colors":["red"]}
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 10"},
+        "releaseDate":"2025-08-29"
     }
 ]
