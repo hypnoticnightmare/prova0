@@ -17725,7 +17725,25 @@
             {"id":10066, "colors":["yellow"]},
             {"id":10067, "colors":["blue"]},
             {"id":10068, "colors":["rainbow"]}
-        ], "criteria":null,
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
+        "releaseDate":"2025-08-10"
+    },
+    {
+        "groupId":9999, "zone":"head", "category":"earrings", "security":"1f487fe3811749f6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Earrings",
+        "outfitName":"Netflix...",
+        "variations":[
+            {"id":9999, "colors":["white"]},
+            {"id":10000, "colors":["blue"]},
+            {"id":10001, "colors":["red"]},
+            {"id":10002, "colors":["pink"]},
+            {"id":10003, "colors":["black"]},
+            {"id":10004, "colors":["green"]},
+            {"id":10005, "colors":["purple"]},
+            {"id":10006, "colors":["yellow"]},
+            {"id":10007, "colors":["orange"]},
+            {"id":10008, "colors":["brown"]}
+        ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
         "releaseDate":"2025-08-10"
     }
 ]
