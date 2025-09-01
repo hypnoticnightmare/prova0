@@ -17835,5 +17835,23 @@
             {"id":10361, "colors":["red"]}
         ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
         "releaseDate":"2025-08-29"
+    },
+    {
+        "groupId":10422, "zone":"torso", "category":"jacket", "security":"67fe551d8b6ad121", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Nightie",
+        "outfitName":"Sleeping in satin",
+        "variations":[
+            {"id":10422, "colors":["purple"]},
+            {"id":10423, "colors":["green"]},
+            {"id":10424, "colors":["pink"]},
+            {"id":10425, "colors":["yellow"]},
+            {"id":10426, "colors":["white"]},
+            {"id":10427, "colors":["black"]},
+            {"id":10428, "colors":["red"]},
+            {"id":10429, "colors":["blue"]},
+            {"id":10430, "colors":["brown"]},
+            {"id":10431, "colors":["green"]}
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
+        "releaseDate":"2025-08-29"
     }
 ]
