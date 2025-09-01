@@ -17799,5 +17799,23 @@
             {"id":10351, "colors":["red"]}
         ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 10"},
         "releaseDate":"2025-08-29"
+    },
+            {
+        "groupId":10412, "zone":"torso_waistToKnee", "category":"dress", "security":"5eb0b2324af4cb8d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Nightie",
+        "outfitName":"Sleeping in satin",
+        "variations":[
+            {"id":10412, "colors":["purple"]},
+            {"id":10413, "colors":["green"]},
+            {"id":10414, "colors":["pink"]},
+            {"id":10415, "colors":["yellow"]},
+            {"id":10416, "colors":["white"]},
+            {"id":10417, "colors":["black"]},
+            {"id":10418, "colors":["red"]},
+            {"id":10419, "colors":["blue"]},
+            {"id":10420, "colors":["brown"]},
+            {"id":10421, "colors":["green"]}
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 10"},
+        "releaseDate":"2025-08-29"
     }
 ]
