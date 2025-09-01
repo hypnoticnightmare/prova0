@@ -17838,7 +17838,7 @@
     },
     {
         "groupId":10422, "zone":"torso", "category":"jacket", "security":"67fe551d8b6ad121", "multiLayered":true, "layerBehavior":"normal",
-        "name":"Nightie",
+        "name":"Kimono",
         "outfitName":"Sleeping in satin",
         "variations":[
             {"id":10422, "colors":["purple"]},
@@ -17851,6 +17851,24 @@
             {"id":10429, "colors":["blue"]},
             {"id":10430, "colors":["brown"]},
             {"id":10431, "colors":["green"]}
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
+        "releaseDate":"2025-08-29"
+    },
+    {
+        "groupId":10312, "zone":"torso_waistToKnee", "category":"underwear", "security":"573ac6893a0a226c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Lingerie",
+        "outfitName":"Sleeping in cotton",
+        "variations":[
+            {"id":10312, "colors":["blue"]},
+            {"id":10313, "colors":["pink"]},
+            {"id":10314, "colors":["green"]},
+            {"id":10315, "colors":["purple"]},
+            {"id":10316, "colors":["white"]},
+            {"id":10317, "colors":["black"]},
+            {"id":10318, "colors":["green"]},
+            {"id":10319, "colors":["brown"]},
+            {"id":10320, "colors":["yellow"]},
+            {"id":10321, "colors":["red"]}
         ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
         "releaseDate":"2025-08-29"
     }
