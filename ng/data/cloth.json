@@ -17745,5 +17745,23 @@
             {"id":10008, "colors":["brown"]}
         ], "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el episodio 18"},
         "releaseDate":"2025-08-10"
+    },
+       {
+        "groupId":10322, "zone":"head", "category":"earrings", "security":"45f3c92279ead3d4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Earrings",
+        "outfitName":"Sleeping in cotton",
+        "variations":[
+            {"id":10322, "colors":["purple"]},
+            {"id":10323, "colors":["pink"]},
+            {"id":10324, "colors":["green"]},
+            {"id":10325, "colors":["blue"]},
+            {"id":10326, "colors":["white"]},
+            {"id":10327, "colors":["black"]},
+            {"id":10328, "colors":["blue"]},
+            {"id":10329, "colors":["orange"]},
+            {"id":10330, "colors":["yellow"]},
+            {"id":10331, "colors":["red"]}
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 10"},
+        "releaseDate":"2025-08-29"
     }
 ]
