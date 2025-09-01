@@ -17871,5 +17871,23 @@
             {"id":10321, "colors":["red"]}
         ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
         "releaseDate":"2025-08-29"
+    },
+    {
+        "groupId":10382, "zone":"torso_waistToKnee", "category":"underwear", "security":"eb5def7cff5b15f1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Lingerie",
+        "outfitName":"Sleeping in satin",
+        "variations":[
+            {"id":10382, "colors":["purple"]},
+            {"id":10383, "colors":["green"]},
+            {"id":10384, "colors":["pink"]},
+            {"id":10385, "colors":["yellow"]},
+            {"id":10386, "colors":["white"]},
+            {"id":10387, "colors":["black"]},
+            {"id":10388, "colors":["red"]},
+            {"id":10389, "colors":["blue"]},
+            {"id":10340, "colors":["brown"]},
+            {"id":10341, "colors":["green"]}
+        ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
+        "releaseDate":"2025-08-29"
     }
 ]
