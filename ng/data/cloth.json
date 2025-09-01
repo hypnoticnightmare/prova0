@@ -17709,5 +17709,23 @@
             {"id":10118, "colors":["blue"]}
         ], "criteria":null,
         "releaseDate":"2025-08-10"
+    },
+   {
+        "groupId":10059, "zone":"head", "category":"earrings", "security":"18c69da03dee2112", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Earrings",
+        "outfitName":"...and chill",
+        "variations":[
+            {"id":10059, "colors":["brown"]},
+            {"id":10060, "colors":["white"]},
+            {"id":10061, "colors":["black"]},
+            {"id":10062, "colors":["pink"]},
+            {"id":10063, "colors":["purple"]},
+            {"id":10064, "colors":["green"]},
+            {"id":10065, "colors":["red"]},
+            {"id":10066, "colors":["yellow"]},
+            {"id":10067, "colors":["blue"]},
+            {"id":10068, "colors":["rainbow"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-10"
     }
 ]
