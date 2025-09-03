@@ -18359,6 +18359,24 @@
             {"id":8211, "colors":["pink"]}
         ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
         "releaseDate":"2025-09-03"
-    }
+    },
+    {
+        "groupId":8152, "zone":"torso", "category":"top", "security":"f2974ab3d4b0d07d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Chestplate",
+        "outfitName":"Pixel Adventurer",
+        "variations":[
+            {"id":8152, "colors":["brown"]},
+            {"id":8193, "colors":["white"]},
+            {"id":8194, "colors":["black"]},
+            {"id":8195, "colors":["grey"]},
+            {"id":8196, "colors":["green"]},
+            {"id":8197, "colors":["brown"]},
+            {"id":8198, "colors":["red"]},
+            {"id":8199, "colors":["brown"]},
+            {"id":8200, "colors":["orange"]},
+            {"id":8201, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
+        "releaseDate":"2025-09-03"
+    }    
     
 ]
