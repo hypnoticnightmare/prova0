@@ -261,7 +261,12 @@
         "id":68, "security":"8074931790955a1f", "releaseDate":"2025-07-30", "name":"Kigoosumi",
         "criteria":{"type":"gauge", "info":"Set kigurumi", "text":"Desbloqueado en el evento de medidor\nSet kigurumi"}
     },
+    {
         "id":66, "security":"cd813f5bdd79d85b", "releaseDate":"2025-07-30", "name":"Duvet Diva",
         "criteria":{"type":"episode", "info":"18", "text":"Desbloqueado en el evento episodio 18"}
+    },
+    {
+        "id":70, "security":"96f54d7ebbcb973c", "releaseDate":"2025-08-29", "name":"Sandgoose",
+        "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el evento episodio 19"}
     }    
 ]
