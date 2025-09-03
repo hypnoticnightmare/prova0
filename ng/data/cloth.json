@@ -18133,6 +18133,24 @@
             {"id":10865, "colors":["orange"]}
         ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
         "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10717, "zone":"head", "category":"hat", "security":"ff933d10ae2058fb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Barrette",
+        "outfitName":"Money Flows",
+        "variations":[
+            {"id":10717, "colors":["blue"]},
+            {"id":10718, "colors":["black"]},
+            {"id":10719, "colors":["white"]},
+            {"id":10720, "colors":["pink"]},
+            {"id":10721, "colors":["green"]},
+            {"id":10722, "colors":["orange"]},
+            {"id":10723, "colors":["purple"]},
+            {"id":10724, "colors":["brown"]},
+            {"id":10725, "colors":["grey"]},
+            {"id":10726, "colors":["red"]}
+        ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
+        "releaseDate":"2025-09-03"
     }
     
 ]
