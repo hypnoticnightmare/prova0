@@ -18377,6 +18377,24 @@
             {"id":8201, "colors":["pink"]}
         ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
         "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":8182, "zone":"torso", "category":"jacket", "security":"a9f53376552ade86", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Shoulder Pads",
+        "outfitName":"Pixel Adventurer",
+        "variations":[
+            {"id":8182, "colors":["brown"]},
+            {"id":8183, "colors":["white"]},
+            {"id":8184, "colors":["black"]},
+            {"id":8185, "colors":["blue"]},
+            {"id":8186, "colors":["green"]},
+            {"id":8187, "colors":["brown"]},
+            {"id":8188, "colors":["red"]},
+            {"id":8189, "colors":["yellow"]},
+            {"id":8190, "colors":["orange"]},
+            {"id":8191, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
+        "releaseDate":"2025-09-03"
     }    
     
 ]
