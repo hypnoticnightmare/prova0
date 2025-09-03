@@ -268,5 +268,9 @@
     {
         "id":70, "security":"96f54d7ebbcb973c", "releaseDate":"2025-08-29", "name":"Sandgoose",
         "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el evento episodio 19"}
-    }    
+    },
+    {
+        "id":72, "security":"dd1db122e71eca32", "releaseDate":"2025-09-03", "name":"Goose of Fortune",
+        "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMOney Flows"}
+    }
 ]
