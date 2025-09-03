@@ -276,5 +276,9 @@
     {
         "id":71, "security":"337ce79b21341736", "releaseDate":"2025-09-03", "name":"Nanny Honk",
         "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"}
-    }
+    },
+    {
+        "id":53, "security":"dc8db184f9669d56", "releaseDate":"2025-09-03", "name":"LV3 Slimygoose",
+        "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"}
+    }    
 ]
