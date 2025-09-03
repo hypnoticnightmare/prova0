@@ -18007,6 +18007,24 @@
             {"id":10836, "colors":["black"]}
         ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
         "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10758, "zone":"torso", "category":"jacket", "security":"f8fce5a25c876826", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Sweater",
+        "outfitName":"Pawfect Fit",
+        "variations":[
+            {"id":10759, "colors":["orange"]},
+            {"id":10760, "colors":["black"]},
+            {"id":10761, "colors":["green"]},
+            {"id":10762, "colors":["pink"]},
+            {"id":10763, "colors":["purple"]},
+            {"id":10764, "colors":["broen"]},
+            {"id":10765, "colors":["white"]},
+            {"id":10766, "colors":["green"]},
+            {"id":10767, "colors":["red"]},
+            {"id":10768, "colors":["blue"]}
+        ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
+        "releaseDate":"2025-09-03"
     }
     
 ]
