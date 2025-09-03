@@ -18467,6 +18467,23 @@
             {"id":8221, "colors":["pink"]}
         ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
         "releaseDate":"2025-09-03"
-    }
-    
+    },
+    {
+        "groupId":8122, "zone":"waistToKnee", "category":"pants", "security":"7549d73714c04f1c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pants",
+        "outfitName":"Pixel Adventurer",
+        "variations":[
+            {"id":8122, "colors":["black"]},
+            {"id":8123, "colors":["white"]},
+            {"id":8124, "colors":["purple"]},
+            {"id":8125, "colors":["blue"]},
+            {"id":8126, "colors":["green"]},
+            {"id":8127, "colors":["brown"]},
+            {"id":8128, "colors":["red"]},
+            {"id":8129, "colors":["yellow"]},
+            {"id":8130, "colors":["orange"]},
+            {"id":8131, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
+        "releaseDate":"2025-09-03"
+    }    
 ]
