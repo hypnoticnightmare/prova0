@@ -18151,6 +18151,24 @@
             {"id":10726, "colors":["red"]}
         ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
         "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10707, "zone":"head", "category":"wig", "security":"9d4d2049370e733a", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Wig",
+        "outfitName":"Money Flows",
+        "variations":[
+            {"id":10707, "colors":["brown"]},
+            {"id":10708, "colors":["white"]},
+            {"id":10709, "colors":["black"]},
+            {"id":10710, "colors":["blue"]},
+            {"id":10711, "colors":["blue"]},
+            {"id":10712, "colors":["purple"]},
+            {"id":10713, "colors":["red"]},
+            {"id":10714, "colors":["yellow"]},
+            {"id":10715, "colors":["orange"]},
+            {"id":10716, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
+        "releaseDate":"2025-09-03"
     }
     
 ]
