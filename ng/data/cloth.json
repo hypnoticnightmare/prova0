@@ -18431,6 +18431,24 @@
             {"id":8141, "colors":["pink"]}
         ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
         "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":8142, "zone":"arms", "category":"bag", "security":"320e6a80697ed801", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Magic",
+        "outfitName":"Pixel Adventurer",
+        "variations":[
+            {"id":8142, "colors":["purple"]},
+            {"id":8143, "colors":["white"]},
+            {"id":8144, "colors":["black"]},
+            {"id":8145, "colors":["blue"]},
+            {"id":8146, "colors":["green"]},
+            {"id":8147, "colors":["brown"]},
+            {"id":8148, "colors":["red"]},
+            {"id":8149, "colors":["yellow"]},
+            {"id":8150, "colors":["orange"]},
+            {"id":8151, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
+        "releaseDate":"2025-09-03"
     }    
     
 ]
