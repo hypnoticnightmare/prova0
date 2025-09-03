@@ -18315,7 +18315,7 @@
         "releaseDate":"2025-09-03"
     },
     {
-        "groupId":10747, "zone":"other", "category":"general", "security":"af29910574ab0bd3", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":10747, "zone":"general", "category":"other", "security":"af29910574ab0bd3", "multiLayered":true, "layerBehavior":"normal",
         "name":"Bills",
         "outfitName":"Money Flows",
         "variations":[
