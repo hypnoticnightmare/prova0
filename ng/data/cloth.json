@@ -18097,6 +18097,24 @@
             {"id":10847, "colors":["black"]}
         ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
         "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10848, "zone":"general", "category":"other", "security":"41132e0126208aef", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Dog",
+        "outfitName":"Pawfect Fit",
+        "variations":[
+            {"id":10848, "colors":["yellow"]},
+            {"id":10849, "colors":["brown"]},
+            {"id":10850, "colors":["yellow"]},
+            {"id":10851, "colors":["green"]},
+            {"id":10847, "colors":["blue"]},
+            {"id":10852, "colors":["white"]},
+            {"id":10853, "colors":["pink"]},
+            {"id":10854, "colors":["white"]},
+            {"id":10855, "colors":["grey"]},
+            {"id":10856, "colors":["black"]}
+        ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
+        "releaseDate":"2025-09-03"
     }
     
 ]
