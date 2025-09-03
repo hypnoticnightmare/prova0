@@ -18061,6 +18061,24 @@
             {"id":10816, "colors":["blue"]}
         ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
         "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10768, "zone":"general", "category":"other", "security":"483abddfa0bd342c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cat",
+        "outfitName":"Pawfect Fit",
+        "variations":[
+            {"id":10768, "colors":["black"]},
+            {"id":10769, "colors":["orange"]},
+            {"id":10770, "colors":["white"]},
+            {"id":10771, "colors":["brown"]},
+            {"id":10772, "colors":["pink"]},
+            {"id":10773, "colors":["brown"]},
+            {"id":10774, "colors":["brown"]},
+            {"id":10775, "colors":["black"]},
+            {"id":10776, "colors":["brown"]},
+            {"id":10777, "colors":["grey"]}
+        ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
+        "releaseDate":"2025-09-03"
     }
     
 ]
