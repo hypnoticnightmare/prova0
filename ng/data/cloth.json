@@ -18449,6 +18449,24 @@
             {"id":8151, "colors":["pink"]}
         ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
         "releaseDate":"2025-09-03"
-    }    
+    },
+    {
+        "groupId":8212, "zone":"arms", "category":"bag", "security":"a417d6bac681a73b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sword",
+        "outfitName":"Pixel Adventurer",
+        "variations":[
+            {"id":8212, "colors":["purple"]},
+            {"id":8213, "colors":["white"]},
+            {"id":8214, "colors":["black"]},
+            {"id":8215, "colors":["blue"]},
+            {"id":8216, "colors":["green"]},
+            {"id":8217, "colors":["brown"]},
+            {"id":8218, "colors":["red"]},
+            {"id":8219, "colors":["yellow"]},
+            {"id":8220, "colors":["orange"]},
+            {"id":8221, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
+        "releaseDate":"2025-09-03"
+    }
     
 ]
