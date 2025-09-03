@@ -18485,5 +18485,24 @@
             {"id":8131, "colors":["pink"]}
         ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
         "releaseDate":"2025-09-03"
-    }    
+    },
+    {
+        "groupId":8162, "zone":"feet", "category":"shoes", "security":"f48067ca262baa15", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tight High Boots",
+        "outfitName":"Pixel Adventurer",
+        "variations":[
+            {"id":8162, "colors":["black"]},
+            {"id":8163, "colors":["white"]},
+            {"id":8164, "colors":["purple"]},
+            {"id":8165, "colors":["blue"]},
+            {"id":8166, "colors":["green"]},
+            {"id":8167, "colors":["brown"]},
+            {"id":8168, "colors":["red"]},
+            {"id":8169, "colors":["brown"]},
+            {"id":8170, "colors":["orange"]},
+            {"id":8171, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
+        "releaseDate":"2025-09-03"
+    }
+    
 ]
