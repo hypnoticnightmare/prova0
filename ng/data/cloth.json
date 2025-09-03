@@ -17968,7 +17968,25 @@
             {"id":10793, "colors":["red"]},
             {"id":10794, "colors":["yellow"]},
             {"id":10795, "colors":["orange"]},
-            {"id":10796, "colors":["pink"]},
+            {"id":10796, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivonPawfect Fit"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10817, "zone":"torso", "category":"top", "security":"f53795ba4b92493e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"T-Shirt",
+        "outfitName":"Pawfect Fit",
+        "variations":[
+            {"id":10817, "colors":["white"]},
+            {"id":10818, "colors":["black"]},
+            {"id":10819, "colors":["purple"]},
+            {"id":10820, "colors":["blue"]},
+            {"id":10821, "colors":["pink"]},
+            {"id":10822, "colors":["orange"]},
+            {"id":10823, "colors":["green"]},
+            {"id":10824, "colors":["yellow"]},
+            {"id":10825, "colors":["red"]},
+            {"id":10826, "colors":["green"]}
         ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivonPawfect Fit"},
         "releaseDate":"2025-09-03"
     }
