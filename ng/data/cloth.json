@@ -18313,6 +18313,24 @@
             {"id":10666, "colors":["brown"]}
         ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
         "releaseDate":"2025-09-03"
-    }    
+    },
+    {
+        "groupId":10747, "zone":"other", "category":"general", "security":"af29910574ab0bd3", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Bills",
+        "outfitName":"Money Flows",
+        "variations":[
+            {"id":10747, "colors":["green"]},
+            {"id":10748, "colors":["rainbow"]},
+            {"id":10749, "colors":["blue"]},
+            {"id":10750, "colors":["purple"]},
+            {"id":10751, "colors":["black"]},
+            {"id":10752, "colors":["white"]},
+            {"id":10753, "colors":["grey"]},
+            {"id":10754, "colors":["yellow"]},
+            {"id":10755, "colors":["pink"]},
+            {"id":10756, "colors":["brown"]}
+        ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
+        "releaseDate":"2025-09-03"
+    }
     
 ]
