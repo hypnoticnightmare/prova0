@@ -17989,6 +17989,23 @@
             {"id": 10826, "colors":["green"]}
         ], "criteria":{"type":"episode", "info":"01", "text": "Desbloqueado en el Pack exclusivo\nPawfect Fit"},
         "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10827, "zone":"torso_waistToKnee", "category":"dress", "security":"9c59b359b3e5fa1b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Overallos",
+        "outfitName":"Pawfect Fit",
+        "variations":[
+            {"id": 10827, "colors":["pink"]},
+            {"id": 10828, "colors":["red"]},
+            {"id": 10829, "colors":["blue"]},
+            {"id": 10830, "colors":["purple"]},
+            {"id": 10831, "colors":["white"]},
+            {"id": 10832, "colors":["green"]},
+            {"id": 10833, "colors":["yellow"]},
+            {"id": 10834, "colors":["brown"]},
+            {"id": 10835, "colors":["grey"]},
+            {"id": 10836, "colors":["black"]}
+        ], "criteria":{"type":"episode", "info":"01", "text": "Desbloqueado en el Pack exclusivo\nPawfect Fit"},
+        "releaseDate":"2025-09-03"
     }
-    
 ]
