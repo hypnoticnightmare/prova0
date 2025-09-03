@@ -18087,20 +18087,20 @@
         "variations":[
             {"id":10838, "colors":["black"]},
             {"id":10839, "colors":["white"]},
+            {"id":10837, "colors":["brown"]},
             {"id":10840, "colors":["brown"]},
-            {"id":10841, "colors":["brown"]},
-            {"id":10842, "colors":["grey"]},
+            {"id":10841, "colors":["grey"]},
+            {"id":10842, "colors":["brown"]},
             {"id":10843, "colors":["brown"]},
-            {"id":10844, "colors":["brown"]},
-            {"id":10845, "colors":["black"]},
-            {"id":10846, "colors":["brown"]},
-            {"id":10847, "colors":["black"]}
+            {"id":10844, "colors":["black"]},
+            {"id":10845, "colors":["brown"]},
+            {"id":10846, "colors":["black"]}
         ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
         "releaseDate":"2025-09-03"
     },
     {
         "groupId":10848, "zone":"general", "category":"other", "security":"41132e0126208aef", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Dog",
+        "name":"Bird",
         "outfitName":"Pawfect Fit",
         "variations":[
             {"id":10848, "colors":["yellow"]},
@@ -18113,6 +18113,24 @@
             {"id":10854, "colors":["white"]},
             {"id":10855, "colors":["grey"]},
             {"id":10856, "colors":["black"]}
+        ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10857, "zone":"general", "category":"other", "security":"a7a7c93e4cf14f0e", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Weasel",
+        "outfitName":"Pawfect Fit",
+        "variations":[
+            {"id":10857, "colors":["brown"]},
+            {"id":10858, "colors":["white"]},
+            {"id":10866, "colors":["black"]},
+            {"id":10859, "colors":["brown"]},
+            {"id":10860, "colors":["black"]},
+            {"id":10861, "colors":["grey"]},
+            {"id":10862, "colors":["brown"]},
+            {"id":10863, "colors":["brown"]},
+            {"id":10864, "colors":["black"]},
+            {"id":10865, "colors":["orange"]}
         ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
         "releaseDate":"2025-09-03"
     }
