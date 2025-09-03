@@ -18295,6 +18295,24 @@
             {"id":10656, "colors":["red"]}
         ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
         "releaseDate":"2025-09-03"
-    }
+    },
+    {
+        "groupId":10657, "zone":"feet", "category":"legAccessory", "security":"b59dcd7ea31e7111", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Garter",
+        "outfitName":"Money Flows",
+        "variations":[
+            {"id":10657, "colors":["black"]},
+            {"id":10658, "colors":["green"]},
+            {"id":10659, "colors":["red"]},
+            {"id":10660, "colors":["purple"]},
+            {"id":10661, "colors":["blue"]},
+            {"id":10662, "colors":["white"]},
+            {"id":10663, "colors":["grey"]},
+            {"id":10664, "colors":["yellow"]},
+            {"id":10665, "colors":["pink"]},
+            {"id":10666, "colors":["brown"]}
+        ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
+        "releaseDate":"2025-09-03"
+    }    
     
 ]
