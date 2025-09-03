@@ -17969,7 +17969,7 @@
             {"id":10794, "colors":["yellow"]},
             {"id":10795, "colors":["orange"]},
             {"id":10796, "colors":["pink"]}
-        ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivonPawfect Fit"},
+        ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
         "releaseDate":"2025-09-03"
     },
     {
@@ -17987,7 +17987,25 @@
             {"id":10824, "colors":["yellow"]},
             {"id":10825, "colors":["red"]},
             {"id":10826, "colors":["green"]}
-        ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivonPawfect Fit"},
+        ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10827, "zone":"torso_waistToKnee", "category":"dress", "security":"9c59b359b3e5fa1b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Overalls",
+        "outfitName":"Pawfect Fit",
+        "variations":[
+            {"id":10827, "colors":["pink"]},
+            {"id":10828, "colors":["red"]},
+            {"id":10829, "colors":["blue"]},
+            {"id":10830, "colors":["purple"]},
+            {"id":10831, "colors":["white"]},
+            {"id":10832, "colors":["green"]},
+            {"id":10833, "colors":["yellow"]},
+            {"id":10834, "colors":["brown"]},
+            {"id":10835, "colors":["grey"]},
+            {"id":10836, "colors":["black"]}
+        ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
         "releaseDate":"2025-09-03"
     }
     
