@@ -18241,6 +18241,24 @@
             {"id":10746, "colors":["red"]}
         ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
         "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10727, "zone":"arms", "category":"bag", "security":"72208868ddaf0357", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Purse",
+        "outfitName":"Money Flows",
+        "variations":[
+            {"id":10727, "colors":["white"]},
+            {"id":10728, "colors":["black"]},
+            {"id":10729, "colors":["blue"]},
+            {"id":10730, "colors":["purple"]},
+            {"id":10731, "colors":["green"]},
+            {"id":10732, "colors":["yellow"]},
+            {"id":10733, "colors":["purple"]},
+            {"id":10734, "colors":["brown"]},
+            {"id":10735, "colors":["grey"]},
+            {"id":10736, "colors":["red"]}
+        ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
+        "releaseDate":"2025-09-03"
     }
     
 ]
