@@ -18013,16 +18013,16 @@
         "name":"Sweater",
         "outfitName":"Pawfect Fit",
         "variations":[
-            {"id":10759, "colors":["orange"]},
-            {"id":10760, "colors":["black"]},
-            {"id":10761, "colors":["green"]},
-            {"id":10762, "colors":["pink"]},
-            {"id":10763, "colors":["purple"]},
-            {"id":10764, "colors":["broen"]},
-            {"id":10765, "colors":["white"]},
-            {"id":10766, "colors":["green"]},
-            {"id":10767, "colors":["red"]},
-            {"id":10768, "colors":["blue"]}
+            {"id":10758, "colors":["orange"]},
+            {"id":10759, "colors":["black"]},
+            {"id":10760, "colors":["green"]},
+            {"id":10761, "colors":["pink"]},
+            {"id":10762, "colors":["purple"]},
+            {"id":10763, "colors":["broen"]},
+            {"id":10764, "colors":["white"]},
+            {"id":10765, "colors":["green"]},
+            {"id":10766, "colors":["red"]},
+            {"id":10757, "colors":["blue"]}
         ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
         "releaseDate":"2025-09-03"
     },
@@ -18041,6 +18041,24 @@
             {"id":10814, "colors":["brown"]},
             {"id":10815, "colors":["grey"]},
             {"id":10816, "colors":["black"]}
+        ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10797, "zone":"feet", "category":"socks", "security":"42e126b06d471222", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Socks",
+        "outfitName":"Pawfect Fit",
+        "variations":[
+            {"id":10807, "colors":["orange"]},
+            {"id":10808, "colors":["black"]},
+            {"id":10809, "colors":["green"]},
+            {"id":10810, "colors":["pink"]},
+            {"id":10811, "colors":["purple"]},
+            {"id":10812, "colors":["brown"]},
+            {"id":10813, "colors":["white"]},
+            {"id":10814, "colors":["green"]},
+            {"id":10815, "colors":["red"]},
+            {"id":10816, "colors":["blue"]}
         ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
         "releaseDate":"2025-09-03"
     }
