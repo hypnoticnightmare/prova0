@@ -18049,16 +18049,16 @@
         "name":"Socks",
         "outfitName":"Pawfect Fit",
         "variations":[
-            {"id":10807, "colors":["orange"]},
-            {"id":10808, "colors":["black"]},
-            {"id":10809, "colors":["green"]},
-            {"id":10810, "colors":["pink"]},
-            {"id":10811, "colors":["purple"]},
-            {"id":10812, "colors":["brown"]},
-            {"id":10813, "colors":["white"]},
-            {"id":10814, "colors":["green"]},
-            {"id":10815, "colors":["red"]},
-            {"id":10816, "colors":["blue"]}
+            {"id":10797, "colors":["orange"]},
+            {"id":10798, "colors":["black"]},
+            {"id":10799, "colors":["green"]},
+            {"id":10800, "colors":["pink"]},
+            {"id":10801, "colors":["purple"]},
+            {"id":10802, "colors":["brown"]},
+            {"id":10803, "colors":["white"]},
+            {"id":10804, "colors":["green"]},
+            {"id":10805, "colors":["red"]},
+            {"id":10806, "colors":["blue"]}
         ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
         "releaseDate":"2025-09-03"
     },
@@ -18505,7 +18505,7 @@
         "releaseDate":"2025-09-03"
     },
     {
-        "groupId":8222, "zone":"other", "category":"general", "security":"bcb04242162db6af", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":8222, "zone":"general", "category":"other", "security":"bcb04242162db6af", "multiLayered":false, "layerBehavior":"normal",
         "name":"Tight High Boots",
         "outfitName":"Pixel Adventurer",
         "variations":[
