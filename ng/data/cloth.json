@@ -18277,6 +18277,24 @@
             {"id":10686, "colors":["red"]}
         ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
         "releaseDate":"2025-09-03"
-    }    
+    },
+    {
+        "groupId":10647, "zone":"feet", "category":"shoes", "security":"58e0f5aa7d57b5a5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Heels",
+        "outfitName":"Money Flows",
+        "variations":[
+            {"id":10647, "colors":["grey"]},
+            {"id":10648, "colors":["black"]},
+            {"id":10649, "colors":["blue"]},
+            {"id":10650, "colors":["pink"]},
+            {"id":10651, "colors":["green"]},
+            {"id":10652, "colors":["yellow"]},
+            {"id":10653, "colors":["purple"]},
+            {"id":10654, "colors":["brown"]},
+            {"id":10655, "colors":["white"]},
+            {"id":10656, "colors":["red"]}
+        ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
+        "releaseDate":"2025-09-03"
+    }
     
 ]
