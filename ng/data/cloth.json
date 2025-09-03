@@ -18331,6 +18331,34 @@
             {"id":10756, "colors":["brown"]}
         ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
         "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":8192, "zone":"head", "category":"wig", "security":"d4d13e710acc7df2", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Wig",
+        "outfitName":"Pixel Adventurer",
+        "variations":[
+            {"id":8192, "colors":["brown"]},
+            {"id":8193, "colors":["white"]},
+            {"id":8194, "colors":["black"]},
+            {"id":8195, "colors":["blue"]},
+            {"id":8196, "colors":["blue"]},
+            {"id":8197, "colors":["purple"]},
+            {"id":8198, "colors":["red"]},
+            {"id":8199, "colors":["yellow"]},
+            {"id":8200, "colors":["orange"]},
+            {"id":8201, "colors":["pink"]},
+            {"id":8202, "colors":["brown"]},
+            {"id":8203, "colors":["white"]},
+            {"id":8204, "colors":["black"]},
+            {"id":8205, "colors":["blue"]},
+            {"id":8206, "colors":["blue"]},
+            {"id":8207, "colors":["purple"]},
+            {"id":8208, "colors":["red"]},
+            {"id":8209, "colors":["yellow"]},
+            {"id":8210, "colors":["orange"]},
+            {"id":8211, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
+        "releaseDate":"2025-09-03"
     }
     
 ]
