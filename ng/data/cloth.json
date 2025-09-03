@@ -17987,7 +17987,7 @@
             {"id": 10824, "colors":["yellow"]},
             {"id": 10825, "colors":["red"]},
             {"id": 10826, "colors":["green"]}
-        ], "criteria":{"type":"episode", "info":"01", "text": "Desbloqueado en el Pack exclusivo\nPawfect Fit"},
+        ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text": "Desbloqueado en el Pack exclusivo\nPawfect Fit"},
         "releaseDate":"2025-09-03"
     },
     {
@@ -18005,7 +18005,7 @@
             {"id": 10834, "colors":["brown"]},
             {"id": 10835, "colors":["grey"]},
             {"id": 10836, "colors":["black"]}
-        ], "criteria":{"type":"episode", "info":"01", "text": "Desbloqueado en el Pack exclusivo\nPawfect Fit"},
+        ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text": "Desbloqueado en el Pack exclusivo\nPawfect Fit"},
         "releaseDate":"2025-09-03"
     }
     
