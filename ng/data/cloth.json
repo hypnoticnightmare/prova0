@@ -17943,6 +17943,34 @@
             {"id":10381, "colors":["green"]}
         ], "criteria":{"type":"episode", "info":"19", "text":"Desbloqueado en el episodio 19"},
         "releaseDate":"2025-08-29"
+    },
+    {
+        "groupId":10777, "zone":"head", "category":"wig", "security":"fde15fa5fddcdf88", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Wig",
+        "outfitName":"Pawfect Fit",
+        "variations":[
+            {"id":10777, "colors":["brown"]},
+            {"id":10778, "colors":["white"]},
+            {"id":10779, "colors":["black"]},
+            {"id":10780, "colors":["blue"]},
+            {"id":10781, "colors":["blue"]},
+            {"id":10782, "colors":["purple"]},
+            {"id":10783, "colors":["red"]},
+            {"id":10784, "colors":["yellow"]},
+            {"id":10785, "colors":["orange"]},
+            {"id":10786, "colors":["pink"]},
+            {"id":10787, "colors":["brown"]},
+            {"id":10788, "colors":["white"]},
+            {"id":10789, "colors":["black"]},
+            {"id":10790, "colors":["blue"]},
+            {"id":10791, "colors":["blue"]},
+            {"id":10792, "colors":["purple"]},
+            {"id":10793, "colors":["red"]},
+            {"id":10794, "colors":["yellow"]},
+            {"id":10795, "colors":["orange"]},
+            {"id":10796D, "colors":["pink"]},
+        ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
+        "releaseDate":"2025-09-03"
     }
     
 ]
