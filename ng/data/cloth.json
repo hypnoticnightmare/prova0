@@ -18413,6 +18413,24 @@
             {"id":8181, "colors":["pink"]}
         ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
         "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":8132, "zone":"arms", "category":"gloves", "security":"ca26fc3b4623ea0f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Mittens",
+        "outfitName":"Pixel Adventurer",
+        "variations":[
+            {"id":8132, "colors":["purple"]},
+            {"id":8133, "colors":["white"]},
+            {"id":8134, "colors":["black"]},
+            {"id":8135, "colors":["blue"]},
+            {"id":8136, "colors":["green"]},
+            {"id":8137, "colors":["brown"]},
+            {"id":8138, "colors":["red"]},
+            {"id":8139, "colors":["yellow"]},
+            {"id":8140, "colors":["orange"]},
+            {"id":8141, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
+        "releaseDate":"2025-09-03"
     }    
     
 ]
