@@ -18073,10 +18073,28 @@
             {"id":10771, "colors":["brown"]},
             {"id":10772, "colors":["pink"]},
             {"id":10773, "colors":["brown"]},
-            {"id":10774, "colors":["brown"]},
-            {"id":10775, "colors":["black"]},
-            {"id":10776, "colors":["brown"]},
-            {"id":10777, "colors":["grey"]}
+            {"id":10767, "colors":["brown"]},
+            {"id":10774, "colors":["black"]},
+            {"id":10775, "colors":["brown"]},
+            {"id":10776, "colors":["grey"]}
+        ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
+        "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10838, "zone":"general", "category":"other", "security":"8a20b54235c6dd8e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Dog",
+        "outfitName":"Pawfect Fit",
+        "variations":[
+            {"id":10838, "colors":["black"]},
+            {"id":10839, "colors":["white"]},
+            {"id":10840, "colors":["brown"]},
+            {"id":10841, "colors":["brown"]},
+            {"id":10842, "colors":["grey"]},
+            {"id":10843, "colors":["brown"]},
+            {"id":10844, "colors":["brown"]},
+            {"id":10845, "colors":["black"]},
+            {"id":10846, "colors":["brown"]},
+            {"id":10847, "colors":["black"]}
         ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
         "releaseDate":"2025-09-03"
     }
