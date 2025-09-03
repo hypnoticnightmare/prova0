@@ -18169,6 +18169,24 @@
             {"id":10716, "colors":["pink"]}
         ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
         "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10697, "zone":"head", "category":"earring", "security":"8dfff778c56b4ba9", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Earrings",
+        "outfitName":"Money Flows",
+        "variations":[
+            {"id":10697, "colors":["blue"]},
+            {"id":10698, "colors":["black"]},
+            {"id":10699, "colors":["white"]},
+            {"id":10700, "colors":["pink"]},
+            {"id":10701, "colors":["green"]},
+            {"id":10702, "colors":["orange"]},
+            {"id":10703, "colors":["purple"]},
+            {"id":10704, "colors":["brown"]},
+            {"id":10705, "colors":["grey"]},
+            {"id":10706, "colors":["red"]}
+        ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
+        "releaseDate":"2025-09-03"
     }
     
 ]
