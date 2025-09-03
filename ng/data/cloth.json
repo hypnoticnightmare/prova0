@@ -18366,15 +18366,15 @@
         "outfitName":"Pixel Adventurer",
         "variations":[
             {"id":8152, "colors":["brown"]},
-            {"id":8193, "colors":["white"]},
-            {"id":8194, "colors":["black"]},
-            {"id":8195, "colors":["grey"]},
-            {"id":8196, "colors":["green"]},
-            {"id":8197, "colors":["brown"]},
-            {"id":8198, "colors":["red"]},
-            {"id":8199, "colors":["brown"]},
-            {"id":8200, "colors":["orange"]},
-            {"id":8201, "colors":["pink"]}
+            {"id":8153, "colors":["white"]},
+            {"id":8154, "colors":["black"]},
+            {"id":8155, "colors":["grey"]},
+            {"id":8156, "colors":["green"]},
+            {"id":8157, "colors":["brown"]},
+            {"id":8158, "colors":["red"]},
+            {"id":8159, "colors":["brown"]},
+            {"id":8160, "colors":["orange"]},
+            {"id":8161, "colors":["pink"]}
         ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
         "releaseDate":"2025-09-03"
     },
