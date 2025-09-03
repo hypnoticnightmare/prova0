@@ -18025,6 +18025,24 @@
             {"id":10768, "colors":["blue"]}
         ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
         "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10807, "zone":"feet", "category":"shoes", "security":"7fef5992dbffe7b8", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Boots",
+        "outfitName":"Pawfect Fit",
+        "variations":[
+            {"id":10807, "colors":["pink"]},
+            {"id":10808, "colors":["red"]},
+            {"id":10809, "colors":["blue"]},
+            {"id":10810, "colors":["purple"]},
+            {"id":10811, "colors":["white"]},
+            {"id":10812, "colors":["green"]},
+            {"id":10813, "colors":["yellow"]},
+            {"id":10814, "colors":["brown"]},
+            {"id":10815, "colors":["grey"]},
+            {"id":10816, "colors":["black"]}
+        ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
+        "releaseDate":"2025-09-03"
     }
     
 ]
