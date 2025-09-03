@@ -18506,19 +18506,19 @@
     },
     {
         "groupId":8222, "zone":"general", "category":"other", "security":"bcb04242162db6af", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Tight High Boots",
+        "name":"Atpmosphere",
         "outfitName":"Pixel Adventurer",
         "variations":[
             {"id":8222, "colors":["purple"]},
-            {"id":8163, "colors":["white"]},
-            {"id":8164, "colors":["black"]},
-            {"id":8165, "colors":["blue"]},
-            {"id":8166, "colors":["green"]},
-            {"id":8167, "colors":["brown"]},
-            {"id":8168, "colors":["red"]},
-            {"id":8169, "colors":["yellow"]},
-            {"id":8170, "colors":["orange"]},
-            {"id":8171, "colors":["pink"]}
+            {"id":8223, "colors":["white"]},
+            {"id":8224, "colors":["black"]},
+            {"id":8225, "colors":["blue"]},
+            {"id":8226, "colors":["green"]},
+            {"id":8227, "colors":["brown"]},
+            {"id":8228, "colors":["red"]},
+            {"id":8229, "colors":["yellow"]},
+            {"id":8230, "colors":["orange"]},
+            {"id":8231, "colors":["pink"]}
         ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
         "releaseDate":"2025-09-03"
     }    
