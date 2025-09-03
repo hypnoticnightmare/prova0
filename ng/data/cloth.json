@@ -18187,6 +18187,24 @@
             {"id":10706, "colors":["red"]}
         ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
         "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10687, "zone":"face", "category":"neckAccessory", "security":"0143f88ac03abc17", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Necklace",
+        "outfitName":"Money Flows",
+        "variations":[
+            {"id":10687, "colors":["blue"]},
+            {"id":10688, "colors":["black"]},
+            {"id":10689, "colors":["white"]},
+            {"id":10690, "colors":["pink"]},
+            {"id":10691, "colors":["green"]},
+            {"id":10692, "colors":["orange"]},
+            {"id":10693, "colors":["purple"]},
+            {"id":10694, "colors":["brown"]},
+            {"id":10695, "colors":["grey"]},
+            {"id":10696, "colors":["red"]}
+        ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
+        "releaseDate":"2025-09-03"
     }
     
 ]
