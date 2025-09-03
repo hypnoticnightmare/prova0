@@ -18395,6 +18395,24 @@
             {"id":8191, "colors":["pink"]}
         ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
         "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":8172, "zone":"torso_waistToKnee", "category":"waist", "security":"71151f2553d12fbd", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Belt",
+        "outfitName":"Pixel Adventurer",
+        "variations":[
+            {"id":8172, "colors":["purple"]},
+            {"id":8173, "colors":["white"]},
+            {"id":8174, "colors":["black"]},
+            {"id":8175, "colors":["blue"]},
+            {"id":8176, "colors":["green"]},
+            {"id":8177, "colors":["brown"]},
+            {"id":8178, "colors":["red"]},
+            {"id":8179, "colors":["yellow"]},
+            {"id":8180, "colors":["orange"]},
+            {"id":8181, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"},
+        "releaseDate":"2025-09-03"
     }    
     
 ]
