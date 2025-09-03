@@ -18259,6 +18259,24 @@
             {"id":10736, "colors":["red"]}
         ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
         "releaseDate":"2025-09-03"
-    }
+    },
+    {
+        "groupId":10677, "zone":"arms", "category":"armAccessory", "security":"5dea220e765787a3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bracelet",
+        "outfitName":"Money Flows",
+        "variations":[
+            {"id":10677, "colors":["blue"]},
+            {"id":10678, "colors":["black"]},
+            {"id":10679, "colors":["white"]},
+            {"id":10680, "colors":["pink"]},
+            {"id":10681, "colors":["green"]},
+            {"id":10682, "colors":["orange"]},
+            {"id":10683, "colors":["purple"]},
+            {"id":10684, "colors":["brown"]},
+            {"id":10685, "colors":["grey"]},
+            {"id":10686, "colors":["red"]}
+        ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
+        "releaseDate":"2025-09-03"
+    }    
     
 ]
