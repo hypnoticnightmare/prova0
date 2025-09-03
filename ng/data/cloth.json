@@ -18205,6 +18205,24 @@
             {"id":10696, "colors":["red"]}
         ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
         "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10667, "zone":"torso_waistToKnee", "category":"dress", "security":"58324cf62e8681ac", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Dress",
+        "outfitName":"Money Flows",
+        "variations":[
+            {"id":10667, "colors":["black"]},
+            {"id":10668, "colors":["green"]},
+            {"id":10669, "colors":["red"]},
+            {"id":10670, "colors":["purple"]},
+            {"id":10671, "colors":["blue"]},
+            {"id":10672, "colors":["white"]},
+            {"id":10673, "colors":["grey"]},
+            {"id":10674, "colors":["orange"]},
+            {"id":10675, "colors":["pink"]},
+            {"id":10676, "colors":["brown"]}
+        ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
+        "releaseDate":"2025-09-03"
     }
     
 ]
