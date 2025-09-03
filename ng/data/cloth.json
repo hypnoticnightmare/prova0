@@ -18223,6 +18223,24 @@
             {"id":10676, "colors":["brown"]}
         ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
         "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10737, "zone":"torso", "category":"jacket", "security":"82bc4d6ff985d937", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Boa",
+        "outfitName":"Money Flows",
+        "variations":[
+            {"id":10737, "colors":["white"]},
+            {"id":10738, "colors":["black"]},
+            {"id":10739, "colors":["blue"]},
+            {"id":10740, "colors":["pink"]},
+            {"id":10741, "colors":["green"]},
+            {"id":10742, "colors":["yellow"]},
+            {"id":10743, "colors":["purple"]},
+            {"id":10744, "colors":["brown"]},
+            {"id":10745, "colors":["grey"]},
+            {"id":10746, "colors":["red"]}
+        ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
+        "releaseDate":"2025-09-03"
     }
     
 ]
