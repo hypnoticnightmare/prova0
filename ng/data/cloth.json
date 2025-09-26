@@ -18809,5 +18809,59 @@
             {"id":1286, "colors":["white"]}
         ], "criteria":null,
         "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10542, "zone":"head", "category":"faceAccessory", "security":"aaab3fc70a2c2bb8", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Glasses",
+        "outfitName":"Porcelain of Provence",
+        "variations":[
+            {"id":10542, "colors":["purple"]},
+            {"id":10543, "colors":["pink"]},
+            {"id":10544, "colors":["green"]},
+            {"id":10545, "colors":["black"]},
+            {"id":10546, "colors":["yellow"]},
+            {"id":10547, "colors":["red"]},
+            {"id":10548, "colors":["green"]},
+            {"id":10549, "colors":["purple"]},
+            {"id":10550, "colors":["blue"]},
+            {"id":10551, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10532, "zone":"head", "category":"earring", "security":"fc49a16c24d93063", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Earrings",
+        "outfitName":"Porcelain of Provence",
+        "variations":[
+            {"id":10532, "colors":["purple"]},
+            {"id":10533, "colors":["pink"]},
+            {"id":10534, "colors":["green"]},
+            {"id":10535, "colors":["black"]},
+            {"id":10536, "colors":["yellow"]},
+            {"id":10537, "colors":["red"]},
+            {"id":10538, "colors":["green"]},
+            {"id":10539, "colors":["purple"]},
+            {"id":10540, "colors":["blue"]},
+            {"id":10541, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10482, "zone":"head", "category":"earring", "security":"2faadf7b1974f9c7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Earrings",
+        "outfitName":"Faience of Moustiers",
+        "variations":[
+            {"id":10482, "colors":["purple"]},
+            {"id":10483, "colors":["pink"]},
+            {"id":10484, "colors":["green"]},
+            {"id":10485, "colors":["black"]},
+            {"id":10486, "colors":["yellow"]},
+            {"id":10487, "colors":["red"]},
+            {"id":10488, "colors":["green"]},
+            {"id":10489, "colors":["purple"]},
+            {"id":10490, "colors":["blue"]},
+            {"id":10491, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
     }
 ]
