@@ -2374,7 +2374,6 @@
         "backgroundColors":{
             "day":{"color1":"BDAE9A","color2":"B4A19B","colorLight":"0D3656"},
             "night":{"color1":"6181B4","color2":"AD9F92","colorLight":"1B374B"}
-        }
     },
     {
         "id":391, "roomId":84, "slot":"slot1", "releaseDate":"2025-07-10", "light":true, "security":"875348868bca0fb7",
@@ -2414,9 +2413,7 @@
         "backgroundColors":{
             "day":{"color1":"FFFFFF","color2":"D7DCF1","colorLight":"084771"},
             "night":{"color1":"A1BAF1","color2":"A9B6D6","colorLight":"1B5A8B"}
-        }
     },
-
     {
         "id":397, "roomId":85, "slot":"slot1", "releaseDate":"2025-05-28", "light":false, "security":"8fe647e708eba2b3",
         "name":"Vestidor",
