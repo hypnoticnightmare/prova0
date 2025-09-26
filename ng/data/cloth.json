@@ -18539,6 +18539,60 @@
             {"id":10531, "colors":["white"]}
         ], "criteria":null,
         "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10462, "zone":"torso", "category":"top", "security":"b96e6655c49a740a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Faience of Moustiers",
+        "variations":[
+            {"id":10462, "colors":["purple"]},
+            {"id":10463, "colors":["pink"]},
+            {"id":10464, "colors":["green"]},
+            {"id":10465, "colors":["black"]},
+            {"id":10466, "colors":["yellow"]},
+            {"id":10467, "colors":["red"]},
+            {"id":10468, "colors":["green"]},
+            {"id":10469, "colors":["purple"]},
+            {"id":10470, "colors":["blue"]},
+            {"id":10471, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":2693, "zone":"torso", "category":"top", "security":"93db83571c31d42f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bodice",
+        "outfitName":"Neo Victorian",
+        "variations":[
+            {"id":2693, "colors":["purple"]},
+            {"id":2694, "colors":["pink"]},
+            {"id":2695, "colors":["green"]},
+            {"id":2696 "colors":["black"]},
+            {"id":2697, "colors":["yellow"]},
+            {"id":2698, "colors":["red"]},
+            {"id":2699, "colors":["green"]},
+            {"id":2700, "colors":["purple"]},
+            {"id":2701, "colors":["blue"]},
+            {"id":2702, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":1499, "zone":"torso", "category":"top", "security":"9d08bd488b9d1251", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"What the...?",
+        "variations":[
+            {"id":1499, "colors":["purple"]},
+            {"id":1500, "colors":["pink"]},
+            {"id":1501, "colors":["green"]},
+            {"id":1502 "colors":["black"]},
+            {"id":1503, "colors":["yellow"]},
+            {"id":1504, "colors":["red"]},
+            {"id":1505, "colors":["green"]},
+            {"id":1506, "colors":["purple"]},
+            {"id":1507, "colors":["blue"]},
+            {"id":1508, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
     }
     
 ]
