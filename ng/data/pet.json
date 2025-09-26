@@ -280,5 +280,9 @@
     {
         "id":53, "security":"dc8db184f9669d56", "releaseDate":"2025-09-03", "name":"LV3 Slimygoose",
         "criteria":{"type":"pack", "info":"Pixel Adventurer", "text":"Desbloqueado en el Pack exclusivo\nPixel Adventurer"}
-    }    
+    },
+    {
+        "id":69, "security":"95037d490bb0e6f2", "releaseDate":"2025-06-27", "name":"Beegoose",
+        "criteria":{"type":"episode", "info":"17", "text":"Desbloqueado en el episodio 20"}
+    }
 ]
