@@ -18683,6 +18683,41 @@
             {"id":10501, "colors":["white"]}
         ], "criteria":null,
         "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10432, "zone":"feet", "category":"shoes", "security":"b2113be159206405", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Espadrilles",
+        "outfitName":"Faience of Moustiers",
+        "variations":[
+            {"id":10432, "colors":["purple"]},
+            {"id":10433, "colors":["pink"]},
+            {"id":10434, "colors":["green"]},
+            {"id":10435, "colors":["black"]},
+            {"id":10436, "colors":["yellow"]},
+            {"id":10437, "colors":["red"]},
+            {"id":10438, "colors":["green"]},
+            {"id":10439, "colors":["purple"]},
+            {"id":10440, "colors":["blue"]},
+            {"id":10441, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":1599, "zone":"feet", "category":"shoes", "security":"18b924ea3ab283ec", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Boots",
+        "outfitName":"Magical Heart",
+        "variations":[
+            {"id":1599, "colors":["purple"]},
+            {"id":1600, "colors":["pink"]},
+            {"id":1601, "colors":["green"]},
+            {"id":1602, "colors":["black"]},
+            {"id":1603, "colors":["yellow"]},
+            {"id":1604, "colors":["red"]},
+            {"id":1605, "colors":["green"]},
+            {"id":1606, "colors":["purple"]},
+            {"id":1607, "colors":["blue"]},
+            {"id":1608, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
     }
-    
 ]
