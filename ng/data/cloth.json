@@ -18755,5 +18755,23 @@
             {"id":10481, "colors":["white"]}
         ], "criteria":null,
         "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10442, "zone":"arms", "category":"armAccessory", "security":"dbff2a4d659447ed", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bracelet",
+        "outfitName":"Faience of Moustiers",
+        "variations":[
+            {"id":10442, "colors":["purple"]},
+            {"id":10443, "colors":["pink"]},
+            {"id":10444, "colors":["green"]},
+            {"id":10445, "colors":["black"]},
+            {"id":10446, "colors":["yellow"]},
+            {"id":10447, "colors":["red"]},
+            {"id":10448, "colors":["green"]},
+            {"id":10449, "colors":["purple"]},
+            {"id":10450, "colors":["blue"]},
+            {"id":10451, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
     }
 ]
