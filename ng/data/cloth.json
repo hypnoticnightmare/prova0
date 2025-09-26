@@ -18524,8 +18524,8 @@
     },
     {
         "groupId":10522, "zone":"torso", "category":"top", "security":"945ce60afc00bc6c", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Top",
-        "outfitName":"Hololove",
+        "name":"Blouse",
+        "outfitName":"Porcelain of Provence",
         "variations":[
             {"id":10522, "colors":["purple"]},
             {"id":10523, "colors":["pink"]},
