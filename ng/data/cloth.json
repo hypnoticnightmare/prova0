@@ -18773,5 +18773,41 @@
             {"id":10451, "colors":["white"]}
         ], "criteria":null,
         "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":1790, "zone":"head", "category":"hat", "security":"590f1f1662a433ff", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Crown",
+        "outfitName":"Flowerly",
+        "variations":[
+            {"id":1790, "colors":["purple"]},
+            {"id":1791, "colors":["pink"]},
+            {"id":1792, "colors":["green"]},
+            {"id":1793, "colors":["black"]},
+            {"id":1794, "colors":["yellow"]},
+            {"id":1795, "colors":["red"]},
+            {"id":1796, "colors":["green"]},
+            {"id":1797, "colors":["purple"]},
+            {"id":1798, "colors":["blue"]},
+            {"id":1799, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":1277, "zone":"head", "category":"wig", "security":"2f016728ab4a0a22", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Wig",
+        "outfitName":"Hololove",
+        "variations":[
+            {"id":1277, "colors":["purple"]},
+            {"id":1278, "colors":["pink"]},
+            {"id":1279, "colors":["green"]},
+            {"id":1280, "colors":["black"]},
+            {"id":1281, "colors":["yellow"]},
+            {"id":1282, "colors":["red"]},
+            {"id":1283, "colors":["green"]},
+            {"id":1284, "colors":["purple"]},
+            {"id":1285, "colors":["blue"]},
+            {"id":1286, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
     }
 ]
