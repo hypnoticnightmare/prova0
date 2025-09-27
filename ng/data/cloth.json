@@ -18628,5 +18628,23 @@
             {"id":1648, "colors":["white"]}
         ], "criteria":null,
         "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10512, "zone":"waistToKnee", "category":"pants", "security":"cf4c18617980cc42", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pants",
+        "outfitName":"Porcelain of Provence",
+        "variations":[
+            {"id":10512, "colors":["purple"]},
+            {"id":10513, "colors":["pink"]},
+            {"id":10514, "colors":["green"]},
+            {"id":10515, "colors":["black"]},
+            {"id":10516, "colors":["yellow"]},
+            {"id":10517, "colors":["red"]},
+            {"id":10518, "colors":["green"]},
+            {"id":10519, "colors":["purple"]},
+            {"id":10520, "colors":["blue"]},
+            {"id":10521, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
     }
 ]
