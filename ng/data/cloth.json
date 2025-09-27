@@ -18646,5 +18646,23 @@
             {"id":10521, "colors":["white"]}
         ], "criteria":null,
         "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10452, "zone":"waistToKnee", "category":"skirt", "security":"def4ae4d000fe5e4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Skirt",
+        "outfitName":"Faience of Moustiers",
+        "variations":[
+            {"id":10452, "colors":["purple"]},
+            {"id":10453, "colors":["pink"]},
+            {"id":10454, "colors":["green"]},
+            {"id":10455, "colors":["black"]},
+            {"id":10456, "colors":["yellow"]},
+            {"id":10457, "colors":["red"]},
+            {"id":10458, "colors":["green"]},
+            {"id":10459, "colors":["purple"]},
+            {"id":10460, "colors":["blue"]},
+            {"id":10461, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
     }
 ]
