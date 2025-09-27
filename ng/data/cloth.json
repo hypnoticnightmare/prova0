@@ -18520,5 +18520,23 @@
             {"id":10865, "colors":["brown"], "variationNumber":10}
         ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
         "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10522, "zone":"torso", "category":"top", "security":"945ce60afc00bc6c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Blouse",
+        "outfitName":"Porcelain of Provence",
+        "variations":[
+            {"id":10522, "colors":["purple"]},
+            {"id":10523, "colors":["pink"]},
+            {"id":10524, "colors":["green"]},
+            {"id":10525, "colors":["black"]},
+            {"id":10526, "colors":["yellow"]},
+            {"id":10527, "colors":["red"]},
+            {"id":10528, "colors":["green"]},
+            {"id":10529, "colors":["purple"]},
+            {"id":10530, "colors":["blue"]},
+            {"id":10531, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
     }
 ]
