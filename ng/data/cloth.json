@@ -18556,5 +18556,23 @@
             {"id":10471, "colors":["white"]}
         ], "criteria":null,
         "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":2693, "zone":"torso", "category":"top", "security":"93db83571c31d42f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bodice",
+        "outfitName":"Neo Victorian",
+        "variations":[
+            {"id":2693, "colors":["purple"]},
+            {"id":2694, "colors":["pink"]},
+            {"id":2695, "colors":["green"]},
+            {"id":2696 "colors":["black"]},
+            {"id":2697, "colors":["yellow"]},
+            {"id":2698, "colors":["red"]},
+            {"id":2699, "colors":["green"]},
+            {"id":2700, "colors":["purple"]},
+            {"id":2701, "colors":["blue"]},
+            {"id":2702, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
     }
 ]
