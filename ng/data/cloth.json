@@ -18592,5 +18592,23 @@
             {"id":1508, "colors":["white"]}
         ], "criteria":null,
         "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":1920, "zone":"torso", "category":"jacket", "security":"f97d6b35857e0a95", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Jacket",
+        "outfitName":"Kitty Girl",
+        "variations":[
+            {"id":1920, "colors":["purple"]},
+            {"id":1921, "colors":["pink"]},
+            {"id":1922, "colors":["green"]},
+            {"id":1923 "colors":["black"]},
+            {"id":1924, "colors":["yellow"]},
+            {"id":1925, "colors":["red"]},
+            {"id":1926, "colors":["green"]},
+            {"id":1927, "colors":["purple"]},
+            {"id":1928, "colors":["blue"]},
+            {"id":1929, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
     }
 ]
