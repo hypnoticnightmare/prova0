@@ -7,8 +7,7 @@
         "backgroundColors":{
             "day":{"color1":"FCF6F3", "color2":"EBDDD7", "colorLight":"41290F"},
             "night":{"color1":"73B2FF", "color2":"567298", "colorLight":"2954A4"}
-        }
-    },
+        },
     {
         "id":2, "roomId":1, "slot":"slot5", "releaseDate":"2024-04-17", "light":false, "security":"05bc8be535a303a5",
         "name":"Mesa baja",
