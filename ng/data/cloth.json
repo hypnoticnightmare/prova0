@@ -18537,7 +18537,7 @@
             {"id":10529, "colors":["purple"]},
             {"id":10530, "colors":["blue"]},
             {"id":10531, "colors":["white"]}
-        ], "criteria":null,
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
         "releaseDate":"2025-08-01"
     }
 ]
