@@ -18520,5 +18520,23 @@
             {"id":10865, "colors":["brown"], "variationNumber":10}
         ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
         "releaseDate":"2025-09-03"
+    },
+    {
+        "groupId":10482, "zone":"head", "category":"earring", "security":"2faadf7b1974f9c7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Earrings",
+        "outfitName":"Faience of Moustiers",
+        "variations":[
+            {"id":10482, "colors":["purple"]},
+            {"id":10483, "colors":["pink"]},
+            {"id":10484, "colors":["green"]},
+            {"id":10485, "colors":["black"]},
+            {"id":10486, "colors":["yellow"]},
+            {"id":10487, "colors":["red"]},
+            {"id":10488, "colors":["green"]},
+            {"id":10489, "colors":["purple"]},
+            {"id":10490, "colors":["blue"]},
+            {"id":10491, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
     }
 ]
