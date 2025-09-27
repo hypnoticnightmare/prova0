@@ -18538,5 +18538,23 @@
             {"id":10531, "colors":["white"]}
         ], "criteria":null,
         "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10462, "zone":"torso", "category":"top", "security":"b96e6655c49a740a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Faience of Moustiers",
+        "variations":[
+            {"id":10462, "colors":["purple"]},
+            {"id":10463, "colors":["pink"]},
+            {"id":10464, "colors":["green"]},
+            {"id":10465, "colors":["black"]},
+            {"id":10466, "colors":["yellow"]},
+            {"id":10467, "colors":["red"]},
+            {"id":10468, "colors":["green"]},
+            {"id":10469, "colors":["purple"]},
+            {"id":10470, "colors":["blue"]},
+            {"id":10471, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
     }
 ]
