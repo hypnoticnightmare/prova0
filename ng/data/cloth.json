@@ -18610,5 +18610,23 @@
             {"id":10451, "colors":["pink"], "variationNumber":10}
         ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
         "releaseDate":"2025-09-26"
+    },
+    {
+        "groupId":10472, "zone":"arms", "category":"bag", "security":"71f9065d8b4dd920", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Purse",
+        "outfitName":"Faience of Moustiers",
+        "variations":[
+            {"id":10472, "colors":["purple"]},
+            {"id":10473, "colors":["pink"], "variationNumber":2},
+            {"id":10474, "colors":["green"], "variationNumber":3},
+            {"id":10475, "colors":["black"], "variationNumber":4},
+            {"id":10476, "colors":["yellow"], "variationNumber":5},
+            {"id":10477, "colors":["red"], "variationNumber":6},
+            {"id":10478, "colors":["green"], "variationNumber":7},
+            {"id":10479, "colors":["purple"], "variationNumber":8},
+            {"id":10480, "colors":["blue"], "variationNumber":9},
+            {"id":10481, "colors":["white"], "variationNumber":10}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
     }
 ]
