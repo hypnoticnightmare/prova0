@@ -18526,16 +18526,16 @@
         "name":"Earrings",
         "outfitName":"Faience of Moustiers",
         "variations":[
-            {"id":10482, "colors":["purple"]},
-            {"id":10483, "colors":["pink"], "variationNumber":2},
-            {"id":10484, "colors":["green"], "variationNumber":3},
-            {"id":10485, "colors":["black"], "variationNumber":4},
-            {"id":10486, "colors":["yellow"], "variationNumber":5},
-            {"id":10487, "colors":["red"], "variationNumber":6},
-            {"id":10488, "colors":["green"], "variationNumber":7},
-            {"id":10489, "colors":["purple"], "variationNumber":8},
-            {"id":10490, "colors":["blue"], "variationNumber":9},
-            {"id":10491, "colors":["white"], "variationNumber":10}
+            {"id":10482, "colors":["yellow"]},
+            {"id":10483, "colors":["black"], "variationNumber":2},
+            {"id":10484, "colors":["brown"], "variationNumber":3},
+            {"id":10485, "colors":["orange"], "variationNumber":4},
+            {"id":10486, "colors":["grey"], "variationNumber":5},
+            {"id":10487, "colors":["blue"], "variationNumber":6},
+            {"id":10488, "colors":["red"], "variationNumber":7},
+            {"id":10489, "colors":["green"], "variationNumber":8},
+            {"id":10490, "colors":["purple"], "variationNumber":9},
+            {"id":10491, "colors":["pink"], "variationNumber":10}
         ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
         "releaseDate":"2025-09-26"
     },
@@ -18544,16 +18544,16 @@
         "name":"Earrings",
         "outfitName":"Porcelain of Provence",
         "variations":[
-            {"id":10532, "colors":["purple"]},
-            {"id":10533, "colors":["pink"], "variationNumber":2},
-            {"id":10534, "colors":["green"], "variationNumber":3},
-            {"id":10535, "colors":["black"], "variationNumber":4},
+            {"id":10532, "colors":["white"]},
+            {"id":10533, "colors":["black"], "variationNumber":2},
+            {"id":10534, "colors":["yellow"], "variationNumber":3},
+            {"id":10535, "colors":["orange"], "variationNumber":4},
             {"id":10536, "colors":["yellow"], "variationNumber":5},
-            {"id":10537, "colors":["red"], "variationNumber":6},
-            {"id":10538, "colors":["green"], "variationNumber":7},
+            {"id":10537, "colors":["green"], "variationNumber":6},
+            {"id":10538, "colors":["blue"], "variationNumber":7},
             {"id":10539, "colors":["purple"], "variationNumber":8},
-            {"id":10540, "colors":["blue"], "variationNumber":9},
-            {"id":10541, "colors":["white"], "variationNumber":10}
+            {"id":10540, "colors":["red"], "variationNumber":9},
+            {"id":10541, "colors":["pink"], "variationNumber":10}
         ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
         "releaseDate":"2025-09-26"
     },
@@ -18562,16 +18562,16 @@
         "name":"Wig",
         "outfitName":"Hololove",
         "variations":[
-            {"id":1277, "colors":["purple"]},
-            {"id":1278, "colors":["pink"], "variationNumber":2},
-            {"id":1279, "colors":["green"], "variationNumber":3},
-            {"id":1280, "colors":["black"], "variationNumber":4},
-            {"id":1281, "colors":["yellow"], "variationNumber":5},
-            {"id":1282, "colors":["red"], "variationNumber":6},
-            {"id":1283, "colors":["green"], "variationNumber":7},
-            {"id":1284, "colors":["purple"], "variationNumber":8},
-            {"id":1285, "colors":["blue"], "variationNumber":9},
-            {"id":1286, "colors":["white"], "variationNumber":10}
+            {"id":1277, "colors":["pink"]},
+            {"id":1278, "colors":["white"], "variationNumber":2},
+            {"id":1279, "colors":["black"], "variationNumber":3},
+            {"id":1280, "colors":["blue"], "variationNumber":4},
+            {"id":1281, "colors":["blue"], "variationNumber":5},
+            {"id":1282, "colors":["purple"], "variationNumber":6},
+            {"id":1283, "colors":["red"], "variationNumber":7},
+            {"id":1284, "colors":["yellow"], "variationNumber":8},
+            {"id":1285, "colors":["orange"], "variationNumber":9},
+            {"id":1286, "colors":["pink"], "variationNumber":10}
         ], "criteria":null,
         "releaseDate":"2025-09-26"
     }
