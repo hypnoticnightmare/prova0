@@ -18616,16 +18616,16 @@
         "name":"Purse",
         "outfitName":"Faience of Moustiers",
         "variations":[
-            {"id":10472, "colors":["purple"]},
-            {"id":10473, "colors":["pink"], "variationNumber":2},
-            {"id":10474, "colors":["green"], "variationNumber":3},
-            {"id":10475, "colors":["black"], "variationNumber":4},
-            {"id":10476, "colors":["yellow"], "variationNumber":5},
-            {"id":10477, "colors":["red"], "variationNumber":6},
-            {"id":10478, "colors":["green"], "variationNumber":7},
-            {"id":10479, "colors":["purple"], "variationNumber":8},
-            {"id":10480, "colors":["blue"], "variationNumber":9},
-            {"id":10481, "colors":["white"], "variationNumber":10}
+            {"id":10472, "colors":["white", "blue"]},
+            {"id":10473, "colors":["black", "red"], "variationNumber":2},
+            {"id":10474, "colors":["brown", "green"], "variationNumber":3},
+            {"id":10475, "colors":["orange", "yellow"], "variationNumber":4},
+            {"id":10476, "colors":["yellow", "orange"], "variationNumber":5},
+            {"id":10477, "colors":["blue", "white"], "variationNumber":6},
+            {"id":10478, "colors":["red", "black"], "variationNumber":7},
+            {"id":10479, "colors":["green"], "variationNumber":8},
+            {"id":10480, "colors":["purple", "pink"], "variationNumber":9},
+            {"id":10481, "colors":["pink", "purple"], "variationNumber":10}
         ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
         "releaseDate":"2025-09-26"
     },
