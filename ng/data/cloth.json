@@ -18736,5 +18736,23 @@
             {"id":10521, "colors":["white"]}
         ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
         "releaseDate":"2025-09-26"
+    },
+    {
+        "groupId":1639, "zone":"torso_waistToKnee", "category":"underwear", "security":"7a9f111f06d56936", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Body",
+        "outfitName":"Future Enhancement",
+        "variations":[
+            {"id":1639, "colors":["purple"]},
+            {"id":1640, "colors":["pink"]},
+            {"id":1641, "colors":["green"]},
+            {"id":1642 "colors":["black"]},
+            {"id":1643, "colors":["yellow"]},
+            {"id":1644, "colors":["red"]},
+            {"id":1645, "colors":["green"]},
+            {"id":1646, "colors":["purple"]},
+            {"id":1647, "colors":["blue"]},
+            {"id":1648, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
     }
 ]
