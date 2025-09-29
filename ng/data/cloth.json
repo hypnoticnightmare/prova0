@@ -18574,5 +18574,23 @@
             {"id":1286, "colors":["pink"], "variationNumber":10}
         ], "criteria":null,
         "releaseDate":"2025-09-26"
+    },
+    {
+        "groupId":1790, "zone":"head", "category":"hat", "security":"590f1f1662a433ff", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Crown",
+        "outfitName":"Flowerly",
+        "variations":[
+            {"id":1790, "colors":["purple"]},
+            {"id":1791, "colors":["pink"], "variationNumber":2},
+            {"id":1792, "colors":["green"], "variationNumber":3},
+            {"id":1793, "colors":["black"], "variationNumber":4},
+            {"id":1794, "colors":["yellow"], "variationNumber":5},
+            {"id":1795, "colors":["red"], "variationNumber":6},
+            {"id":1796, "colors":["green"], "variationNumber":7},
+            {"id":1797, "colors":["purple"], "variationNumber":8},
+            {"id":1798, "colors":["blue"], "variationNumber":9},
+            {"id":1799, "colors":["white"], "variationNumber":10}
+        ], "criteria":null,
+        "releaseDate":"2025-09-26"
     }
 ]
