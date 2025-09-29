@@ -18635,15 +18635,15 @@
         "outfitName":"Porcelain of Provence",
         "variations":[
             {"id":10502, "colors":["purple"]},
-            {"id":10503, "colors":["pink"]},
-            {"id":10504, "colors":["green"]},
-            {"id":10505, "colors":["black"]},
-            {"id":10506, "colors":["yellow"]},
-            {"id":10507, "colors":["red"]},
-            {"id":10508, "colors":["green"]},
-            {"id":10509, "colors":["purple"]},
-            {"id":10510, "colors":["blue"]},
-            {"id":10511, "colors":["white"]}
+            {"id":10503, "colors":["pink"], "variationNumber":2},
+            {"id":10504, "colors":["green"], "variationNumber":3},
+            {"id":10505, "colors":["black"], "variationNumber":4},
+            {"id":10506, "colors":["yellow"], "variationNumber":5},
+            {"id":10507, "colors":["red"], "variationNumber":6},
+            {"id":10508, "colors":["green"], "variationNumber":7},
+            {"id":10509, "colors":["purple"], "variationNumber":8},
+            {"id":10510, "colors":["blue"], "variationNumber":9},
+            {"id":10511, "colors":["white"], "variationNumber":10}
         ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
         "releaseDate":"2025-09-26"
     }
