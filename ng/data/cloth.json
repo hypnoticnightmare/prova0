@@ -18682,5 +18682,23 @@
             {"id":10441, "colors":["white"]}
         ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
         "releaseDate":"2025-09-26"
+    },
+    {
+        "groupId":10492, "zone":"feet", "category":"shoes", "security":"9043f9a7046519e2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sandals",
+        "outfitName":"Porcelain of Provence",
+        "variations":[
+            {"id":10492, "colors":["purple"]},
+            {"id":10493, "colors":["pink"]},
+            {"id":10494, "colors":["green"]},
+            {"id":10495, "colors":["black"]},
+            {"id":10496, "colors":["yellow"]},
+            {"id":10497, "colors":["red"]},
+            {"id":10498, "colors":["green"]},
+            {"id":10499, "colors":["purple"]},
+            {"id":10500, "colors":["blue"]},
+            {"id":10501, "colors":["white"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
     }
 ]
