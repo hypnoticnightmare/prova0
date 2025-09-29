@@ -18527,15 +18527,33 @@
         "outfitName":"Faience of Moustiers",
         "variations":[
             {"id":10482, "colors":["purple"]},
-            {"id":10483, "colors":["pink"]},
-            {"id":10484, "colors":["green"]},
-            {"id":10485, "colors":["black"]},
-            {"id":10486, "colors":["yellow"]},
-            {"id":10487, "colors":["red"]},
-            {"id":10488, "colors":["green"]},
-            {"id":10489, "colors":["purple"]},
-            {"id":10490, "colors":["blue"]},
-            {"id":10491, "colors":["white"]}
+            {"id":10483, "colors":["pink"], "variationNumber":2},
+            {"id":10484, "colors":["green"], "variationNumber":3},
+            {"id":10485, "colors":["black"], "variationNumber":4},
+            {"id":10486, "colors":["yellow"], "variationNumber":5},
+            {"id":10487, "colors":["red"], "variationNumber":6},
+            {"id":10488, "colors":["green"], "variationNumber":7},
+            {"id":10489, "colors":["purple"], "variationNumber":8},
+            {"id":10490, "colors":["blue"], "variationNumber":9},
+            {"id":10491, "colors":["white"], "variationNumber":10}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":10532, "zone":"head", "category":"earring", "security":"fc49a16c24d93063", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Earrings",
+        "outfitName":"Porcelain of Provence",
+        "variations":[
+            {"id":10532, "colors":["purple"]},
+            {"id":10533, "colors":["pink"], "variationNumber":2},
+            {"id":10534, "colors":["green"], "variationNumber":3},
+            {"id":10535, "colors":["black"], "variationNumber":4},
+            {"id":10536, "colors":["yellow"], "variationNumber":5},
+            {"id":10537, "colors":["red"], "variationNumber":6},
+            {"id":10538, "colors":["green"], "variationNumber":7},
+            {"id":10539, "colors":["purple"], "variationNumber":8},
+            {"id":10540, "colors":["blue"], "variationNumber":9},
+            {"id":10541, "colors":["white"], "variationNumber":10}
         ], "criteria":null,
         "releaseDate":"2025-08-01"
     }
