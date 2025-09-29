@@ -18628,5 +18628,23 @@
             {"id":10481, "colors":["white"], "variationNumber":10}
         ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
         "releaseDate":"2025-09-26"
+    },
+    {
+        "groupId":10502, "zone":"arms", "category":"bag", "security":"84cb021b7357400a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Purse",
+        "outfitName":"Porcelain of Provence",
+        "variations":[
+            {"id":10502, "colors":["purple"]},
+            {"id":10503, "colors":["pink"]},
+            {"id":10504, "colors":["green"]},
+            {"id":10505, "colors":["black"]},
+            {"id":10506, "colors":["yellow"]},
+            {"id":10507, "colors":["red"]},
+            {"id":10508, "colors":["green"]},
+            {"id":10509, "colors":["purple"]},
+            {"id":10510, "colors":["blue"]},
+            {"id":10511, "colors":["white"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
     }
 ]
