@@ -18592,5 +18592,23 @@
             {"id":1799, "colors":["yellow"], "variationNumber":10}
         ], "criteria":null,
         "releaseDate":"2025-09-26"
+    },
+    {
+        "groupId":10442, "zone":"arms", "category":"armAccessory", "security":"dbff2a4d659447ed", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bracelet",
+        "outfitName":"Faience of Moustiers",
+        "variations":[
+            {"id":10442, "colors":["yellow"]},
+            {"id":10443, "colors":["black"], "variationNumber":2},
+            {"id":10444, "colors":["brown"], "variationNumber":3},
+            {"id":10445, "colors":["orange"], "variationNumber":4},
+            {"id":10446, "colors":["grey"], "variationNumber":5},
+            {"id":10447, "colors":["blue"], "variationNumber":6},
+            {"id":10448, "colors":["red"], "variationNumber":7},
+            {"id":10449, "colors":["green"], "variationNumber":8},
+            {"id":10450, "colors":["purple"], "variationNumber":9},
+            {"id":10451, "colors":["pink"], "variationNumber":10}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
     }
 ]
