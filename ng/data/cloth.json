@@ -18646,5 +18646,23 @@
             {"id":10511, "colors":["pink"], "variationNumber":10}
         ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
         "releaseDate":"2025-09-26"
+    },
+    {
+        "groupId":1599, "zone":"feet", "category":"shoes", "security":"18b924ea3ab283ec", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Boots",
+        "outfitName":"Magical Heart",
+        "variations":[
+            {"id":1599, "colors":["purple"]},
+            {"id":1600, "colors":["pink"]},
+            {"id":1601, "colors":["green"]},
+            {"id":1602, "colors":["black"]},
+            {"id":1603, "colors":["yellow"]},
+            {"id":1604, "colors":["red"]},
+            {"id":1605, "colors":["green"]},
+            {"id":1606, "colors":["purple"]},
+            {"id":1607, "colors":["blue"]},
+            {"id":1608, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-09-26"
     }
 ]
