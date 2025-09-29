@@ -18536,8 +18536,8 @@
             {"id":10489, "colors":["purple"], "variationNumber":8},
             {"id":10490, "colors":["blue"], "variationNumber":9},
             {"id":10491, "colors":["white"], "variationNumber":10}
-        ], "criteria":null,
-        "releaseDate":"2025-08-01"
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
     },
     {
         "groupId":10532, "zone":"head", "category":"earring", "security":"fc49a16c24d93063", "multiLayered":false, "layerBehavior":"normal",
@@ -18554,7 +18554,7 @@
             {"id":10539, "colors":["purple"], "variationNumber":8},
             {"id":10540, "colors":["blue"], "variationNumber":9},
             {"id":10541, "colors":["white"], "variationNumber":10}
-        ], "criteria":null,
-        "releaseDate":"2025-08-01"
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
     }
 ]
