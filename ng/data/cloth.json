@@ -18736,41 +18736,5 @@
             {"id":10521, "colors":["pink"], "variationNumber":10}
         ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
         "releaseDate":"2025-09-26"
-    },
-    {
-        "groupId":1920, "zone":"torso", "category":"jacket", "security":"f97d6b35857e0a95", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Jacket",
-        "outfitName":"Kitty Girl",
-        "variations":[
-            {"id":1920, "colors":["purple"]},
-            {"id":1921, "colors":["pink"], "variationNumber":2},
-            {"id":1922, "colors":["green"], "variationNumber":3},
-            {"id":1923 "colors":["black"], "variationNumber":4},
-            {"id":1924, "colors":["yellow"], "variationNumber":5},
-            {"id":1925, "colors":["red"], "variationNumber":6},
-            {"id":1926, "colors":["green"], "variationNumber":7},
-            {"id":1927, "colors":["purple"], "variationNumber":8},
-            {"id":1928, "colors":["blue"], "variationNumber":9},
-            {"id":1929, "colors":["white"], "variationNumber":10}
-        ], "criteria":null,
-        "releaseDate":"2025-08-01"
-    },
-    {
-        "groupId":1499, "zone":"torso", "category":"top", "security":"9d08bd488b9d1251", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Top",
-        "outfitName":"What the...?",
-        "variations":[
-            {"id":1499, "colors":["purple"]},
-            {"id":1500, "colors":["pink"]},
-            {"id":1501, "colors":["green"]},
-            {"id":1502 "colors":["black"]},
-            {"id":1503, "colors":["yellow"]},
-            {"id":1504, "colors":["red"]},
-            {"id":1505, "colors":["green"]},
-            {"id":1506, "colors":["purple"]},
-            {"id":1507, "colors":["blue"]},
-            {"id":1508, "colors":["white"]}
-        ], "criteria":null,
-        "releaseDate":"2025-08-01"
     }
 ]
