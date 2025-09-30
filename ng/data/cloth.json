@@ -18738,24 +18738,6 @@
         "releaseDate":"2025-09-26"
     },
     {
-        "groupId":1639, "zone":"torso_waistToKnee", "category":"underwear", "security":"7a9f111f06d56936", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Body",
-        "outfitName":"Future Enhancement",
-        "variations":[
-            {"id":1639, "colors":["purple"]},
-            {"id":1640, "colors":["pink"], "variationNumber":2},
-            {"id":1641, "colors":["green"], "variationNumber":3},
-            {"id":1642 "colors":["black"], "variationNumber":4},
-            {"id":1643, "colors":["yellow"], "variationNumber":5},
-            {"id":1644, "colors":["red"], "variationNumber":6},
-            {"id":1645, "colors":["green"], "variationNumber":7},
-            {"id":1646, "colors":["purple"], "variationNumber":8},
-            {"id":1647, "colors":["blue"], "variationNumber":9},
-            {"id":1648, "colors":["white"], "variationNumber":10}
-        ], "criteria":null,
-        "releaseDate":"2025-08-01"
-    },
-    {
         "groupId":1920, "zone":"torso", "category":"jacket", "security":"f97d6b35857e0a95", "multiLayered":false, "layerBehavior":"normal",
         "name":"Jacket",
         "outfitName":"Kitty Girl",
