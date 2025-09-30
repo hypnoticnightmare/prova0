@@ -18652,16 +18652,16 @@
         "name":"Boots",
         "outfitName":"Magical Heart",
         "variations":[
-            {"id":1599, "colors":["purple"]},
-            {"id":1600, "colors":["pink"]},
-            {"id":1601, "colors":["green"]},
-            {"id":1602, "colors":["black"]},
-            {"id":1603, "colors":["yellow"]},
-            {"id":1604, "colors":["red"]},
-            {"id":1605, "colors":["green"]},
-            {"id":1606, "colors":["purple"]},
-            {"id":1607, "colors":["blue"]},
-            {"id":1608, "colors":["white"]}
+            {"id":1599, "colors":["pink"]},
+            {"id":1600, "colors":["brown"], "variationNumber":2},
+            {"id":1601, "colors":["blue"], "variationNumber":3},
+            {"id":1602, "colors":["yellow"], "variationNumber":4},
+            {"id":1603, "colors":["green"], "variationNumber":5},
+            {"id":1604, "colors":["white"], "variationNumber":6},
+            {"id":1605, "colors":["black"], "variationNumber":7},
+            {"id":1606, "colors":["purple"], "variationNumber":8},
+            {"id":1607, "colors":["grey"], "variationNumber":9},
+            {"id":1608, "colors":["red"], "variationNumber":10}
         ], "criteria":null,
         "releaseDate":"2025-09-26"
     },
