@@ -18670,16 +18670,16 @@
         "name":"Espadrilles",
         "outfitName":"Faience of Moustiers",
         "variations":[
-            {"id":10432, "colors":["purple"]},
-            {"id":10433, "colors":["pink"]},
-            {"id":10434, "colors":["green"]},
-            {"id":10435, "colors":["black"]},
+            {"id":10432, "colors":["brown"]},
+            {"id":10433, "colors":["black"]},
+            {"id":10434, "colors":["white"]},
+            {"id":10435, "colors":["orange"]},
             {"id":10436, "colors":["yellow"]},
-            {"id":10437, "colors":["red"]},
-            {"id":10438, "colors":["green"]},
-            {"id":10439, "colors":["purple"]},
-            {"id":10440, "colors":["blue"]},
-            {"id":10441, "colors":["white"]}
+            {"id":10437, "colors":["blue"]},
+            {"id":10438, "colors":["red"]},
+            {"id":10439, "colors":["green"]},
+            {"id":10440, "colors":["purple"]},
+            {"id":10441, "colors":["pink"]}
         ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
         "releaseDate":"2025-09-26"
     },
