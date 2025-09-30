@@ -18754,5 +18754,23 @@
             {"id":1929, "colors":["white"], "variationNumber":10}
         ], "criteria":null,
         "releaseDate":"2025-08-01"
+    },
+    {
+        "groupId":1499, "zone":"torso", "category":"top", "security":"9d08bd488b9d1251", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"What the...?",
+        "variations":[
+            {"id":1499, "colors":["purple"]},
+            {"id":1500, "colors":["pink"]},
+            {"id":1501, "colors":["green"]},
+            {"id":1502 "colors":["black"]},
+            {"id":1503, "colors":["yellow"]},
+            {"id":1504, "colors":["red"]},
+            {"id":1505, "colors":["green"]},
+            {"id":1506, "colors":["purple"]},
+            {"id":1507, "colors":["blue"]},
+            {"id":1508, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-08-01"
     }
 ]
