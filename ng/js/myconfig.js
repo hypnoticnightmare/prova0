@@ -1,9 +1,9 @@
 var sucrette = {
     "avatar":{
-        "skin":"lys",
-        "hair":"orange",
-        "eyebrows":"1-5b720362ccbfc015",
-        "eyesColor":"purple",
+        "skin":"rose",
+        "hair":"pink",
+        "eyebrows":"7-900edda5def34164",
+        "eyesColor":"light_green",
         "eyes":"1-c8f85ec8f0f3ab2d",
         "mouth":"143-9aed8576a4d41d52",
         "expressionPreset":7,
