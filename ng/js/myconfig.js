@@ -12,9 +12,7 @@ var sucrette = {
             "eye":"N_Open_FrontLook",
             "mouth":"H_Closed"
         },
-
-       
-
+        
         "customSkin":null
     },
     "orderInfo":[
