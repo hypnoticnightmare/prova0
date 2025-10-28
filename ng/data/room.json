@@ -2781,14 +2781,5 @@
         "name":"Mesa",
         "roomName":"Jackpot Hall",
         "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"}
-    },
-    {
-        "id":444, "roomId":92, "slot":"background", "releaseDate":"2025-10-28", "light":true, "security":"ac0e92ea983e8294",
-        "name":"Paredes",
-        "roomName":"The mourning wing",
-        "criteria":{"type":"pack", "info":"The banished bride", "text":"Desbloqueado en el Pack exclusivo\nThe banished bride"},
-        "backgroundColors":{
-            "day":{"color1":"F5D0AB","color2":"C7B1A3","colorLight":"613000"},
-            "night":{"color1":"AECDE6","color2":"B89FA2","colorLight":"004083"}
     }
 ]
