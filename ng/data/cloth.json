@@ -19556,5 +19556,195 @@
             {"id":11166, "colors":["brown"]}
         ], "criteria":null,
         "releaseDate":"2025-10-28"
+    },
+        {
+        "groupId":11417, "zone":"head", "category":"hat", "security":"73fd4f63db13db10", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Hat",
+        "outfitName":"Autumn Spiced Outfit",
+        "variations":[
+            {"id":11417, "colors":["orange"]},
+            {"id":11418, "colors":["pink"]},
+            {"id":11419, "colors":["grey"]},
+            {"id":11420, "colors":["purple"]},
+            {"id":11421, "colors":["green"]},
+            {"id":11422, "colors":["white"]},
+            {"id":11423, "colors":["blue"]},
+            {"id":11424, "colors":["black"]},
+            {"id":11425, "colors":["brown"]},
+            {"id":11426, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-06"
+    },
+   { 
+       "groupId":11397, "zone":"head", "category":"wig", "security":"d6afa559d8612744", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Wig",
+        "outfitName":"Autumn Spiced Outfit",
+        "variations":[
+            {"id":11397, "colors":["brown"]},
+            {"id":11398, "colors":["white"]},
+            {"id":11399, "colors":["black"]},
+            {"id":11400, "colors":["blue"]},
+            {"id":11401, "colors":["green"]},
+            {"id":11402, "colors":["purple"]},
+            {"id":11403, "colors":["red"]},
+            {"id":11404, "colors":["yellow"]},
+            {"id":11405, "colors":["orange"]},
+            {"id":11406, "colors":["pink"]},
+            {"id":11407, "colors":["brown"]},
+            {"id":11408, "colors":["white"]},
+            {"id":11409, "colors":["black"]},
+            {"id":11410, "colors":["blue"]},
+            {"id":11411, "colors":["green"]},
+            {"id":11412, "colors":["purple"]},
+            {"id":11413, "colors":["red"]},
+            {"id":11414, "colors":["yellow"]},
+            {"id":11415, "colors":["orange"]},
+            {"id":11416, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-06"
+    },
+        {
+        "groupId":11387, "zone":"head", "category":"earring", "security":"823662037c7d6293", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Earrings",
+        "outfitName":"Autumn Spiced Outfit",
+        "variations":[
+            {"id":11387, "colors":["red"]},
+            {"id":11388, "colors":["white"]},
+            {"id":11389, "colors":["pink"]},
+            {"id":11390, "colors":["blue"]},
+            {"id":11391, "colors":["green"]},
+            {"id":11392, "colors":["grey"]},
+            {"id":11393, "colors":["orange"]},
+            {"id":11394, "colors":["black"]},
+            {"id":11395, "colors":["blue"]},
+            {"id":11396, "colors":["purple"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-06"
+    },
+        {
+        "groupId":11377, "zone":"face", "category":"neckAccessory", "security":"f67d5332588dc037", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Scarf",
+        "outfitName":"Autumn Spiced Outfit",
+        "variations":[
+            {"id":11377, "colors":["grey"]},
+            {"id":11378, "colors":["white"]},
+            {"id":11379, "colors":["brown"]},
+            {"id":11380, "colors":["blue"]},
+            {"id":11381, "colors":["brown"]},
+            {"id":11382, "colors":["pink"]},
+            {"id":11383, "colors":["red"]},
+            {"id":11384, "colors":["purple"]},
+            {"id":11385, "colors":["orange"]},
+            {"id":11386, "colors":["black"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-06"
+    },
+        {
+        "groupId":11337, "zone":"torso", "category":"top", "security":"242aeb76dff82aa3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sweater",
+        "outfitName":"Autumn Spiced Outfit",
+        "variations":[
+            {"id":11337, "colors":["orange"]},
+            {"id":11338, "colors":["pink"]},
+            {"id":11339, "colors":["white"]},
+            {"id":11340, "colors":["purple"]},
+            {"id":11341, "colors":["green"]},
+            {"id":11342, "colors":["grey"]},
+            {"id":11343, "colors":["blue"]},
+            {"id":11344, "colors":["black"]},
+            {"id":11345, "colors":["brown"]},
+            {"id":11346, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-06"
+    },
+        {
+        "groupId":11347, "zone":"torso", "category":"jacket", "security":"046e9c1f4a06bb97", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Coat",
+        "outfitName":"Autumn Spiced Outfit",
+        "variations":[
+            {"id":11347, "colors":["brown"]},
+            {"id":11348, "colors":["pink"]},
+            {"id":11349, "colors":["grey"]},
+            {"id":11350, "colors":["purple"]},
+            {"id":11351, "colors":["green"]},
+            {"id":11352, "colors":["white"]},
+            {"id":11353, "colors":["blue"]},
+            {"id":11354, "colors":["black"]},
+            {"id":11355, "colors":["brown"]},
+            {"id":11356, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-06"
+    },
+        {
+        "groupId":11357, "zone":"arms", "category":"bag", "security":"9e64b6a48d40885e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Latte",
+        "outfitName":"Autumn Spiced Outfit",
+        "variations":[
+            {"id":11357, "colors":["brown"]},
+            {"id":11358, "colors":["pink"]},
+            {"id":11359, "colors":["grey"]},
+            {"id":11360, "colors":["purple"]},
+            {"id":11361, "colors":["green"]},
+            {"id":11362, "colors":["white"]},
+            {"id":11363, "colors":["blue"]},
+            {"id":11364, "colors":["black"]},
+            {"id":11365, "colors":["yellow"]},
+            {"id":11366, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-06"
+    },
+        {
+        "groupId":11367, "zone":"arms", "category":"bag", "security":"00dced99839d3e6c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Purse",
+        "outfitName":"Autumn Spiced Outfit",
+        "variations":[
+            {"id":11367, "colors":["grey"]},
+            {"id":11368, "colors":["white"]},
+            {"id":11369, "colors":["brown"]},
+            {"id":11370, "colors":["blue"]},
+            {"id":11371, "colors":["brown"]},
+            {"id":11372, "colors":["pink"]},
+            {"id":11373, "colors":["red"]},
+            {"id":11374, "colors":["purple"]},
+            {"id":11375, "colors":["orange"]},
+            {"id":11376, "colors":["black"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-06"
+    },
+        {
+        "groupId":11327, "zone":"waistToKnee", "category":"skirt", "security":"f87baee2433d41a3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Skirt",
+        "outfitName":"Autumn Spiced Outfit",
+        "variations":[
+            {"id":11327, "colors":["blue"]},
+            {"id":11328, "colors":["green"]},
+            {"id":11329, "colors":["pink"]},
+            {"id":11330, "colors":["grey"]},
+            {"id":11331, "colors":["black"]},
+            {"id":11332, "colors":["red"]},
+            {"id":11333, "colors":["browm"]},
+            {"id":11334, "colors":["green"]},
+            {"id":11335, "colors":["purple"]},
+            {"id":11336, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-06"
+    },
+        {
+        "groupId":11317, "zone":"feet", "category":"shoes", "security":"01b4b5684ef3c2d7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Boots",
+        "outfitName":"Autumn Spiced Outfit",
+        "variations":[
+            {"id":11317, "colors":["brown"]},
+            {"id":11318, "colors":["pink"]},
+            {"id":11319, "colors":["grey"]},
+            {"id":11320, "colors":["purple"]},
+            {"id":11321, "colors":["green"]},
+            {"id":11322, "colors":["white"]},
+            {"id":11323, "colors":["blue"]},
+            {"id":11324, "colors":["black"]},
+            {"id":11325, "colors":["brown"]},
+            {"id":11326, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-06"
     }
 ]
