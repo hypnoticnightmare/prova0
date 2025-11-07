@@ -19746,5 +19746,222 @@
             {"id":11326, "colors":["red"]}
         ], "criteria":null,
         "releaseDate":"2025-11-06"
+    },
+   { 
+       "groupId":11567, "zone":"head", "category":"wig", "security":"329e49996baf01e6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Wig",
+        "outfitName":"Jason's vibe",
+        "variations":[
+            {"id":11567, "colors":["brown"]},
+            {"id":11568, "colors":["brown"]},
+            {"id":11569, "colors":["white"]},
+            {"id":11570, "colors":["black"]},
+            {"id":11571, "colors":["blue"]},
+            {"id":11572, "colors":["green"]},
+            {"id":11573, "colors":["purple"]},
+            {"id":11574, "colors":["red"]},
+            {"id":11575, "colors":["yellow"]},
+            {"id":11576, "colors":["orange"]},
+            {"id":11577, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-07"
+    },
+        {
+        "groupId":11537, "zone":"face", "category":"neckAccessory", "security":"07c43b0697dbf8d7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tie",
+        "outfitName":"Jason's vibe",
+        "variations":[
+            {"id":11537, "colors":["blue"]},
+            {"id":11538, "colors":["black"]},
+            {"id":11539, "colors":["purple"]},
+            {"id":11540, "colors":["red"]},
+            {"id":11541, "colors":["orange"]},
+            {"id":11542, "colors":["pink"]},
+            {"id":11543, "colors":["white"]},
+            {"id":11544, "colors":["brown"]},
+            {"id":11545, "colors":["green"]},
+            {"id":11546, "colors":["blue"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-07"
+    },
+        {
+        "groupId":11517, "zone":"torso", "category":"top", "security":"580e95bbad8391c4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shirt",
+        "outfitName":"Jason's vibe",
+        "variations":[
+            {"id":11517, "colors":["black"]},
+            {"id":11518, "colors":["white"]},
+            {"id":11519, "colors":["red"]},
+            {"id":11520, "colors":["green"]},
+            {"id":11521, "colors":["blue"]},
+            {"id":11522, "colors":["purple"]},
+            {"id":11523, "colors":["green"]},
+            {"id":11524, "colors":["pink"]},
+            {"id":11525, "colors":["brown"]},
+            {"id":11526, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-07"
+    },
+        {
+        "groupId":11547, "zone":"torso", "category":"jacket", "security":"65f38071fabab964", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vest",
+        "outfitName":"Jason's vibe",
+        "variations":[
+            {"id":11547, "colors":["black"]},
+            {"id":11548, "colors":["white"]},
+            {"id":11549, "colors":["red"]},
+            {"id":11550, "colors":["green"]},
+            {"id":11551, "colors":["blue"]},
+            {"id":11552, "colors":["purple"]},
+            {"id":11553, "colors":["green"]},
+            {"id":11554, "colors":["pink"]},
+            {"id":11555, "colors":["brown"]},
+            {"id":11556, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-07"
+    },
+        {
+        "groupId":11557, "zone":"torso", "category":"jacket", "security":"192b48828262803d", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Jacket",
+        "outfitName":"Jason's vibe",
+        "variations":[
+            {"id":11557, "colors":["black"]},
+            {"id":11558, "colors":["white"]},
+            {"id":11559, "colors":["red"]},
+            {"id":11560, "colors":["green"]},
+            {"id":11561, "colors":["blue"]},
+            {"id":11562, "colors":["purple"]},
+            {"id":11563, "colors":["green"]},
+            {"id":11564, "colors":["pink"]},
+            {"id":11565, "colors":["brown"]},
+            {"id":11566, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-07"
+    },
+        {
+        "groupId":11578, "zone":"arms", "category":"bag", "security":"5bd871c3d8981ce3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Glass",
+        "outfitName":"Jason's vibe",
+        "variations":[
+            {"id":11578, "colors":["red"]},
+            {"id":11579, "colors":["yellow"]},
+            {"id":11580, "colors":["pink"]},
+            {"id":11581, "colors":["green"]},
+            {"id":11582, "colors":["purple"]},
+            {"id":11583, "colors":["blue"]},
+            {"id":11584, "colors":["orange"]},
+            {"id":11585, "colors":["black"]},
+            {"id":11586, "colors":["red"]},
+            {"id":11587, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-07"
+    },
+        {
+        "groupId":11497, "zone":"arms", "category":"armAccessory", "security":"817a9cf36a12d367", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Accessories",
+        "outfitName":"Jason's vibe",
+        "variations":[
+            {"id":11497, "colors":["blue"]},
+            {"id":11498, "colors":["black"]},
+            {"id":11499, "colors":["purple"]},
+            {"id":11500, "colors":["red"]},
+            {"id":11501, "colors":["orange"]},
+            {"id":11502, "colors":["pink"]},
+            {"id":11503, "colors":["white"]},
+            {"id":11504, "colors":["brown"]},
+            {"id":11505, "colors":["green"]},
+            {"id":11506, "colors":["green"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-07"
+    },
+        {
+        "groupId":11527, "zone":"waistToKnee", "category":"pants", "security":"0119a22096437434", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pants",
+        "outfitName":"Jason's vibe",
+        "variations":[
+            {"id":11527, "colors":["black"]},
+            {"id":11528, "colors":["white"]},
+            {"id":11529, "colors":["red"]},
+            {"id":11530, "colors":["green"]},
+            {"id":11531, "colors":["blue"]},
+            {"id":11532, "colors":["purple"]},
+            {"id":11533, "colors":["green"]},
+            {"id":11534, "colors":["pink"]},
+            {"id":11535, "colors":["brown"]},
+            {"id":11536, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-07"
+    },
+        {
+        "groupId":11507, "zone":"feet", "category":"shoes", "security":"8dc4058927aa4733", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shoes",
+        "outfitName":"Jason's vibe",
+        "variations":[
+            {"id":11507, "colors":["black"]},
+            {"id":11508, "colors":["white"]},
+            {"id":11509, "colors":["red"]},
+            {"id":11510, "colors":["green"]},
+            {"id":11511, "colors":["blue"]},
+            {"id":11512, "colors":["purple"]},
+            {"id":11513, "colors":["green"]},
+            {"id":11514, "colors":["pink"]},
+            {"id":11515, "colors":["brown"]},
+            {"id":11516, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-07"
+    },
+        {
+        "groupId":11487, "zone":"other", "category":"tattoo", "security":"2d4116e759b26086", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tattoo",
+        "outfitName":"Jason's vibe",
+        "variations":[
+            {"id":11487, "colors":["black"]},
+            {"id":11488, "colors":["white"]},
+            {"id":11489, "colors":["red"]},
+            {"id":11490, "colors":["green"]},
+            {"id":11491, "colors":["blue"]},
+            {"id":11492, "colors":["purple"]},
+            {"id":11493, "colors":["green"]},
+            {"id":11494, "colors":["pink"]},
+            {"id":11495, "colors":["brown"]},
+            {"id":11496, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-07"
+    },
+   { 
+       "groupId":10977, "zone":"head", "category":"hat", "security":"810de8fc9a7511e9", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bow",
+        "outfitName":"Cheerful Hope",
+        "variations":[
+            {"id":10977, "colors":["white"]},
+            {"id":10978, "colors":["black"]},
+            {"id":10979, "colors":["yellow"]},
+            {"id":10980, "colors":["blue"]},
+            {"id":10981, "colors":["brown"]},
+            {"id":10982, "colors":["orange"]},
+            {"id":10983, "colors":["red"]},
+            {"id":10984, "colors":["pink"]},
+            {"id":10985, "colors":["purple"]},
+            {"id":10986, "colors":["green"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-07"
+    },
+   { 
+       "groupId":10937, "zone":"torso", "category":"top", "security":"88f19e3812842ca7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Cheerful Hope",
+        "variations":[
+            {"id":10937, "colors":["white"]},
+            {"id":10938, "colors":["black"]},
+            {"id":10939, "colors":["yellow"]},
+            {"id":10940, "colors":["blue"]},
+            {"id":10941, "colors":["brown"]},
+            {"id":10942, "colors":["orange"]},
+            {"id":10943, "colors":["red"]},
+            {"id":10944, "colors":["pink"]},
+            {"id":10945, "colors":["purple"]},
+            {"id":10946, "colors":["green"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-07"
     }
 ]
