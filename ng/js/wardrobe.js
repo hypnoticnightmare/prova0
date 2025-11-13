@@ -52,37 +52,7 @@ async function tempWM(type) {
     };
 };
 
-async function codeUpdate() {
-    $(".eye-color .color").removeClass("equipped");
-    $(`.eye-color .color[data-color=${sucrette.avatar.eyesColor}]`).addClass("equipped");
-    $(".hair-color .color").removeClass("equipped");
-    $(`.hair-color .color[data-color=${sucrette.avatar.hair}]`).addClass("equipped");
-    $(".skin-color .color").removeClass("equipped");
-    $(`.skin-color .color[data-color=${sucrette.avatar.skin}]`).addClass("equipped");
-
-    $("#loading-layout").addClass("room avatar");
-
-    drawCrush();
-    drawSucrette();
-    drawRoomCanvas();
-    drawZIndex();
-    drawPet();
-}
-
-async function drawCrush(save = false) {
-    let item = sucrette.crush.outfit;
-    let ctx = !save ? document.getElementById("crush-canvas").getContext("2d") : document.getElementById("save-canvas").getContext("2d");
-    let w = 1200, h = 1550;
-    
-    if (save) {
-        w = document.getElementById("save-canvas").getAttribute("width");
-        // Se stiamo salvando la versione "Ritratto" (face), non disegnare il crush
-        if (w == 1920) {
-            return; // Esce dalla funzione
-        }
-    }
-
-    // Pulisci sempre il canvas (tranne se è un salvataggio, 
+// Pulisci sempre il canvas (tranne se è un salvataggio, 
     // perché l'avatar potrebbe essere già disegnato)
     if (!save) {
         ctx.clearRect(0, 0, w, h);
@@ -138,6 +108,36 @@ async function drawCrush(save = false) {
         ctx.drawImage(ready, 0, 0, w, h);
     }
 }
+
+async function codeUpdate() {
+    $(".eye-color .color").removeClass("equipped");
+    $(`.eye-color .color[data-color=${sucrette.avatar.eyesColor}]`).addClass("equipped");
+    $(".hair-color .color").removeClass("equipped");
+    $(`.hair-color .color[data-color=${sucrette.avatar.hair}]`).addClass("equipped");
+    $(".skin-color .color").removeClass("equipped");
+    $(`.skin-color .color[data-color=${sucrette.avatar.skin}]`).addClass("equipped");
+
+    $("#loading-layout").addClass("room avatar");
+
+    drawCrush();
+    drawSucrette();
+    drawRoomCanvas();
+    drawZIndex();
+    drawPet();
+}
+
+async function drawCrush(save = false) {
+    let item = sucrette.crush.outfit;
+    let ctx = !save ? document.getElementById("crush-canvas").getContext("2d") : document.getElementById("save-canvas").getContext("2d");
+    let w = 1200, h = 1550;
+    
+    if (save) {
+        w = document.getElementById("save-canvas").getAttribute("width");
+        // Se stiamo salvando la versione "Ritratto" (face), non disegnare il crush
+        if (w == 1920) {
+            return; // Esce dalla funzione
+        }
+    }
 
 async function drawCategory(c = "top", declination = null) {
     
