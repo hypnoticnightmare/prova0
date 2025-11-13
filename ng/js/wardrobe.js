@@ -110,7 +110,7 @@ async function drawCrush(save = false) {
     }
 
     // 2. Definisci i "nuovi" crush (in minuscolo per sicurezza)
-    const newCrushes = ["danica", "brune", "elenda"];
+    const newCrushes = ["Danica", "Brune", "Elenda"];
 
     // 3. Carica l'immagine (esattamente come faceva prima)
     let imgUrl = !save ? composeCrushUrl(itemID, itemSec) : composeCrushUrl(itemID, itemSec, "full", "hd");
@@ -125,7 +125,7 @@ async function drawCrush(save = false) {
         // Dobbiamo disegnarli "fuori centro" per farli apparire a sinistra.
         
         let y = 0; // Allinea in alto
-        let x = -300; // Sposta l'immagine di 300px a sinistra (puoi cambiare questo valore)
+        let x = -400; // Sposta l'immagine di 300px a sinistra (puoi cambiare questo valore)
 
         // Disegna l'immagine con lo spostamento
         ctx.drawImage(ready, x, y, w, h);
