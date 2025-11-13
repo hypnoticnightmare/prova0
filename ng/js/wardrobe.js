@@ -71,7 +71,7 @@ async function codeUpdate() {
 }
 
 
-// ▼▼ INCOLLA QUESTO BLOCCO CORRETTO ALLA RIGA 62 ▼▼
+// ▼▼ SOSTITUISCI LA FUNZIONE ALLA RIGA 65 CON QUESTA ▼▼
 async function drawCrush(save = false) {
     let item = sucrette.crush.outfit;
     let ctx = !save ? document.getElementById("crush-canvas").getContext("2d") : document.getElementById("save-canvas").getContext("2d");
@@ -109,30 +109,26 @@ async function drawCrush(save = false) {
         return;
     }
 
-    // 2. Definisci i "nuovi" crush che hanno bisogno di posizionamento manuale
-    //    Usa il 'crushName' definito nel tuo file crush.json
-    const newCrushes = ["Danica", "Brune", "Elenda"];
+    // 2. Definisci i "nuovi" crush (in minuscolo per sicurezza)
+    const newCrushes = ["danica", "brune", "elenda"];
 
     // 3. Carica l'immagine (esattamente come faceva prima)
     let imgUrl = !save ? composeCrushUrl(itemID, itemSec) : composeCrushUrl(itemID, itemSec, "full", "hd");
     let ready = await preloadIMG(imgUrl);
 
     // 4. Decidi COME disegnarla
-    if (newCrushes.includes(crushData.crushName)) {
-        // ### NUOVA LOGICA ###
-        // Questi sono sprite, non PNG 1200x1550. Vanno posizionati.
+    //    (Controllo reso case-insensitive con .toLowerCase())
+    if (crushData.crushName && newCrushes.includes(crushData.crushName.toLowerCase())) {
         
-        // Calcola la posizione
-        // Allineiamo l'immagine in basso sul canvas
-        let y = h - ready.height; 
-        // Se l'immagine è più alta del canvas (improbabile), allineala in alto
-        if (y < 0) y = 0; 
+        // ### NUOVA LOGICA DI POSIZIONAMENTO ###
+        // Questi asset sono 1200x1550 ma con il personaggio AL CENTRO.
+        // Dobbiamo disegnarli "fuori centro" per farli apparire a sinistra.
+        
+        let y = 0; // Allinea in alto
+        let x = -300; // Sposta l'immagine di 300px a sinistra (puoi cambiare questo valore)
 
-        // Posizioniamola a 100px dal bordo sinistro.
-        let x = 100; 
-
-        // Disegna lo sprite posizionato manualmente
-        ctx.drawImage(ready, x, y);
+        // Disegna l'immagine con lo spostamento
+        ctx.drawImage(ready, x, y, w, h);
 
     } else {
         // ### VECCHIA LOGICA ###
@@ -141,7 +137,7 @@ async function drawCrush(save = false) {
         ctx.drawImage(ready, 0, 0, w, h);
     }
 }
-// ▲▲ FINE BLOCCO DA INCOLLARE ▲▲
+// ▲▲ FINE DEL BLOCCO DA SOSTITUIRE ▲▲
 
 
 async function drawCategory(c = "top", declination = null) {
