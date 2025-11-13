@@ -1239,17 +1239,6 @@ function drawCrushPortraits() {
 };
     
 
-    if (item != null && w != 1920) {
-        // Dibujar canvas
-        let img = !save ? composeCrushUrl(item.split("-")[0], item.split("-")[1]) : composeCrushUrl(item.split("-")[0], item.split("-")[1], "full", "hd");
-        ready = await preloadIMG(img);
-        if (!save) ctx.clearRect(0, 0, w, h);
-        ctx.drawImage(ready, 0, 0, w, h);
-    } else {
-        if (!save) ctx.clearRect(0, 0, w, h);
-    };
-};
-
 function drawItemIcons (criteria, elmnt) {
 
     let icon = "";
