@@ -109,6 +109,7 @@ async function drawCrush(save = false) {
     }
 
     // 2. Definisci i "nuovi" crush (in minuscolo per il confronto)
+    //    (Questo è GIÀ CORRETTO nel tuo file)
     const newCrushes = ["danica", "brune", "elenda"];
 
     // 3. Carica l'immagine
@@ -121,12 +122,11 @@ async function drawCrush(save = false) {
         // ### NUOVA LOGICA (PER IMMAGINI CENTRATE 1200x1550) ###
         
         let y = 0; // Allinea in alto
-        
-        // Sposta l'immagine molto a sinistra (es. 350px)
-        // Se l'immagine è ancora troppo centrata, prova un valore negativo più grande (es. -400)
-        let x = -350; 
 
-        // Disegna l'immagine a grandezza intera (w, h) ma con lo spostamento (x)
+        // CORREZIONE 1: Sposta l'immagine molto a sinistra
+        let x = -350; // Prova -350. Se non appaiono, prova -400 o -300.
+
+        // CORREZIONE 2: Disegna l'immagine a grandezza intera (w, h)
         ctx.drawImage(ready, x, y, w, h); 
 
     } else {
