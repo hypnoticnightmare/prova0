@@ -4,6 +4,16 @@
     {"id":3, "crushName":"Devon", "security":"5351acc77b1e8b04"},
     {"id":4, "crushName":"Thomas", "security":"7798d8babf27eae1"},
 
+    {"id":5, "crushName":"Elenda", "security":"22d9c0d0f95247b6"},
+    {"id":83, "crushName":"Elenda", "security":"36bcee416b68a2c5"},
+    {"id":257, "crushName":"Elenda", "security":"d9cdbec7d6ac2fca"},
+
+    {"id":7, "crushName":"Brune", "security":"866f1dccd6149d80"},
+    {"id":85, "crushName":"Brune", "security":"b132674e45b926f1"},
+    {"id":256, "crushName":"Brune", "security":"2d79ea21d43e7c62"},
+
+    {"id":13, "crushName":"Danica", "security":"a078a6a659b73dbf"},
+
     {"id":11, "crushName":"Jason", "security":"a1f7b12eb0271c70"},
 
     {"id":17, "crushName":"Amanda", "security":"b050c1e281a88323"},
