@@ -52,62 +52,6 @@ async function tempWM(type) {
     };
 };
 
-// Pulisci sempre il canvas (tranne se è un salvataggio, 
-    // perché l'avatar potrebbe essere già disegnato)
-    if (!save) {
-        ctx.clearRect(0, 0, w, h);
-    }
-
-    // Se non c'è nessun crush selezionato, esci
-    if (item == null) {
-        return;
-    }
-
-    // --- Inizio Logica Aggiornata ---
-
-    // 1. Trova i dati del crush dall'array globale 'crush'
-    let itemID = item.split("-")[0];
-    let itemSec = item.split("-")[1];
-    let crushData = crush.find(c => c.id == itemID && c.security == itemSec);
-
-    // Se per qualche motivo non troviamo i dati, usciamo
-    if (!crushData) {
-        console.error("Dati crush non trovati per:", item);
-        return;
-    }
-
-    // 2. Definisci i "nuovi" crush che hanno bisogno di posizionamento manuale
-    //    Usa il 'crushName' definito nel tuo file crush.json
-    const newCrushes = ["Danica", "Brune", "Elenda"];
-
-    // 3. Carica l'immagine (esattamente come faceva prima)
-    let imgUrl = !save ? composeCrushUrl(itemID, itemSec) : composeCrushUrl(itemID, itemSec, "full", "hd");
-    let ready = await preloadIMG(imgUrl);
-
-    // 4. Decidi COME disegnarla
-    if (newCrushes.includes(crushData.crushName)) {
-        // ### NUOVA LOGICA ###
-        // Questi sono sprite, non PNG 1200x1550. Vanno posizionati.
-        
-        // Calcola la posizione
-        // Allineiamo l'immagine in basso sul canvas
-        let y = h - ready.height; 
-        // Se l'immagine è più alta del canvas (improbabile), allineala in alto
-        if (y < 0) y = 0; 
-
-        // Posizioniamola a 100px dal bordo sinistro.
-        let x = 100; 
-
-        // Disegna lo sprite posizionato manualmente
-        ctx.drawImage(ready, x, y);
-
-    } else {
-        // ### VECCHIA LOGICA ###
-        // Questo è un asset 1200x1550 pre-composto (come Jason).
-        // Disegnalo semplicemente alle coordinate (0, 0).
-        ctx.drawImage(ready, 0, 0, w, h);
-    }
-}
 
 async function codeUpdate() {
     $(".eye-color .color").removeClass("equipped");
@@ -1233,12 +1177,77 @@ function drawCrushPortraits() {
     moveScroll(".crush-portraits .ss-content", "reset");
 };
 
+    
 async function drawCrush(save = false) {
-
     let item = sucrette.crush.outfit;
     let ctx = !save ? document.getElementById("crush-canvas").getContext("2d") : document.getElementById("save-canvas").getContext("2d");
     let w = 1200, h = 1550;
-    if (save) w = document.getElementById("save-canvas").getAttribute("width");
+    
+    if (save) {
+        w = document.getElementById("save-canvas").getAttribute("width");
+        // Se stiamo salvando la versione "Ritratto" (face), non disegnare il crush
+        if (w == 1920) {
+            return; // Esce dalla funzione
+        }
+    }
+
+    // Pulisci sempre il canvas (tranne se è un salvataggio, 
+    // perché l'avatar potrebbe essere già disegnato)
+    if (!save) {
+        ctx.clearRect(0, 0, w, h);
+    }
+
+    // Se non c'è nessun crush selezionato, esci
+    if (item == null) {
+        return;
+    }
+
+    // --- Inizio Logica Aggiornata ---
+
+    // 1. Trova i dati del crush dall'array globale 'crush'
+    let itemID = item.split("-")[0];
+    let itemSec = item.split("-")[1];
+    let crushData = crush.find(c => c.id == itemID && c.security == itemSec);
+
+    // Se per qualche motivo non troviamo i dati, usciamo
+    if (!crushData) {
+        console.error("Dati crush non trovati per:", item);
+        return;
+    }
+
+    // 2. Definisci i "nuovi" crush che hanno bisogno di posizionamento manuale
+    //    Usa il 'crushName' definito nel tuo file crush.json
+    const newCrushes = ["Danica", "Brune", "Elenda"];
+
+    // 3. Carica l'immagine (esattamente come faceva prima)
+    let imgUrl = !save ? composeCrushUrl(itemID, itemSec) : composeCrushUrl(itemID, itemSec, "full", "hd");
+    let ready = await preloadIMG(imgUrl);
+
+    // 4. Decidi COME disegnarla
+    if (newCrushes.includes(crushData.crushName)) {
+        // ### NUOVA LOGICA ###
+        // Questi sono sprite, non PNG 1200x1550. Vanno posizionati.
+        
+        // Calcola la posizione
+        // Allineiamo l'immagine in basso sul canvas
+        let y = h - ready.height; 
+        // Se l'immagine è più alta del canvas (improbabile), allineala in alto
+        if (y < 0) y = 0; 
+
+        // Posizioniamola a 100px dal bordo sinistro.
+        let x = 100; 
+
+        // Disegna lo sprite posizionato manualmente
+        ctx.drawImage(ready, x, y);
+
+    } else {
+        // ### VECCHIA LOGICA ###
+        // Questo è un asset 1200x1550 pre-composto (come Jason).
+        // Disegnalo semplicemente alle coordinate (0, 0).
+        ctx.drawImage(ready, 0, 0, w, h);
+    }
+}
+    
 
     if (item != null && w != 1920) {
         // Dibujar canvas
