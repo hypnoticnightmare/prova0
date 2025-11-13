@@ -124,7 +124,7 @@ async function drawCrush(save = false) {
         let y = 0; // Allinea in alto
 
         // CORREZIONE 1: Sposta l'immagine molto a sinistra
-        let x = -350; // Prova -350. Se non appaiono, prova -400 o -300.
+        let x = -500; // Prova -350. Se non appaiono, prova -400 o -300.
 
         // CORREZIONE 2: Disegna l'immagine a grandezza intera (w, h)
         ctx.drawImage(ready, x, y, w, h); 
