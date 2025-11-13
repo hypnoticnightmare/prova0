@@ -71,7 +71,7 @@ async function codeUpdate() {
 }
 
 
-// ▼▼ SOSTITUISCI LA FUNZIONE ALLA RIGA 65 CON QUESTA ▼▼
+// ▼▼ SOSTITUISCI LA FUNZIONE DALLA RIGA 65 ALLA 131 CON QUESTA ▼▼
 async function drawCrush(save = false) {
     let item = sucrette.crush.outfit;
     let ctx = !save ? document.getElementById("crush-canvas").getContext("2d") : document.getElementById("save-canvas").getContext("2d");
@@ -85,8 +85,7 @@ async function drawCrush(save = false) {
         }
     }
 
-    // Pulisci sempre il canvas (tranne se è un salvataggio, 
-    // perché l'avatar potrebbe essere già disegnato)
+    // Pulisci sempre il canvas
     if (!save) {
         ctx.clearRect(0, 0, w, h);
     }
@@ -96,7 +95,7 @@ async function drawCrush(save = false) {
         return;
     }
 
-    // --- Inizio Logica Aggiornata ---
+    // --- Inizio Logica Corretta ---
 
     // 1. Trova i dati del crush dall'array globale 'crush'
     let itemID = item.split("-")[0];
@@ -109,31 +108,34 @@ async function drawCrush(save = false) {
         return;
     }
 
-    // 2. Definisci i "nuovi" crush (in minuscolo per sicurezza)
+    // 2. Definisci i "nuovi" crush (in minuscolo per il confronto)
+    //    (CORREZIONE 1: Array in minuscolo)
     const newCrushes = ["danica", "brune", "elenda"];
 
-    // 3. Carica l'immagine (esattamente come faceva prima)
+    // 3. Carica l'immagine
     let imgUrl = !save ? composeCrushUrl(itemID, itemSec) : composeCrushUrl(itemID, itemSec, "full", "hd");
     let ready = await preloadIMG(imgUrl);
 
     // 4. Decidi COME disegnarla
-    //    (Controllo reso case-insensitive con .toLowerCase())
     if (crushData.crushName && newCrushes.includes(crushData.crushName.toLowerCase())) {
         
-        // ### NUOVA LOGICA DI POSIZIONAMENTO ###
-        // Questi asset sono 1200x1550 ma con il personaggio AL CENTRO.
-        // Dobbiamo disegnarli "fuori centro" per farli apparire a sinistra.
+        // ### NUOVA LOGICA (PER SPRITE) ###
         
-        let y = 0; // Allinea in alto
-        let x = -350; // Sposta l'immagine di 300px a sinistra (puoi cambiare questo valore)
+        // Posiziona l'immagine in basso sul canvas
+        let y = h - ready.height; // h = 1550 (altezza canvas)
+        if (y < 0) y = 0; // Se lo sprite è più alto del canvas, allinea in alto
 
-        // Disegna l'immagine con lo spostamento
-        ctx.drawImage(ready, x, y, w, h);
+        // Posiziona l'immagine a 100px dal bordo sinistro
+        let x = 100;
+
+        // Disegna l'immagine alla sua DIMENSIONE ORIGINALE (senza w, h)
+        // (CORREZIONE 2: Rimuovi w e h da questa chiamata)
+        ctx.drawImage(ready, x, y); 
 
     } else {
-        // ### VECCHIA LOGICA ###
-        // Questo è un asset 1200x1550 pre-composto (come Jason).
-        // Disegnalo semplicemente alle coordinate (0, 0).
+        // ### VECCHIA LOGICA (PER JASON, ECC.) ###
+        // Asset 1200x1550 pre-composto.
+        // Disegnalo a schermo intero (CON w, h)
         ctx.drawImage(ready, 0, 0, w, h);
     }
 }
