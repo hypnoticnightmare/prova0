@@ -71,7 +71,7 @@ async function codeUpdate() {
 }
 
 
-// ▼▼ SOSTITUISCI LA FUNZIONE DALLA RIGA 65 ALLA 131 CON QUESTA ▼▼
+// ▼▼ SOSTITUISCI LA FUNZIONE DALLA RIGA 65 ALLA 136 CON QUESTA ▼▼
 async function drawCrush(save = false) {
     let item = sucrette.crush.outfit;
     let ctx = !save ? document.getElementById("crush-canvas").getContext("2d") : document.getElementById("save-canvas").getContext("2d");
@@ -95,7 +95,7 @@ async function drawCrush(save = false) {
         return;
     }
 
-    // --- Inizio Logica Corretta ---
+    // --- Inizio Logica Corretta (Versione Definitiva) ---
 
     // 1. Trova i dati del crush dall'array globale 'crush'
     let itemID = item.split("-")[0];
@@ -109,7 +109,6 @@ async function drawCrush(save = false) {
     }
 
     // 2. Definisci i "nuovi" crush (in minuscolo per il confronto)
-    //    (CORREZIONE 1: Array in minuscolo)
     const newCrushes = ["danica", "brune", "elenda"];
 
     // 3. Carica l'immagine
@@ -119,23 +118,20 @@ async function drawCrush(save = false) {
     // 4. Decidi COME disegnarla
     if (crushData.crushName && newCrushes.includes(crushData.crushName.toLowerCase())) {
         
-        // ### NUOVA LOGICA (PER SPRITE) ###
+        // ### NUOVA LOGICA (PER IMMAGINI CENTRATE 1200x1550) ###
         
-        // Posiziona l'immagine in basso sul canvas
-        let y = h - ready.height; // h = 1550 (altezza canvas)
-        if (y < 0) y = 0; // Se lo sprite è più alto del canvas, allinea in alto
+        let y = 0; // Allinea in alto
+        
+        // Sposta l'immagine molto a sinistra (es. 350px)
+        // Se l'immagine è ancora troppo centrata, prova un valore negativo più grande (es. -400)
+        let x = -350; 
 
-        // Posiziona l'immagine a 100px dal bordo sinistro
-        let x = 100;
-
-        // Disegna l'immagine alla sua DIMENSIONE ORIGINALE (senza w, h)
-        // (CORREZIONE 2: Rimuovi w e h da questa chiamata)
-        ctx.drawImage(ready, x, y); 
+        // Disegna l'immagine a grandezza intera (w, h) ma con lo spostamento (x)
+        ctx.drawImage(ready, x, y, w, h); 
 
     } else {
         // ### VECCHIA LOGICA (PER JASON, ECC.) ###
-        // Asset 1200x1550 pre-composto.
-        // Disegnalo a schermo intero (CON w, h)
+        // Asset 1200x1550 pre-composto (personaggio già a lato).
         ctx.drawImage(ready, 0, 0, w, h);
     }
 }
