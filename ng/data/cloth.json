@@ -20302,5 +20302,113 @@
             {"id":11857, "colors":["multi"]}
         ], "criteria":{"type":"pack", "info":"Black Friday 2025", "text":"Desbloqueado en el Pack exclusivo\nBlack Friday 2025"},
         "releaseDate":"2025-11-28"
+    },
+    {
+        "groupId":11477, "zone":"head", "category":"hat", "security":"99bfa48b51d45252", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Hat",
+        "outfitName":"Last-minute rush",
+        "variations":[
+            {"id":11477, "colors":["red"]},
+            {"id":11478, "colors":["blue"]},
+            {"id":11479, "colors":["purple"]},
+            {"id":11480, "colors":["yellow"]},
+            {"id":11481, "colors":["brown"]},
+            {"id":11482, "colors":["green"]},
+            {"id":11483, "colors":["green"]},
+            {"id":11484, "colors":["blue"]},
+            {"id":11485, "colors":["white"]},
+            {"id":11486, "colors":["black"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-02"
+    },
+    {
+        "groupId":11467, "zone":"torso", "category":"jacket", "security":"b1ebbf5755f8cf5f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sewather",
+        "outfitName":"Last-minute rush",
+        "variations":[
+            {"id":11467, "colors":["red"]},
+            {"id":11468, "colors":["blue"]},
+            {"id":11469, "colors":["purple"]},
+            {"id":11470, "colors":["yellow"]},
+            {"id":11471, "colors":["brown"]},
+            {"id":11472, "colors":["green"]},
+            {"id":11473, "colors":["green"]},
+            {"id":11474, "colors":["blue"]},
+            {"id":11475, "colors":["white"]},
+            {"id":11476, "colors":["black"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-02"
+    },
+    {
+        "groupId":11457, "zone":"arms", "category":"bag", "security":"f4a355ad2fe9aa2d", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Shopping bag",
+        "outfitName":"Last-minute rush",
+        "variations":[
+            {"id":11457, "colors":["red"]},
+            {"id":11458, "colors":["blue"]},
+            {"id":11459, "colors":["purple"]},
+            {"id":11460, "colors":["yellow"]},
+            {"id":11461, "colors":["brown"]},
+            {"id":11462, "colors":["green"]},
+            {"id":11463, "colors":["green"]},
+            {"id":11464, "colors":["blue"]},
+            {"id":11465, "colors":["white"]},
+            {"id":11466, "colors":["black"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-02"
+    },
+    {
+        "groupId":11447, "zone":"waistToKnee", "category":"skirt", "security":"f985287072d1a394", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Skirt",
+        "outfitName":"Last-minute rush",
+        "variations":[
+            {"id":11447, "colors":["red"]},
+            {"id":11448, "colors":["blue"]},
+            {"id":11449, "colors":["purple"]},
+            {"id":11450, "colors":["yellow"]},
+            {"id":11451, "colors":["brown"]},
+            {"id":11452, "colors":["green"]},
+            {"id":11453, "colors":["green"]},
+            {"id":11454, "colors":["blue"]},
+            {"id":11455, "colors":["white"]},
+            {"id":11456, "colors":["black"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-02"
+    },
+    {
+        "groupId":11437, "zone":"feet", "category":"shoes", "security":"cfd5c30734d46541", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shoes",
+        "outfitName":"Last-minute rush",
+        "variations":[
+            {"id":11437, "colors":["red"]},
+            {"id":11438, "colors":["blue"]},
+            {"id":11439, "colors":["purple"]},
+            {"id":11440, "colors":["yellow"]},
+            {"id":11441, "colors":["brown"]},
+            {"id":11442, "colors":["green"]},
+            {"id":11443, "colors":["green"]},
+            {"id":11444, "colors":["blue"]},
+            {"id":11445, "colors":["white"]},
+            {"id":11446, "colors":["black"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-02"
+    },
+    {
+        "groupId":11427, "zone":"feet", "category":"socks", "security":"57532c00ab366673", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Socks",
+        "outfitName":"Last-minute rush",
+        "variations":[
+            {"id":11427, "colors":["red"]},
+            {"id":11428, "colors":["blue"]},
+            {"id":11429, "colors":["purple"]},
+            {"id":11430, "colors":["yellow"]},
+            {"id":11431, "colors":["brown"]},
+            {"id":11432, "colors":["green"]},
+            {"id":11433, "colors":["green"]},
+            {"id":11434, "colors":["blue"]},
+            {"id":11435, "colors":["white"]},
+            {"id":11436, "colors":["black"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-02"
     }
 ]
