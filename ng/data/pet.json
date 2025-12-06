@@ -311,5 +311,9 @@
     {
         "id":80, "security":"a22cf095eca8f411", "releaseDate":"2025-11-28", "name":"Derpy Goosie",
         "criteria":{"type":"pack", "info":"Black Friday 2025", "text":"Desbloqueado en el Pack exclusivo \n Black Friday 2025"}
+    },
+    {
+        "id":79, "security":"174e3357bc79f38a", "releaseDate":"2025-12-05", "name":"Castlegoose",
+        "criteria":{"type":"episode", "info":"Episode 22", "text":"Unlocked during epsiode 22"}
     }
 ]
