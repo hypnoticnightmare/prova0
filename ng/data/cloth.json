@@ -20410,5 +20410,356 @@
             {"id":11436, "colors":["black"]}
         ], "criteria":null,
         "releaseDate":"2025-12-02"
+    },
+    {
+        "groupId":1247, "zone":"torso", "category":"top", "security":"4664b5c258b6a18f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bra",
+        "outfitName":"Hololove",
+        "variations":[
+            {"id":1247, "colors":["grey"]},
+            {"id":1248, "colors":["pink"]},
+            {"id":1249, "colors":["blue"]},
+            {"id":1250, "colors":["black"]},
+            {"id":1251, "colors":["yellow"]},
+            {"id":1252, "colors":["red"]},
+            {"id":1253, "colors":["green"]},
+            {"id":1254, "colors":["purple"]},
+            {"id":1255, "colors":["blue"]},
+            {"id":1256, "colors":["white"]}
+        ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Unlocked after playing episode 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":1529, "zone":"waistToKnee", "category":"pants", "security":"af3fcc2ca5373585", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Leggings",
+        "outfitName":"What the...?",
+        "variations":[
+            {"id":1529, "colors":["white", "black"]},
+            {"id":1530, "colors":["blue", "black"]},
+            {"id":1531, "colors":["green", "black"]},
+            {"id":1532, "colors":["purple", "black"]},
+            {"id":1533, "colors":["black"]},
+            {"id":1534, "colors":["yellow", "black"]},
+            {"id":1535, "colors":["red", "black"]},
+            {"id":1536, "colors":["blue", "black"]},
+            {"id":1537, "colors":["purple", "black"]},
+            {"id":1538, "colors":["pink", "black"]}
+        ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Unlocked after playing episode 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":1579, "zone":"waistToKnee", "category":"skirt", "security":"872bdb998f90ac55", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Skirt",
+        "outfitName":"Magical Heart",
+        "variations":[
+            {"id":1579, "colors":["pink"]},
+            {"id":1580, "colors":["purple"]},
+            {"id":1581, "colors":["orange"]},
+            {"id":1582, "colors":["yellow"]},
+            {"id":1583, "colors":["green"]},
+            {"id":1584, "colors":["blue"]},
+            {"id":1585, "colors":["blue"]},
+            {"id":1586, "colors":["purple"]},
+            {"id":1587, "colors":["white"]},
+            {"id":1588, "colors":["black"]}
+        ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Unlocked after playing episode 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":1719, "zone":"arms", "category":"armAccessory", "security":"6263d936d69d8bb1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Umbrella",
+        "outfitName":"Playing in the rain",
+        "variations":[
+            {"id":1719, "colors":["green"]},
+            {"id":1720, "colors":["purple"]},
+            {"id":1721, "colors":["orange"]},
+            {"id":1722, "colors":["red"]},
+            {"id":1723, "colors":["white"]},
+            {"id":1724, "colors":["green"]},
+            {"id":1725, "colors":["black"]},
+            {"id":1726, "colors":["pink"]},
+            {"id":1727, "colors":["brown"]},
+            {"id":1728, "colors":["yellow"]}
+        ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Unlocked after playing episode 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":1930, "zone":"arms", "category":"armAccessory", "security":"e08c10437b969c1f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Milk carton",
+        "outfitName":"Kitty girl",
+        "variations":[
+            {"id":1930, "colors":["white", "blue", "black"]},
+            {"id":1931, "colors":["pink"]},
+            {"id":1932, "colors":["yellow"]},
+            {"id":1933, "colors":["white", "pink", "blue"]},
+            {"id":1934, "colors":["purple"]},
+            {"id":1935, "colors":["green"]},
+            {"id":1936, "colors":["orange"]},
+            {"id":1937, "colors":["black"]},
+            {"id":1938, "colors":["white"]},
+            {"id":1939, "colors":["brown"]}
+        ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Unlocked after playing episode 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":1609, "zone":"general", "category":"tattoo", "security":"2d1ff8a94b3e0a7d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cyborg skin",
+        "outfitName":"Future enhancement",
+        "variations":[
+            {"id":1609, "colors":["white"]},
+            {"id":1610, "colors":["black"]},
+            {"id":1611, "colors":["grey"]},
+            {"id":1612, "colors":["yellow"]},
+            {"id":1613, "colors":["red"]},
+            {"id":1614, "colors":["pink"]},
+            {"id":1615, "colors":["blue"]},
+            {"id":1616, "colors":["purple"]},
+            {"id":1617, "colors":["green"]},
+            {"id":1618, "colors":["brown"]}
+        ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Unlocked after playing episode 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":1760, "zone":"general", "category":"other", "security":"5565b2b0db77bcec", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Flowery ground",
+        "outfitName":"Flowerly",
+        "variations":[
+            {"id":1609, "colors":["white", "pink"]},
+            {"id":1610, "colors":["purple"]},
+            {"id":1611, "colors":["blue"]},
+            {"id":1612, "colors":["white", "blue"]},
+            {"id":1613, "colors":["white", "orange"]},
+            {"id":1614, "colors":["black", "red"]},
+            {"id":1615, "colors":["brown"]},
+            {"id":1616, "colors":["green"]},
+            {"id":1617, "colors":["yellow", "orange"]},
+            {"id":1618, "colors":["red", "purple"]}
+        ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Unlocked after playing episode 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":3433, "zone":"general", "category":"other", "security":"8049558759d47422", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Rain",
+        "outfitName":"Playing in the rain",
+        "variations":[
+            {"id":1609, "colors":["blue"]}
+         ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Unlocked after playing episode 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11758, "zone":"torso", "category":"jacket", "security":"c06b8c00105082d1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Kimono",
+        "outfitName":"Summer Heat",
+        "variations":[
+            {"id":11758, "colors":["brown"]},
+            {"id":11759, "colors":["white"]},
+            {"id":11760, "colors":["black"]},
+            {"id":11761, "colors":["pink"]},
+            {"id":11762, "colors":["purple"]},
+            {"id":11763, "colors":["blue"]},
+            {"id":11764, "colors":["green"]},
+            {"id":11765, "colors":["yellow"]},
+            {"id":11766, "colors":["brown"]},
+            {"id":11767, "colors":["red"]}
+        ], "criteria":{"type":"episode", "info":"22", "text":"Unlocked during episode 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11648, "zone":"torso_waistToKnee", "category":"underwear", "security":"c1e83fcf77167fa3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Swimsuit",
+        "outfitName":"Summer Breeze",
+        "variations":[
+            {"id":11648, "colors":["blue"]},
+            {"id":11649, "colors":["green"]},
+            {"id":11650, "colors":["purple"]},
+            {"id":11651, "colors":["pink"]},
+            {"id":11652, "colors":["yellow"]},
+            {"id":11653, "colors":["brown"]},
+            {"id":11654, "colors":["white"]},
+            {"id":11655, "colors":["black"]},
+            {"id":11656, "colors":["red"]},
+            {"id":11657, "colors":["orange"]}
+        ], "criteria":{"type":"episode", "info":"22", "text":"Unlocked during episode 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11708, "zone":"torso_waistToKnee", "category":"underwear", "security":"298b63bfe9b7ae3f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Swimsuit",
+        "outfitName":"Summer Heat",
+        "variations":[
+            {"id":11708, "colors":["white", "pink"]},
+            {"id":11709, "colors":["white", "blue"]},
+            {"id":11710, "colors":["white", "black"]},
+            {"id":11711, "colors":["white", "pink"]},
+            {"id":11712, "colors":["white", "purple"]},
+            {"id":11713, "colors":["white", "green"]},
+            {"id":11714, "colors":["white", "green"]},
+            {"id":11715, "colors":["white", "yellow"]},
+            {"id":11716, "colors":["white", "orange"]},
+            {"id":11717, "colors":["white", "red"]}
+        ], "criteria":{"type":"episode", "info":"22", "text":"Unlocked during episode 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11718, "zone":"waistToKnee", "category":"pants", "security":"d4e203da62904c0a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shorts",
+        "outfitName":"Summer Heat",
+        "variations":[
+            {"id":11718, "colors":["brown"]},
+            {"id":11719, "colors":["blue"]},
+            {"id":11720, "colors":["blue"]},
+            {"id":11721, "colors":["white"]},
+            {"id":11722, "colors":["pink"]},
+            {"id":11723, "colors":["purple"]},
+            {"id":11724, "colors":["yellow"]},
+            {"id":11725, "colors":["green"]},
+            {"id":11726, "colors":["red"]},
+            {"id":11727, "colors":["black"]}
+        ], "criteria":{"type":"episode", "info":"22", "text":"Unlocked during episode 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11668, "zone":"waistToKnee", "category":"skirt", "security":"763e6868db8bc052", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Skirt",
+        "outfitName":"Summer Breeze",
+        "variations":[
+            {"id":11668, "colors":["blue"]},
+            {"id":11669, "colors":["green"]},
+            {"id":11670, "colors":["purple"]},
+            {"id":11671, "colors":["pink"]},
+            {"id":11672, "colors":["yellow"]},
+            {"id":11673, "colors":["brown"]},
+            {"id":11674, "colors":["white"]},
+            {"id":11675, "colors":["black"]},
+            {"id":11676, "colors":["red"]},
+            {"id":11677, "colors":["orange"]}
+        ], "criteria":{"type":"episode", "info":"22", "text":"Unlocked during episode 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11658, "zone":"feet", "category":"shoes", "security":"b211fac3db881fac", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shoes",
+        "outfitName":"Summer Breeze",
+        "variations":[
+            {"id":11658, "colors":["blue"]},
+            {"id":11659, "colors":["green"]},
+            {"id":11660, "colors":["purple"]},
+            {"id":11661, "colors":["pink"]},
+            {"id":11662, "colors":["yellow"]},
+            {"id":11663, "colors":["brown"]},
+            {"id":11664, "colors":["white"]},
+            {"id":11665, "colors":["black"]},
+            {"id":11666, "colors":["red"]},
+            {"id":11667, "colors":["orange"]}
+        ], "criteria":{"type":"episode", "info":"22", "text":"Unlocked during episode 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11748, "zone":"feet", "category":"shoes", "security":"1d857e33ae5d361a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shoes",
+        "outfitName":"Summer Heat",
+        "variations":[
+            {"id":11748, "colors":["red"]},
+            {"id":11749, "colors":["white"]},
+            {"id":11750, "colors":["black"]},
+            {"id":11751, "colors":["pink"]},
+            {"id":11752, "colors":["purple"]},
+            {"id":11753, "colors":["blue"]},
+            {"id":11754, "colors":["green"]},
+            {"id":11755, "colors":["yellow"]},
+            {"id":11756, "colors":["brown"]},
+            {"id":11757, "colors":["red"]}
+        ], "criteria":{"type":"episode", "info":"22", "text":"Unlocked during episode 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11698, "zone":"arms", "category":"bag", "security":"5d6519f6aaf0557c", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Purse",
+        "outfitName":"Summer Breeze",
+        "variations":[
+            {"id":11698, "colors":["orange"]},
+            {"id":11699, "colors":["blue"]},
+            {"id":11700, "colors":["pink"]},
+            {"id":11701, "colors":["purple"]},
+            {"id":11702, "colors":["green"]},
+            {"id":11703, "colors":["white"]},
+            {"id":11704, "colors":["brown"]},
+            {"id":11705, "colors":["red"]},
+            {"id":11706, "colors":["black"]},
+            {"id":11707, "colors":["yellow"]}
+        ], "criteria":{"type":"episode", "info":"22", "text":"Unlocked during episode 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11678, "zone":"arms", "category":"armAccessory", "security":"08b90abfe100011a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bracelet",
+        "outfitName":"Summer Breeze",
+        "variations":[
+            {"id":11678, "colors":["orange"]},
+            {"id":11679, "colors":["blue"]},
+            {"id":11680, "colors":["pink"]},
+            {"id":11681, "colors":["purple"]},
+            {"id":11682, "colors":["green"]},
+            {"id":11683, "colors":["white"]},
+            {"id":11684, "colors":["brown"]},
+            {"id":11685, "colors":["red"]},
+            {"id":11686, "colors":["black"]},
+            {"id":11687, "colors":["yellow"]}
+        ], "criteria":{"type":"episode", "info":"22", "text":"Unlocked during episode 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11728, "zone":"arms", "category":"handNailPolish", "security":"5ae2af07195d0058", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Nail polish",
+        "outfitName":"Summer Heat",
+        "variations":[
+            {"id":11728, "colors":["red"]},
+            {"id":11729, "colors":["green"]},
+            {"id":11730, "colors":["black"]},
+            {"id":11731, "colors":["white"]},
+            {"id":11732, "colors":["purple"]},
+            {"id":11733, "colors":["green"]},
+            {"id":11734, "colors":["green"]},
+            {"id":11735, "colors":["yellow"]},
+            {"id":11736, "colors":["brown"]},
+            {"id":11737, "colors":["red"]}
+        ], "criteria":{"type":"episode", "info":"22", "text":"Unlocked during episode 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11688, "zone":"face", "category":"neckAccessory", "security":"c417c9c30df072b2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bracelet",
+        "outfitName":"Summer Breeze",
+        "variations":[
+            {"id":11688, "colors":["orange"]},
+            {"id":11689, "colors":["blue"]},
+            {"id":11690, "colors":["pink"]},
+            {"id":11691, "colors":["purple"]},
+            {"id":11692, "colors":["green"]},
+            {"id":11693, "colors":["white"]},
+            {"id":11694, "colors":["brown"]},
+            {"id":11695, "colors":["red"]},
+            {"id":11696, "colors":["black"]},
+            {"id":11697, "colors":["yellow"]}
+        ], "criteria":{"type":"episode", "info":"22", "text":"Unlocked during episode 22"},
+        "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11738, "zone":"head", "category":"earring", "security":"aa77f43215144009", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Earrings",
+        "outfitName":"Summer Heat",
+        "variations":[
+            {"id":11738, "colors":["yellow"]},
+            {"id":11739, "colors":["grey"]},
+            {"id":11740, "colors":["black"]},
+            {"id":11741, "colors":["pink"]},
+            {"id":11742, "colors":["purple"]},
+            {"id":11743, "colors":["blue"]},
+            {"id":11744, "colors":["green"]},
+            {"id":11745, "colors":["white"]},
+            {"id":11746, "colors":["brown"]},
+            {"id":11747, "colors":["red"]}
+        ], "criteria":{"type":"episode", "info":"22", "text":"Unlocked during episode 22"},
+        "releaseDate":"2025-12-05"
     }
 ]
