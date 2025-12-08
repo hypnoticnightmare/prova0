@@ -20547,7 +20547,7 @@
         "releaseDate":"2025-12-05"
     },
     {
-        "groupId":11758, "zone":"torso", "category":"jacket", "security":"c06b8c00105082d1", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":11758, "zone":"torso", "category":"jacket", "security":"c06b8c00105082d1", "multiLayered":true, "layerBehavior":"normal",
         "name":"Kimono",
         "outfitName":"Summer Heat",
         "variations":[
@@ -20761,5 +20761,365 @@
             {"id":11747, "colors":["red"]}
         ], "criteria":{"type":"episode", "info":"22", "text":"Unlocked during episode 22"},
         "releaseDate":"2025-12-05"
+    },
+    {
+        "groupId":11988, "zone":"torso", "category":"top", "security":"e5fef9d653465441", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Veil of the Scarab",
+        "variations":[
+            {"id":11988, "colors":["yellow"]},
+            {"id":11989, "colors":["grey"]},
+            {"id":11990, "colors":["black"]},
+            {"id":11991, "colors":["pink"]},
+            {"id":11992, "colors":["purple"]},
+            {"id":11993, "colors":["blue"]},
+            {"id":11994, "colors":["green"]},
+            {"id":11995, "colors":["white"]},
+            {"id":11996, "colors":["brown"]},
+            {"id":11997, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11898, "zone":"torso", "category":"top", "security":"b93c3b7367aa9b3b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Corset",
+        "outfitName":"Muse of the Moulin Rouge",
+        "variations":[
+            {"id":11898, "colors":["yellow"]},
+            {"id":11899, "colors":["grey"]},
+            {"id":11900, "colors":["black"]},
+            {"id":11901, "colors":["pink"]},
+            {"id":11902, "colors":["purple"]},
+            {"id":11903, "colors":["blue"]},
+            {"id":11904, "colors":["green"]},
+            {"id":11905, "colors":["white"]},
+            {"id":11906, "colors":["brown"]},
+            {"id":11907, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11998, "zone":"torso", "category":"jacket", "security":"c730448403571972", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Veil",
+        "outfitName":"Veil of the Scarab",
+        "variations":[
+            {"id":11998, "colors":["yellow"]},
+            {"id":11999, "colors":["grey"]},
+            {"id":12000, "colors":["black"]},
+            {"id":12001, "colors":["pink"]},
+            {"id":12002, "colors":["purple"]},
+            {"id":12003, "colors":["blue"]},
+            {"id":12004, "colors":["green"]},
+            {"id":12005, "colors":["white"]},
+            {"id":12006, "colors":["brown"]},
+            {"id":12007, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11938, "zone":"torso", "category":"jacket", "security":"80c716c5a58c0a05", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Feathers",
+        "outfitName":"Muse of the Moulin Rouge",
+        "variations":[
+            {"id":11938, "colors":["yellow"]},
+            {"id":11939, "colors":["grey"]},
+            {"id":11940, "colors":["black"]},
+            {"id":11941, "colors":["pink"]},
+            {"id":11942, "colors":["purple"]},
+            {"id":11943, "colors":["blue"]},
+            {"id":11944, "colors":["green"]},
+            {"id":11945, "colors":["white"]},
+            {"id":11946, "colors":["brown"]},
+            {"id":11947, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":12008, "zone":"torso_waistToKnee", "category":"belt", "security":"e05dd3454a6f9b20", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Belt",
+        "outfitName":"Veil of the Scarab",
+        "variations":[
+            {"id":12008, "colors":["yellow"]},
+            {"id":12009, "colors":["grey"]},
+            {"id":12010, "colors":["black"]},
+            {"id":12011, "colors":["pink"]},
+            {"id":12012, "colors":["purple"]},
+            {"id":12013, "colors":["blue"]},
+            {"id":12014, "colors":["green"]},
+            {"id":12015, "colors":["white"]},
+            {"id":12016, "colors":["brown"]},
+            {"id":12017, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11908, "zone":"torso_waistToKnee", "category":"belt", "security":"7283daa787138cb0", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Train",
+        "outfitName":"Muse of the Moulin Rouge",
+        "variations":[
+            {"id":11908, "colors":["yellow"]},
+            {"id":11909, "colors":["grey"]},
+            {"id":11910, "colors":["black"]},
+            {"id":11911, "colors":["pink"]},
+            {"id":11912, "colors":["purple"]},
+            {"id":11913, "colors":["blue"]},
+            {"id":11914, "colors":["green"]},
+            {"id":11915, "colors":["white"]},
+            {"id":11916, "colors":["brown"]},
+            {"id":11917, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11868, "zone":"torso_waistToKnee", "category":"underwear", "security":"47fe5803df455394", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Underwear",
+        "outfitName":"Muse of the Moulin Rouge",
+        "variations":[
+            {"id":11868, "colors":["yellow"]},
+            {"id":11869, "colors":["grey"]},
+            {"id":11870, "colors":["black"]},
+            {"id":11871, "colors":["pink"]},
+            {"id":11872, "colors":["purple"]},
+            {"id":11873, "colors":["blue"]},
+            {"id":11874, "colors":["green"]},
+            {"id":11875, "colors":["white"]},
+            {"id":11876, "colors":["brown"]},
+            {"id":11877, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11968, "zone":"waistToKnee", "category":"skirt", "security":"8fe03443caad8094", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Skirt",
+        "outfitName":"Veil of the Scarab",
+        "variations":[
+            {"id":11968, "colors":["yellow"]},
+            {"id":11969, "colors":["grey"]},
+            {"id":11970, "colors":["black"]},
+            {"id":11971, "colors":["pink"]},
+            {"id":11972, "colors":["purple"]},
+            {"id":11973, "colors":["blue"]},
+            {"id":11974, "colors":["green"]},
+            {"id":11975, "colors":["white"]},
+            {"id":11976, "colors":["brown"]},
+            {"id":11977, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11958, "zone":"feet", "category":"shoes", "security":"280faa9964ce573c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shoes",
+        "outfitName":"Veil of the Scarab",
+        "variations":[
+            {"id":11958, "colors":["yellow"]},
+            {"id":11959, "colors":["grey"]},
+            {"id":11960, "colors":["black"]},
+            {"id":11961, "colors":["pink"]},
+            {"id":11962, "colors":["purple"]},
+            {"id":11963, "colors":["blue"]},
+            {"id":11964, "colors":["green"]},
+            {"id":11965, "colors":["white"]},
+            {"id":11966, "colors":["brown"]},
+            {"id":11967, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11878, "zone":"feet", "category":"shoes", "security":"9c49b7a746a29b21", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shoes",
+        "outfitName":"Muse of the Mouline Rouge",
+        "variations":[
+            {"id":11878, "colors":["yellow"]},
+            {"id":11879, "colors":["grey"]},
+            {"id":11880, "colors":["black"]},
+            {"id":11881, "colors":["pink"]},
+            {"id":11882, "colors":["purple"]},
+            {"id":11883, "colors":["blue"]},
+            {"id":11884, "colors":["green"]},
+            {"id":11885, "colors":["white"]},
+            {"id":11886, "colors":["brown"]},
+            {"id":11887, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11858, "zone":"feet", "category":"socks", "security":"d49e990005b1f0b4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shoes",
+        "outfitName":"Muse of the Mouline Rouge",
+        "variations":[
+            {"id":11858, "colors":["yellow"]},
+            {"id":11859, "colors":["grey"]},
+            {"id":11860, "colors":["black"]},
+            {"id":11861, "colors":["pink"]},
+            {"id":11862, "colors":["purple"]},
+            {"id":11863, "colors":["blue"]},
+            {"id":11864, "colors":["green"]},
+            {"id":11865, "colors":["white"]},
+            {"id":11866, "colors":["brown"]},
+            {"id":11867, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11888, "zone":"arms", "category":"gloves", "security":"68d01721cee5f3e3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gloves",
+        "outfitName":"Muse of the Mouline Rouge",
+        "variations":[
+            {"id":11888, "colors":["yellow"]},
+            {"id":11889, "colors":["grey"]},
+            {"id":11890, "colors":["black"]},
+            {"id":11891, "colors":["pink"]},
+            {"id":11892, "colors":["purple"]},
+            {"id":11893, "colors":["blue"]},
+            {"id":11894, "colors":["green"]},
+            {"id":11895, "colors":["white"]},
+            {"id":11896, "colors":["brown"]},
+            {"id":11897, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11978, "zone":"arms", "category":"armAccessory", "security":"f1126a2a16d69c8b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bracelets",
+        "outfitName":"Veil of the Scarab",
+        "variations":[
+            {"id":11978, "colors":["yellow"]},
+            {"id":11979, "colors":["grey"]},
+            {"id":11980, "colors":["black"]},
+            {"id":11981, "colors":["pink"]},
+            {"id":11982, "colors":["purple"]},
+            {"id":11983, "colors":["blue"]},
+            {"id":11984, "colors":["green"]},
+            {"id":11985, "colors":["white"]},
+            {"id":11986, "colors":["brown"]},
+            {"id":11987, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":12018, "zone":"face", "category":"neckAccessory", "security":"d0f110e8c7fe874c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Necklace",
+        "outfitName":"Veil of the Scarab",
+        "variations":[
+            {"id":12018, "colors":["yellow"]},
+            {"id":12019, "colors":["grey"]},
+            {"id":12020, "colors":["black"]},
+            {"id":12021, "colors":["pink"]},
+            {"id":12022, "colors":["purple"]},
+            {"id":12023, "colors":["blue"]},
+            {"id":12024, "colors":["green"]},
+            {"id":12025, "colors":["white"]},
+            {"id":12026, "colors":["brown"]},
+            {"id":12027, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11918, "zone":"face", "category":"neckAccessory", "security":"c78a8875796ba623", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Necklace",
+        "outfitName":"Muse of the Moulin Rouge",
+        "variations":[
+            {"id":11918, "colors":["yellow"]},
+            {"id":11919, "colors":["grey"]},
+            {"id":11920, "colors":["black"]},
+            {"id":11921, "colors":["pink"]},
+            {"id":11922, "colors":["purple"]},
+            {"id":11923, "colors":["blue"]},
+            {"id":11924, "colors":["green"]},
+            {"id":11925, "colors":["white"]},
+            {"id":11926, "colors":["brown"]},
+            {"id":11927, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":12048, "zone":"head", "category":"hat", "security":"bcddcacc720d70b1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Headdress",
+        "outfitName":"Veil of the Scarab",
+        "variations":[
+            {"id":12048, "colors":["yellow"]},
+            {"id":12049, "colors":["grey"]},
+            {"id":12050, "colors":["black"]},
+            {"id":12051, "colors":["pink"]},
+            {"id":12052, "colors":["purple"]},
+            {"id":12053, "colors":["blue"]},
+            {"id":12054, "colors":["green"]},
+            {"id":12055, "colors":["white"]},
+            {"id":12056, "colors":["brown"]},
+            {"id":12057, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11948, "zone":"head", "category":"hat", "security":"a1081db8693c39da", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Headdress",
+        "outfitName":"Muse of the Moulin Rouge",
+        "variations":[
+            {"id":11948, "colors":["yellow"]},
+            {"id":11949, "colors":["grey"]},
+            {"id":11950, "colors":["black"]},
+            {"id":11951, "colors":["pink"]},
+            {"id":11952, "colors":["purple"]},
+            {"id":11953, "colors":["blue"]},
+            {"id":11954, "colors":["green"]},
+            {"id":11955, "colors":["white"]},
+            {"id":11956, "colors":["brown"]},
+            {"id":11957, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":12038, "zone":"head", "category":"wig", "security":"381548a82deafbfb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Wig",
+        "outfitName":"Veil of the Scarab",
+        "variations":[
+            {"id":12038, "colors":["yellow"]},
+            {"id":12039, "colors":["grey"]},
+            {"id":12040, "colors":["black"]},
+            {"id":12041, "colors":["pink"]},
+            {"id":12042, "colors":["purple"]},
+            {"id":12043, "colors":["blue"]},
+            {"id":12044, "colors":["green"]},
+            {"id":12045, "colors":["white"]},
+            {"id":12046, "colors":["brown"]},
+            {"id":12047, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":11928, "zone":"head", "category":"wig", "security":"ed2a90035886fa49", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Wig",
+        "outfitName":"Muse of the Moulin Rouge",
+        "variations":[
+            {"id":11928, "colors":["yellow"]},
+            {"id":11929, "colors":["grey"]},
+            {"id":11930, "colors":["black"]},
+            {"id":11931, "colors":["pink"]},
+            {"id":11932, "colors":["purple"]},
+            {"id":11933, "colors":["blue"]},
+            {"id":11934, "colors":["green"]},
+            {"id":11935, "colors":["white"]},
+            {"id":11936, "colors":["brown"]},
+            {"id":11937, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
+    },
+    {
+        "groupId":12028, "zone":"head", "category":"earring", "security":"e6eb096e53ded3be", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Earrings",
+        "outfitName":"Veil of the Scarab",
+        "variations":[
+            {"id":12028, "colors":["yellow"]},
+            {"id":12029, "colors":["grey"]},
+            {"id":12030, "colors":["black"]},
+            {"id":12031, "colors":["pink"]},
+            {"id":12032, "colors":["purple"]},
+            {"id":12033, "colors":["blue"]},
+            {"id":12034, "colors":["green"]},
+            {"id":12035, "colors":["white"]},
+            {"id":12036, "colors":["brown"]},
+            {"id":12037, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-12-08"
     }
 ]
