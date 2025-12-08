@@ -20817,7 +20817,7 @@
         "releaseDate":"2025-12-08"
     },
     {
-        "groupId":11938, "zone":"torso", "category":"jacket", "security":"80c716c5a58c0a05", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":11938, "zone":"torso", "category":"jacket", "security":"80c716c5a58c0a05", "multiLayered":true, "layerBehavior":"backInFront",
         "name":"Feathers",
         "outfitName":"Muse of the Moulin Rouge",
         "variations":[
