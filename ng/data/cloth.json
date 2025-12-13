@@ -20871,7 +20871,7 @@
         "releaseDate":"2025-12-08"
     },
     {
-        "groupId":11868, "zone":"torso_waistToKnee", "category":"underwear", "security":"47fe5803df455394", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":11868, "zone":"torso_waistToKnee", "category":"underwear", "security":"47fe5803df455394", "multiLayered":false, "layerBehavior":"normal",
         "name":"Underwear",
         "outfitName":"Muse of the Moulin Rouge",
         "variations":[
