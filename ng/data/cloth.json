@@ -21231,20 +21231,20 @@
         "releaseDate":"2025-12-19"
     },
     {
-        "groupId":12228, "zone":"waistToKnee", "category":"skirt", "security":"d3160a3ade8d93ac", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":12228, "zone":"waistToKnee", "category":"skirt", "security":"d3160a3ade8d93ac", "multiLayered":true, "layerBehavior":"normal",
         "name":"Skirt",
         "outfitName":"Gilded Merriment",
         "variations":[
-            {"id":12158, "colors":["white"]},
-            {"id":12159, "colors":["green"]},
-            {"id":12160, "colors":["brown"]},
-            {"id":12161, "colors":["blue"]},
-            {"id":12162, "colors":["grey"]},
-            {"id":12163, "colors":["black"]},
-            {"id":12164, "colors":["red"]},
-            {"id":12165, "colors":["yellow"]},
-            {"id":12166, "colors":["pink"]},
-            {"id":12167, "colors":["purple"]}
+            {"id":12228, "colors":["white"]},
+            {"id":12229, "colors":["green"]},
+            {"id":12230, "colors":["brown"]},
+            {"id":12231, "colors":["blue"]},
+            {"id":12232, "colors":["grey"]},
+            {"id":12233, "colors":["black"]},
+            {"id":12234, "colors":["red"]},
+            {"id":12235, "colors":["yellow"]},
+            {"id":12236, "colors":["pink"]},
+            {"id":12237, "colors":["purple"]}
         ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Unlocked during the \nChristmas 2025 event"},
         "releaseDate":"2025-12-19"
     },
