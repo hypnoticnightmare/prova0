@@ -21231,7 +21231,7 @@
         "releaseDate":"2025-12-19"
     },
     {
-        "groupId":12228, "zone":"waistToKnee", "category":"skirt", "security":"d3160a3ade8d93ac", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":12228, "zone":"waistToKnee", "category":"skirt", "security":"d3160a3ade8d93ac", "multiLayered":true, "layerBehavior":"backInFront",
         "name":"Skirt",
         "outfitName":"Gilded Merriment",
         "variations":[
