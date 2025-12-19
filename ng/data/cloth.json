@@ -21505,17 +21505,35 @@
         "name":"Skin",
         "outfitName":"Frost's Harbinger",
         "variations":[
-            {"id":12279, "colors":["white"]},
-            {"id":12280, "colors":["white"]},
-            {"id":12281, "colors":["white"]},
-            {"id":12282, "colors":["brown"]},
-            {"id":12283, "colors":["brown"]},
-            {"id":12284, "colors":["brown"]},
-            {"id":12285, "colors":["black"]},
-            {"id":12286, "colors":["blue"]},
-            {"id":12287, "colors":["white"]},
-            {"id":12288, "colors":["purple"]}
+            {"id":12279, "colors":["blue","white"]},
+            {"id":12278, "colors":["blue","white"], "va riationNumber":2},
+            {"id":12280, "colors":["blue","white"], "va riationNumber":3},
+            {"id":12281, "colors":["blue","brown"], "va riationNumber":4},
+            {"id":12282, "colors":["blue","brown"], "va riationNumber":5},
+            {"id":12283, "colors":["blue","white","brown"], "va riationNumber":6},
+            {"id":12284, "colors":["blue","brown"], "va riationNumber":7},
+            {"id":12285, "colors":["blue"], "va riationNumber":8},
+            {"id":12286, "colors":["white"], "va riationNumber":9},
+            {"id":12287, "colors":["blue"], "va riationNumber":10}
         ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Unlocked during the \nChristmas 2025 event"},
+        "releaseDate":"2025-12-19"
+    },
+    {
+        "groupId":12298, "zone":"feet", "category":"footNailPolish", "security":"a1ec33268800a8e9", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Garras",
+        "outfitName":"Frost's Harbinger",
+        "variations":[
+            {"id":12298, "colors":["white"]},
+            {"id":12299, "colors":["green"]},
+            {"id":12300, "colors":["green"]},
+            {"id":12301, "colors":["brown"]},
+            {"id":12302, "colors":["yellow"]},
+            {"id":12303, "colors":["black"]},
+            {"id":12304, "colors":["blue"]},
+            {"id":12305, "colors":["red"]},
+            {"id":12306, "colors":["pink"]},
+            {"id":12307, "colors":["purple"]}
+        ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"},
         "releaseDate":"2025-12-19"
     },
     {
