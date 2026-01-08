@@ -21798,7 +21798,7 @@
         "releaseDate":"2026-01-07"
     },
     {
-        "groupId":12419, "zone":"head", "category":"wig", "security":"60503a796a8ad2cb", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":12419, "zone":"head", "category":"wig", "security":"60503a796a8ad2cb", "multiLayered":true, "layerBehavior":"backInFront",
         "name":"Wig",
         "outfitName":"Taki's Treasured Gift",
         "variations":[
