@@ -21744,7 +21744,7 @@
         "releaseDate":"2026-01-07"
     },
     {
-        "groupId":12399, "zone":"feet", "category":"shoes", "security":"7eb9468741ebd679", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":12399, "zone":"feet", "category":"shoes", "security":"7eb9468741ebd674", "multiLayered":true, "layerBehavior":"normal",
         "name":"Boots",
         "outfitName":"Taki's Treasured Gift",
         "variations":[
@@ -21817,7 +21817,7 @@
     },
 
     {
-        "groupId":12499, "zone":"torso", "category":"jacket", "security":"efa1b362550dffc0", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":12499, "zone":"torso", "category":"jacket", "security":"efa1b362550dffc0", "multiLayered":true, "layerBehavior":"backInFront",
         "name":"Feathers",
         "outfitName":"Feathers of Paradise",
         "variations":[
@@ -21835,7 +21835,7 @@
         "releaseDate":"2026-01-07"
     },
     {
-        "groupId":12449, "zone":"torso", "category":"jacket", "security":"dcfbe92efe9c45b0", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":12449, "zone":"torso", "category":"jacket", "security":"dcfbe92efe9c45b0", "multiLayered":true, "layerBehavior":"backInFront",
         "name":"Feathers",
         "outfitName":"Feathers of Paradise",
         "variations":[
@@ -21853,7 +21853,7 @@
         "releaseDate":"2026-01-07"
     },
     {
-        "groupId":12439, "zone":"torso_waistToKnee", "category":"waist", "security":"00dd4e39698ce970", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":12439, "zone":"torso_waistToKnee", "category":"waist", "security":"00dd4e39698ce970", "multiLayered":true, "layerBehavior":"backInFront",
         "name":"Feathers",
         "outfitName":"Feathers of Paradise",
         "variations":[
