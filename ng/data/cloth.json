@@ -21724,5 +21724,258 @@
             {"id":12067, "colors":["blue"]}
         ], "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado durante el evento\nNavidad 2025"},
         "releaseDate":"2025-12-12"
+    },
+    {
+        "groupId":12389, "zone":"torso_waistToKnee", "category":"dress", "security":"606dc37e1bddbbe9", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Dress",
+        "outfitName":"Taki's Treasured Gift",
+        "variations":[
+            {"id":12389, "colors":["brown"]},
+            {"id":12390, "colors":["grey"]},
+            {"id":12391, "colors":["white"]},
+            {"id":12392, "colors":["black"]},
+            {"id":12393, "colors":["purple"]},
+            {"id":12394, "colors":["green"]},
+            {"id":12395, "colors":["red"]},
+            {"id":12396, "colors":["pink"]},
+            {"id":12397, "colors":["yellow"]},
+            {"id":12398, "colors":["green"]}
+        ], "criteria":null,
+        "releaseDate":"2026-01-07"
+    },
+    {
+        "groupId":12399, "zone":"feet", "category":"shoes", "security":"7eb9468741ebd679", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Boots",
+        "outfitName":"Taki's Treasured Gift",
+        "variations":[
+            {"id":12399, "colors":["brown"]},
+            {"id":12400, "colors":["grey"]},
+            {"id":12401, "colors":["white"]},
+            {"id":12402, "colors":["black"]},
+            {"id":12403, "colors":["purple"]},
+            {"id":12404, "colors":["green"]},
+            {"id":12405, "colors":["red"]},
+            {"id":12406, "colors":["pink"]},
+            {"id":12407, "colors":["yellow"]},
+            {"id":12408, "colors":["green"]}
+        ], "criteria":null,
+        "releaseDate":"2026-01-07"
+    },
+    {
+        "groupId":12409, "zone":"face", "category":"neckAccessory", "security":"8bd27e81aeba544f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Scarf",
+        "outfitName":"Taki's Treasured Gift",
+        "variations":[
+            {"id":12409, "colors":["brown"]},
+            {"id":12410, "colors":["grey"]},
+            {"id":12411, "colors":["white"]},
+            {"id":12412, "colors":["black"]},
+            {"id":12413, "colors":["purple"]},
+            {"id":12414, "colors":["green"]},
+            {"id":12415, "colors":["red"]},
+            {"id":12416, "colors":["pink"]},
+            {"id":12417, "colors":["yellow"]},
+            {"id":12418, "colors":["green"]}
+        ], "criteria":null,
+        "releaseDate":"2026-01-07"
+    },
+    {
+        "groupId":12429, "zone":"head", "category":"hat", "security":"bd8e44df9113a989", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Ear Muffs",
+        "outfitName":"Taki's Treasured Gift",
+        "variations":[
+            {"id":12429, "colors":["brown"]},
+            {"id":12430, "colors":["grey"]},
+            {"id":12431, "colors":["white"]},
+            {"id":12432, "colors":["black"]},
+            {"id":12433, "colors":["purple"]},
+            {"id":12434, "colors":["green"]},
+            {"id":12435, "colors":["red"]},
+            {"id":12436, "colors":["pink"]},
+            {"id":12437, "colors":["yellow"]},
+            {"id":12438, "colors":["green"]}
+        ], "criteria":null,
+        "releaseDate":"2026-01-07"
+    },
+    {
+        "groupId":12419, "zone":"head", "category":"wig", "security":"60503a796a8ad2cb", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Wig",
+        "outfitName":"Taki's Treasured Gift",
+        "variations":[
+            {"id":12419, "colors":["brown"]},
+            {"id":12420, "colors":["white"]},
+            {"id":12421, "colors":["black"]},
+            {"id":12422, "colors":["blue"]},
+            {"id":12423, "colors":["green"]},
+            {"id":12424, "colors":["purple"]},
+            {"id":12425, "colors":["red"]},
+            {"id":12426, "colors":["yellow"]},
+            {"id":12427, "colors":["orange"]},
+            {"id":12428, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2026-01-07"
+    },
+
+    {
+        "groupId":12499, "zone":"torso", "category":"jacket", "security":"efa1b362550dffc0", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Feathers",
+        "outfitName":"Feathers of Paradise",
+        "variations":[
+            {"id":12499, "colors":["green", "blue"]},
+            {"id":12500, "colors":["green", "yellow"]},
+            {"id":12501, "colors":["yellow"]},
+            {"id":12502, "colors":["white", "yellow"]},
+            {"id":12503, "colors":["purple"]},
+            {"id":12504, "colors":["black"]},
+            {"id":12505, "colors":["red"]},
+            {"id":12506, "colors":["blue"]},
+            {"id":12507, "colors":["green"]},
+            {"id":12508, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Feathers of Paradise Outfit", "text":"Unlocked during the meter event\nFeathers of Paradise Outfit"},
+        "releaseDate":"2026-01-07"
+    },
+    {
+        "groupId":12449, "zone":"torso", "category":"jacket", "security":"dcfbe92efe9c45b0", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Feathers",
+        "outfitName":"Feathers of Paradise",
+        "variations":[
+            {"id":12449, "colors":["green"]},
+            {"id":12450, "colors":["red"]},
+            {"id":12451, "colors":["blue"]},
+            {"id":12452, "colors":["white"]},
+            {"id":12453, "colors":["pink"]},
+            {"id":12454, "colors":["black"]},
+            {"id":12455, "colors":["yellow"]},
+            {"id":12456, "colors":["purple"]},
+            {"id":12457, "colors":["blue"]},
+            {"id":12458, "colors":["green"]}
+        ], "criteria":{"type":"gauge", "info":"Feathers of Paradise Outfit", "text":"Unlocked during the meter event\nFeathers of Paradise Outfit"},
+        "releaseDate":"2026-01-07"
+    },
+    {
+        "groupId":12439, "zone":"torso_waistToKnee", "category":"waist", "security":"00dd4e39698ce970", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Feathers",
+        "outfitName":"Feathers of Paradise",
+        "variations":[
+            {"id":12439, "colors":["green"]},
+            {"id":12440, "colors":["red"]},
+            {"id":12441, "colors":["blue"]},
+            {"id":12442, "colors":["white"]},
+            {"id":12443, "colors":["pink"]},
+            {"id":12444, "colors":["black"]},
+            {"id":12445, "colors":["yellow"]},
+            {"id":12446, "colors":["purple"]},
+            {"id":12447, "colors":["blue"]},
+            {"id":12448, "colors":["green"]}
+        ], "criteria":{"type":"gauge", "info":"Feathers of Paradise Outfit", "text":"Unlocked during the meter event\nFeathers of Paradise Outfit"},
+        "releaseDate":"2026-01-07"
+    },
+    {
+        "groupId":12469, "zone":"torso_waistToKnee", "category":"underwear", "security":"9a5dd174c8c98b14", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Body Blouse",
+        "outfitName":"Feathers of Paradise",
+        "variations":[
+            {"id":12469, "colors":["green"]},
+            {"id":12470, "colors":["red"]},
+            {"id":12471, "colors":["blue"]},
+            {"id":12472, "colors":["white"]},
+            {"id":12473, "colors":["pink"]},
+            {"id":12474, "colors":["black"]},
+            {"id":12475, "colors":["yellow"]},
+            {"id":12476, "colors":["purple"]},
+            {"id":12477, "colors":["blue"]},
+            {"id":12478, "colors":["green"]}
+        ], "criteria":{"type":"gauge", "info":"Feathers of Paradise Outfit", "text":"Unlocked during the meter event\nFeathers of Paradise Outfit"},
+        "releaseDate":"2026-01-07"
+    },
+    {
+        "groupId":12459, "zone":"feet", "category":"shoes", "security":"a0206cce44811b10", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sandals",
+        "outfitName":"Feathers of Paradise",
+        "variations":[
+            {"id":12459, "colors":["white"]},
+            {"id":12460, "colors":["red"]},
+            {"id":12461, "colors":["blue"]},
+            {"id":12462, "colors":["yellow"]},
+            {"id":12463, "colors":["pink"]},
+            {"id":12464, "colors":["black"]},
+            {"id":12465, "colors":["brown"]},
+            {"id":12466, "colors":["purple"]},
+            {"id":12467, "colors":["green"]},
+            {"id":12468, "colors":["green"]}
+        ], "criteria":{"type":"gauge", "info":"Feathers of Paradise Outfit", "text":"Unlocked during the meter event\nFeathers of Paradise Outfit"},
+        "releaseDate":"2026-01-07"
+    },
+    {
+        "groupId":12479, "zone":"feet", "category":"legAccessory", "security":"e30eb68968aac92c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Jewelry",
+        "outfitName":"Feathers of Paradise",
+        "variations":[
+            {"id":12479, "colors":["white"]},
+            {"id":12480, "colors":["red"]},
+            {"id":12481, "colors":["blue"]},
+            {"id":12482, "colors":["yellow"]},
+            {"id":12483, "colors":["pink"]},
+            {"id":12484, "colors":["black"]},
+            {"id":12485, "colors":["brown"]},
+            {"id":12486, "colors":["purple"]},
+            {"id":12487, "colors":["green"]},
+            {"id":12488, "colors":["green"]}
+        ], "criteria":{"type":"gauge", "info":"Feathers of Paradise Outfit", "text":"Unlocked during the meter event\nFeathers of Paradise Outfit"},
+        "releaseDate":"2026-01-07"
+    },
+    {
+        "groupId":12489, "zone":"arms", "category":"armAccessory", "security":"137af2888a3c9e11", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Jewelry",
+        "outfitName":"Feathers of Paradise",
+        "variations":[
+            {"id":12489, "colors":["white"]},
+            {"id":12490, "colors":["red"]},
+            {"id":12491, "colors":["blue"]},
+            {"id":12492, "colors":["yellow"]},
+            {"id":12493, "colors":["pink"]},
+            {"id":12494, "colors":["black"]},
+            {"id":12495, "colors":["brown"]},
+            {"id":12496, "colors":["purple"]},
+            {"id":12497, "colors":["green"]},
+            {"id":12498, "colors":["green"]}
+        ], "criteria":{"type":"gauge", "info":"Feathers of Paradise Outfit", "text":"Unlocked during the meter event\nFeathers of Paradise Outfit"},
+        "releaseDate":"2026-01-07"
+    },
+    {
+        "groupId":12519, "zone":"head", "category":"hat", "security":"9e1499923f591875", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Headdress",
+        "outfitName":"Feathers of Paradise",
+        "variations":[
+            {"id":12519, "colors":["white"]},
+            {"id":12520, "colors":["red"]},
+            {"id":12521, "colors":["blue"]},
+            {"id":12522, "colors":["yellow"]},
+            {"id":12523, "colors":["pink"]},
+            {"id":12524, "colors":["black"]},
+            {"id":12525, "colors":["brown"]},
+            {"id":12526, "colors":["purple"]},
+            {"id":12527, "colors":["green"]},
+            {"id":12528, "colors":["green"]}
+        ], "criteria":{"type":"gauge", "info":"Feathers of Paradise Outfit", "text":"Unlocked during the meter event\nFeathers of Paradise Outfit"},
+        "releaseDate":"2026-01-07"
+    },
+    {
+        "groupId":12509, "zone":"head", "category":"wig", "security":"e54b5f596209a15f", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Wig",
+        "outfitName":"Feathers of Paradise",
+        "variations":[
+            {"id":12509, "colors":["brown"]},
+            {"id":12510, "colors":["white"]},
+            {"id":12511, "colors":["black"]},
+            {"id":12512, "colors":["blue"]},
+            {"id":12513, "colors":["green"]},
+            {"id":12514, "colors":["purple"]},
+            {"id":12515, "colors":["red"]},
+            {"id":12516, "colors":["yellow"]},
+            {"id":12517, "colors":["orange"]},
+            {"id":12518, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Feathers of Paradise Outfit", "text":"Unlocked during the meter event\nFeathers of Paradise Outfit"},
+        "releaseDate":"2026-01-07"
     }
 ]
