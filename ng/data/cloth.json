@@ -20520,7 +20520,7 @@
         "releaseDate":"2025-12-05"
     },
     {
-        "groupId":1760, "zone":"general", "category":"other", "security":"5565b2b0db77bcec", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":1760, "zone":"general", "category":"other", "security":"5565b2b0db77bcec", "multiLayered":true, "layerBehavior":"normal",
         "name":"Flowery ground",
         "outfitName":"Flowerly",
         "variations":[
@@ -20538,7 +20538,7 @@
         "releaseDate":"2025-12-05"
     },
     {
-        "groupId":3433, "zone":"general", "category":"other", "security":"8049558759d47422", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":3433, "zone":"general", "category":"other", "security":"8049558759d47422", "multiLayered":true, "layerBehavior":"normal",
         "name":"Rain",
         "outfitName":"Playing in the rain",
         "variations":[
