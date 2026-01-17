@@ -20524,26 +20524,26 @@
         "name":"Flowery ground",
         "outfitName":"Flowerly",
         "variations":[
-            {"id":1609, "colors":["white", "pink"]},
-            {"id":1610, "colors":["purple"]},
-            {"id":1611, "colors":["blue"]},
-            {"id":1612, "colors":["white", "blue"]},
-            {"id":1613, "colors":["white", "orange"]},
-            {"id":1614, "colors":["black", "red"]},
-            {"id":1615, "colors":["brown"]},
-            {"id":1616, "colors":["green"]},
-            {"id":1617, "colors":["yellow", "orange"]},
-            {"id":1618, "colors":["red", "purple"]}
-        ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Unlocked after playing episode 22"},
+            {"id":1760, "colors":["undefined"]},
+            {"id":1761, "colors":["undefined"]},
+            {"id":1762, "colors":["undefined"]},
+            {"id":1763, "colors":["undefined"]},
+            {"id":1764, "colors":["undefined"]},
+            {"id":1765, "colors":["undefined"]},
+            {"id":1766, "colors":["undefined"]},
+            {"id":1767, "colors":["undefined"]},
+            {"id":1768, "colors":["undefined"]},
+            {"id":1769, "colors":["undefined"]}
+        ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"},
         "releaseDate":"2025-12-05"
     },
     {
-        "groupId":3433, "zone":"general", "category":"other", "security":"8049558759d47422", "multiLayered":true, "layerBehavior":"normal",
+        "groupId":3433, "zone":"general", "category":"other", "security":"8049558759d47422", "multiLayered":false, "layerBehavior":"normal",
         "name":"Rain",
-        "outfitName":"Playing in the rain",
+        "outfitName":"Playing In The Rain",
         "variations":[
-            {"id":1609, "colors":["blue"]}
-         ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Unlocked after playing episode 22"},
+            {"id":3433, "colors":["undefined"]}
+        ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"},
         "releaseDate":"2025-12-05"
     },
     {
