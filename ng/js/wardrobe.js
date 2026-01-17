@@ -23,6 +23,7 @@ $(document).ready(function() {
                         checkAndGetTempCode();
                         codeUpdate();
                         currentPage("wardrobe");
+                        fillRoomList();
                         // tempWM("load");
                     });
                 });
@@ -52,7 +53,6 @@ async function tempWM(type) {
     };
 };
 
-
 async function codeUpdate() {
     $(".eye-color .color").removeClass("equipped");
     $(`.eye-color .color[data-color=${sucrette.avatar.eyesColor}]`).addClass("equipped");
@@ -70,74 +70,6 @@ async function codeUpdate() {
     drawPet();
 }
 
-
-// ▼▼ SOSTITUISCI LA FUNZIONE DALLA RIGA 65 ALLA 136 CON QUESTA ▼▼
-async function drawCrush(save = false) {
-    let item = sucrette.crush.outfit;
-    let ctx = !save ? document.getElementById("crush-canvas").getContext("2d") : document.getElementById("save-canvas").getContext("2d");
-    let w = 1200, h = 1550;
-    
-    if (save) {
-        w = document.getElementById("save-canvas").getAttribute("width");
-        // Se stiamo salvando la versione "Ritratto" (face), non disegnare il crush
-        if (w == 1920) {
-            return; // Esce dalla funzione
-        }
-    }
-
-    // Pulisci sempre il canvas
-    if (!save) {
-        ctx.clearRect(0, 0, w, h);
-    }
-
-    // Se non c'è nessun crush selezionato, esci
-    if (item == null) {
-        return;
-    }
-
-    // --- Inizio Logica Corretta (Versione Definitiva) ---
-
-    // 1. Trova i dati del crush dall'array globale 'crush'
-    let itemID = item.split("-")[0];
-    let itemSec = item.split("-")[1];
-    let crushData = crush.find(c => c.id == itemID && c.security == itemSec);
-
-    // Se per qualche motivo non troviamo i dati, usciamo
-    if (!crushData) {
-        console.error("Dati crush non trovati per:", item);
-        return;
-    }
-
-    // 2. Definisci i "nuovi" crush (in minuscolo per il confronto)
-    //    (Questo è GIÀ CORRETTO nel tuo file)
-    const newCrushes = ["danica", "brune", "elenda"];
-
-    // 3. Carica l'immagine
-    let imgUrl = !save ? composeCrushUrl(itemID, itemSec) : composeCrushUrl(itemID, itemSec, "full", "hd");
-    let ready = await preloadIMG(imgUrl);
-
-    // 4. Decidi COME disegnarla
-    if (crushData.crushName && newCrushes.includes(crushData.crushName.toLowerCase())) {
-        
-        // ### NUOVA LOGICA (PER IMMAGINI CENTRATE 1200x1550) ###
-        
-        let y = 0; // Allinea in alto
-
-        // CORREZIONE 1: Sposta l'immagine molto a sinistra
-        let x = -500; // Prova -350. Se non appaiono, prova -400 o -300.
-
-        // CORREZIONE 2: Disegna l'immagine a grandezza intera (w, h)
-        ctx.drawImage(ready, x, y, w, h); 
-
-    } else {
-        // ### VECCHIA LOGICA (PER JASON, ECC.) ###
-        // Asset 1200x1550 pre-composto (personaggio già a lato).
-        ctx.drawImage(ready, 0, 0, w, h);
-    }
-}
-// ▲▲ FINE DEL BLOCCO DA SOSTITUIRE ▲▲
-
-
 async function drawCategory(c = "top", declination = null) {
     
     // filters ?
@@ -146,10 +78,16 @@ async function drawCategory(c = "top", declination = null) {
 
     let lista = [], type = "cloth";
     if (search != "") {
-        c = "auto";
+        // c = "auto";
         search = normalize(search).toLowerCase();
         // so sloooooooow
-        lista = cloth.filter(v => {return v.outfitName != null && (normalize(v.outfitName).toLowerCase()).includes(search)});
+        let avF1 = avatar.collections.eyebrows.filter(v => {return v.outfitName != null && (normalize(v.outfitName).toLowerCase()).includes(search)});
+        let avF2 = avatar.collections.eyes.filter(v => {return v.outfitName != null && (normalize(v.outfitName).toLowerCase()).includes(search)});
+        let avF3 = avatar.collections.mouth.filter(v => {return v.outfitName != null && (normalize(v.outfitName).toLowerCase()).includes(search)});
+        let avF4 = cloth.filter(v => {return v.outfitName != null && (normalize(v.outfitName).toLowerCase()).includes(search)});
+        lista = avF1.concat(avF2,avF3,avF4);
+
+        // lista = cloth.filter(v => {return v.outfitName != null && (normalize(v.outfitName).toLowerCase()).includes(search)});
     } else {
         lista = cloth.filter(v => {return v.category == c});
     }
@@ -179,8 +117,16 @@ async function drawCategory(c = "top", declination = null) {
             // General grouped list
     
             for (i = 0; i < lista.length; i++) {
+                    // check type(c) != "auto"
+                    c = lista[i].category;
+                    if (lista[i].category == "eyebrows" || lista[i].category == "eyes" || lista[i].category == "mouth") {
+                        type = lista[i].category;
+                    } else {
+                        type = "cloth";
+                    };
+
                 if (lista[i].variations.length > 1) {
-                    $("#asng-avatar-item-list-panel .items-container").append(`<div class="asng-cloth grouped" data-item="${lista[i].groupId}-${lista[i].variations[0].id}"></div>`);
+                    $("#asng-avatar-item-list-panel .items-container").append(`<div class="asng-cloth grouped" data-category="${lista[i].category}" data-item="${lista[i].groupId}-${lista[i].variations[0].id}"></div>`);
                     $(".asng-cloth").eq(i)
                     .append('<img src="assets/personalization/hanger.png" class="hanger" />')
                     .append('<div class="group" tooltipplacement="bottom" tooltippanelclass="asng-dressing-item-tooltip"></div>');
@@ -1231,7 +1177,24 @@ function drawCrushPortraits() {
 
     moveScroll(".crush-portraits .ss-content", "reset");
 };
-    
+
+async function drawCrush(save = false) {
+
+    let item = sucrette.crush.outfit;
+    let ctx = !save ? document.getElementById("crush-canvas").getContext("2d") : document.getElementById("save-canvas").getContext("2d");
+    let w = 1200, h = 1550;
+    if (save) w = document.getElementById("save-canvas").getAttribute("width");
+
+    if (item != null && w != 1920) {
+        // Dibujar canvas
+        let img = !save ? composeCrushUrl(item.split("-")[0], item.split("-")[1]) : composeCrushUrl(item.split("-")[0], item.split("-")[1], "full", "hd");
+        ready = await preloadIMG(img);
+        if (!save) ctx.clearRect(0, 0, w, h);
+        ctx.drawImage(ready, 0, 0, w, h);
+    } else {
+        if (!save) ctx.clearRect(0, 0, w, h);
+    };
+};
 
 function drawItemIcons (criteria, elmnt) {
 
@@ -1246,7 +1209,7 @@ function drawItemIcons (criteria, elmnt) {
 
     let macaroon = "assets/game-event/";
     if (criteria.type == "gameEvent") {
-        macaroon += `gacha/${(criteria.info).split("-")[0]}/event-icon-${(criteria.info).split("-")[1]}.png`;
+        macaroon += `gacha/${(criteria.info).split("-")[0]}-icon.png`;
     } else if ((criteria.type == "gauge")) {
         macaroon += "gauge/icon.png";
     };
@@ -1377,7 +1340,7 @@ $(function () {
             $(".asng-cloth").not(".selected").addClass("not-selected");
             var item = $(this).attr("data-item");
             drawDeclinationPanel($(".asng-cloth").index(this))
-            drawCategory($(".category-list-item.current").attr("data-category"), parseInt(item.split("-")[0]))
+            drawCategory($(this).attr("data-category"), parseInt(item.split("-")[0]))
 
         } else {
             removeDeclinationPanel();
@@ -1812,8 +1775,33 @@ $(function () {
         } else {
             $(".asng-room-item .item-outline").removeClass("equipped");
         }
+
+        $(".room-name.active").removeClass("active");
     });
 
+    $(".room-options-container").on("click", ".room-name", async function() {
+        $(".room-name").removeClass("active");
+        $(this).addClass("active");
+
+        $("#loading-layout").addClass("room");
+
+        let roomId = parseInt($(this).attr("data-roomId"));
+        let roomItems = room.filter(v => {return v.roomId == roomId});
+
+        sucrette.room.slot1 = null;
+        sucrette.room.slot2 = null;
+        sucrette.room.slot3 = null;
+        sucrette.room.slot4 = null;
+        sucrette.room.slot5 = null;
+
+        for (r = 0; r < roomItems.length; r++) {
+            sucrette.room[roomItems[r].slot] =  `${roomItems[r].id}-${roomItems[r].security}`;
+        };
+        await drawRoomCanvas("load", true);
+        $("#loading-layout").removeClass("room");
+    });
+
+// PET
     $(".items-container").on("click", ".pet-option.visibility", function() {
         var s = $(this).attr("class").split(" ")[2];
         if (s == "on") {
@@ -2041,6 +2029,16 @@ function fillCounter() {
     sum = crush.length;
     $(".shortcut.crush p.counter").text(sum);
 }
+
+function fillRoomList() {
+    let bgList = room.filter(v => {return v.slot == "background"});
+    for (i = 0; i < bgList.length; i++) {
+        $(".room-options-container").prepend(`<div class="room-name" data-roomId="${bgList[i].roomId}">${bgList[i].roomName}</div>`);
+    };
+
+    $(".filter-by-room-name").attr("ss-container", true);
+    SimpleScrollbar.initAll();
+};
 
 function updateVWVH() {
     let vw = $(this).width() / 100;
