@@ -20448,7 +20448,7 @@
         "releaseDate":"2025-12-05"
     },
     {
-        "groupId":1579, "zone":"waistToKnee", "category":"skirt", "security":"872bdb998f90ac55", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":1579, "zone":"waistToKnee", "category":"skirt", "security":"872bdb998f90ac55", "multiLayered":true, "layerBehavior":"normal",
         "name":"Skirt",
         "outfitName":"Magical Heart",
         "variations":[
@@ -20466,7 +20466,7 @@
         "releaseDate":"2025-12-05"
     },
     {
-        "groupId":1719, "zone":"arms", "category":"armAccessory", "security":"6263d936d69d8bb1", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":1719, "zone":"arms", "category":"armAccessory", "security":"6263d936d69d8bb1", "multiLayered":true, "layerBehavior":"normal",
         "name":"Umbrella",
         "outfitName":"Playing in the rain",
         "variations":[
@@ -20889,7 +20889,7 @@
         "releaseDate":"2025-12-08"
     },
     {
-        "groupId":11968, "zone":"waistToKnee", "category":"skirt", "security":"8fe03443caad8094", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":11968, "zone":"waistToKnee", "category":"skirt", "security":"8fe03443caad8094", "multiLayered":true, "layerBehavior":"normal",
         "name":"Skirt",
         "outfitName":"Veil of the Scarab",
         "variations":[
@@ -21069,7 +21069,7 @@
         "releaseDate":"2025-12-08"
     },
     {
-        "groupId":12038, "zone":"head", "category":"wig", "security":"381548a82deafbfb", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":12038, "zone":"head", "category":"wig", "security":"381548a82deafbfb", "multiLayered":true, "layerBehavior":"normal",
         "name":"Wig",
         "outfitName":"Veil of the Scarab",
         "variations":[
