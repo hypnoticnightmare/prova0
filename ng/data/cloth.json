@@ -22697,5 +22697,149 @@
             {"id":11597, "colors":["white"]}
         ], "criteria":{"type":"calendar", "info":"2026-23", "text":"Unlocked en el calendario\nN° 23 - 2026"},
         "releaseDate":"2026-01-31"
-    }  
+    },
+    {
+        "groupId":12899, "zone":"torso", "category":"top", "security":"9be69831975e8d7f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bustier",
+        "outfitName":"Open Heart",
+        "variations":[
+            {"id":12899, "colors":["green"]},
+            {"id":12900, "colors":["pink"]},
+            {"id":12901, "colors":["purple"]},
+            {"id":12902, "colors":["brown"]},
+            {"id":12903, "colors":["black"]},
+            {"id":12904, "colors":["gray"]},
+            {"id":12905, "colors":["yellow"]},
+            {"id":12906, "colors":["blue"]},
+            {"id":12907, "colors":["green"]},
+            {"id":12908, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2026-02-03"
+    },
+    {
+        "groupId":12959, "zone":"torso", "category":"jacket", "security":"de6f7305eb2ca871", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Jacket",
+        "outfitName":"Open Heart",
+        "variations":[
+            {"id":12959, "colors":["green"]},
+            {"id":12960, "colors":["pink"]},
+            {"id":12961, "colors":["purple"]},
+            {"id":12962, "colors":["brown"]},
+            {"id":12963, "colors":["black"]},
+            {"id":12964, "colors":["gray"]},
+            {"id":12965, "colors":["yellow"]},
+            {"id":12966, "colors":["blue"]},
+            {"id":12967, "colors":["green"]},
+            {"id":12968, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2026-02-03"
+    },
+    {
+        "groupId":12879, "zone":"torso_waistToKnee", "category":"underwear", "security":"f885781e54fd4929", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Lingerie",
+        "outfitName":"Open Heart",
+        "variations":[
+            {"id":12879, "colors":["green"]},
+            {"id":12880, "colors":["pink"]},
+            {"id":12881, "colors":["purple"]},
+            {"id":12882, "colors":["brown"]},
+            {"id":12883, "colors":["black"]},
+            {"id":12884, "colors":["gray"]},
+            {"id":12885, "colors":["yellow"]},
+            {"id":12886, "colors":["blue"]},
+            {"id":12887, "colors":["green"]},
+            {"id":12888, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2026-02-03"
+    },
+    {
+        "groupId":12909, "zone":"waistToKnee", "category":"skirt", "security":"cf039770405c5caf", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Skirt",
+        "outfitName":"Open Heart",
+        "variations":[
+            {"id":12909, "colors":["green"]},
+            {"id":12910, "colors":["pink"]},
+            {"id":12911, "colors":["purple"]},
+            {"id":12912, "colors":["brown"]},
+            {"id":12913, "colors":["black"]},
+            {"id":12914, "colors":["gray"]},
+            {"id":12915, "colors":["yellow"]},
+            {"id":12916, "colors":["blue"]},
+            {"id":12917, "colors":["green"]},
+            {"id":12918, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2026-02-03"
+    },
+    {
+        "groupId":12889, "zone":"feet", "category":"shoes", "security":"7300d1d2cd69a70c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Heels",
+        "outfitName":"Open Heart",
+        "variations":[
+            {"id":12889, "colors":["green"]},
+            {"id":12890, "colors":["pink"]},
+            {"id":12891, "colors":["purple"]},
+            {"id":12892, "colors":["brown"]},
+            {"id":12893, "colors":["black"]},
+            {"id":12894, "colors":["gray"]},
+            {"id":12895, "colors":["yellow"]},
+            {"id":12896, "colors":["blue"]},
+            {"id":12897, "colors":["green"]},
+            {"id":12898, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2026-02-03"
+    },
+    {
+        "groupId":12939, "zone":"face", "category":"neckAccessory", "security":"3cf6c68b6a440696", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Necklace",
+        "outfitName":"Open Heart",
+        "variations":[
+            {"id":12939, "colors":["green"]},
+            {"id":12940, "colors":["pink"]},
+            {"id":12941, "colors":["purple"]},
+            {"id":12942, "colors":["brown"]},
+            {"id":12943, "colors":["black"]},
+            {"id":12944, "colors":["gray"]},
+            {"id":12945, "colors":["yellow"]},
+            {"id":12946, "colors":["blue"]},
+            {"id":12947, "colors":["green"]},
+            {"id":12948, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2026-02-03"
+    },
+    {
+        "groupId":12919, "zone":"head", "category":"earring", "security":"2df40fd9c2183ad8", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Earrings",
+        "outfitName":"Open Heart",
+        "variations":[
+            {"id":12919, "colors":["green"]},
+            {"id":12920, "colors":["pink"]},
+            {"id":12921, "colors":["purple"]},
+            {"id":12922, "colors":["brown"]},
+            {"id":12923, "colors":["black"]},
+            {"id":12924, "colors":["gray"]},
+            {"id":12925, "colors":["yellow"]},
+            {"id":12926, "colors":["blue"]},
+            {"id":12927, "colors":["green"]},
+            {"id":12928, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2026-02-03"
+    },
+    {
+        "groupId":12969, "zone":"general", "category":"other", "security":"e83ba88e49d96d2b", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Letters",
+        "outfitName":"Open Heart",
+        "variations":[
+            {"id":12969, "colors":["green"]},
+            {"id":12970, "colors":["pink"]},
+            {"id":12971, "colors":["purple"]},
+            {"id":12972, "colors":["brown"]},
+            {"id":12973, "colors":["black"]},
+            {"id":12974, "colors":["gray"]},
+            {"id":12975, "colors":["yellow"]},
+            {"id":12976, "colors":["blue"]},
+            {"id":12977, "colors":["green"]},
+            {"id":12978, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2026-02-03"
+    }
 ]
