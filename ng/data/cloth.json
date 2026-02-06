@@ -22841,5 +22841,23 @@
             {"id":12978, "colors":["white"]}
         ], "criteria":null,
         "releaseDate":"2026-02-03"
+    },
+    {
+        "groupId":12929, "zone":"arms", "category":"armAccessory", "security":"031874c639ad8a73", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Rings",
+        "outfitName":"Open Heart",
+        "variations":[
+            {"id":12929, "colors":["green"]},
+            {"id":12930, "colors":["pink"]},
+            {"id":12931, "colors":["purple"]},
+            {"id":12932, "colors":["brown"]},
+            {"id":12933, "colors":["black"]},
+            {"id":12934, "colors":["gray"]},
+            {"id":12935, "colors":["yellow"]},
+            {"id":12936, "colors":["blue"]},
+            {"id":12937, "colors":["green"]},
+            {"id":12938, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2026-02-03"
     }
 ]
