@@ -22166,13 +22166,13 @@
             {"id":12600, "colors":["brown"]},
             {"id":12601, "colors":["green"]},
             {"id":12602, "colors":["gray"]},
+            {"id":12599, "colors":["purple"]},
             {"id":12603, "colors":["purple"]},
             {"id":12604, "colors":["pink"]},
             {"id":12605, "colors":["blue"]},
             {"id":12606, "colors":["white"]},
             {"id":12607, "colors":["black"]},
-            {"id":12608, "colors":["red"]},
-            {"id":12609, "colors":["yellow"]}
+            {"id":12608, "colors":["red"]}
         ], "criteria":{"type":"episode", "info":"23", "text":"Unlocked during episode 23"},
         "releaseDate":"2026-01-30"
     },
