@@ -3179,8 +3179,8 @@
         "roomName":"Frostkissed Woods",
         "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"},
         "backgroundColors":{
-            "day":{"color1":"FFFFFF","color2":"A6BDCF","colorLight":"12556D"},
-            "night":{"color1":"80C9FC","color2":"74ADDE","colorLight":"2689A9"}
+            "day":{"color1":"5CD6B6","color2":"277F80","colorLight":"5CD6B6"},
+            "night":{"color1":"1A4D4A","color2":"0D2625","colorLight":"2689A9"}
         }
     },
     {
