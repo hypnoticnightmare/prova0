@@ -3212,5 +3212,171 @@
         "name":"Vegetación congelada",
         "roomName":"Frostkissed Woods",
         "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"}
+    },
+    {
+        "id":505, "roomId":104, "slot":"background", "releaseDate":"2026-01-01", "light":true, "security":"0c5bd4fcbde25e01",
+        "name":"Paredes",
+        "roomName":"Rattan Neutrals",
+        "criteria":{"type":"calendar", "info":"2026-22", "text":"Desbloqueado en el calendario\nN°22 - 2026"},
+        "backgroundColors":{
+            "day":{"color1":"F5EDE5","color2":"E6D4C6","colorLight":"694725"},
+            "night":{"color1":"9983B4","color2":"7B94B4","colorLight":"4F0996"}
+        }
+    },
+    {
+        "id":506, "roomId":104, "slot":"slot1", "releaseDate":"2026-01-01", "light":true, "security":"6da21e6e8f72ca98",
+        "name":"Sillones",
+        "roomName":"Rattan Neutrals",
+        "criteria":{"type":"calendar", "info":"2026-22", "text":"Desbloqueado en el calendario\nN°22 - 2026"}
+    },
+    {
+        "id":507, "roomId":104, "slot":"slot2", "releaseDate":"2026-01-01", "light":true, "security":"5369d30f250f1f68",
+        "name":"Cama",
+        "roomName":"Rattan Neutrals",
+        "criteria":{"type":"calendar", "info":"2026-22", "text":"Desbloqueado en el calendario\nN°22 - 2026"}
+    },
+    {
+        "id":508, "roomId":104, "slot":"slot3", "releaseDate":"2026-01-01", "light":false, "security":"7775bcb383215ddb",
+        "name":"Mueble",
+        "roomName":"Rattan Neutrals",
+        "criteria":{"type":"calendar", "info":"2026-22", "text":"Desbloqueado en el calendario\nN°22 - 2026"}
+    },
+    {
+        "id":509, "roomId":104, "slot":"slot4", "releaseDate":"2026-01-01", "light":true, "security":"d723068765f0f1d8",
+        "name":"Escritorio",
+        "roomName":"Rattan Neutrals",
+        "criteria":{"type":"calendar", "info":"2026-22", "text":"Desbloqueado en el calendario\nN°22 - 2026"}
+    },
+    {
+        "id":510, "roomId":104, "slot":"slot5", "releaseDate":"2026-01-01", "light":false, "security":"9a477a479936517e",
+        "name":"Mesa baja",
+        "roomName":"Rattan Neutrals",
+        "criteria":{"type":"calendar", "info":"2026-22", "text":"Desbloqueado en el calendario\nN°22 - 2026"}
+    },
+    {
+        "id":511, "roomId":105, "slot":"background", "releaseDate":"2026-01-07","light":true, "security":"c6d39dfe30c3d31a",
+        "name":"Paredes",
+        "roomName":"Paradise in the Making",
+        "criteria":{"type":"gauge", "info":"Feathers of Paradise", "text":"Desbloqueado en el evento de medidor\nFeathers of Paradise"},
+        "backgroundColors":{
+            "day":{"color1":"FFFFFF","color2":"EDD2BB","colorLight":"A95A17"},
+            "night":{"color1":"CFC0A3","color2":"6395E6","colorLight":"8F4D15"}
+        }
+    },
+    {
+        "id":512, "roomId":105, "slot":"slot1", "releaseDate":"2026-01-07","light":true, "security":"3464e6eb431079a8",
+        "name":"Mesa de dibujo",
+        "roomName":"Paradise in the Making",
+        "criteria":{"type":"gauge", "info":"Feathers of Paradise", "text":"Desbloqueado en el evento de medidor\nFeathers of Paradise"}
+    },
+    {
+        "id":513, "roomId":105, "slot":"slot2", "releaseDate":"2026-01-07","light":false, "security":"d8248c8bb37e6bc0",
+        "name":"Mesa de corte",
+        "roomName":"Paradise in the Making",
+        "criteria":{"type":"gauge", "info":"Feathers of Paradise", "text":"Desbloqueado en el evento de medidor\nFeathers of Paradise"}
+    },
+    {
+        "id":514, "roomId":105, "slot":"slot3", "releaseDate":"2026-01-07","light":false, "security":"6fb322a401f75e53",
+        "name":"Maniquí",
+        "roomName":"Paradise in the Making",
+        "criteria":{"type":"gauge", "info":"Feathers of Paradise", "text":"Desbloqueado en el evento de medidor\nFeathers of Paradise"}
+    },
+    {
+        "id":515, "roomId":105, "slot":"slot4", "releaseDate":"2026-01-07","light":true, "security":"b20da0c5382a8ced",
+        "name":"Peluquera",
+        "roomName":"Paradise in the Making",
+        "criteria":{"type":"gauge", "info":"Feathers of Paradise", "text":"Desbloqueado en el evento de medidor\nFeathers of Paradise"}
+    },
+    {
+        "id":516, "roomId":105, "slot":"slot5", "releaseDate":"2026-01-07","light":false, "security":"b4b9d440075c1d42",
+        "name":"Perchero",
+        "roomName":"Paradise in the Making",
+        "criteria":{"type":"gauge", "info":"Feathers of Paradise", "text":"Desbloqueado en el evento de medidor\nFeathers of Paradise"}
+    },
+    {
+        "id":535, "roomId":109, "slot":"background", "releaseDate":"2026-02-10", "light":true, "security":"463ffb35db95c644",
+        "name":"Paredes",
+        "roomName":"Parisian Romance",
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"},
+        "backgroundColors":{
+            "day":{"color1":"FFFFFF","color2":"E9D7C5","colorLight":"651B13"},
+            "night":{"color1":"4A84C7","color2":"8596A9","colorLight":"00499E"}
+        }
+    },
+    {
+        "id":536, "roomId":109, "slot":"slot1", "releaseDate":"2026-02-10", "light":false, "security":"1339a7b4ca7f8bf7",
+        "name":"Habitación",
+        "roomName":"Parisian Romance",
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"}
+    },
+    {
+        "id":537, "roomId":109, "slot":"slot2", "releaseDate":"2026-02-10", "light":true, "security":"1df424e5d33bb3ad",
+        "name":"Sofá",
+        "roomName":"Parisian Romance",
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"}
+    },
+    {
+        "id":538, "roomId":109, "slot":"slot3", "releaseDate":"2026-02-10", "light":true, "security":"bea1fa198c4e42b2",
+        "name":"Mesas y sillas",
+        "roomName":"Parisian Romance",
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"}
+    },
+    {
+        "id":539, "roomId":109, "slot":"slot4", "releaseDate":"2026-02-10", "light":true, "security":"290b96c38cf90c5e",
+        "name":"Globos",
+        "roomName":"Parisian Romance",
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"}
+    },
+    {
+        "id":540, "roomId":109, "slot":"slot5", "releaseDate":"2026-02-10", "light":true, "security":"402f452265d029f2",
+        "name":"Mesas",
+        "roomName":"Parisian Romance",
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"}
+    },
+    {
+        "id":541, "roomId":110, "slot":"background", "releaseDate":"2026-02-10", "light":true, "security":"93b47cca884c9284",
+        "name":"Paredes",
+        "roomName":"Roses and Ambrosia",
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado en el Pack exclusivo\nLove Whisperer (San Valentín 2026)"
+        },
+        "backgroundColors":{
+            "day":{"color1":"FFECF0","color2":"FFECE7","colorLight":"651D08"},
+            "night":{"color1":"BFF8FC","color2":"C0B9FF","colorLight":"035F6D"}
+        }
+    },
+    {
+        "id":542, "roomId":110, "slot":"slot1", "releaseDate":"2026-02-10", "light":false, "security":"f4d757d7cd1e4c16",
+        "name":"Estanque",
+        "roomName":"Roses and Ambrosia",
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado en el Pack exclusivo\nLove Whisperer (San Valentín 2026)"
+        }
+    },
+    {
+        "id":543, "roomId":110, "slot":"slot2", "releaseDate":"2026-02-10", "light":false, "security":"2555373a08318bc5",
+        "name":"Cama",
+        "roomName":"Roses and Ambrosia",
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado en el Pack exclusivo\nLove Whisperer (San Valentín 2026)"
+        }
+    },
+    {
+        "id":544, "roomId":110, "slot":"slot3", "releaseDate":"2026-02-10", "light":true, "security":"95b0364367b0b79e",
+        "name":"Pociones",
+        "roomName":"Roses and Ambrosia",
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado en el Pack exclusivo\nLove Whisperer (San Valentín 2026)"
+        }
+    },
+    {
+        "id":545, "roomId":110, "slot":"slot4", "releaseDate":"2026-02-10", "light":false, "security":"ae34e05b0a7597a0",
+        "name":"Fuente",
+        "roomName":"Roses and Ambrosia",
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado en el Pack exclusivo\nLove Whisperer (San Valentín 2026)"
+        }
+    },
+    {
+        "id":546, "roomId":110, "slot":"slot5", "releaseDate":"2026-02-10", "light":false, "security":"fe041edb15e74ff4",
+        "name":"Sillón",
+        "roomName":"Roses and Ambrosia",
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado en el Pack exclusivo\nLove Whisperer (San Valentín 2026)"
+        }
     }
 ]
