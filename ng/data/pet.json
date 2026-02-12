@@ -322,5 +322,21 @@
     {
         "id":82, "security":"68b40b2ec856c2ae", "releaseDate":"2025-12-19", "name":"Goose-icle",
         "criteria":{"type":"gameEvent", "info":"christmas-2025", "text":"Desbloqueado en el Pack exclusivo\nFrost's Harbinger (Navidad 2025)"}
+    },
+    {
+        "id":83, "security":"c1f2aa8d443818b3", "releaseDate":"2026-01-07", "name":"Cockatoose",
+        "criteria":{"type":"gauge", "info":"Feathers of Paradise", "text":"Desbloqueado en el evento de medidor \n Feathers of Paradise"}
+    },
+    {
+        "id":84, "security":"80dbab4ce6386502", "releaseDate":"2026-01-30", "name":"Fairy Goosemother",
+        "criteria":{"type":"episode", "info":"23", "text":"Desbloqueado en el episodio 23"}
+    },
+    {
+        "id":85, "security":"739b0b14cd983a1c", "releaseDate":"2026-02-03", "name":"Cupid's Snackcident",
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado durante el evento\nSan Valentín 2026"}
+    },
+    {
+        "id":86, "security":"6bfe1ed9f4837c36", "releaseDate":"2026-02-10", "name":"La Nascita dell'Oca",
+        "criteria":{"type":"gameEvent", "info":"valentinesDay-2026", "text":"Desbloqueado en el Pack exclusivo\nLove Whisperer (San Valentín 2026)"}
     }
 ]
