@@ -137,10 +137,29 @@
     {"id":322, "crushName":"Thomas", "security":"5fd45a6190ab06c0"},
     {"id":321, "crushName":"Thomas", "security":"791027df47e352fb"},
 
-    {"id":336, "crushName":"Amanda", "security":"dcbed7cc49f2e4bf", "info":"Amanda_Christmas2025"},
-    {"id":337, "crushName":"Devon", "security":"486ece3da678a6a7", "info":"Devon_Christmas2025"},
-    {"id":338, "crushName":"Jason", "security":"6c8ead605ab93da9", "info":"Jason_Christmas2025"},
+    {"id":328, "crushName":"Roy", "security":"8626e55cd99233b8", "info":"Roy_FestivalSwimsuitWet"},
 
-    {"id":340, "crushName":"Thomas", "security":"96b829d9d825f469", "info":"Thomas_Christmas2025"},
-    {"id":341, "crushName":"Roy", "security":"af63c74ebc2cb694", "info":"Roy_Christmas2025"}
+    {"id":336, "crushName":"Amanda", "security":"dcbed7cc49f2e4bf", "info":"Amanda_Christmas25"},
+    {"id":337, "crushName":"Devon", "security":"486ece3da678a6a7", "info":"Devon_Christmas25"},
+    {"id":338, "crushName":"Jason", "security":"6c8ead605ab93da9", "info":"Jason_Christmas25"},
+    {"id":339, "crushName":"Jason", "security":"3a14dc99fcf2fe2c", "info":"Jason_Christmas25Vestless"},
+    {"id":340, "crushName":"Thomas", "security":"96b829d9d825f469", "info":"Thomas_Christmas25"},
+    {"id":341, "crushName":"Roy", "security":"af63c74ebc2cb694", "info":"Roy_Christmas25"},
+    {"id":342, "crushName":"Roy", "security":"1da5804155612c55", "info":"Roy_Christmas25Vestless"},
+
+    {"id":352, "crushName":"Roy", "security":"2f3353c369de02a6", "info":"Roy_Bal"},
+
+    {"id":354, "crushName":"Amanda", "security":"b173938563e1a6e3", "info":"Amanda_Bal"},
+    {"id":355, "crushName":"Devon", "security":"5b37b92456f41418", "info":"Devon_Bal"},
+    {"id":356, "crushName":"Thomas", "security":"74d6ddceba9179fe", "info":"Thomas_Bal"},
+    {"id":357, "crushName":"Jason", "security":"e1b49357aacf85c2", "info":"Jason_Bal"},
+
+    {"id":365, "crushName":"Thomas", "security":"69829f3e6c7066c5", "info":"Thomas_SV26"},
+
+    {"id":369, "crushName":"Roy", "security":"05a10c0c749029a2", "info":"Roy_SV26"},
+    
+    {"id":371, "crushName":"Amanda", "security":"c339410a0d5e6ad3", "info":"Amanda_SV26"},
+    {"id":372, "crushName":"Devon", "security":"0ab55a3d7164f73d", "info":"Devon_SV26"},
+    {"id":373, "crushName":"Jason", "security":"f48931ebcfc13edb", "info":"Jason_SV26"}
+]
 ]
