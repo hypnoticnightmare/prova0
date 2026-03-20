@@ -23,15 +23,15 @@ var sucrette = {
 
     ],
     "room":{
-        "background":"1-12345678abcdef",
-        "slot1":"6-db2e30f7b3aee506",
-        "slot2":"5-4bb83595a6a16409",
-        "slot3":"4-6f4f67f0b4c78f19",
+        "background":"468-5a18a79d68fba516",
+        "slot1":null,
+        "slot2":null,
+        "slot3":null,
         "slot4":null,
         "slot5":null
     },
     "pet":{
-        "status":true,
+        "status":false,
         "outfit":null
     },
     "crush":{
