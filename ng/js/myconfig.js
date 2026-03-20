@@ -19,7 +19,6 @@ var sucrette = {
     "cloth":{
         "face":{
             "makeup":"1025-b059158864ef5127", "1029-a03c15fd98d9e354"
-        },
     },
         
     "orderInfo":[
