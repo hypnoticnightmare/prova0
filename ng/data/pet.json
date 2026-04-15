@@ -346,5 +346,29 @@
     {
         "id":88, "security":"e3fa88f4c6a0c7a8", "releaseDate":"2026-03-17", "name":"Goose of the Lamp",
         "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"}
+    },
+    {
+        "id":89, "security":"fafeab0f74e77a28", "releaseDate":"2026-03-28", "name":"Golden Goose",
+        "criteria":null
+    },
+    {
+        "id":92, "security":"9750da9f17e194d0", "releaseDate":"2026-04-01", "name":"Goosing Around",
+        "criteria":null
+    },
+    {
+        "id":93, "security":"e2f74fa363d84ecb", "releaseDate":"2026-04-02", "name":"Harle-Honk",
+        "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado en el Pack exclusivo\nHarlequin Hopper (Pascua 2026)"}
+    },
+    {
+        "id":94, "security":"ab3267e3998ee798", "releaseDate":"2026-03-26", "name":"Eggstravagoose",
+        "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nPascua 2026"}
+    },
+    {
+        "id":95, "security":"6aa0f8441bd47950", "releaseDate":"2026-04-17", "name":"Takagatha",
+        "criteria":null
+    },
+    {
+        "id":96, "security":"a31800417777a4ce", "releaseDate":"2026-04-03", "name":"Thomas' Influence",
+        "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"}
     }
 ]
