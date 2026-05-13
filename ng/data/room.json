@@ -3617,5 +3617,51 @@
         "name":"Carretilla",
         "roomName":"Easter Garden",
         "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado en el Pack exclusivo\nHarlequin Hopper (Pascua 2026)"}
+    },
+
+    {
+        "id":559, "roomId":113, "slot":"background", "releaseDate":"2026-05-01", "light":true, "security":"3cd67829673d273d",
+        "name":"Terraza",
+        "roomName":"Breathing Space",
+        "criteria":{"type":"calendar", "info":"2026-26", "text":"Desbloqueado en el calendario\nN°26 - 2026"},
+        "backgroundColors":{
+            "day":{"color1":"F0FFE2","color2":"C88282","colorLight":"73AE20"},
+            "night":{"color1":"A4C7FF","color2":"A279A0","colorLight":"0088FF"}
+        }
+    },
+    {
+        "id":560, "roomId":113, "slot":"slot1", "releaseDate":"2026-05-01", "light":false, "security":"237a8d9eaf1db5db",
+        "name":"Escalera",
+        "roomName":"Breathing Space",
+        "criteria":{"type":"calendar", "info":"2026-26", "text":"Desbloqueado en el calendario\nN°26 - 2026"},
+        "backgroundColors":null
+    },
+    {
+        "id":561, "roomId":113, "slot":"slot2", "releaseDate":"2026-05-01", "light":true, "security":"ab3771a02fc0c8a9",
+        "name":"Banqueta",
+        "roomName":"Breathing Space",
+        "criteria":{"type":"calendar", "info":"2026-26", "text":"Desbloqueado en el calendario\nN°26 - 2026"},
+        "backgroundColors":null
+    },
+    {
+        "id":562, "roomId":113, "slot":"slot3", "releaseDate":"2026-05-01", "light":true, "security":"15a56bb69f4be852",
+        "name":"Brasero",
+        "roomName":"Breathing Space",
+        "criteria":{"type":"calendar", "info":"2026-26", "text":"Desbloqueado en el calendario\nN°26 - 2026"},
+        "backgroundColors":null
+    },
+    {
+        "id":563, "roomId":113, "slot":"slot4", "releaseDate":"2026-05-01", "light":false, "security":"74f05913c41d89af",
+        "name":"Pared vegetal",
+        "roomName":"Breathing Space",
+        "criteria":{"type":"calendar", "info":"2026-26", "text":"Desbloqueado en el calendario\nN°26 - 2026"},
+        "backgroundColors":null
+    },
+    {
+        "id":564, "roomId":113, "slot":"slot5", "releaseDate":"2026-05-01", "light":true, "security":"166156308f9c66d1",
+        "name":"Pufs",
+        "roomName":"Breathing Space",
+        "criteria":{"type":"calendar", "info":"2026-26", "text":"Desbloqueado en el calendario\nN°26 - 2026"},
+        "backgroundColors":null
     }
 ]
