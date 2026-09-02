@@ -3,7 +3,7 @@ $(document).ready(function() {
 });
 
 function currentPage(name) {
-    if (name == "wardrobe") 
+    if (name == "wardrobe") {
         $(".asng-menu .menu .wave .header").css("height", "136px");
         $("#asng-menu-player").addClass("force-active");
     } else if (name == "gallery") {
