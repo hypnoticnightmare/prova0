@@ -374,5 +374,29 @@
     {
         "id":96, "security":"a31800417777a4ce", "releaseDate":"2026-04-03", "name":"Thomas' Influence",
         "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"}
+    },
+    {
+        "id":97, "security":"65b7a14e028dff00", "releaseDate":"2026-05-20", "name":"Amanda's Influence",
+        "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"}
+    },
+    {
+        "id":98, "security":"4eed1617738674c2", "releaseDate":"2026-06-01", "name":"Goose de la Rosa",
+        "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"}
+    },
+    {
+        "id":99, "security":"f9afa0a93a0dc997", "releaseDate":"2026-06-18", "name":"Disco Gooser",
+        "criteria":{"type":"hunt", "info":"music-2026", "text":"Desbloqueado durante el evento\nMusic is Mine"}
+    },
+    {
+        "id":100, "security":"301c0165cf1107e3", "releaseDate":"2026-07-22", "name":"Yellow SubGoose Marine",
+        "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"}
+    },
+    {
+        "id":101, "security":"9fcd16082d072c28", "releaseDate":"2026-07-22", "name":"Too Many Sunny Days",
+        "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"}
+    },
+    {
+        "id":102, "security":"be0ad8d0f5ef8d81", "releaseDate":"2026-08-18", "name":"Little Mergoose",
+        "criteria":{"type":"hunt", "info":"summer-2026", "text":"Desbloqueado durante el evento\nOcean's Call"}
     }
 ]
