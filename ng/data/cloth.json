@@ -4,26 +4,26 @@
         "name":"Basic",
         "outfitName":null, 
         "variations":[
-            {"id": 1, "colors":["white"]},
-            {"id": 63, "colors":["black"]},
-            {"id": 64, "colors":["brown"]},
-            {"id": 65, "colors":["brown"]},
-            {"id": 66, "colors":["brown"]},
-            {"id": 67, "colors":["brown"]},
-            {"id": 68, "colors":["red"]},
-            {"id": 69, "colors":["blue"]},
-            {"id": 70, "colors":["pink"]},
-            {"id": 71, "colors":["yellow"]},
-            {"id": 72, "colors":["blue"]},
-            {"id": 73, "colors":["purple"]},
-            {"id": 74, "colors":["pink"]},
-            {"id": 75, "colors":["green"]},
-            {"id": 76, "colors":["green"]},
-            {"id": 77, "colors":["grey"]},
-            {"id": 78, "colors":["orange"]},
-            {"id": 79, "colors":["green"]},
-            {"id": 80, "colors":["purple"]},
-            {"id": 81, "colors":["blue"]}
+            {"id":1, "colors":["white"]},
+            {"id":63, "colors":["black"]},
+            {"id":64, "colors":["brown"]},
+            {"id":65, "colors":["brown"]},
+            {"id":66, "colors":["brown"]},
+            {"id":67, "colors":["brown"]},
+            {"id":68, "colors":["red"]},
+            {"id":69, "colors":["blue"]},
+            {"id":70, "colors":["pink"]},
+            {"id":71, "colors":["yellow"]},
+            {"id":72, "colors":["blue"]},
+            {"id":73, "colors":["purple"]},
+            {"id":74, "colors":["pink"]},
+            {"id":75, "colors":["green"]},
+            {"id":76, "colors":["green"]},
+            {"id":77, "colors":["grey"]},
+            {"id":78, "colors":["orange"]},
+            {"id":79, "colors":["green"]},
+            {"id":80, "colors":["purple"]},
+            {"id":81, "colors":["blue"]}
         ], "criteria":null,
         "releaseDate":"2024-04-17"
     },
@@ -32,16 +32,16 @@
         "name":"Bustier",
         "outfitName":"New Beginnings",
         "variations":[
-            {"id": 2, "colors":["grey"]},
-            {"id": 3, "colors":["yellow"]},
-            {"id": 4, "colors":["red"]},
-            {"id": 5, "colors":["orange"]},
-            {"id": 6, "colors":["blue"]},
-            {"id": 7, "colors":["blue"]},
-            {"id": 8, "colors":["pink"]},
-            {"id": 9, "colors":["purple"]},
-            {"id": 10, "colors":["green"]},
-            {"id": 11, "colors":["black"]}
+            {"id":2, "colors":["grey"]},
+            {"id":3, "colors":["yellow"]},
+            {"id":4, "colors":["red"]},
+            {"id":5, "colors":["orange"]},
+            {"id":6, "colors":["blue"]},
+            {"id":7, "colors":["blue"]},
+            {"id":8, "colors":["pink"]},
+            {"id":9, "colors":["purple"]},
+            {"id":10, "colors":["green"]},
+            {"id":11, "colors":["black"]}
         ], "criteria":{"type":"episode", "info":"01", "text":"Desbloqueado en el episodio 01"},
         "releaseDate":"2024-04-17"
     },
@@ -2226,7 +2226,24 @@
         ], "criteria":{"type":"jobTask", "info":"Post-Its", "text":"Desbloqueado en la Misión del día\nPost-Its"},
         "releaseDate":"2024-06-05"
     },
-
+    {
+        "groupId":1227, "zone":"feet", "category":"shoes", "security":"64b9e6f759c0c396", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Hololove",
+        "variations":[
+            {"id":1227, "colors":["white"]},
+            {"id":1228, "colors":["pink"]},
+            {"id":1229, "colors":["blue"]},
+            {"id":1230, "colors":["black"]},
+            {"id":1231, "colors":["yellow"]},
+            {"id":1232, "colors":["red"]},
+            {"id":1233, "colors":["green"]},
+            {"id":1234, "colors":["purple"]},
+            {"id":1235, "colors":["blue"]},
+            {"id":1236, "colors":["yellow","pink"]}
+        ], "criteria":{"type":"jobTask", "name":"Cuaderno", "text":"Desbloqueado en la Misión del día\nCuaderno"},
+        "releaseDate":"2026-01-30"
+    },
     {
         "groupId":1237, "zone":"waistToKnee", "category":"skirt", "security":"0ba8e97aeb7c34dd", "multiLayered":false, "layerBehavior":"normal",
         "name":"Falda",
@@ -2250,16 +2267,16 @@
         "name":"Sujetador deportivo",
         "outfitName":"Hololove",
         "variations":[
-            {"id":1247, "colors":["undefined"]},
-            {"id":1248, "colors":["undefined"]},
-            {"id":1249, "colors":["undefined"]},
-            {"id":1250, "colors":["undefined"]},
-            {"id":1251, "colors":["undefined"]},
-            {"id":1252, "colors":["undefined"]},
-            {"id":1253, "colors":["undefined"]},
-            {"id":1254, "colors":["undefined"]},
-            {"id":1255, "colors":["undefined"]},
-            {"id":1256, "colors":["undefined"]}
+            {"id":1247, "colors":["grey","silver"]},
+            {"id":1248, "colors":["pink"]},
+            {"id":1249, "colors":["blue"]},
+            {"id":1250, "colors":["black"]},
+            {"id":1251, "colors":["golden","yellow"]},
+            {"id":1252, "colors":["red"]},
+            {"id":1253, "colors":["green"]},
+            {"id":1254, "colors":["purple"]},
+            {"id":1255, "colors":["blue"]},
+            {"id":1256, "colors":["white","yellow"]}
         ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"},
         "releaseDate":"2025-12-05"
     },
@@ -2755,16 +2772,16 @@
         "name":"Leggings",
         "outfitName":"What the F***?",
         "variations":[
-            {"id":1529, "colors":["undefined"]},
-            {"id":1530, "colors":["undefined"]},
-            {"id":1531, "colors":["undefined"]},
-            {"id":1532, "colors":["undefined"]},
-            {"id":1533, "colors":["undefined"]},
-            {"id":1534, "colors":["undefined"]},
-            {"id":1535, "colors":["undefined"]},
-            {"id":1536, "colors":["undefined"]},
-            {"id":1537, "colors":["undefined"]},
-            {"id":1538, "colors":["undefined"]}
+            {"id":1529, "colors":["white","black"]},
+            {"id":1530, "colors":["blue","black"]},
+            {"id":1531, "colors":["green","black"]},
+            {"id":1532, "colors":["pink","black"]},
+            {"id":1533, "colors":["black"]},
+            {"id":1534, "colors":["yellow","black"]},
+            {"id":1535, "colors":["red","black"]},
+            {"id":1536, "colors":["blue","black"]},
+            {"id":1537, "colors":["purple","black"]},
+            {"id":1538, "colors":["pink","black"]}
         ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"},
         "releaseDate":"2025-12-05"
     },
@@ -2845,16 +2862,16 @@
         "name":"Tatuajes",
         "outfitName":"Magical Heart",
         "variations":[
-            {"id":1579, "colors":["undefined"]},
-            {"id":1580, "colors":["undefined"]},
-            {"id":1581, "colors":["undefined"]},
-            {"id":1582, "colors":["undefined"]},
-            {"id":1583, "colors":["undefined"]},
-            {"id":1584, "colors":["undefined"]},
-            {"id":1585, "colors":["undefined"]},
-            {"id":1586, "colors":["undefined"]},
-            {"id":1587, "colors":["undefined"]},
-            {"id":1588, "colors":["undefined"]}
+            {"id":1579, "colors":["pink","multi"]},
+            {"id":1580, "colors":["purple","multi"]},
+            {"id":1581, "colors":["orange","multi"]},
+            {"id":1582, "colors":["yellow","multi"]},
+            {"id":1583, "colors":["green","multi"]},
+            {"id":1584, "colors":["blue","multi"]},
+            {"id":1585, "colors":["blue","multi"]},
+            {"id":1586, "colors":["purple","multi"]},
+            {"id":1587, "colors":["white","multi"]},
+            {"id":1588, "colors":["black","multi"]}
         ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"},
         "releaseDate":"2025-12-05"
     },
@@ -2899,20 +2916,55 @@
         "name":"Piel Cyborg",
         "outfitName":"Future Enhancement",
         "variations":[
-            {"id":1609, "colors":["undefined"]},
-            {"id":1610, "colors":["undefined"]},
-            {"id":1611, "colors":["undefined"]},
-            {"id":1612, "colors":["undefined"]},
-            {"id":1613, "colors":["undefined"]},
-            {"id":1614, "colors":["undefined"]},
-            {"id":1615, "colors":["undefined"]},
-            {"id":1616, "colors":["undefined"]},
-            {"id":1617, "colors":["undefined"]},
-            {"id":1618, "colors":["undefined"]}
+            {"id":1609, "colors":["white"]},
+            {"id":1610, "colors":["black"]},
+            {"id":1611, "colors":["grey"]},
+            {"id":1612, "colors":["yellow"]},
+            {"id":1613, "colors":["brown"]},
+            {"id":1614, "colors":["red"]},
+            {"id":1615, "colors":["blue"]},
+            {"id":1616, "colors":["purple"]},
+            {"id":1617, "colors":["green"]},
+            {"id":1618, "colors":["brown"]}
         ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"},
         "releaseDate":"2025-12-05"
     },
-
+    {
+        "groupId":1619, "zone":"feet", "category":"shoes", "security":"a44c5e641f599cec", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Future Enhancement",
+        "variations":[
+            {"id":1619, "colors":["white","multi"]},
+            {"id":1620, "colors":["grey","multi","silver"]},
+            {"id":1621, "colors":["black","multi"]},
+            {"id":1622, "colors":["green","orange","multi"]},
+            {"id":1623, "colors":["green","multi"]},
+            {"id":1624, "colors":["golden","multi","purple"]},
+            {"id":1625, "colors":["blue","orange","multi"]},
+            {"id":1626, "colors":["purple","multi"]},
+            {"id":1627, "colors":["red","multi"]},
+            {"id":1628, "colors":["pink","grey","multi"]}
+        ], "criteria":{"type":"jobTask", "name":"Cuaderno", "text":"Desbloqueado en la Misión del día\nCuaderno"},
+        "releaseDate":"2026-01-30"
+    },
+    {
+        "groupId":1629, "zone":"arms", "category":"gloves", "security":"6a03fd3811a9fb17", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Guantes",
+        "outfitName":"Future Enhancement",
+        "variations":[
+            {"id":1629, "colors":["white","multi"]},
+            {"id":1630, "colors":["grey","multi","silver"]},
+            {"id":1631, "colors":["black","multi"]},
+            {"id":1632, "colors":["green","multi"]},
+            {"id":1633, "colors":["green","multi"]},
+            {"id":1634, "colors":["golden","multi","yellow"]},
+            {"id":1635, "colors":["blue","multi"]},
+            {"id":1636, "colors":["purple","multi"]},
+            {"id":1637, "colors":["red","multi"]},
+            {"id":1638, "colors":["pink","multi"]}
+        ], "criteria":{"type":"jobTask", "name":"Cuaderno", "text":"Desbloqueado en la Misión del día\nCuaderno"},
+        "releaseDate":"2026-01-30"
+    },
     {
         "groupId":1639, "zone":"torso_waistToKnee", "category":"underwear", "security":"7a9f111f06d56936", "multiLayered":false, "layerBehavior":"normal",
         "name":"Body",
@@ -3004,7 +3056,24 @@
         ], "criteria":{"type":"jobTask", "info":"Catálogos", "text":"Desbloqueado en la Misión del día\nCatálogos"},
         "releaseDate":"2024-12-04"
     },
-
+    {
+        "groupId":1699, "zone":"torso_waistToKnee", "category":"dress", "security":"89b9f430f509078b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Peto",
+        "outfitName":"Playing in the Rain",
+        "variations":[
+            {"id":1699, "colors":["blue"]},
+            {"id":1700, "colors":["brown"]},
+            {"id":1701, "colors":["green"]},
+            {"id":1702, "colors":["black"]},
+            {"id":1703, "colors":["blue"]},
+            {"id":1704, "colors":["purple"]},
+            {"id":1705, "colors":["red"]},
+            {"id":1706, "colors":["yellow"]},
+            {"id":1707, "colors":["white"]},
+            {"id":1708, "colors":["pink"]}
+        ], "criteria":{"type":"jobTask", "name":"Cuaderno", "text":"Desbloqueado en la Misión del día\nCuaderno"},
+        "releaseDate":"2026-01-30"
+    },
     {
         "groupId":1709, "zone":"torso", "category":"jacket", "security":"97731a42d00a63ba", "multiLayered":true, "layerBehavior":"normal",
         "name":"Impermeable",
@@ -3028,16 +3097,16 @@
         "name":"Paraguas",
         "outfitName":"Playing In The Rain",
         "variations":[
-            {"id":1719, "colors":["undefined"]},
-            {"id":1720, "colors":["undefined"]},
-            {"id":1721, "colors":["undefined"]},
-            {"id":1722, "colors":["undefined"]},
-            {"id":1723, "colors":["undefined"]},
-            {"id":1724, "colors":["undefined"]},
-            {"id":1725, "colors":["undefined"]},
-            {"id":1726, "colors":["undefined"]},
-            {"id":1727, "colors":["undefined"]},
-            {"id":1728, "colors":["undefined"]}
+            {"id":1719, "colors":["green"]},
+            {"id":1720, "colors":["blue"]},
+            {"id":1721, "colors":["orange"]},
+            {"id":1722, "colors":["red","black"]},
+            {"id":1723, "colors":["white"]},
+            {"id":1724, "colors":["blue"]},
+            {"id":1725, "colors":["black"]},
+            {"id":1726, "colors":["pink"]},
+            {"id":1727, "colors":["brown"]},
+            {"id":1728, "colors":["yellow"]}
         ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"},
         "releaseDate":"2025-12-05"
     },
@@ -3087,22 +3156,39 @@
         ], "criteria":{"type":"jobTask", "info":"Planta", "text":"Desbloqueado en la Misión del día\nPlanta"},
         "releaseDate":"2025-02-05"
     },
-
+    {
+        "groupId":1750, "zone":"arms", "category":"gloves", "security":"a7867d5f757a052b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Guantes",
+        "outfitName":"Flowerly",
+        "variations":[
+            {"id":1750, "colors":["pink"]},
+            {"id":1751, "colors":["purple"]},
+            {"id":1752, "colors":["blue"]},
+            {"id":1753, "colors":["blue"]},
+            {"id":1754, "colors":["white"]},
+            {"id":1755, "colors":["black"]},
+            {"id":1756, "colors":["brown"]},
+            {"id":1757, "colors":["green"]},
+            {"id":1758, "colors":["yellow"]},
+            {"id":1759, "colors":["red"]}
+        ], "criteria":{"type":"jobTask", "name":"Cuaderno", "text":"Desbloqueado en la Misión del día\nCuaderno"},
+        "releaseDate":"2026-01-30"
+    },
     {
         "groupId":1760, "zone":"general", "category":"other", "security":"5565b2b0db77bcec", "multiLayered":true, "layerBehavior":"normal",
         "name":"Parterre de flores",
         "outfitName":"Flowerly",
         "variations":[
-            {"id":1760, "colors":["undefined"]},
-            {"id":1761, "colors":["undefined"]},
-            {"id":1762, "colors":["undefined"]},
-            {"id":1763, "colors":["undefined"]},
-            {"id":1764, "colors":["undefined"]},
-            {"id":1765, "colors":["undefined"]},
-            {"id":1766, "colors":["undefined"]},
-            {"id":1767, "colors":["undefined"]},
-            {"id":1768, "colors":["undefined"]},
-            {"id":1769, "colors":["undefined"]}
+            {"id":1760, "colors":["pink"]},
+            {"id":1761, "colors":["purple"]},
+            {"id":1762, "colors":["blue"]},
+            {"id":1763, "colors":["blue"]},
+            {"id":1764, "colors":["white"]},
+            {"id":1765, "colors":["black"]},
+            {"id":1766, "colors":["brown"]},
+            {"id":1767, "colors":["green"]},
+            {"id":1768, "colors":["yellow"]},
+            {"id":1769, "colors":["red"]}
         ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"},
         "releaseDate":"2025-12-05"
     },
@@ -3288,6 +3374,24 @@
         ], "criteria":{"type":"jobTask", "info":"Catálogos", "text":"Desbloqueado en la Misión del día\nCatálogos"},
         "releaseDate":"2024-12-04"
     },
+    {
+        "groupId":1900, "zone":"waistToKnee", "category":"pants", "security":"bf5901349e1444ac", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Short",
+        "outfitName":"Kitty Girl",
+        "variations":[
+            {"id":1900, "colors":["black"]},
+            {"id":1901, "colors":["blue"]},
+            {"id":1902, "colors":["pink"]},
+            {"id":1903, "colors":["yellow"]},
+            {"id":1904, "colors":["green"]},
+            {"id":1905, "colors":["brown"]},
+            {"id":1906, "colors":["red"]},
+            {"id":1907, "colors":["purple"]},
+            {"id":1908, "colors":["white"]},
+            {"id":1909, "colors":["orange"]}
+        ], "criteria":{"type":"jobTask", "name":"Cuaderno", "text":"Desbloqueado en la Misión del día\nCuaderno"},
+        "releaseDate":"2026-01-30"
+    },
 
     {
         "groupId":1920, "zone":"torso", "category":"jacket", "security":"f97d6b35857e0a95", "multiLayered":false, "layerBehavior":"normal",
@@ -3312,16 +3416,16 @@
         "name":"Brik de leche",
         "outfitName":"Kitty Girl",
         "variations":[
-            {"id":1930, "colors":["undefined"]},
-            {"id":1931, "colors":["undefined"]},
-            {"id":1932, "colors":["undefined"]},
-            {"id":1933, "colors":["undefined"]},
-            {"id":1934, "colors":["undefined"]},
-            {"id":1935, "colors":["undefined"]},
-            {"id":1936, "colors":["undefined"]},
-            {"id":1937, "colors":["undefined"]},
-            {"id":1938, "colors":["undefined"]},
-            {"id":1939, "colors":["undefined"]}
+            {"id":1930, "colors":["white","blue"]},
+            {"id":1931, "colors":["pink"]},
+            {"id":1932, "colors":["yellow"]},
+            {"id":1933, "colors":["white","multi"]},
+            {"id":1934, "colors":["purple"]},
+            {"id":1935, "colors":["green"]},
+            {"id":1936, "colors":["pink"]},
+            {"id":1937, "colors":["black"]},
+            {"id":1938, "colors":["white","yellow"]},
+            {"id":1939, "colors":["brown"]}
         ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"},
         "releaseDate":"2025-12-05"
     },
@@ -5988,7 +6092,7 @@
         "name":"Lluvia",
         "outfitName":"Playing In The Rain",
         "variations":[
-            {"id":3433, "colors":["undefined"]}
+            {"id":3433, "colors":["blue"]}
         ], "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"},
         "releaseDate":"2025-12-05"
     },
@@ -20451,6 +20555,24 @@
     },
 
     {
+        "groupId":11628, "zone":"head", "category":"earring", "security":"6d08a7b8fee48009", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Mini Bohema",
+        "variations":[
+            {"id":11637, "colors":["orange","silver"]},
+            {"id":11630, "colors":["black","silver"], "variationNumber":2},
+            {"id":11631, "colors":["red","golden"], "variationNumber":3},
+            {"id":11635, "colors":["yellow","golden"], "variationNumber":4},
+            {"id":11634, "colors":["green","silver"], "variationNumber":5},
+            {"id":11628, "colors":["white","golden"], "variationNumber":6},
+            {"id":11629, "colors":["grey","golden"], "variationNumber":7},
+            {"id":11632, "colors":["blue","silver"], "variationNumber":8},
+            {"id":11633, "colors":["purple","silver"], "variationNumber":9},
+            {"id":11636, "colors":["pink","golden"], "variationNumber":10}
+        ], "criteria":{"type":"pack", "info":"mini_outfit23 / Mini Bohema", "text":"Desbloqueado en el Pack exclusivo\nMini Bohema"},
+        "releaseDate":"2026-05-11"
+    },
+    {
         "groupId":11638, "zone":"arms", "category":"bag", "security":"ca6f8797230995e3", "multiLayered":false, "layerBehavior":"normal",
         "name":"Planta",
         "outfitName":"Plant Collector",
@@ -23655,7 +23777,222 @@
         ], "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"},
         "releaseDate":"2026-03-17"
     },
-
+    {
+        "groupId":13428, "zone":"feet", "category":"shoes", "security":"5aed7a8c7befdc4d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sneakers",
+        "outfitName":"Breathe Out",
+        "variations":[
+            {"id":13428, "colors":["white","blue"]},
+            {"id":13429, "colors":["brown","white"]},
+            {"id":13430, "colors":["green","grey"]},
+            {"id":13431, "colors":["pink","white"]},
+            {"id":13432, "colors":["purple","white"]},
+            {"id":13433, "colors":["blue","pink"]},
+            {"id":13434, "colors":["black","red"]},
+            {"id":13435, "colors":["white","grey"]},
+            {"id":13436, "colors":["yellow","white"]},
+            {"id":13437, "colors":["grey","red"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13438, "zone":"torso", "category":"top", "security":"17fcecfb6928062e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Breathe Out",
+        "variations":[
+            {"id":13438, "colors":["blue","pink"]},
+            {"id":13439, "colors":["brown","blue"]},
+            {"id":13440, "colors":["green","blue"]},
+            {"id":13441, "colors":["pink","brown"]},
+            {"id":13442, "colors":["purple","white"]},
+            {"id":13443, "colors":["blue","green"]},
+            {"id":13444, "colors":["black","red"]},
+            {"id":13445, "colors":["white","yellow"]},
+            {"id":13446, "colors":["yellow","purple"]},
+            {"id":13447, "colors":["red","black"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13448, "zone":"torso", "category":"jacket", "security":"214b1e85b9fe7c8b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sudadera",
+        "outfitName":"Breathe Out",
+        "variations":[
+            {"id":13448, "colors":["blue","pink"]},
+            {"id":13449, "colors":["brown","blue"]},
+            {"id":13450, "colors":["green","blue"]},
+            {"id":13451, "colors":["pink","brown"]},
+            {"id":13452, "colors":["purple","white"]},
+            {"id":13453, "colors":["blue","green"]},
+            {"id":13454, "colors":["black","red"]},
+            {"id":13455, "colors":["white","yellow"]},
+            {"id":13456, "colors":["yellow","purple"]},
+            {"id":13457, "colors":["red","black"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13458, "zone":"arms", "category":"bag", "security":"8f4a8fea4f8a443b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Breathe Out",
+        "variations":[
+            {"id":13458, "colors":["blue","pink"]},
+            {"id":13459, "colors":["brown","blue"]},
+            {"id":13460, "colors":["green","blue"]},
+            {"id":13461, "colors":["pink","brown"]},
+            {"id":13462, "colors":["purple","white"]},
+            {"id":13463, "colors":["blue","green"]},
+            {"id":13464, "colors":["black","red"]},
+            {"id":13465, "colors":["white","yellow"]},
+            {"id":13466, "colors":["yellow","purple"]},
+            {"id":13467, "colors":["red","black"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13468, "zone":"waistToKnee", "category":"pants", "security":"bc611d1fc14755f6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalón de chándal",
+        "outfitName":"Breathe Out",
+        "variations":[
+            {"id":13468, "colors":["pink","blue"]},
+            {"id":13469, "colors":["blue","brown"]},
+            {"id":13470, "colors":["blue","green"]},
+            {"id":13471, "colors":["brown","pink"]},
+            {"id":13472, "colors":["white","purple"]},
+            {"id":13473, "colors":["green","blue"]},
+            {"id":13474, "colors":["red","black"]},
+            {"id":13475, "colors":["yellow","white"]},
+            {"id":13476, "colors":["yellow","purple"]},
+            {"id":13477, "colors":["red","black"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13478, "zone":"arms", "category":"bag", "security":"af0c1c658e9a6275", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gourde",
+        "outfitName":"Breathe Out",
+        "variations":[
+            {"id":13478, "colors":["brown","green"]},
+            {"id":13479, "colors":["blue","green"]},
+            {"id":13480, "colors":["blue","green"]},
+            {"id":13481, "colors":["pink","green"]},
+            {"id":13482, "colors":["white","green"]},
+            {"id":13483, "colors":["green"]},
+            {"id":13484, "colors":["red","green"]},
+            {"id":13485, "colors":["yellow","green"]},
+            {"id":13486, "colors":["purple","green"]},
+            {"id":13487, "colors":["black","green"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13488, "zone":"torso_waistToKnee", "category":"underwear", "security":"46352ced49110ecc", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Ropa interior",
+        "outfitName":"Breathe In",
+        "variations":[
+            {"id":13488, "colors":["red"]},
+            {"id":13489, "colors":["green"]},
+            {"id":13490, "colors":["brown"]},
+            {"id":13491, "colors":["blue"]},
+            {"id":13492, "colors":["brown"]},
+            {"id":13493, "colors":["black"]},
+            {"id":13494, "colors":["yellow"]},
+            {"id":13495, "colors":["white"]},
+            {"id":13496, "colors":["pink"]},
+            {"id":13497, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13498, "zone":"feet", "category":"shoes", "security":"258f55fee86b267b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botines",
+        "outfitName":"Breathe In",
+        "variations":[
+            {"id":13498, "colors":["black","red"]},
+            {"id":13499, "colors":["black","green"]},
+            {"id":13500, "colors":["black","brown"]},
+            {"id":13501, "colors":["black","blue"]},
+            {"id":13502, "colors":["black","brown"]},
+            {"id":13503, "colors":["black","grey"]},
+            {"id":13504, "colors":["black","yellow"]},
+            {"id":13505, "colors":["black","white"]},
+            {"id":13506, "colors":["black","pink"]},
+            {"id":13507, "colors":["black","purple"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13508, "zone":"torso", "category":"top", "security":"4ed0da11be429fcf", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"Breathe In",
+        "variations":[
+            {"id":13508, "colors":["red"]},
+            {"id":13509, "colors":["green"]},
+            {"id":13510, "colors":["brown"]},
+            {"id":13511, "colors":["blue"]},
+            {"id":13512, "colors":["brown"]},
+            {"id":13513, "colors":["black"]},
+            {"id":13514, "colors":["yellow"]},
+            {"id":13515, "colors":["white"]},
+            {"id":13516, "colors":["pink"]},
+            {"id":13517, "colors":["purple"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13518, "zone":"waistToKnee", "category":"pants", "security":"c5944c690796a487", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalone",
+        "outfitName":"Breathe In",
+        "variations":[
+            {"id":13518, "colors":["black"]},
+            {"id":13519, "colors":["blue"]},
+            {"id":13520, "colors":["brown"]},
+            {"id":13521, "colors":["purple"]},
+            {"id":13522, "colors":["yellow"]},
+            {"id":13523, "colors":["red"]},
+            {"id":13524, "colors":["green"]},
+            {"id":13525, "colors":["brown"]},
+            {"id":13526, "colors":["white"]},
+            {"id":13527, "colors":["grey"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13528, "zone":"torso", "category":"jacket", "security":"c2f9448af121177c", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Camisa",
+        "outfitName":"Breathe In",
+        "variations":[
+            {"id":13528, "colors":["grey"]},
+            {"id":13529, "colors":["blue"]},
+            {"id":13530, "colors":["blue"]},
+            {"id":13531, "colors":["white"]},
+            {"id":13532, "colors":["black"]},
+            {"id":13533, "colors":["brown"]},
+            {"id":13534, "colors":["brown"]},
+            {"id":13535, "colors":["green"]},
+            {"id":13536, "colors":["purple"]},
+            {"id":13537, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13538, "zone":"head", "category":"earring", "security":"5320e7b3bc6e1544", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Piercing",
+        "outfitName":"Breathe In",
+        "variations":[
+            {"id":13538, "colors":["silver","red"]},
+            {"id":13539, "colors":["silver","green"]},
+            {"id":13540, "colors":["silver","brown"]},
+            {"id":13541, "colors":["silver","blue"]},
+            {"id":13542, "colors":["golden","brown"]},
+            {"id":13543, "colors":["golden","black"]},
+            {"id":13544, "colors":["silver","yellow"]},
+            {"id":13545, "colors":["golden","white"]},
+            {"id":13546, "colors":["silver","purple"]},
+            {"id":13547, "colors":["golden","pink"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
+    },
     {
         "groupId":13548, "zone":"feet", "category":"shoes", "security":"cae1a8db37c20542", "multiLayered":true, "layerBehavior":"normal",
         "name":"Botas",
@@ -23817,6 +24154,314 @@
             {"id":13613, "colors":["yellow","silver"]}
         ], "criteria":{"type":"calendar", "info":"2026-25", "text":"Desbloqueado en el calendario\nN°25 - 2026"},
         "releaseDate":"2026-03-01"
+    },
+    {
+        "groupId":13614, "zone":"arms", "category":"gloves", "security":"a850a8d877d3f54f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Mangas",
+        "outfitName":"Winxed",
+        "variations":[
+            {"id":13614, "colors":["pink"]},
+            {"id":13615, "colors":["white"]},
+            {"id":13616, "colors":["black","grey"]},
+            {"id":13617, "colors":["blue"]},
+            {"id":13618, "colors":["golden"]},
+            {"id":13619, "colors":["brown","orange"]},
+            {"id":13620, "colors":["red"]},
+            {"id":13621, "colors":["purple"]},
+            {"id":13622, "colors":["green"]},
+            {"id":13623, "colors":["grey"]}
+        ], "criteria":{"type":"calendar", "info":"2026-27", "text":"Desbloqueado en el calendario\nN°27 - 2026"},
+        "releaseDate":"2026-05-31"
+    },
+    {
+        "groupId":13624, "zone":"general", "category":"other", "security":"6664a4645721bb2b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Alas",
+        "outfitName":"Winxed",
+        "variations":[
+            {"id":13624, "colors":["blue"]},
+            {"id":13625, "colors":["white"]},
+            {"id":13626, "colors":["black"]},
+            {"id":13627, "colors":["orange"]},
+            {"id":13628, "colors":["purple"]},
+            {"id":13629, "colors":["yellow"]},
+            {"id":13630, "colors":["green"]},
+            {"id":13631, "colors":["red"]},
+            {"id":13632, "colors":["grey"]},
+            {"id":13633, "colors":["pink"]}
+        ], "criteria":{"type":"calendar", "info":"2026-27", "text":"Desbloqueado en el calendario\nN°27 - 2026"},
+        "releaseDate":"2026-05-31"
+    },
+    {
+        "groupId":13634, "zone":"head", "category":"hat", "security":"4d10075bcd8d9701", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Flores",
+        "outfitName":"Winxed",
+        "variations":[
+            {"id":13634, "colors":["pink"]},
+            {"id":13635, "colors":["white"]},
+            {"id":13636, "colors":["black"]},
+            {"id":13637, "colors":["blue"]},
+            {"id":13638, "colors":["yellow"]},
+            {"id":13639, "colors":["orange","brown"]},
+            {"id":13640, "colors":["red"]},
+            {"id":13641, "colors":["purple"]},
+            {"id":13642, "colors":["green"]},
+            {"id":13643, "colors":["grey"]}
+        ], "criteria":{"type":"calendar", "info":"2026-27", "text":"Desbloqueado en el calendario\nN°27 - 2026"},
+        "releaseDate":"2026-05-31"
+    },
+    {
+        "groupId":13644, "zone":"feet", "category":"shoes", "security":"f14956011038aa20", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas altas",
+        "outfitName":"Winxed",
+        "variations":[
+            {"id":13644, "colors":["pink"]},
+            {"id":13645, "colors":["white"]},
+            {"id":13646, "colors":["black"]},
+            {"id":13647, "colors":["blue"]},
+            {"id":13648, "colors":["golden"]},
+            {"id":13649, "colors":["brown","orange"]},
+            {"id":13650, "colors":["red"]},
+            {"id":13651, "colors":["purple"]},
+            {"id":13652, "colors":["green"]},
+            {"id":13653, "colors":["grey"]}
+        ], "criteria":{"type":"calendar", "info":"2026-27", "text":"Desbloqueado en el calendario\nN°27 - 2026"},
+        "releaseDate":"2026-05-31"
+    },
+    {
+        "groupId":13654, "zone":"waistToKnee", "category":"skirt", "security":"917efe9ae5e4c214", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Winxed",
+        "variations":[
+            {"id":13654, "colors":["green","pink"]},
+            {"id":13655, "colors":["white","brown"]},
+            {"id":13656, "colors":["black","grey"]},
+            {"id":13657, "colors":["blue","yellow"]},
+            {"id":13658, "colors":["golden","grey"]},
+            {"id":13659, "colors":["orange","brown","red"]},
+            {"id":13660, "colors":["red","purple"]},
+            {"id":13661, "colors":["purple","pink"]},
+            {"id":13662, "colors":["green","blue"]},
+            {"id":13663, "colors":["grey","blue"]}
+        ], "criteria":{"type":"calendar", "info":"2026-27", "text":"Desbloqueado en el calendario\nN°27 - 2026"},
+        "releaseDate":"2026-05-31"
+    },
+    {
+        "groupId":13664, "zone":"torso", "category":"top", "security":"07dbc4fe3b86c2a7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Winxed",
+        "variations":[
+            {"id":13664, "colors":["pink"]},
+            {"id":13665, "colors":["white"]},
+            {"id":13666, "colors":["black"]},
+            {"id":13667, "colors":["blue"]},
+            {"id":13668, "colors":["golden"]},
+            {"id":13669, "colors":["orange"]},
+            {"id":13670, "colors":["red"]},
+            {"id":13671, "colors":["purple"]},
+            {"id":13672, "colors":["green"]},
+            {"id":13673, "colors":["grey","silver"]}
+        ], "criteria":{"type":"calendar", "info":"2026-27", "text":"Desbloqueado en el calendario\nN°27 - 2026"},
+        "releaseDate":"2026-05-31"
+    },
+    {
+        "groupId":13674, "zone":"arms", "category":"gloves", "security":"23ea75aca290bfba", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Guantes",
+        "outfitName":"Archi's Favorites",
+        "variations":[
+            {"id":13674, "colors":["white"]},
+            {"id":13675, "colors":["brown"]},
+            {"id":13676, "colors":["black"]},
+            {"id":13677, "colors":["blue"]},
+            {"id":13678, "colors":["green"]},
+            {"id":13679, "colors":["purple"]},
+            {"id":13680, "colors":["red"]},
+            {"id":13681, "colors":["yellow"]},
+            {"id":13682, "colors":["brown"]},
+            {"id":13683, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2026-04-17"
+    },
+    {
+        "groupId":13684, "zone":"torso", "category":"top", "security":"cd83fd4bd29a524c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camisa",
+        "outfitName":"Archi's Favorites",
+        "variations":[
+            {"id":13684, "colors":["white"]},
+            {"id":13685, "colors":["brown"]},
+            {"id":13686, "colors":["black"]},
+            {"id":13687, "colors":["blue"]},
+            {"id":13688, "colors":["green"]},
+            {"id":13689, "colors":["purple"]},
+            {"id":13690, "colors":["red"]},
+            {"id":13691, "colors":["yellow"]},
+            {"id":13692, "colors":["brown"]},
+            {"id":13693, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2026-04-17"
+    },
+    {
+        "groupId":13694, "zone":"waistToKnee", "category":"pants", "security":"166c92ab227f3244", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pantalone",
+        "outfitName":"Archi's Favorites",
+        "variations":[
+            {"id":13694, "colors":["brown","black"]},
+            {"id":13697, "colors":["white","black"], "variationNumber":2},
+            {"id":13698, "colors":["black"], "variationNumber":3},
+            {"id":13699, "colors":["grey","black"], "variationNumber":4},
+            {"id":13695, "colors":["pink","black"], "variationNumber":5},
+            {"id":13700, "colors":["red","black"], "variationNumber":6},
+            {"id":13696, "colors":["green","black"], "variationNumber":7},
+            {"id":13701, "colors":["brown","black"], "variationNumber":8},
+            {"id":13702, "colors":["yellow","black"], "variationNumber":9},
+            {"id":13703, "colors":["blue","black"], "variationNumber":10}
+        ], "criteria":null,
+        "releaseDate":"2026-04-17"
+    },
+    {
+        "groupId":13704, "zone":"face", "category":"neckAccessory", "security":"e55817aeac0fc47c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Corbata",
+        "outfitName":"Archi's Favorites",
+        "variations":[
+            {"id":13704, "colors":["red"]},
+            {"id":13707, "colors":["white"], "variationNumber":2},
+            {"id":13711, "colors":["black"], "variationNumber":3},
+            {"id":13708, "colors":["brown"], "variationNumber":4},
+            {"id":13705, "colors":["pink"], "variationNumber":5},
+            {"id":13712, "colors":["red"], "variationNumber":6},
+            {"id":13706, "colors":["green"], "variationNumber":7},
+            {"id":13713, "colors":["purple"], "variationNumber":8},
+            {"id":13709, "colors":["yellow"], "variationNumber":9},
+            {"id":13710, "colors":["blue"], "variationNumber":10}
+        ], "criteria":null,
+        "releaseDate":"2026-04-17"
+    },
+    {
+        "groupId":13714, "zone":"feet", "category":"shoes", "security":"52f839c868ae1d2b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botines",
+        "outfitName":"Archi's Favorites",
+        "variations":[
+            {"id":13717, "colors":["grey","black"]},
+            {"id":13715, "colors":["white","black"], "variationNumber":2},
+            {"id":13716, "colors":["black"], "variationNumber":3},
+            {"id":13714, "colors":["blue","black"], "variationNumber":4},
+            {"id":13718, "colors":["green","black"], "variationNumber":5},
+            {"id":13719, "colors":["purple","black"], "variationNumber":6},
+            {"id":13720, "colors":["red","black"], "variationNumber":7},
+            {"id":13722, "colors":["yellow","black"], "variationNumber":8},
+            {"id":13721, "colors":["brown","black"], "variationNumber":9},
+            {"id":13723, "colors":["pink","black"], "variationNumber":10}
+        ], "criteria":null,
+        "releaseDate":"2026-04-17"
+    },
+    {
+        "groupId":13724, "zone":"torso", "category":"jacket", "security":"9ac19ab95f7f048e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Chaleco",
+        "outfitName":"Archi's Favorites",
+        "variations":[
+            {"id":13724, "colors":["grey"]},
+            {"id":13725, "colors":["white"]},
+            {"id":13726, "colors":["black"]},
+            {"id":13727, "colors":["brown"]},
+            {"id":13728, "colors":["pink"]},
+            {"id":13729, "colors":["red"]},
+            {"id":13730, "colors":["green"]},
+            {"id":13731, "colors":["purple"]},
+            {"id":13732, "colors":["yellow"]},
+            {"id":13733, "colors":["blue"]}
+        ], "criteria":null,
+        "releaseDate":"2026-04-17"
+    },
+    {
+        "groupId":13734, "zone":"head", "category":"faceAccessory", "security":"9c7a116ad38fc0d0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Monóculo",
+        "outfitName":"Archi's Favorites",
+        "variations":[
+            {"id":13738, "colors":["golden"]},
+            {"id":13739, "colors":["white"], "variationNumber":2},
+            {"id":13740, "colors":["black"], "variationNumber":3},
+            {"id":13734, "colors":["brown"], "variationNumber":4},
+            {"id":13735, "colors":["pink"], "variationNumber":5},
+            {"id":13736, "colors":["red"], "variationNumber":6},
+            {"id":13737, "colors":["purple"], "variationNumber":8},
+            {"id":13741, "colors":["green"], "variationNumber":7},
+            {"id":13742, "colors":["silver"], "variationNumber":9},
+            {"id":13743, "colors":["blue"], "variationNumber":10}
+        ], "criteria":null,
+        "releaseDate":"2026-04-17"
+    },
+    {
+        "groupId":13744, "zone":"head", "category":"wig", "security":"6f27c1206bc366c4", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Archi's Favorites",
+        "variations":[
+            {"id":13744, "colors":["grey"]},
+            {"id":13745, "colors":["brown"]},
+            {"id":13746, "colors":["white"]},
+            {"id":13747, "colors":["black"]},
+            {"id":13748, "colors":["blue"]},
+            {"id":13749, "colors":["blue"]},
+            {"id":13750, "colors":["purple"]},
+            {"id":13751, "colors":["red"]},
+            {"id":13752, "colors":["yellow"]},
+            {"id":13753, "colors":["orange"]},
+            {"id":13754, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2026-04-17"
+    },
+    {
+        "groupId":13755, "zone":"torso", "category":"jacket", "security":"a8662b0b23c9e0de", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Archi's Favorites",
+        "variations":[
+            {"id":13759, "colors":["blue","golden"]},
+            {"id":13760, "colors":["white","golden"], "variationNumber":2},
+            {"id":13761, "colors":["black","silver"], "variationNumber":3},
+            {"id":13755, "colors":["blue","golden"], "variationNumber":4},
+            {"id":13762, "colors":["green","silver"], "variationNumber":5},
+            {"id":13756, "colors":["purple","silver"], "variationNumber":6},
+            {"id":13757, "colors":["red","silver"], "variationNumber":7},
+            {"id":13763, "colors":["yellow","golden"], "variationNumber":8},
+            {"id":13758, "colors":["brown","golden"], "variationNumber":9},
+            {"id":13764, "colors":["grey","silver"], "variationNumber":10}
+        ], "criteria":null,
+        "releaseDate":"2026-04-17"
+    },
+    {
+        "groupId":13765, "zone":"head", "category":"faceAccessory", "security":"b481ee96e1bb6d1e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Barba",
+        "outfitName":"Archi's Favorites",
+        "variations":[
+            {"id":13766, "colors":["grey"]},
+            {"id":13767, "colors":["brown"], "variationNumber":2},
+            {"id":13768, "colors":["white"], "variationNumber":3},
+            {"id":13769, "colors":["black"], "variationNumber":4},
+            {"id":13770, "colors":["blue"], "variationNumber":5},
+            {"id":13771, "colors":["blue"], "variationNumber":6},
+            {"id":13765, "colors":["purple"], "variationNumber":7},
+            {"id":13772, "colors":["red"], "variationNumber":8},
+            {"id":13773, "colors":["yellow"], "variationNumber":9},
+            {"id":13774, "colors":["orange"], "variationNumber":10},
+            {"id":13775, "colors":["pink"], "variationNumber":11}
+        ], "criteria":null,
+        "releaseDate":"2026-04-17"
+    },
+    {
+        "groupId":13776, "zone":"arms", "category":"bag", "security":"9a0f4478d0ece554", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bastón",
+        "outfitName":"Archi's Favorites",
+        "variations":[
+            {"id":13776, "colors":["black","golden"]},
+            {"id":13777, "colors":["white","golden"]},
+            {"id":13778, "colors":["black","silver"]},
+            {"id":13779, "colors":["black","golden"]},
+            {"id":13780, "colors":["pink","silver"]},
+            {"id":13781, "colors":["red","silver"]},
+            {"id":13782, "colors":["green","silver"]},
+            {"id":13783, "colors":["purple","silver"]},
+            {"id":13784, "colors":["golden"]},
+            {"id":13785, "colors":["blue","golden"]}
+        ], "criteria":null,
+        "releaseDate":"2026-04-17"
     },
 
     {
@@ -24613,421 +25258,6 @@
         ], "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"},
         "releaseDate":"2026-04-03"
     },
-    {
-        "groupId":13538, "zone":"head", "category":"earring", "security":"5320e7b3bc6e1544", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Piercing",
-        "outfitName":"Breath In",
-        "variations":[
-            {"id":13538, "colors":["brown"]},
-            {"id":13539, "colors":["white"]},
-            {"id":13540, "colors":["black"]},
-            {"id":13541, "colors":["blue"]},
-            {"id":13542, "colors":["blue"]},
-            {"id":13543, "colors":["purple"]},
-            {"id":13544, "colors":["red"]},
-            {"id":13545, "colors":["yellow"]},
-            {"id":13546, "colors":["orange"]},
-            {"id":13547, "colors":["pink"]}
-        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
-        "releaseDate":"2026-04-10"
-    },
-    {
-        "groupId":13508, "zone":"torso", "category":"top", "security":"4ed0da11be429fcf", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Top",
-        "outfitName":"Breath In",
-        "variations":[
-            {"id":13508, "colors":["brown"]},
-            {"id":13509, "colors":["white"]},
-            {"id":13510, "colors":["black"]},
-            {"id":13511, "colors":["blue"]},
-            {"id":13512, "colors":["blue"]},
-            {"id":13513, "colors":["purple"]},
-            {"id":13514, "colors":["red"]},
-            {"id":13515, "colors":["yellow"]},
-            {"id":13516, "colors":["orange"]},
-            {"id":13517, "colors":["pink"]}
-        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
-        "releaseDate":"2026-04-10"
-    },
-    {
-        "groupId":13438, "zone":"torso", "category":"top", "security":"17fcecfb6928062e", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Top",
-        "outfitName":"Breath Out",
-        "variations":[
-            {"id":13438, "colors":["brown"]},
-            {"id":13439, "colors":["white"]},
-            {"id":13440, "colors":["black"]},
-            {"id":13441, "colors":["blue"]},
-            {"id":13442, "colors":["blue"]},
-            {"id":13443, "colors":["purple"]},
-            {"id":13444, "colors":["red"]},
-            {"id":13445, "colors":["yellow"]},
-            {"id":13446, "colors":["orange"]},
-            {"id":13447, "colors":["pink"]}
-        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
-        "releaseDate":"2026-04-10"
-    },
-    {
-        "groupId":13528, "zone":"torso", "category":"jacket", "security":"c2f9448af121177c", "multiLayered":true, "layerBehavior":"normal",
-        "name":"Shirt",
-        "outfitName":"Breath In",
-        "variations":[
-            {"id":13528, "colors":["brown"]},
-            {"id":13529, "colors":["white"]},
-            {"id":13530, "colors":["black"]},
-            {"id":13531, "colors":["blue"]},
-            {"id":13532, "colors":["blue"]},
-            {"id":13533, "colors":["purple"]},
-            {"id":13534, "colors":["red"]},
-            {"id":13535, "colors":["yellow"]},
-            {"id":13536, "colors":["orange"]},
-            {"id":13537, "colors":["pink"]}
-        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
-        "releaseDate":"2026-04-10"
-    },
-    {
-        "groupId":13448, "zone":"torso", "category":"jacket", "security":"214b1e85b9fe7c8b", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Sweatshirt",
-        "outfitName":"Breath Out",
-        "variations":[
-            {"id":13448, "colors":["brown"]},
-            {"id":13449, "colors":["white"]},
-            {"id":13450, "colors":["black"]},
-            {"id":13451, "colors":["blue"]},
-            {"id":13452, "colors":["blue"]},
-            {"id":13453, "colors":["purple"]},
-            {"id":13454, "colors":["red"]},
-            {"id":13455, "colors":["yellow"]},
-            {"id":13456, "colors":["orange"]},
-            {"id":13457, "colors":["pink"]}
-        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
-        "releaseDate":"2026-04-10"
-    },
-    {
-        "groupId":13488, "zone":"torso_waistToKnee", "category":"underwear", "security":"46352ced49110ecc", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Sweatshirt",
-        "outfitName":"Breath In",
-        "variations":[
-            {"id":13488, "colors":["brown"]},
-            {"id":13489, "colors":["white"]},
-            {"id":13490, "colors":["black"]},
-            {"id":13491, "colors":["blue"]},
-            {"id":13492, "colors":["blue"]},
-            {"id":13493, "colors":["purple"]},
-            {"id":13494, "colors":["red"]},
-            {"id":13495, "colors":["yellow"]},
-            {"id":13496, "colors":["orange"]},
-            {"id":13497, "colors":["pink"]}
-        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
-        "releaseDate":"2026-04-10"
-    },
-    {
-        "groupId":13478, "zone":"arms", "category":"bag", "security":"af0c1c658e9a6275", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Water Bottle",
-        "outfitName":"Breath Out",
-        "variations":[
-            {"id":13478, "colors":["brown"]},
-            {"id":13479, "colors":["white"]},
-            {"id":13480, "colors":["black"]},
-            {"id":13481, "colors":["blue"]},
-            {"id":13482, "colors":["blue"]},
-            {"id":13483, "colors":["purple"]},
-            {"id":13484, "colors":["red"]},
-            {"id":13485, "colors":["yellow"]},
-            {"id":13486, "colors":["orange"]},
-            {"id":13487, "colors":["pink"]}
-        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
-        "releaseDate":"2026-04-10"
-    },
-    {
-        "groupId":13458, "zone":"arms", "category":"bag", "security":"8f4a8fea4f8a443b", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Purse",
-        "outfitName":"Breath Out",
-        "variations":[
-            {"id":13458, "colors":["brown"]},
-            {"id":13459, "colors":["white"]},
-            {"id":13460, "colors":["black"]},
-            {"id":13461, "colors":["blue"]},
-            {"id":13462, "colors":["blue"]},
-            {"id":13463, "colors":["purple"]},
-            {"id":13464, "colors":["red"]},
-            {"id":13465, "colors":["yellow"]},
-            {"id":13466, "colors":["orange"]},
-            {"id":13467, "colors":["pink"]}
-        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
-        "releaseDate":"2026-04-10"
-    },
-    {
-        "groupId":13518, "zone":"waistToKnee", "category":"pants", "security":"c5944c690796a487", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Pants",
-        "outfitName":"Breath In",
-        "variations":[
-            {"id":13518, "colors":["brown"]},
-            {"id":13519, "colors":["white"]},
-            {"id":13520, "colors":["black"]},
-            {"id":13521, "colors":["blue"]},
-            {"id":13522, "colors":["blue"]},
-            {"id":13523, "colors":["purple"]},
-            {"id":13524, "colors":["red"]},
-            {"id":13525, "colors":["yellow"]},
-            {"id":13526, "colors":["orange"]},
-            {"id":13527, "colors":["pink"]}
-        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
-        "releaseDate":"2026-04-10"
-    },
-    {
-        "groupId":13468, "zone":"waistToKnee", "category":"pants", "security":"bc611d1fc14755f6", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Pants",
-        "outfitName":"Breath Out",
-        "variations":[
-            {"id":13468, "colors":["brown"]},
-            {"id":13469, "colors":["white"]},
-            {"id":13470, "colors":["black"]},
-            {"id":13471, "colors":["blue"]},
-            {"id":13472, "colors":["blue"]},
-            {"id":13473, "colors":["purple"]},
-            {"id":13474, "colors":["red"]},
-            {"id":13475, "colors":["yellow"]},
-            {"id":13476, "colors":["orange"]},
-            {"id":13477, "colors":["pink"]}
-        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
-        "releaseDate":"2026-04-10"
-    },
-    {
-        "groupId":13498, "zone":"feet", "category":"shoes", "security":"258f55fee86b267b", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Boots",
-        "outfitName":"Breath In",
-        "variations":[
-            {"id":13498, "colors":["brown"]},
-            {"id":13499, "colors":["white"]},
-            {"id":13500, "colors":["black"]},
-            {"id":13501, "colors":["blue"]},
-            {"id":13502, "colors":["blue"]},
-            {"id":13503, "colors":["purple"]},
-            {"id":13504, "colors":["red"]},
-            {"id":13505, "colors":["yellow"]},
-            {"id":13506, "colors":["orange"]},
-            {"id":13507, "colors":["pink"]}
-        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
-        "releaseDate":"2026-04-10"
-    },
-    {
-        "groupId":13428, "zone":"feet", "category":"shoes", "security":"5aed7a8c7befdc4d", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Sneakers",
-        "outfitName":"Breath In",
-        "variations":[
-            {"id":13428, "colors":["brown"]},
-            {"id":13429, "colors":["white"]},
-            {"id":13430, "colors":["black"]},
-            {"id":13431, "colors":["blue"]},
-            {"id":13432, "colors":["blue"]},
-            {"id":13433, "colors":["purple"]},
-            {"id":13434, "colors":["red"]},
-            {"id":13435, "colors":["yellow"]},
-            {"id":13436, "colors":["orange"]},
-            {"id":13437, "colors":["pink"]}
-        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
-        "releaseDate":"2026-04-10"
-    },
-    {
-        "groupId":1699, "zone":"torso_waistToKnee", "category":"dress", "security":"89b9f430f509078b", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Overalls",
-        "outfitName":"Playing in the Rain",
-        "variations":[
-            {"id":1699, "colors":["pink"]},
-            {"id":1700, "colors":["black"]},
-            {"id":1701, "colors":["white"]},
-            {"id":1702, "colors":["yellow"]},
-            {"id":1703, "colors":["blue"]},
-            {"id":1704, "colors":["purple"]},
-            {"id":1705, "colors":["green"]},
-            {"id":1706, "colors":["red"]},
-            {"id":1707, "colors":["grey"]},
-            {"id":1708, "colors":["purple"]}
-        ], "criteria":{"type":"jobTask", "info":"Agenda", "text":"Desbloqueado en la Misión del día\nAgenda"},
-        "releaseDate":"2026-04-10"
-    },
-    {
-        "groupId":1750, "zone":"arms", "category":"gloves", "security":"a7867d5f757a052b", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Gloves",
-        "outfitName":"Flowerly",
-        "variations":[
-            {"id":1750, "colors":["pink"]},
-            {"id":1751, "colors":["black"]},
-            {"id":1752, "colors":["white"]},
-            {"id":1753, "colors":["yellow"]},
-            {"id":1754, "colors":["blue"]},
-            {"id":1755, "colors":["purple"]},
-            {"id":1756, "colors":["green"]},
-            {"id":1757, "colors":["red"]},
-            {"id":1758, "colors":["grey"]},
-            {"id":1759, "colors":["purple"]}
-        ], "criteria":{"type":"jobTask", "info":"Agenda", "text":"Desbloqueado en la Misión del día\nAgenda"},
-        "releaseDate":"2026-04-10"
-    },
-    {
-        "groupId":1629, "zone":"arms", "category":"gloves", "security":"6a03fd3811a9fb17", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Gloves",
-        "outfitName":"Future Enhancement",
-        "variations":[
-            {"id":1629, "colors":["pink"]},
-            {"id":1630, "colors":["black"]},
-            {"id":1631, "colors":["white"]},
-            {"id":1632, "colors":["yellow"]},
-            {"id":1633, "colors":["blue"]},
-            {"id":1634, "colors":["purple"]},
-            {"id":1635, "colors":["green"]},
-            {"id":1636, "colors":["red"]},
-            {"id":1637, "colors":["grey"]},
-            {"id":1638, "colors":["purple"]}
-        ], "criteria":{"type":"jobTask", "info":"Agenda", "text":"Desbloqueado en la Misión del día\nAgenda"},
-        "releaseDate":"2026-04-10"
-    },
-    {
-        "groupId":1900, "zone":"waistToKnee", "category":"pants", "security":"bf5901349e1444ac", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Shorts",
-        "outfitName":"Kitty Girl",
-        "variations":[
-            {"id":1900, "colors":["pink"]},
-            {"id":1901, "colors":["black"]},
-            {"id":1902, "colors":["white"]},
-            {"id":1903, "colors":["yellow"]},
-            {"id":1904, "colors":["blue"]},
-            {"id":1905, "colors":["purple"]},
-            {"id":1906, "colors":["green"]},
-            {"id":1907, "colors":["red"]},
-            {"id":1908, "colors":["grey"]},
-            {"id":1909, "colors":["purple"]}
-        ], "criteria":{"type":"jobTask", "info":"Agenda", "text":"Desbloqueado en la Misión del día\nAgenda"},
-        "releaseDate":"2026-04-10"
-    },
-    {
-        "groupId":1227, "zone":"feet", "category":"shoes", "security":"64b9e6f759c0c396", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Boots",
-        "outfitName":"Hololove",
-        "variations":[
-            {"id":1227, "colors":["pink"]},
-            {"id":1228, "colors":["black"]},
-            {"id":1229, "colors":["white"]},
-            {"id":1230, "colors":["yellow"]},
-            {"id":1231, "colors":["blue"]},
-            {"id":1232, "colors":["purple"]},
-            {"id":1233, "colors":["green"]},
-            {"id":1234, "colors":["red"]},
-            {"id":1235, "colors":["grey"]},
-            {"id":1236, "colors":["purple"]}
-        ], "criteria":{"type":"jobTask", "info":"Agenda", "text":"Desbloqueado en la Misión del día\nAgenda"},
-        "releaseDate":"2026-04-10"
-    },
-    {
-        "groupId":1619, "zone":"feet", "category":"shoes", "security":"a44c5e641f599cec", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Boots",
-        "outfitName":"Future Enhancement",
-        "variations":[
-            {"id":1619, "colors":["pink"]},
-            {"id":1620, "colors":["black"]},
-            {"id":1621, "colors":["white"]},
-            {"id":1622, "colors":["yellow"]},
-            {"id":1623, "colors":["blue"]},
-            {"id":1624, "colors":["purple"]},
-            {"id":1625, "colors":["green"]},
-            {"id":1626, "colors":["red"]},
-            {"id":1627, "colors":["grey"]},
-            {"id":1628, "colors":["purple"]}
-        ], "criteria":{"type":"jobTask", "info":"Agenda", "text":"Desbloqueado en la Misión del día\nAgenda"},
-        "releaseDate":"2026-04-10"
-    },
-    {
-        "groupId":13684, "zone":"torso", "category":"top", "security":"cd83fd4bd29a524c", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Shirt",
-        "outfitName":"Archi's Favorites",
-        "variations":[
-            {"id":13684, "colors":["brown"]},
-            {"id":13685, "colors":["white"]},
-            {"id":13686, "colors":["black"]},
-            {"id":13687, "colors":["blue"]},
-            {"id":13688, "colors":["blue"]},
-            {"id":13689, "colors":["purple"]},
-            {"id":13690, "colors":["red"]},
-            {"id":13691, "colors":["yellow"]},
-            {"id":13692, "colors":["orange"]},
-            {"id":13693, "colors":["pink"]}
-        ], "criteria":{"type":"pack", "info":"Archi's Favorites", "text":"Desbloqueado en el Pack exclusivo\nArchi's Favorites"},
-        "releaseDate":"2026-04-11"
-    },
-    {
-        "groupId":13704, "zone":"face", "category":"neckAccessory", "security":"e55817aeac0fc47c", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Tie",
-        "outfitName":"Archi's Favorites",
-        "variations":[
-            {"id":13704, "colors":["brown"]},
-            {"id":13705, "colors":["white"]},
-            {"id":13706, "colors":["black"]},
-            {"id":13707, "colors":["blue"]},
-            {"id":13708, "colors":["blue"]},
-            {"id":13709, "colors":["purple"]},
-            {"id":13710, "colors":["red"]},
-            {"id":13711, "colors":["yellow"]},
-            {"id":13712, "colors":["orange"]},
-            {"id":13713, "colors":["pink"]}
-        ], "criteria":{"type":"pack", "info":"Archi's Favorites", "text":"Desbloqueado en el Pack exclusivo\nArchi's Favorites"},
-        "releaseDate":"2026-04-12"
-    },
-    {
-        "groupId":13694, "zone":"waistToKnee", "category":"pants", "security":"166c92ab227f3244", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Tie",
-        "outfitName":"Archi's Favorites",
-        "variations":[
-            {"id":13694, "colors":["brown"]},
-            {"id":13695, "colors":["white"]},
-            {"id":13696, "colors":["black"]},
-            {"id":13697, "colors":["blue"]},
-            {"id":13698, "colors":["blue"]},
-            {"id":13699, "colors":["purple"]},
-            {"id":13700, "colors":["red"]},
-            {"id":13701, "colors":["yellow"]},
-            {"id":13702, "colors":["orange"]},
-            {"id":13703, "colors":["pink"]}
-        ], "criteria":{"type":"pack", "info":"Archi's Favorites", "text":"Desbloqueado en el Pack exclusivo\nArchi's Favorites"},
-        "releaseDate":"2026-04-12"
-    },
-    {
-        "groupId":13724, "zone":"torso", "category":"jacket", "security":"9ac19ab95f7f048e", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Vest",
-        "outfitName":"Archi's Favorites",
-        "variations":[
-            {"id":13724, "colors":["brown"]},
-            {"id":13725, "colors":["white"]},
-            {"id":13726, "colors":["black"]},
-            {"id":13727, "colors":["blue"]},
-            {"id":13728, "colors":["blue"]},
-            {"id":13729, "colors":["purple"]},
-            {"id":13730, "colors":["red"]},
-            {"id":13731, "colors":["yellow"]},
-            {"id":13732, "colors":["orange"]},
-            {"id":13733, "colors":["pink"]}
-        ], "criteria":{"type":"pack", "info":"Archi's Favorites", "text":"Desbloqueado en el Pack exclusivo\nArchi's Favorites"},
-        "releaseDate":"2026-04-13"
-    },
-    {
-        "groupId":13717, "zone":"feet", "category":"shoes", "security":"52f839c868ae1d2b", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Boots",
-        "outfitName":"Archi's Favorites",
-        "variations":[
-            {"id":13717, "colors":["brown"]},
-            {"id":13715, "colors":["white"]},
-            {"id":13716, "colors":["black"]},
-            {"id":13714, "colors":["blue"]},
-            {"id":13718, "colors":["blue"]},
-            {"id":13719, "colors":["purple"]},
-            {"id":13720, "colors":["red"]},
-            {"id":13722, "colors":["yellow"]},
-            {"id":13721, "colors":["orange"]},
-            {"id":13723, "colors":["pink"]}
-        ], "criteria":{"type":"pack", "info":"Archi's Favorites", "text":"Desbloqueado en el Pack exclusivo\nArchi's Favorites"},
-        "releaseDate":"2026-04-13"
-    },
-    
     {
         "groupId":14384, "zone":"general", "category":"other", "security":"2a7a900f850e44e6", "multiLayered":true, "layerBehavior":"normal",
         "name":"Lecho de lirio del valle",
@@ -27166,16 +27396,16 @@
         "name":"Pezuñas",
         "outfitName":"Mini Goat Soul",
         "variations":[
-            {"id":15589, "colors":["brown"]},
-            {"id":15590, "colors":["undefined"]},
-            {"id":15591, "colors":["undefined"]},
-            {"id":15592, "colors":["undefined"]},
-            {"id":15593, "colors":["undefined"]},
-            {"id":15594, "colors":["undefined"]},
-            {"id":15595, "colors":["undefined"]},
-            {"id":15596, "colors":["undefined"]},
-            {"id":15597, "colors":["undefined"]},
-            {"id":15598, "colors":["undefined"]}
+            {"id":15589, "colors":["brown"], "variationNumber":1},
+            {"id":15590, "colors":["white"], "variationNumber":2},
+            {"id":15591, "colors":["brown"], "variationNumber":3},
+            {"id":15596, "colors":["black"], "variationNumber":4},
+            {"id":15592, "colors":["brown"], "variationNumber":5},
+            {"id":15593, "colors":["black","white"], "variationNumber":6},
+            {"id":15594, "colors":["grey"], "variationNumber":7},
+            {"id":15597, "colors":["brown"], "variationNumber":8},
+            {"id":15595, "colors":["brown"], "variationNumber":9},
+            {"id":15598, "colors":["white","black"], "variationNumber":10}
         ],"criteria":null,
         "releaseDate":"2026-05-11"
     },
@@ -27184,16 +27414,16 @@
         "name":"Joyas",
         "outfitName":"Mini Goat Soul",
         "variations":[
-            {"id":15600, "colors":["yellow","green","golden"]},
-            {"id":15599, "colors":["undefined"]},
-            {"id":15601, "colors":["undefined"]},
-            {"id":15602, "colors":["undefined"]},
-            {"id":15603, "colors":["undefined"]},
-            {"id":15604, "colors":["undefined"]},
-            {"id":15605, "colors":["undefined"]},
-            {"id":15606, "colors":["undefined"]},
-            {"id":15607, "colors":["undefined"]},
-            {"id":15608, "colors":["undefined"]}
+            {"id":15600, "colors":["yellow","green","golden"], "variationNumber":1},
+            {"id":15601, "colors":["purple","pink","golden"], "variationNumber":2},
+            {"id":15602, "colors":["white","blue","golden"], "variationNumber":3},
+            {"id":15603, "colors":["white","pink","silver"], "variationNumber":4},
+            {"id":15604, "colors":["blue","yellow","silver"], "variationNumber":5},
+            {"id":15605, "colors":["red","black","golden"], "variationNumber":6},
+            {"id":15606, "colors":["black","purple","golden"], "variationNumber":7},
+            {"id":15599, "colors":["yellow","red","silver"], "variationNumber":8},
+            {"id":15607, "colors":["purple","blue","silver"], "variationNumber":9},
+            {"id":15608, "colors":["brown","orange","silver"], "variationNumber":10}
         ],"criteria":null,
         "releaseDate":"2026-05-11"
     },
@@ -27202,16 +27432,16 @@
         "name":"Mangas",
         "outfitName":"Mini Goat Soul",
         "variations":[
-            {"id":15611, "colors":["green"]},
-            {"id":15609, "colors":["undefined"]},
-            {"id":15610, "colors":["undefined"]},
-            {"id":15612, "colors":["undefined"]},
-            {"id":15613, "colors":["undefined"]},
-            {"id":15614, "colors":["undefined"]},
-            {"id":15615, "colors":["undefined"]},
-            {"id":15616, "colors":["undefined"]},
-            {"id":15617, "colors":["undefined"]},
-            {"id":15618, "colors":["undefined"]}
+            {"id":15611, "colors":["green"], "variationNumber":1},
+            {"id":15609, "colors":["pink"], "variationNumber":2},
+            {"id":15612, "colors":["blue"], "variationNumber":3},
+            {"id":15610, "colors":["white"], "variationNumber":4},
+            {"id":15613, "colors":["yellow"], "variationNumber":5},
+            {"id":15614, "colors":["black"], "variationNumber":6},
+            {"id":15615, "colors":["purple"], "variationNumber":7},
+            {"id":15616, "colors":["red"], "variationNumber":8},
+            {"id":15617, "colors":["blue"], "variationNumber":9},
+            {"id":15618, "colors":["orange"], "variationNumber":10}
         ], "criteria":null,
         "releaseDate":"2026-05-11"
     },
@@ -27220,16 +27450,16 @@
         "name":"Vestido",
         "outfitName":"Mini Goat Soul",
         "variations":[
-            {"id":15620, "colors":["green"]},
-            {"id":15619, "colors":["undefined"]},
-            {"id":15621, "colors":["undefined"]},
-            {"id":15622, "colors":["undefined"]},
-            {"id":15623, "colors":["undefined"]},
-            {"id":15624, "colors":["undefined"]},
-            {"id":15625, "colors":["undefined"]},
-            {"id":15626, "colors":["undefined"]},
-            {"id":15627, "colors":["undefined"]},
-            {"id":15628, "colors":["undefined"]}
+            {"id":15620, "colors":["green"], "variationNumber":1},
+            {"id":15621, "colors":["pink"], "variationNumber":2},
+            {"id":15622, "colors":["blue"], "variationNumber":3},
+            {"id":15623, "colors":["white"], "variationNumber":4},
+            {"id":15624, "colors":["yellow"], "variationNumber":5},
+            {"id":15625, "colors":["black"], "variationNumber":6},
+            {"id":15619, "colors":["purple"], "variationNumber":7},
+            {"id":15626, "colors":["red"], "variationNumber":8},
+            {"id":15627, "colors":["blue"], "variationNumber":9},
+            {"id":15628, "colors":["orange"], "variationNumber":10}
         ], "criteria":null,
         "releaseDate":"2026-05-11"
     },
@@ -27239,15 +27469,15 @@
         "outfitName":"Mini Goat Soul",
         "variations":[
             {"id":15629, "colors":["yellow","green","golden"]},
-            {"id":15630, "colors":["undefined"]},
-            {"id":15631, "colors":["undefined"]},
-            {"id":15632, "colors":["undefined"]},
-            {"id":15633, "colors":["undefined"]},
-            {"id":15634, "colors":["undefined"]},
-            {"id":15635, "colors":["undefined"]},
-            {"id":15636, "colors":["undefined"]},
-            {"id":15637, "colors":["undefined"]},
-            {"id":15638, "colors":["undefined"]}
+            {"id":15630, "colors":["purple","pink","golden"]},
+            {"id":15631, "colors":["white","blue","golden"]},
+            {"id":15632, "colors":["pink","white","silver"]},
+            {"id":15633, "colors":["blue","yellow","golden"]},
+            {"id":15634, "colors":["red","black","golden"]},
+            {"id":15635, "colors":["black","purple","golden"]},
+            {"id":15636, "colors":["yellow","red","silver"]},
+            {"id":15637, "colors":["purple","blue","silver"]},
+            {"id":15638, "colors":["brown","orange","silver"]}
         ], "criteria":null,
         "releaseDate":"2026-05-11"   
     },
@@ -28172,5 +28402,1523 @@
             {"id":16160, "colors":["green","blue","silver"]}
         ], "criteria":{"type":"pack", "info":"mini_outfit12 / Mini Cyber Rave", "text":"Desbloqueado en el Pack exclusivo\nMini Cyber Rave"},
         "releaseDate":"2026-05-11"
+    },
+
+    {
+        "groupId":16165, "zone":"arms", "category":"handNailPolish", "security":"3302bdb65f8e72d7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Esmalte uñas",
+        "outfitName":"Amanda's Vibe",
+        "variations":[
+            {"id":16165, "colors":["pink"]},
+            {"id":16166, "colors":["blue"]},
+            {"id":16167, "colors":["green"]},
+            {"id":16168, "colors":["brown"]},
+            {"id":16169, "colors":["black"]},
+            {"id":16170, "colors":["white"]},
+            {"id":16171, "colors":["purple"]},
+            {"id":16172, "colors":["red"]},
+            {"id":16173, "colors":["yellow"]},
+            {"id":16174, "colors":["green","blue"]}
+        ], "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"},
+        "releaseDate":"2026-05-20"
+    },
+    {
+        "groupId":16175, "zone":"torso_waistToKnee", "category":"underwear", "security":"364f81190fba707e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Body",
+        "outfitName":"Amanda's Vibe",
+        "variations":[
+            {"id":16175, "colors":["white"]},
+            {"id":16176, "colors":["pink"]},
+            {"id":16177, "colors":["brown"]},
+            {"id":16178, "colors":["red"]},
+            {"id":16179, "colors":["blue"]},
+            {"id":16180, "colors":["yellow"]},
+            {"id":16181, "colors":["blue","green"]},
+            {"id":16182, "colors":["black"]},
+            {"id":16183, "colors":["green"]},
+            {"id":16184, "colors":["purple"]}
+        ], "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"},
+        "releaseDate":"2026-05-20"
+    },
+    {
+        "groupId":16185, "zone":"feet", "category":"socks", "security":"5855405416b24263", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Medias",
+        "outfitName":"Amanda's Vibe",
+        "variations":[
+            {"id":16185, "colors":["black"]},
+            {"id":16186, "colors":["purple"]},
+            {"id":16187, "colors":["pink"]},
+            {"id":16188, "colors":["brown"]},
+            {"id":16189, "colors":["red"]},
+            {"id":16190, "colors":["green"]},
+            {"id":16191, "colors":["yellow"]},
+            {"id":16192, "colors":["green","blue"]},
+            {"id":16193, "colors":["blue"]},
+            {"id":16194, "colors":["white"]}
+        ], "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"},
+        "releaseDate":"2026-05-20"
+    },
+    {
+        "groupId":16195, "zone":"arms", "category":"armAccessory", "security":"04050818d329500f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Reloj de pulsera",
+        "outfitName":"Amanda's Vibe",
+        "variations":[
+            {"id":16195, "colors":["golden"]},
+            {"id":16196, "colors":["purple"]},
+            {"id":16197, "colors":["pink"]},
+            {"id":16198, "colors":["black"]},
+            {"id":16199, "colors":["red"]},
+            {"id":16200, "colors":["green"]},
+            {"id":16201, "colors":["orange"]},
+            {"id":16202, "colors":["silver"]},
+            {"id":16203, "colors":["blue"]},
+            {"id":16204, "colors":["white"]}
+        ], "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"},
+        "releaseDate":"2026-05-20"
+    },
+    {
+        "groupId":16205, "zone":"face", "category":"neckAccessory", "security":"50f172bf7a8c517a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Amanda's Vibe",
+        "variations":[
+            {"id":16205, "colors":["golden"]},
+            {"id":16206, "colors":["purple"]},
+            {"id":16207, "colors":["pink"]},
+            {"id":16208, "colors":["black"]},
+            {"id":16209, "colors":["red"]},
+            {"id":16210, "colors":["green"]},
+            {"id":16211, "colors":["orange"]},
+            {"id":16212, "colors":["silver"]},
+            {"id":16213, "colors":["blue"]},
+            {"id":16214, "colors":["white"]}
+        ], "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"},
+        "releaseDate":"2026-05-20"
+    },
+    {
+        "groupId":16215, "zone":"feet", "category":"shoes", "security":"06ebebf14b916e69", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos de tacón",
+        "outfitName":"Amanda's Vibe",
+        "variations":[
+            {"id":16215, "colors":["purple"]},
+            {"id":16216, "colors":["blue"]},
+            {"id":16217, "colors":["green"]},
+            {"id":16218, "colors":["brown"]},
+            {"id":16219, "colors":["black"]},
+            {"id":16220, "colors":["white"]},
+            {"id":16221, "colors":["pink"]},
+            {"id":16222, "colors":["red"]},
+            {"id":16223, "colors":["yellow"]},
+            {"id":16224, "colors":["blue"]}
+        ], "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"},
+        "releaseDate":"2026-05-20"
+    },
+    {
+        "groupId":16225, "zone":"waistToKnee", "category":"skirt", "security":"eeea10c649d01dc4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Amanda's Vibe",
+        "variations":[
+            {"id":16225, "colors":["pink"]},
+            {"id":16226, "colors":["blue"]},
+            {"id":16227, "colors":["green"]},
+            {"id":16228, "colors":["brown"]},
+            {"id":16229, "colors":["black"]},
+            {"id":16230, "colors":["white"]},
+            {"id":16231, "colors":["purple"]},
+            {"id":16232, "colors":["red"]},
+            {"id":16233, "colors":["yellow"]},
+            {"id":16234, "colors":["green","blue"]}
+        ], "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"},
+        "releaseDate":"2026-05-20"
+    },
+    {
+        "groupId":16235, "zone":"torso", "category":"top", "security":"1ebaa48194b61f37", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Camisa",
+        "outfitName":"Amanda's Vibe",
+        "variations":[
+            {"id":16235, "colors":["white"]},
+            {"id":16236, "colors":["pink"]},
+            {"id":16237, "colors":["brown"]},
+            {"id":16238, "colors":["red"]},
+            {"id":16239, "colors":["blue"]},
+            {"id":16240, "colors":["yellow"]},
+            {"id":16241, "colors":["blue","green"]},
+            {"id":16242, "colors":["black"]},
+            {"id":16243, "colors":["green"]},
+            {"id":16244, "colors":["purple"]}
+        ], "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"},
+        "releaseDate":"2026-05-20"
+    },
+    {
+        "groupId":16245, "zone":"torso", "category":"jacket", "security":"f8aff95c17e803e2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Amanda's Vibe",
+        "variations":[
+            {"id":16245, "colors":["brown"]},
+            {"id":16246, "colors":["purple"]},
+            {"id":16247, "colors":["pink"]},
+            {"id":16248, "colors":["black"]},
+            {"id":16249, "colors":["red"]},
+            {"id":16250, "colors":["green"]},
+            {"id":16251, "colors":["yellow"]},
+            {"id":16252, "colors":["green","blue"]},
+            {"id":16253, "colors":["blue"]},
+            {"id":16254, "colors":["white"]}
+        ], "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"},
+        "releaseDate":"2026-05-20"
+    },
+    {
+        "groupId":16255, "zone":"head", "category":"wig", "security":"e61da51308ba16ed", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Amanda's Vibe",
+        "variations":[
+            {"id":16255, "colors":["yellow"]},
+            {"id":16256, "colors":["brown"]},
+            {"id":16257, "colors":["white"]},
+            {"id":16258, "colors":["black"]},
+            {"id":16259, "colors":["blue"]},
+            {"id":16260, "colors":["blue"]},
+            {"id":16261, "colors":["purple"]},
+            {"id":16262, "colors":["red"]},
+            {"id":16263, "colors":["yellow"]},
+            {"id":16264, "colors":["orange"]},
+            {"id":16265, "colors":["pink"]},
+            {"id":16266, "colors":["yellow"]},
+            {"id":16267, "colors":["brown"]},
+            {"id":16268, "colors":["white"]},
+            {"id":16269, "colors":["black"]},
+            {"id":16270, "colors":["blue"]},
+            {"id":16271, "colors":["blue"]},
+            {"id":16272, "colors":["purple"]},
+            {"id":16273, "colors":["red"]},
+            {"id":16274, "colors":["yellow"]},
+            {"id":16275, "colors":["orange"]},
+            {"id":16276, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"},
+        "releaseDate":"2026-05-20"
+    },
+    {
+        "groupId":16277, "zone":"arms", "category":"bag", "security":"2d3a097ea813bc55", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bolso",
+        "outfitName":"Amanda's Vibe",
+        "variations":[
+            {"id":16277, "colors":["golden","pink"]},
+            {"id":16278, "colors":["blue","silver"]},
+            {"id":16279, "colors":["golden","green"]},
+            {"id":16280, "colors":["brown","silver"]},
+            {"id":16281, "colors":["black","silver"]},
+            {"id":16282, "colors":["golden","white"]},
+            {"id":16283, "colors":["golden","purple"]},
+            {"id":16284, "colors":["golden","red"]},
+            {"id":16285, "colors":["golden","yellow"]},
+            {"id":16286, "colors":["blue","green","silver"]}
+        ], "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"},
+        "releaseDate":"2026-05-20"
+    },
+    {
+        "groupId":16287, "zone":"head", "category":"wig", "security":"475edaf54f31d6ed", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Rhythm of Passion",
+        "variations":[
+            {"id":16287, "colors":["brown"]},
+            {"id":16288, "colors":["white"]},
+            {"id":16289, "colors":["black"]},
+            {"id":16290, "colors":["blue"]},
+            {"id":16291, "colors":["blue"]},
+            {"id":16292, "colors":["purple"]},
+            {"id":16293, "colors":["red"]},
+            {"id":16294, "colors":["yellow"]},
+            {"id":16295, "colors":["orange"]},
+            {"id":16296, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"},
+        "releaseDate":"2026-06-01"
+    },
+    {
+        "groupId":16297, "zone":"head", "category":"earring", "security":"5d7e4eecdef686a3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Rhythm of Passion",
+        "variations":[
+            {"id":16297, "colors":["red","golden"]},
+            {"id":16298, "colors":["white","golden"]},
+            {"id":16299, "colors":["black","silver"]},
+            {"id":16300, "colors":["blue","silver"]},
+            {"id":16301, "colors":["green","golden"]},
+            {"id":16302, "colors":["purple","golden"]},
+            {"id":16303, "colors":["grey","silver"]},
+            {"id":16304, "colors":["yellow","golden"]},
+            {"id":16305, "colors":["orange","silver"]},
+            {"id":16306, "colors":["pink","silver"]}
+        ], "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"},
+        "releaseDate":"2026-06-01"
+    },
+    {
+        "groupId":16307, "zone":"head", "category":"hat", "security":"35d6d10d51509d92", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Flores",
+        "outfitName":"Rhythm of Passion",
+        "variations":[
+            {"id":16307, "colors":["red"]},
+            {"id":16308, "colors":["white"]},
+            {"id":16309, "colors":["black","red"]},
+            {"id":16310, "colors":["blue"]},
+            {"id":16311, "colors":["green"]},
+            {"id":16312, "colors":["purple"]},
+            {"id":16313, "colors":["grey"]},
+            {"id":16314, "colors":["yellow"]},
+            {"id":16315, "colors":["orange"]},
+            {"id":16316, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"},
+        "releaseDate":"2026-06-01"
+    },
+    {
+        "groupId":16317, "zone":"feet", "category":"shoes", "security":"a487bbe62ae2a5ab", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos",
+        "outfitName":"Rhythm of Passion",
+        "variations":[
+            {"id":16317, "colors":["black","red"]},
+            {"id":16318, "colors":["black"]},
+            {"id":16319, "colors":["black"]},
+            {"id":16320, "colors":["black","blue"]},
+            {"id":16321, "colors":["black","green"]},
+            {"id":16322, "colors":["black","purple"]},
+            {"id":16323, "colors":["black","grey"]},
+            {"id":16324, "colors":["black","yellow"]},
+            {"id":16325, "colors":["black","orange"]},
+            {"id":16326, "colors":["black","pink"]}
+        ], "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"},
+        "releaseDate":"2026-06-01"
+    },
+    {
+        "groupId":16327, "zone":"torso_waistToKnee", "category":"underwear", "security":"c192c78803d58e07", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Body",
+        "outfitName":"Rhythm of Passion",
+        "variations":[
+            {"id":16327, "colors":["red","black"]},
+            {"id":16328, "colors":["black","white"]},
+            {"id":16329, "colors":["black"]},
+            {"id":16330, "colors":["blue","black"]},
+            {"id":16331, "colors":["green","black"]},
+            {"id":16332, "colors":["purple","black"]},
+            {"id":16333, "colors":["grey","black"]},
+            {"id":16334, "colors":["yellow","black"]},
+            {"id":16335, "colors":["orange","black"]},
+            {"id":16336, "colors":["pink","black"]}
+        ], "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"},
+        "releaseDate":"2026-06-01"
+    },
+    {
+        "groupId":16337, "zone":"arms", "category":"armAccessory", "security":"122cf496f89bd099", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Anillo",
+        "outfitName":"Rhythm of Passion",
+        "variations":[
+            {"id":16337, "colors":["golden","red"]},
+            {"id":16338, "colors":["golden","white"]},
+            {"id":16339, "colors":["black","silver"]},
+            {"id":16340, "colors":["blue","silver"]},
+            {"id":16341, "colors":["golden","green"]},
+            {"id":16342, "colors":["golden","purple"]},
+            {"id":16343, "colors":["grey","silver"]},
+            {"id":16344, "colors":["golden","yellow"]},
+            {"id":16345, "colors":["orange","silver"]},
+            {"id":16346, "colors":["pink","silver"]}
+        ], "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"},
+        "releaseDate":"2026-06-01"
+    },
+    {
+        "groupId":16347, "zone":"waistToKnee", "category":"skirt", "security":"288dba9377bca11b", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Rhythm of Passion",
+        "variations":[
+            {"id":16347, "colors":["red","black"]},
+            {"id":16348, "colors":["black","white"]},
+            {"id":16349, "colors":["black"]},
+            {"id":16350, "colors":["blue","black"]},
+            {"id":16351, "colors":["green","black"]},
+            {"id":16352, "colors":["purple","black"]},
+            {"id":16353, "colors":["grey","black"]},
+            {"id":16354, "colors":["yellow","black"]},
+            {"id":16355, "colors":["orange","black"]},
+            {"id":16356, "colors":["pink","black"]}
+        ], "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"},
+        "releaseDate":"2026-06-01"
+    },
+    {
+        "groupId":16357, "zone":"torso", "category":"jacket", "security":"60e163b27a030b2d", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Chaqueta",
+        "outfitName":"Rhythm of Passion",
+        "variations":[
+            {"id":16357, "colors":["red"]},
+            {"id":16358, "colors":["white"]},
+            {"id":16359, "colors":["black"]},
+            {"id":16360, "colors":["blue"]},
+            {"id":16361, "colors":["green"]},
+            {"id":16362, "colors":["purple"]},
+            {"id":16363, "colors":["grey"]},
+            {"id":16364, "colors":["yellow"]},
+            {"id":16365, "colors":["orange"]},
+            {"id":16366, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"},
+        "releaseDate":"2026-06-01"
+    },
+    {
+        "groupId":16367, "zone":"arms", "category":"bag", "security":"7df8efc13ec7ac0a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Abanico",
+        "outfitName":"Rhythm of Passion",
+        "variations":[
+            {"id":16367, "colors":["black","red"]},
+            {"id":16368, "colors":["black","white"]},
+            {"id":16369, "colors":["black"]},
+            {"id":16370, "colors":["black","blue"]},
+            {"id":16371, "colors":["black","green"]},
+            {"id":16372, "colors":["black","purple"]},
+            {"id":16373, "colors":["black","grey"]},
+            {"id":16374, "colors":["black","yellow"]},
+            {"id":16375, "colors":["black","brown"]},
+            {"id":16376, "colors":["black","pink"]}
+        ], "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"},
+        "releaseDate":"2026-06-01"
+    },
+    {
+        "groupId":16377, "zone":"torso", "category":"jacket", "security":"a1a6b40fc177111f", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Chal",
+        "outfitName":"Rhythm of Passion",
+        "variations":[
+            {"id":16377, "colors":["red"]},
+            {"id":16378, "colors":["white"]},
+            {"id":16379, "colors":["black"]},
+            {"id":16380, "colors":["blue"]},
+            {"id":16381, "colors":["green"]},
+            {"id":16382, "colors":["purple"]},
+            {"id":16383, "colors":["grey"]},
+            {"id":16384, "colors":["yellow"]},
+            {"id":16385, "colors":["brown"]},
+            {"id":16386, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"},
+        "releaseDate":"2026-06-01"
+    },
+    {
+        "groupId":16387, "zone":"general", "category":"other", "security":"95188584b0dd5d31", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Pétalos",
+        "outfitName":"Rhythm of Passion",
+        "variations":[
+            {"id":16387, "colors":["red"]},
+            {"id":16388, "colors":["white"]},
+            {"id":16389, "colors":["black","red"]},
+            {"id":16390, "colors":["blue"]},
+            {"id":16391, "colors":["green"]},
+            {"id":16392, "colors":["purple"]},
+            {"id":16393, "colors":["grey"]},
+            {"id":16394, "colors":["yellow"]},
+            {"id":16395, "colors":["brown"]},
+            {"id":16396, "colors":["pink"]}
+        ], "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"},
+        "releaseDate":"2026-06-01"
+    },
+    {
+        "groupId":16397, "zone":"general", "category":"other", "security":"4004650d48dfa5a4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Música",
+        "outfitName":"Music is Mine",
+        "variations":[
+            {"id":16397, "colors":["blue"]},
+            {"id":16398, "colors":["pink"]},
+            {"id":16399, "colors":["white"]},
+            {"id":16400, "colors":["yellow"]},
+            {"id":16401, "colors":["green"]},
+            {"id":16402, "colors":["blue"]},
+            {"id":16403, "colors":["pink"]},
+            {"id":16404, "colors":["purple"]},
+            {"id":16405, "colors":["black"]},
+            {"id":16406, "colors":["red"]}
+        ], "criteria":{"type":"hunt", "info":"music-2026", "text":"Desbloqueado durante el evento\nMusic is Mine"},
+        "releaseDate":"2026-06-18"
+    },
+    {
+        "groupId":16407, "zone":"feet", "category":"socks", "security":"6791462c22261f96", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Calcetines",
+        "outfitName":"Music is Mine",
+        "variations":[
+            {"id":16407, "colors":["black","blue","green"]},
+            {"id":16408, "colors":["pink","black"]},
+            {"id":16409, "colors":["white","black"]},
+            {"id":16410, "colors":["yellow","black"]},
+            {"id":16411, "colors":["pink","black"]},
+            {"id":16412, "colors":["blue","black"]},
+            {"id":16413, "colors":["pink","black"]},
+            {"id":16414, "colors":["black","purple"]},
+            {"id":16415, "colors":["black"]},
+            {"id":16416, "colors":["black","red"]}
+        ], "criteria":{"type":"hunt", "info":"music-2026", "text":"Desbloqueado durante el evento\nMusic is Mine"},
+        "releaseDate":"2026-06-18"
+    },
+    {
+        "groupId":16417, "zone":"feet", "category":"shoes", "security":"9800da8841aeff81", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Music is Mine",
+        "variations":[
+            {"id":16417, "colors":["silver"]},
+            {"id":16418, "colors":["purple"]},
+            {"id":16419, "colors":["blue","green"]},
+            {"id":16420, "colors":["green"]},
+            {"id":16421, "colors":["pink"]},
+            {"id":16422, "colors":["golden"]},
+            {"id":16423, "colors":["white"]},
+            {"id":16424, "colors":["black"]},
+            {"id":16425, "colors":["red"]},
+            {"id":16426, "colors":["blue"]}
+        ], "criteria":{"type":"hunt", "info":"music-2026", "text":"Desbloqueado durante el evento\nMusic is Mine"},
+        "releaseDate":"2026-06-18"
+    },
+    {
+        "groupId":16427, "zone":"waistToKnee", "category":"skirt", "security":"ad4570a6ebb72196", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Music is Mine",
+        "variations":[
+            {"id":16427, "colors":["silver"]},
+            {"id":16428, "colors":["purple"]},
+            {"id":16429, "colors":["blue","green"]},
+            {"id":16430, "colors":["green"]},
+            {"id":16431, "colors":["pink"]},
+            {"id":16432, "colors":["golden"]},
+            {"id":16433, "colors":["white"]},
+            {"id":16434, "colors":["black"]},
+            {"id":16435, "colors":["red"]},
+            {"id":16436, "colors":["blue"]}
+        ], "criteria":{"type":"hunt", "info":"music-2026", "text":"Desbloqueado durante el evento\nMusic is Mine"},
+        "releaseDate":"2026-06-18"
+    },
+    {
+        "groupId":16437, "zone":"torso_waistToKnee", "category":"waist", "security":"61f7a1659b7e5104", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cinturón",
+        "outfitName":"Music is Mine",
+        "variations":[
+            {"id":16437, "colors":["black","silver"]},
+            {"id":16438, "colors":["black","purple"]},
+            {"id":16439, "colors":["black","blue","green"]},
+            {"id":16440, "colors":["black","green"]},
+            {"id":16441, "colors":["black","pink"]},
+            {"id":16442, "colors":["black","golden"]},
+            {"id":16443, "colors":["black","white"]},
+            {"id":16444, "colors":["black"]},
+            {"id":16445, "colors":["red"]},
+            {"id":16446, "colors":["blue"]}
+        ], "criteria":{"type":"hunt", "info":"music-2026", "text":"Desbloqueado durante el evento\nMusic is Mine"},
+        "releaseDate":"2026-06-18"
+    },
+    {
+        "groupId":16447, "zone":"torso_waistToKnee", "category":"waist", "security":"6388bfcaae9a364b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Arnés",
+        "outfitName":"Music is Mine",
+        "variations":[
+            {"id":16447, "colors":["silver"]},
+            {"id":16448, "colors":["purple"]},
+            {"id":16449, "colors":["blue","green"]},
+            {"id":16450, "colors":["green"]},
+            {"id":16451, "colors":["pink"]},
+            {"id":16452, "colors":["golden"]},
+            {"id":16453, "colors":["white"]},
+            {"id":16454, "colors":["black"]},
+            {"id":16455, "colors":["red"]},
+            {"id":16456, "colors":["blue"]}
+        ], "criteria":{"type":"hunt", "info":"music-2026", "text":"Desbloqueado durante el evento\nMusic is Mine"},
+        "releaseDate":"2026-06-18"
+    },
+    {
+        "groupId":16457, "zone":"torso", "category":"top", "security":"4f57bef8884389ae", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Top",
+        "outfitName":"Music is Mine",
+        "variations":[
+            {"id":16457, "colors":["blue","green"]},
+            {"id":16458, "colors":["pink"]},
+            {"id":16459, "colors":["white"]},
+            {"id":16460, "colors":["yellow"]},
+            {"id":16461, "colors":["green"]},
+            {"id":16462, "colors":["blue"]},
+            {"id":16463, "colors":["pink"]},
+            {"id":16464, "colors":["purple"]},
+            {"id":16465, "colors":["black"]},
+            {"id":16466, "colors":["red"]}
+        ], "criteria":{"type":"hunt", "info":"music-2026", "text":"Desbloqueado durante el evento\nMusic is Mine"},
+        "releaseDate":"2026-06-18"
+    },
+    {
+        "groupId":16467, "zone":"arms", "category":"bag", "security":"1d216038838c054c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Micro",
+        "outfitName":"Music is Mine",
+        "variations":[
+            {"id":16467, "colors":["black","silver"]},
+            {"id":16468, "colors":["black","purple"]},
+            {"id":16469, "colors":["black","blue","green"]},
+            {"id":16470, "colors":["black","green"]},
+            {"id":16471, "colors":["black","pink"]},
+            {"id":16472, "colors":["black","golden"]},
+            {"id":16473, "colors":["black","white"]},
+            {"id":16474, "colors":["black"]},
+            {"id":16475, "colors":["black","red"]},
+            {"id":16476, "colors":["black","blue"]}
+        ], "criteria":{"type":"hunt", "info":"music-2026", "text":"Desbloqueado durante el evento\nMusic is Mine"},
+        "releaseDate":"2026-06-18"
+    },
+    {
+        "groupId":16477, "zone":"head", "category":"wig", "security":"efa43dac9f570d14", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Peluca",
+        "outfitName":"Music is Mine",
+        "variations":[
+            {"id":16477, "colors":["brown"]},
+            {"id":16478, "colors":["white"]},
+            {"id":16479, "colors":["black"]},
+            {"id":16480, "colors":["blue"]},
+            {"id":16481, "colors":["blue"]},
+            {"id":16482, "colors":["purple"]},
+            {"id":16483, "colors":["red"]},
+            {"id":16484, "colors":["yellow"]},
+            {"id":16485, "colors":["orange"]},
+            {"id":16486, "colors":["pink"]}
+        ], "criteria":{"type":"hunt", "info":"music-2026", "text":"Desbloqueado durante el evento\nMusic is Mine"},
+        "releaseDate":"2026-06-18"
+    },
+    {
+        "groupId":16487, "zone":"head", "category":"hat", "security":"fd03b3b565815f32", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Casco",
+        "outfitName":"Music is Mine",
+        "variations":[
+            {"id":16487, "colors":["blue","silver"]},
+            {"id":16488, "colors":["pink","purple"]},
+            {"id":16489, "colors":["blue","green","white"]},
+            {"id":16490, "colors":["yellow","green"]},
+            {"id":16491, "colors":["green","pink"]},
+            {"id":16492, "colors":["blue","golden"]},
+            {"id":16493, "colors":["pink","white"]},
+            {"id":16494, "colors":["purple","black"]},
+            {"id":16495, "colors":["red","black"]},
+            {"id":16496, "colors":["red","blue"]}
+        ], "criteria":{"type":"hunt", "info":"music-2026", "text":"Desbloqueado durante el evento\nMusic is Mine"},
+        "releaseDate":"2026-06-18"
+    },
+    {
+        "groupId":16497, "zone":"feet", "category":"shoes", "security":"be97b1d40520ab3e", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Botas",
+        "outfitName":"Conquerer of the Tides",
+        "variations":[
+            {"id":16497, "colors":["golden","black"]},
+            {"id":16498, "colors":["golden","red"]},
+            {"id":16499, "colors":["golden","green"]},
+            {"id":16500, "colors":["silver","white"]},
+            {"id":16501, "colors":["golden","grey"]},
+            {"id":16502, "colors":["silver","blue"]},
+            {"id":16503, "colors":["silver","yellow"]},
+            {"id":16504, "colors":["silver","purple"]},
+            {"id":16505, "colors":["silver","brown"]},
+            {"id":16506, "colors":["golden","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16507, "zone":"waistToKnee", "category":"pants", "security":"66522e0dc38b5e57", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Pantalones capri",
+        "outfitName":"Conquerer of the Tides",
+        "variations":[
+            {"id":16507, "colors":["golden","blue"]},
+            {"id":16508, "colors":["golden","red"]},
+            {"id":16509, "colors":["golden","green"]},
+            {"id":16510, "colors":["silver","blue","white"]},
+            {"id":16511, "colors":["golden","black"]},
+            {"id":16512, "colors":["silver","blue"]},
+            {"id":16513, "colors":["silver","yellow"]},
+            {"id":16514, "colors":["silver","purple"]},
+            {"id":16515, "colors":["silver","brown"]},
+            {"id":16516, "colors":["golden","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16517, "zone":"torso", "category":"top", "security":"46f2f13d78ca99b4", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Camisa",
+        "outfitName":"Conquerer of the Tides",
+        "variations":[
+            {"id":16517, "colors":["golden","brown","blue"]},
+            {"id":16518, "colors":["golden","brown","red"]},
+            {"id":16519, "colors":["golden","brown","green"]},
+            {"id":16520, "colors":["silver","white","blue"]},
+            {"id":16521, "colors":["golden","black","grey"]},
+            {"id":16522, "colors":["silver","black","grey"]},
+            {"id":16523, "colors":["silver","brown","yellow"]},
+            {"id":16524, "colors":["silver","purple","brown"]},
+            {"id":16525, "colors":["silver","brown"]},
+            {"id":16526, "colors":["golden","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16527, "zone":"head", "category":"wig", "security":"60121140ec27bcee", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Conquerer of the Tides",
+        "variations":[
+            {"id":16527, "colors":["brown","golden"]},
+            {"id":16528, "colors":["white","golden"]},
+            {"id":16529, "colors":["black","golden"]},
+            {"id":16530, "colors":["blue","golden"]},
+            {"id":16531, "colors":["black","golden"]},
+            {"id":16532, "colors":["golden","purple"]},
+            {"id":16533, "colors":["brown","golden"]},
+            {"id":16534, "colors":["yellow","golden"]},
+            {"id":16535, "colors":["orange","golden"]},
+            {"id":16536, "colors":["pink","golden"]},
+            {"id":16537, "colors":["brown","silver"]},
+            {"id":16538, "colors":["white","silver"]},
+            {"id":16539, "colors":["black","silver"]},
+            {"id":16540, "colors":["blue","silver"]},
+            {"id":16541, "colors":["black","silver"]},
+            {"id":16542, "colors":["silver","purple"]},
+            {"id":16543, "colors":["brown","silver"]},
+            {"id":16544, "colors":["yellow","silver"]},
+            {"id":16545, "colors":["orange","silver"]},
+            {"id":16546, "colors":["pink","silver"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16547, "zone":"head", "category":"hat", "security":"1750c617b394a7cb", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Sombrero",
+        "outfitName":"Conquerer of the Tides",
+        "variations":[
+            {"id":16547, "colors":["golden","black","blue"]},
+            {"id":16548, "colors":["golden","black","red"]},
+            {"id":16549, "colors":["golden","green"]},
+            {"id":16550, "colors":["silver","white","blue"]},
+            {"id":16551, "colors":["golden","black","grey"]},
+            {"id":16552, "colors":["silver","grey","blue"]},
+            {"id":16553, "colors":["silver","yellow","brown"]},
+            {"id":16554, "colors":["silver","purple","pink"]},
+            {"id":16555, "colors":["silver","brown","red"]},
+            {"id":16556, "colors":["golden","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16557, "zone":"arms", "category":"bag", "security":"17a4b1e867bf5081", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sable",
+        "outfitName":"Conquerer of the Tides",
+        "variations":[
+            {"id":16557, "colors":["silver","golden","blue"]},
+            {"id":16558, "colors":["silver","golden","red"]},
+            {"id":16559, "colors":["green"]},
+            {"id":16560, "colors":["silver","white"]},
+            {"id":16561, "colors":["silver","black"]},
+            {"id":16562, "colors":["silver","brown","black"]},
+            {"id":16563, "colors":["golden","yellow"]},
+            {"id":16564, "colors":["silver","purple","brown"]},
+            {"id":16565, "colors":["silver","brown","blue"]},
+            {"id":16566, "colors":["pink","golden"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16567, "zone":"general", "category":"tattoo", "security":"cade2fcded6758c6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Escamas",
+        "outfitName":"Singer of the Sea",
+        "variations":[
+            {"id":16567, "colors":["blue"]},
+            {"id":16568, "colors":["pink"]},
+            {"id":16569, "colors":["red"]},
+            {"id":16570, "colors":["purple"]},
+            {"id":16571, "colors":["white"]},
+            {"id":16572, "colors":["black"]},
+            {"id":16573, "colors":["green"]},
+            {"id":16574, "colors":["silver"]},
+            {"id":16575, "colors":["yellow"]},
+            {"id":16576, "colors":["blue"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16577, "zone":"general", "category":"other", "security":"0674da83024bac3b", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Cola de sirena",
+        "outfitName":"Singer of the Sea",
+        "variations":[
+            {"id":16577, "colors":["blue","yellow"]},
+            {"id":16578, "colors":["pink","green"]},
+            {"id":16579, "colors":["red","black"]},
+            {"id":16580, "colors":["purple","orange"]},
+            {"id":16581, "colors":["white","blue"]},
+            {"id":16582, "colors":["black","purple"]},
+            {"id":16583, "colors":["green","purple"]},
+            {"id":16584, "colors":["silver","white"]},
+            {"id":16585, "colors":["yellow","blue"]},
+            {"id":16586, "colors":["orange","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16587, "zone":"arms", "category":"gloves", "security":"28a97a26ee630b01", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Guantes",
+        "outfitName":"Singer of the Sea",
+        "variations":[
+            {"id":16587, "colors":["brown"]},
+            {"id":16588, "colors":["blue"]},
+            {"id":16589, "colors":["black"]},
+            {"id":16590, "colors":["orange"]},
+            {"id":16591, "colors":["white"]},
+            {"id":16592, "colors":["purple"]},
+            {"id":16593, "colors":["pink"]},
+            {"id":16594, "colors":["green"]},
+            {"id":16595, "colors":["red"]},
+            {"id":16596, "colors":["yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16597, "zone":"torso_waistToKnee", "category":"waist", "security":"0bb5add593bc3860", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Cinturón",
+        "outfitName":"Singer of the Sea",
+        "variations":[
+            {"id":16597, "colors":["brown","green","yellow"]},
+            {"id":16598, "colors":["blue","pink"]},
+            {"id":16599, "colors":["black","purple","orange"]},
+            {"id":16600, "colors":["orange","green","blue"]},
+            {"id":16601, "colors":["white","green","purple"]},
+            {"id":16602, "colors":["black","purple","red"]},
+            {"id":16603, "colors":["pink","blue","purple"]},
+            {"id":16604, "colors":["green","black","white"]},
+            {"id":16605, "colors":["red","green","blue"]},
+            {"id":16606, "colors":["yellow","green","brown"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16607, "zone":"torso", "category":"top", "security":"ded2b59f204ed716", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"Singer of the Sea",
+        "variations":[
+            {"id":16607, "colors":["blue","yellow"]},
+            {"id":16608, "colors":["green","pink"]},
+            {"id":16609, "colors":["black","red"]},
+            {"id":16610, "colors":["orange","purple"]},
+            {"id":16611, "colors":["white"]},
+            {"id":16612, "colors":["black"]},
+            {"id":16613, "colors":["purple","green"]},
+            {"id":16614, "colors":["white","grey"]},
+            {"id":16615, "colors":["blue","yellow"]},
+            {"id":16616, "colors":["blue","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16617, "zone":"head", "category":"wig", "security":"6ad2e97af3e55b88", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Singer of the Sea",
+        "variations":[
+            {"id":16617, "colors":["brown"]},
+            {"id":16618, "colors":["white"]},
+            {"id":16619, "colors":["black"]},
+            {"id":16620, "colors":["blue"]},
+            {"id":16621, "colors":["blue"]},
+            {"id":16622, "colors":["purple"]},
+            {"id":16623, "colors":["red"]},
+            {"id":16624, "colors":["yellow"]},
+            {"id":16625, "colors":["orange"]},
+            {"id":16626, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16627, "zone":"head", "category":"hat", "security":"4533dad2f90cfe1f", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Corona",
+        "outfitName":"Singer of the Sea",
+        "variations":[
+            {"id":16627, "colors":["golden","yellow","blue"]},
+            {"id":16628, "colors":["golden","pink","green"]},
+            {"id":16629, "colors":["silver","red","black"]},
+            {"id":16630, "colors":["silver","purple","orange"]},
+            {"id":16631, "colors":["silver","purple","white"]},
+            {"id":16632, "colors":["silver","purple","white"]},
+            {"id":16633, "colors":["green","yellow","golden"]},
+            {"id":16634, "colors":["black","white","silver"]},
+            {"id":16635, "colors":["golden","blue","yellow"]},
+            {"id":16636, "colors":["golden","pink","yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16637, "zone":"general", "category":"other", "security":"4c797769a591db82", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Piscis",
+        "outfitName":"Singer of the Sea",
+        "variations":[
+            {"id":16637, "colors":["white","orange"]},
+            {"id":16638, "colors":["pink","orange","yellow"]},
+            {"id":16639, "colors":["black"]},
+            {"id":16640, "colors":["purple","blue","yellow"]},
+            {"id":16641, "colors":["white"]},
+            {"id":16642, "colors":["blue","yellow","black"]},
+            {"id":16643, "colors":["yellow","blue","white"]},
+            {"id":16644, "colors":["green"]},
+            {"id":16645, "colors":["red"]},
+            {"id":16646, "colors":["yellow","orange"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16647, "zone":"feet", "category":"shoes", "security":"3e241e318f53d3a5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sandalias",
+        "outfitName":"Sunny Days",
+        "variations":[
+            {"id":16647, "colors":["brown","orange"]},
+            {"id":16648, "colors":["red"]},
+            {"id":16649, "colors":["yellow"]},
+            {"id":16650, "colors":["black"]},
+            {"id":16651, "colors":["green"]},
+            {"id":16652, "colors":["blue"]},
+            {"id":16653, "colors":["white"]},
+            {"id":16654, "colors":["pink"]},
+            {"id":16655, "colors":["purple"]},
+            {"id":16656, "colors":["blue","green"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"},
+        "releaseDate":"2026-07-15"
+    },
+    {
+        "groupId":16657, "zone":"torso_waistToKnee", "category":"underwear", "security":"3c8dc5d71ec524d4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"Sunny Days",
+        "variations":[
+            {"id":16657, "colors":["brown"]},
+            {"id":16658, "colors":["red"]},
+            {"id":16659, "colors":["yellow"]},
+            {"id":16660, "colors":["black"]},
+            {"id":16661, "colors":["green"]},
+            {"id":16662, "colors":["blue"]},
+            {"id":16663, "colors":["white"]},
+            {"id":16664, "colors":["pink"]},
+            {"id":16665, "colors":["purple"]},
+            {"id":16666, "colors":["blue","green"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"},
+        "releaseDate":"2026-07-15"
+    },
+    {
+        "groupId":16667, "zone":"torso_waistToKnee", "category":"dress", "security":"14b8e76d13999f61", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Sunny Days",
+        "variations":[
+            {"id":16667, "colors":["white"]},
+            {"id":16668, "colors":["black"]},
+            {"id":16669, "colors":["green"]},
+            {"id":16670, "colors":["brown"]},
+            {"id":16671, "colors":["yellow"]},
+            {"id":16672, "colors":["pink"]},
+            {"id":16673, "colors":["blue"]},
+            {"id":16674, "colors":["purple"]},
+            {"id":16675, "colors":["blue","green"]},
+            {"id":16676, "colors":["red"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"},
+        "releaseDate":"2026-07-15"
+    },
+    {
+        "groupId":16677, "zone":"torso", "category":"jacket", "security":"a60db65c51ec7a13", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Kimono",
+        "outfitName":"Sunny Days",
+        "variations":[
+            {"id":16677, "colors":["white"]},
+            {"id":16678, "colors":["black"]},
+            {"id":16679, "colors":["green"]},
+            {"id":16680, "colors":["brown"]},
+            {"id":16681, "colors":["yellow"]},
+            {"id":16682, "colors":["pink"]},
+            {"id":16683, "colors":["blue"]},
+            {"id":16684, "colors":["purple"]},
+            {"id":16685, "colors":["blue","green"]},
+            {"id":16686, "colors":["red"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"},
+        "releaseDate":"2026-07-15"
+    },
+    {
+        "groupId":16687, "zone":"general", "category":"other", "security":"d8ccb03f731ceeb2", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Bolsa de playa",
+        "outfitName":"Sunny Days",
+        "variations":[
+            {"id":16687, "colors":["yellow","brown"]},
+            {"id":16688, "colors":["yellow","red"]},
+            {"id":16689, "colors":["yellow"]},
+            {"id":16690, "colors":["yellow","black"]},
+            {"id":16691, "colors":["yellow","green"]},
+            {"id":16692, "colors":["yellow","blue"]},
+            {"id":16693, "colors":["yellow","white"]},
+            {"id":16694, "colors":["yellow","pink"]},
+            {"id":16695, "colors":["yellow","purple"]},
+            {"id":16696, "colors":["blue","green","yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"},
+        "releaseDate":"2026-07-15"
+    },
+    {
+        "groupId":16697, "zone":"face", "category":"neckAccessory", "security":"9b4a4bc31ffc2469", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Sunny Days",
+        "variations":[
+            {"id":16697, "colors":["golden"]},
+            {"id":16698, "colors":["silver"]},
+            {"id":16699, "colors":["green"]},
+            {"id":16700, "colors":["yellow"]},
+            {"id":16701, "colors":["brown"]},
+            {"id":16702, "colors":["pink"]},
+            {"id":16703, "colors":["white"]},
+            {"id":16704, "colors":["blue"]},
+            {"id":16705, "colors":["black"]},
+            {"id":16706, "colors":["red"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"},
+        "releaseDate":"2026-07-15"
+    },
+    {
+        "groupId":16707, "zone":"arms", "category":"armAccessory", "security":"f0e96984713b0e39", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pulseras",
+        "outfitName":"Sunny Days",
+        "variations":[
+            {"id":16707, "colors":["golden"]},
+            {"id":16708, "colors":["silver"]},
+            {"id":16709, "colors":["green"]},
+            {"id":16710, "colors":["yellow"]},
+            {"id":16711, "colors":["brown"]},
+            {"id":16712, "colors":["pink"]},
+            {"id":16713, "colors":["white"]},
+            {"id":16714, "colors":["blue"]},
+            {"id":16715, "colors":["black"]},
+            {"id":16716, "colors":["red"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"},
+        "releaseDate":"2026-07-15"
+    },
+    {
+        "groupId":16717, "zone":"head", "category":"faceAccessory", "security":"379a0b2310400245", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gafas de sol",
+        "outfitName":"Sunny Days",
+        "variations":[
+            {"id":16717, "colors":["brown"]},
+            {"id":16718, "colors":["red"]},
+            {"id":16719, "colors":["yellow"]},
+            {"id":16720, "colors":["black"]},
+            {"id":16721, "colors":["green"]},
+            {"id":16722, "colors":["blue"]},
+            {"id":16723, "colors":["white"]},
+            {"id":16724, "colors":["pink"]},
+            {"id":16725, "colors":["purple"]},
+            {"id":16726, "colors":["blue","green"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"},
+        "releaseDate":"2026-07-15"
+    },
+    {
+        "groupId":16727, "zone":"head", "category":"earring", "security":"4f00c5ee4f626245", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Pendientes",
+        "outfitName":"Sunny Days",
+        "variations":[
+            {"id":16727, "colors":["golden"]},
+            {"id":16728, "colors":["silver"]},
+            {"id":16729, "colors":["green"]},
+            {"id":16730, "colors":["yellow"]},
+            {"id":16731, "colors":["brown"]},
+            {"id":16732, "colors":["pink"]},
+            {"id":16733, "colors":["white"]},
+            {"id":16734, "colors":["blue"]},
+            {"id":16735, "colors":["black"]},
+            {"id":16736, "colors":["red"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"},
+        "releaseDate":"2026-07-15"
+    },
+    {
+        "groupId":16737, "zone":"head", "category":"hat", "security":"170d7b4163e52210", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Sombrero",
+        "outfitName":"Sunny Days",
+        "variations":[
+            {"id":16737, "colors":["brown","orange"]},
+            {"id":16738, "colors":["red","black"]},
+            {"id":16739, "colors":["yellow","green"]},
+            {"id":16740, "colors":["brown","black"]},
+            {"id":16741, "colors":["yellow","green"]},
+            {"id":16742, "colors":["pink","blue"]},
+            {"id":16743, "colors":["white","blue"]},
+            {"id":16744, "colors":["pink","purple"]},
+            {"id":16745, "colors":["blue","purple"]},
+            {"id":16746, "colors":["blue","green","white"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"},
+        "releaseDate":"2026-07-15"
+    },
+    {
+        "groupId":16747, "zone":"torso_waistToKnee", "category":"underwear", "security":"965833c571510c6f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Biquini",
+        "outfitName":"Sea, Scales & Skates",
+        "variations":[
+            {"id":16747, "colors":["purple","green"]},
+            {"id":16748, "colors":["brown","white"]},
+            {"id":16749, "colors":["grey","black"]},
+            {"id":16750, "colors":["red","orange"]},
+            {"id":16751, "colors":["black","red"]},
+            {"id":16752, "colors":["white","blue"]},
+            {"id":16753, "colors":["golden","purple","yellow"]},
+            {"id":16754, "colors":["golden","pink","yellow"]},
+            {"id":16755, "colors":["green","pink"]},
+            {"id":16756, "colors":["blue","grey","silver"]}
+        ], "criteria":{"type":"calendar", "info":"2026-29", "text":"Desbloqueado en el calendario\nN°29 - 2026"},
+        "releaseDate":"2026-07-30"
+    },
+    {
+        "groupId":16757, "zone":"torso_waistToKnee", "category":"dress", "security":"8a482345e484b379", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Mono corto",
+        "outfitName":"Sea, Scales & Skates",
+        "variations":[
+            {"id":16757, "colors":["blue"]},
+            {"id":16758, "colors":["pink"]},
+            {"id":16759, "colors":["red"]},
+            {"id":16760, "colors":["green"]},
+            {"id":16761, "colors":["purple"]},
+            {"id":16762, "colors":["grey"]},
+            {"id":16763, "colors":["white"]},
+            {"id":16764, "colors":["brown"]},
+            {"id":16765, "colors":["yellow"]},
+            {"id":16766, "colors":["black"]}
+        ], "criteria":{"type":"calendar", "info":"2026-29", "text":"Desbloqueado en el calendario\nN°29 - 2026"},
+        "releaseDate":"2026-07-30"
+    },
+    {
+        "groupId":16767, "zone":"arms", "category":"bag", "security":"abadccaa62013716", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Casco",
+        "outfitName":"Sea, Scales & Skates",
+        "variations":[
+            {"id":16767, "colors":["pink"]},
+            {"id":16768, "colors":["brown","yellow"]},
+            {"id":16769, "colors":["white"]},
+            {"id":16770, "colors":["purple"]},
+            {"id":16771, "colors":["grey"]},
+            {"id":16772, "colors":["black"]},
+            {"id":16773, "colors":["orange"]},
+            {"id":16774, "colors":["red"]},
+            {"id":16775, "colors":["blue"]},
+            {"id":16776, "colors":["green"]}
+        ], "criteria":{"type":"calendar", "info":"2026-29", "text":"Desbloqueado en el calendario\nN°29 - 2026"},
+        "releaseDate":"2026-07-30"
+    },
+    {
+        "groupId":16777, "zone":"arms", "category":"armAccessory", "security":"3a52621a7dc56ca8", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Protectores de brazos",
+        "outfitName":"Sea, Scales & Skates",
+        "variations":[
+            {"id":16777, "colors":["white","purple","green"]},
+            {"id":16778, "colors":["white","brown"]},
+            {"id":16779, "colors":["white","grey","black"]},
+            {"id":16780, "colors":["white","red","orange"]},
+            {"id":16781, "colors":["white","black","red"]},
+            {"id":16782, "colors":["white","blue"]},
+            {"id":16783, "colors":["white","yellow","purple"]},
+            {"id":16784, "colors":["white","pink","yellow"]},
+            {"id":16785, "colors":["white","green","pink"]},
+            {"id":16786, "colors":["white","blue","grey"]}
+        ], "criteria":{"type":"calendar", "info":"2026-29", "text":"Desbloqueado en el calendario\nN°29 - 2026"},
+        "releaseDate":"2026-07-30"
+    },
+    {
+        "groupId":16787, "zone":"feet", "category":"legAccessory", "security":"2d76bdddad524209", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Protectores de rodillas",
+        "outfitName":"Sea, Scales & Skates",
+        "variations":[
+            {"id":16787, "colors":["white","purple","green"]},
+            {"id":16788, "colors":["white","brown"]},
+            {"id":16789, "colors":["white","grey","black"]},
+            {"id":16790, "colors":["white","red","orange"]},
+            {"id":16791, "colors":["white","black","red"]},
+            {"id":16792, "colors":["white","blue"]},
+            {"id":16793, "colors":["white","yellow","purple"]},
+            {"id":16794, "colors":["white","pink","yellow"]},
+            {"id":16795, "colors":["white","green","pink"]},
+            {"id":16796, "colors":["white","blue","grey"]}
+        ], "criteria":{"type":"calendar", "info":"2026-29", "text":"Desbloqueado en el calendario\nN°29 - 2026"},
+        "releaseDate":"2026-07-30"
+    },
+    {
+        "groupId":16797, "zone":"feet", "category":"shoes", "security":"d1fda7e9ab4cb103", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Patines",
+        "outfitName":"Sea, Scales & Skates",
+        "variations":[
+            {"id":16797, "colors":["green","purple"]},
+            {"id":16798, "colors":["white","brown"]},
+            {"id":16799, "colors":["black","grey"]},
+            {"id":16800, "colors":["orange","red"]},
+            {"id":16801, "colors":["black","red"]},
+            {"id":16802, "colors":["white","blue"]},
+            {"id":16803, "colors":["purple","yellow"]},
+            {"id":16804, "colors":["pink","yellow"]},
+            {"id":16805, "colors":["green","pink"]},
+            {"id":16806, "colors":["blue","grey"]}
+        ], "criteria":{"type":"calendar", "info":"2026-29", "text":"Desbloqueado en el calendario\nN°29 - 2026"},
+        "releaseDate":"2026-07-30"
+    },
+    {
+        "groupId":16807, "zone":"general", "category":"skin", "security":"80471410881ee89d", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Piel",
+        "outfitName":"Deep Sea Menace",
+        "variations":[
+            {"id":16807, "colors":["grey","blue"]},
+            {"id":16808, "colors":["blue"]},
+            {"id":16809, "colors":["purple"]},
+            {"id":16810, "colors":["green"]},
+            {"id":16811, "colors":["white","blue"]},
+            {"id":16812, "colors":["pink"]},
+            {"id":16813, "colors":["red"]},
+            {"id":16814, "colors":["yellow"]},
+            {"id":16815, "colors":["black"]},
+            {"id":16816, "colors":["grey"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16817, "zone":"torso_waistToKnee", "category":"underwear", "security":"8c0c4a46a5512806", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Ropa interior",
+        "outfitName":"Deep Sea Menace",
+        "variations":[
+            {"id":16817, "colors":["blue"]},
+            {"id":16818, "colors":["blue"]},
+            {"id":16819, "colors":["purple"]},
+            {"id":16820, "colors":["green"]},
+            {"id":16821, "colors":["white","blue"]},
+            {"id":16822, "colors":["pink"]},
+            {"id":16823, "colors":["red"]},
+            {"id":16824, "colors":["yellow"]},
+            {"id":16825, "colors":["black"]},
+            {"id":16826, "colors":["grey"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16827, "zone":"general", "category":"other", "security":"c6fe80f1a48eafaa", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Rabo",
+        "outfitName":"Deep Sea Menace",
+        "variations":[
+            {"id":16827, "colors":["blue"]},
+            {"id":16828, "colors":["blue"]},
+            {"id":16829, "colors":["purple"]},
+            {"id":16830, "colors":["green"]},
+            {"id":16831, "colors":["white","blue"]},
+            {"id":16832, "colors":["pink"]},
+            {"id":16833, "colors":["red"]},
+            {"id":16834, "colors":["yellow"]},
+            {"id":16835, "colors":["black"]},
+            {"id":16836, "colors":["grey"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16837, "zone":"face", "category":"neckAccessory", "security":"3db5be1c947ec8f4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Deep Sea Menace",
+        "variations":[
+            {"id":16837, "colors":["brown"]},
+            {"id":16838, "colors":["black"]},
+            {"id":16839, "colors":["blue","green"]},
+            {"id":16840, "colors":["yellow"]},
+            {"id":16841, "colors":["blue"]},
+            {"id":16842, "colors":["purple"]},
+            {"id":16843, "colors":["green"]},
+            {"id":16844, "colors":["white"]},
+            {"id":16845, "colors":["red"]},
+            {"id":16846, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16847, "zone":"head", "category":"earring", "security":"437ece2382a60137", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Orejas",
+        "outfitName":"Deep Sea Menace",
+        "variations":[
+            {"id":16847, "colors":["blue"]},
+            {"id":16848, "colors":["blue"]},
+            {"id":16849, "colors":["purple"]},
+            {"id":16850, "colors":["green"]},
+            {"id":16851, "colors":["white","blue"]},
+            {"id":16852, "colors":["pink"]},
+            {"id":16853, "colors":["red"]},
+            {"id":16854, "colors":["yellow"]},
+            {"id":16855, "colors":["black"]},
+            {"id":16856, "colors":["grey","white"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16857, "zone":"head", "category":"wig", "security":"bde0718243d6b720", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Deep Sea Menace",
+        "variations":[
+            {"id":16857, "colors":["brown"]},
+            {"id":16858, "colors":["white"]},
+            {"id":16859, "colors":["black"]},
+            {"id":16860, "colors":["blue"]},
+            {"id":16861, "colors":["blue"]},
+            {"id":16862, "colors":["purple"]},
+            {"id":16863, "colors":["red"]},
+            {"id":16864, "colors":["yellow"]},
+            {"id":16865, "colors":["orange"]},
+            {"id":16866, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16867, "zone":"arms", "category":"bag", "security":"62605f1879bb557b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tridente",
+        "outfitName":"Deep Sea Menace",
+        "variations":[
+            {"id":16867, "colors":["brown"]},
+            {"id":16868, "colors":["black"]},
+            {"id":16869, "colors":["blue","green"]},
+            {"id":16870, "colors":["yellow"]},
+            {"id":16871, "colors":["blue"]},
+            {"id":16872, "colors":["purple"]},
+            {"id":16873, "colors":["green"]},
+            {"id":16874, "colors":["white"]},
+            {"id":16875, "colors":["red"]},
+            {"id":16876, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16877, "zone":"arms", "category":"armAccessory", "security":"cec0241e5d3c0345", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Aletas",
+        "outfitName":"Deep Sea Menace",
+        "variations":[
+            {"id":16877, "colors":["blue"]},
+            {"id":16878, "colors":["blue"]},
+            {"id":16879, "colors":["purple"]},
+            {"id":16880, "colors":["green"]},
+            {"id":16881, "colors":["white"]},
+            {"id":16882, "colors":["pink"]},
+            {"id":16883, "colors":["red"]},
+            {"id":16884, "colors":["yellow"]},
+            {"id":16885, "colors":["black"]},
+            {"id":16886, "colors":["grey"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16887, "zone":"head", "category":"hat", "security":"a985be4f2144181f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Corona",
+        "outfitName":"Deep Sea Menace",
+        "variations":[
+            {"id":16887, "colors":["blue"]},
+            {"id":16888, "colors":["blue"]},
+            {"id":16889, "colors":["purple"]},
+            {"id":16890, "colors":["green"]},
+            {"id":16891, "colors":["white","blue"]},
+            {"id":16892, "colors":["pink","purple"]},
+            {"id":16893, "colors":["red"]},
+            {"id":16894, "colors":["yellow"]},
+            {"id":16895, "colors":["black"]},
+            {"id":16896, "colors":["grey","pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16897, "zone":"general", "category":"other", "security":"e1bda6d3c3aefa2a", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Morenas",
+        "outfitName":"Deep Sea Menace",
+        "variations":[
+            {"id":16897, "colors":["blue","green"]},
+            {"id":16898, "colors":["blue"]},
+            {"id":16899, "colors":["purple"]},
+            {"id":16900, "colors":["green"]},
+            {"id":16901, "colors":["white","blue"]},
+            {"id":16902, "colors":["pink"]},
+            {"id":16903, "colors":["red"]},
+            {"id":16904, "colors":["yellow"]},
+            {"id":16905, "colors":["black"]},
+            {"id":16906, "colors":["grey"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+    {
+        "groupId":16907, "zone":"general", "category":"other", "security":"1dee6ebdd7298720", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Bubbles",
+        "outfitName":"Deep Sea Menace",
+        "variations":[
+            {"id":16907, "colors":["blue"]},
+            {"id":16908, "colors":["blue"]},
+            {"id":16909, "colors":["purple"]},
+            {"id":16910, "colors":["green"]},
+            {"id":16911, "colors":["white"]},
+            {"id":16912, "colors":["pink"]},
+            {"id":16913, "colors":["red"]},
+            {"id":16914, "colors":["yellow"]},
+            {"id":16915, "colors":["black"]},
+            {"id":16916, "colors":["grey"]}
+        ], "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "releaseDate":"2026-07-22"
+    },
+
+    {
+        "groupId":17157, "zone":"general", "category":"tattoo", "security":"c16e2387ee3803bb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tatuaje",
+        "outfitName":"Ocean's Call",
+        "variations":[
+            {"id":17157, "colors":["black"]},
+            {"id":17158, "colors":["white"]},
+            {"id":17159, "colors":["red"]},
+            {"id":17160, "colors":["yellow"]},
+            {"id":17161, "colors":["orange"]},
+            {"id":17162, "colors":["pink"]},
+            {"id":17163, "colors":["purple"]},
+            {"id":17164, "colors":["green"]},
+            {"id":17165, "colors":["blue"]},
+            {"id":17166, "colors":["blue","grey"]}
+        ], "criteria":{"type":"hunt", "info":"summer-2026", "text":"Desbloqueado durante el evento\nOcean's Call"},
+        "releaseDate":"2026-08-18"
+    },
+    {
+        "groupId":17167, "zone":"general", "category":"tattoo", "security":"22f5446de0ca3af4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tatuaje",
+        "outfitName":"Ocean's Call",
+        "variations":[
+            {"id":17167, "colors":["black"]},
+            {"id":17168, "colors":["white"]},
+            {"id":17169, "colors":["red"]},
+            {"id":17170, "colors":["yellow"]},
+            {"id":17171, "colors":["orange"]},
+            {"id":17172, "colors":["pink"]},
+            {"id":17173, "colors":["purple"]},
+            {"id":17174, "colors":["green"]},
+            {"id":17175, "colors":["blue"]},
+            {"id":17176, "colors":["blue","grey"]}
+        ], "criteria":{"type":"hunt", "info":"summer-2026", "text":"Desbloqueado durante el evento\nOcean's Call"},
+        "releaseDate":"2026-08-18"
+    },
+    {
+        "groupId":17177, "zone":"head", "category":"wig", "security":"2b67a25697ae948c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Ocean's Call",
+        "variations":[
+            {"id":17177, "colors":["brown"]},
+            {"id":17178, "colors":["white"]},
+            {"id":17179, "colors":["black"]},
+            {"id":17180, "colors":["blue"]},
+            {"id":17181, "colors":["blue"]},
+            {"id":17182, "colors":["purple"]},
+            {"id":17183, "colors":["red"]},
+            {"id":17184, "colors":["yellow"]},
+            {"id":17185, "colors":["orange"]},
+            {"id":17186, "colors":["pink"]}
+        ], "criteria":{"type":"hunt", "info":"summer-2026", "text":"Desbloqueado durante el evento\nOcean's Call"},
+        "releaseDate":"2026-08-18"
+    },
+    {
+        "groupId":17187, "zone":"feet", "category":"legAccessory", "security":"d278d8a16b9149ae", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pulseras",
+        "outfitName":"Ocean's Call",
+        "variations":[
+            {"id":17187, "colors":["yellow","red","green"]},
+            {"id":17188, "colors":["white","green"]},
+            {"id":17189, "colors":["black","green"]},
+            {"id":17190, "colors":["blue","yellow","green"]},
+            {"id":17191, "colors":["grey","orange","green"]},
+            {"id":17192, "colors":["red","pink","green"]},
+            {"id":17193, "colors":["pink","purple","green"]},
+            {"id":17194, "colors":["orange","green"]},
+            {"id":17195, "colors":["blue","green"]},
+            {"id":17196, "colors":["green","grey","purple"]}
+        ], "criteria":{"type":"hunt", "info":"summer-2026", "text":"Desbloqueado durante el evento\nOcean's Call"},
+        "releaseDate":"2026-08-18"
+    },
+    {
+        "groupId":17197, "zone":"torso", "category":"top", "security":"bd022a556d8d22e6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Camiseta",
+        "outfitName":"Ocean's Call",
+        "variations":[
+            {"id":17197, "colors":["red","brown"]},
+            {"id":17198, "colors":["white","grey"]},
+            {"id":17199, "colors":["black","grey"]},
+            {"id":17200, "colors":["yellow","brown"]},
+            {"id":17201, "colors":["orange","brown"]},
+            {"id":17202, "colors":["pink"]},
+            {"id":17203, "colors":["purple","pink"]},
+            {"id":17204, "colors":["green"]},
+            {"id":17205, "colors":["blue"]},
+            {"id":17206, "colors":["grey"]}
+        ], "criteria":{"type":"hunt", "info":"summer-2026", "text":"Desbloqueado durante el evento\nOcean's Call"},
+        "releaseDate":"2026-08-18"
+    },
+    {
+        "groupId":17207, "zone":"arms", "category":"armAccessory", "security":"c955aaf02e930357", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pulseras",
+        "outfitName":"Ocean's Call",
+        "variations":[
+            {"id":17207, "colors":["yellow"]},
+            {"id":17208, "colors":["white"]},
+            {"id":17209, "colors":["black"]},
+            {"id":17210, "colors":["blue"]},
+            {"id":17211, "colors":["grey"]},
+            {"id":17212, "colors":["red"]},
+            {"id":17213, "colors":["pink"]},
+            {"id":17214, "colors":["orange"]},
+            {"id":17215, "colors":["green"]},
+            {"id":17216, "colors":["purple"]}
+        ], "criteria":{"type":"hunt", "info":"summer-2026", "text":"Desbloqueado durante el evento\nOcean's Call"},
+        "releaseDate":"2026-08-18"
+    },
+    {
+        "groupId":17217, "zone":"face", "category":"neckAccessory", "security":"37a3cfc91b3dfd41", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"Ocean's Call",
+        "variations":[
+            {"id":17217, "colors":["brown"]},
+            {"id":17218, "colors":["brown","white"]},
+            {"id":17219, "colors":["brown","black"]},
+            {"id":17220, "colors":["brown","golden"]},
+            {"id":17221, "colors":["brown","pink"]},
+            {"id":17222, "colors":["brown","red"]},
+            {"id":17223, "colors":["brown","purple"]},
+            {"id":17224, "colors":["brown","green"]},
+            {"id":17225, "colors":["brown","blue"]},
+            {"id":17226, "colors":["brown","grey"]}
+        ], "criteria":{"type":"hunt", "info":"summer-2026", "text":"Desbloqueado durante el evento\nOcean's Call"},
+        "releaseDate":"2026-08-18"
+    },
+    {
+        "groupId":17227, "zone":"waistToKnee", "category":"skirt", "security":"daa8d00d9f349ea5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda More",
+        "outfitName":"Ocean's Call",
+        "variations":[
+            {"id":17227, "colors":["brown","yellow","red"]},
+            {"id":17228, "colors":["white","green"]},
+            {"id":17229, "colors":["black","green"]},
+            {"id":17230, "colors":["brown","blue","yellow"]},
+            {"id":17231, "colors":["red","grey","orange"]},
+            {"id":17232, "colors":["pink","red","green"]},
+            {"id":17233, "colors":["purple","pink","green"]},
+            {"id":17234, "colors":["green","orange"]},
+            {"id":17235, "colors":["blue","green"]},
+            {"id":17236, "colors":["grey","purple","green"]}
+        ], "criteria":{"type":"hunt", "info":"summer-2026", "text":"Desbloqueado durante el evento\nOcean's Call"},
+        "releaseDate":"2026-08-18"
+    },
+    {
+        "groupId":17237, "zone":"head", "category":"hat", "security":"c9b8e2fdd45133f2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Corona Hei upo'o",
+        "outfitName":"Ocean's Call",
+        "variations":[
+            {"id":17237, "colors":["red","yellow","green"]},
+            {"id":17238, "colors":["white","green"]},
+            {"id":17239, "colors":["black","green"]},
+            {"id":17240, "colors":["yellow","blue","green"]},
+            {"id":17241, "colors":["grey","orange","green"]},
+            {"id":17242, "colors":["red","pink","green"]},
+            {"id":17243, "colors":["pink","purple","green"]},
+            {"id":17244, "colors":["green","orange"]},
+            {"id":17245, "colors":["blue","green"]},
+            {"id":17246, "colors":["purple","grey"]}
+        ], "criteria":{"type":"hunt", "info":"summer-2026", "text":"Desbloqueado durante el evento\nOcean's Call"},
+        "releaseDate":"2026-08-18"
+    },
+    {
+        "groupId":17247, "zone":"waistToKnee", "category":"skirt", "security":"0df8667cc0d2afa0", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Falda Pāreu",
+        "outfitName":"Ocean's Call",
+        "variations":[
+            {"id":17247, "colors":["red"]},
+            {"id":17248, "colors":["white"]},
+            {"id":17249, "colors":["black"]},
+            {"id":17250, "colors":["yellow"]},
+            {"id":17251, "colors":["orange"]},
+            {"id":17252, "colors":["pink"]},
+            {"id":17253, "colors":["pink","purple"]},
+            {"id":17254, "colors":["green"]},
+            {"id":17255, "colors":["blue"]},
+            {"id":17256, "colors":["grey"]}
+        ], "criteria":{"type":"hunt", "info":"summer-2026", "text":"Desbloqueado durante el evento\nOcean's Call"},
+        "releaseDate":"2026-08-18"
     }
 ]
