@@ -777,6 +777,18 @@
         "roomName":"What the F***?",
         "criteria":{"type":"jobTask", "info":"Snacks", "text":"Desbloqueado en la Misión del día\nSnacks"}
     },
+    {
+        "id":120, "roomId":36, "slot":"slot3", "releaseDate":"2026-01-30", "light":false, "security":"94a8d138f261690a",
+        "name":"Aparador",
+        "roomName":"What the F***?",
+        "criteria":{"type":"jobTask", "info":"Cuaderno", "text":"Desbloqueado en la Misión del día\nCuaderno"}
+    },
+    {
+        "id":121, "roomId":36, "slot":"slot2", "releaseDate":"2026-01-30", "light":true, "security":"ec9e9786dbcb40e4",
+        "name":"Sofá",
+        "roomName":"What the F***?",
+        "criteria":{"type":"jobTask", "info":"Cuaderno", "text":"Desbloqueado en la Misión del día\nCuaderno"}
+    },
 
     {
         "id":123, "roomId":37, "slot":"background", "releaseDate":"2025-05-30", "light":true, "security":"7089d75b0651ca70",
@@ -893,7 +905,16 @@
         "roomName":"Space Capsule",
         "criteria":{"type":"jobTask", "info":"Casco", "text":"Desbloqueado en la Misión del día\nCasco"}
     },
-
+    {
+        "id":141, "roomId":40, "slot":"background", "releaseDate":"2026-01-30", "light":true, "security":"2a21b8ebf01038e8",
+        "name":"Paredes",
+        "roomName":"Dirty Garage",
+        "criteria":{"type":"jobTask", "info":"Cuaderno", "text":"Desbloqueado en la Misión del día\nCuaderno"},
+        "backgroundColors":{
+            "day":{"color1":"DFE0E0","color2":"B8A9A9","colorLight":"043D82"},
+            "night":{"color1":"84BDFF","color2":"819DCC","colorLight":"0D35D2"}
+        }
+    },
     {
         "id":142, "roomId":40, "slot":"slot5", "releaseDate":"2025-08-01", "light":false, "security":"1b7327d349d626fd",
         "name":"Caja",
@@ -946,6 +967,14 @@
         "roomName":"Rock n' Wild",
         "criteria":{"type":"jobTask", "info":"Teléfono", "text":"Desbloqueado en la Misión del día\nTeléfono"}
     },
+
+    {
+        "id":151, "roomId":41, "slot":"slot2", "releaseDate":"2026-01-30", "light":true, "security":"faa8c506700d98a0",
+        "name":"Mesa de billar",
+        "roomName":"Rock n' Wild",
+        "criteria":{"type":"jobTask", "info":"Cuaderno", "text":"Desbloqueado en la Misión del día\nCuaderno"}
+    },
+
     {
         "id":153, "roomId":42, "slot":"background", "releaseDate":"2024-04-17", "light":true, "security":"6b8af3fa1e2ee135",
         "name":"Paredes",
@@ -1546,7 +1575,46 @@
         "roomName":"Sun 'n' Snack",
         "criteria":{"type":"gameEvent", "info":"summer-2025", "text":"Desbloqueado durante el evento\nSummer 2025"}
     },
-
+    {
+        "id":243, "roomId":57, "slot":"background", "releaseDate":"2026-06-30", "light":true, "security":"61574dd66ea427ad",
+        "name":"Paredes",
+        "roomName":"Surfer's Haven",
+        "criteria":{"type":"calendar", "info":"2026-28", "text":"Desbloqueado en el calendario\nN°28 - 2026"},
+        "backgroundColors":{
+            "day":{"color1":"FFFFFF","color2":"C5C8EC","colorLight":"084771"},
+            "night":{"color1":"D49481","color2":"95B6DE","colorLight":"CA6C1D"}
+        }
+    },
+    {
+        "id":244, "roomId":57, "slot":"slot1", "releaseDate":"2026-06-30", "light":false, "security":"a9c0e0b3a549c591",
+        "name":"Tablas de surf",
+        "roomName":"Surfer's Haven",
+        "criteria":{"type":"calendar", "info":"2026-28", "text":"Desbloqueado en el calendario\nN°28 - 2026"}
+    },
+    {
+        "id":245, "roomId":57, "slot":"slot2", "releaseDate":"2026-06-30", "light":true, "security":"46838bd157baa0a5",
+        "name":"Banco colgante",
+        "roomName":"Surfer's Haven",
+        "criteria":{"type":"calendar", "info":"2026-28", "text":"Desbloqueado en el calendario\nN°28 - 2026"}
+    },
+    {
+        "id":246, "roomId":57, "slot":"slot3", "releaseDate":"2026-06-30", "light":false, "security":"ed0d241bb7c5833c",
+        "name":"Tumbona",
+        "roomName":"Surfer's Haven",
+        "criteria":{"type":"calendar", "info":"2026-28", "text":"Desbloqueado en el calendario\nN°28 - 2026"}
+    },
+    {
+        "id":247, "roomId":57, "slot":"slot4", "releaseDate":"2026-06-30", "light":false, "security":"cd5b913d2b533d1a",
+        "name":"Sombrilla y nevera",
+        "roomName":"Surfer's Haven",
+        "criteria":{"type":"calendar", "info":"2026-28", "text":"Desbloqueado en el calendario\nN°28 - 2026"}
+    },
+    {
+        "id":248, "roomId":57, "slot":"slot5", "releaseDate":"2026-06-30", "light":true, "security":"eb7040f1108ae56c",
+        "name":"Linterna",
+        "roomName":"Surfer's Haven",
+        "criteria":{"type":"calendar", "info":"2026-28", "text":"Desbloqueado en el calendario\nN°28 - 2026"}
+    },
     {
         "id":249, "roomId":58, "slot":"background", "releaseDate":"2024-08-19", "light":true, "security":"3dee509c09d3daa8",
         "name":"Pérgola",
@@ -2580,36 +2648,31 @@
         "id":403, "roomId":86, "slot":"slot1", "releaseDate":"2025-06-15", "light":true, "security":"b308bd7b0c90ac70",
         "name":"Escritorio",
         "roomName":"Devon's Touch",
-        "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
-        "backgroundColors":null
+        "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"}
     },
     {
         "id":404, "roomId":86, "slot":"slot2", "releaseDate":"2025-06-15", "light":true, "security":"e4d688d15badeaea",
         "name":"Cama",
         "roomName":"Devon's Touch",
-        "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
-        "backgroundColors":null
+        "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"}
     },
     {
         "id":405, "roomId":86, "slot":"slot3", "releaseDate":"2025-06-15", "light":true, "security":"ce59b78b3d74d90f",
         "name":"Sillón",
         "roomName":"Devon's Touch",
-        "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
-        "backgroundColors":null
+        "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"}
     },
     {
         "id":406, "roomId":86, "slot":"slot4", "releaseDate":"2025-06-15", "light":false, "security":"32913d8aa8f4f233",
         "name":"Vestidor",
         "roomName":"Devon's Touch",
-        "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
-        "backgroundColors":null
+        "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"}
     },
     {
         "id":407, "roomId":86, "slot":"slot5", "releaseDate":"2025-06-15", "light":false, "security":"91ed42ba8c8d3eba",
         "name":"Mesa baja",
         "roomName":"Devon's Touch",
-        "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"},
-        "backgroundColors":null
+        "criteria":{"type":"pack", "info":"Devon's Vibe", "text":"Desbloqueado en el Pack exclusivo\nDevon's Vibe"}
     },
     {
         "id":408, "roomId":87, "slot":"background", "releaseDate":"2025-07-05", "light":true, "security":"9b6e3e08a6e3e2a8",
@@ -3633,35 +3696,192 @@
         "id":560, "roomId":113, "slot":"slot1", "releaseDate":"2026-05-01", "light":false, "security":"237a8d9eaf1db5db",
         "name":"Escalera",
         "roomName":"Breathing Space",
-        "criteria":{"type":"calendar", "info":"2026-26", "text":"Desbloqueado en el calendario\nN°26 - 2026"},
-        "backgroundColors":null
+        "criteria":{"type":"calendar", "info":"2026-26", "text":"Desbloqueado en el calendario\nN°26 - 2026"}
     },
     {
         "id":561, "roomId":113, "slot":"slot2", "releaseDate":"2026-05-01", "light":true, "security":"ab3771a02fc0c8a9",
         "name":"Banqueta",
         "roomName":"Breathing Space",
-        "criteria":{"type":"calendar", "info":"2026-26", "text":"Desbloqueado en el calendario\nN°26 - 2026"},
-        "backgroundColors":null
+        "criteria":{"type":"calendar", "info":"2026-26", "text":"Desbloqueado en el calendario\nN°26 - 2026"}
     },
     {
         "id":562, "roomId":113, "slot":"slot3", "releaseDate":"2026-05-01", "light":true, "security":"15a56bb69f4be852",
         "name":"Brasero",
         "roomName":"Breathing Space",
-        "criteria":{"type":"calendar", "info":"2026-26", "text":"Desbloqueado en el calendario\nN°26 - 2026"},
-        "backgroundColors":null
+        "criteria":{"type":"calendar", "info":"2026-26", "text":"Desbloqueado en el calendario\nN°26 - 2026"}
     },
     {
         "id":563, "roomId":113, "slot":"slot4", "releaseDate":"2026-05-01", "light":false, "security":"74f05913c41d89af",
         "name":"Pared vegetal",
         "roomName":"Breathing Space",
-        "criteria":{"type":"calendar", "info":"2026-26", "text":"Desbloqueado en el calendario\nN°26 - 2026"},
-        "backgroundColors":null
+        "criteria":{"type":"calendar", "info":"2026-26", "text":"Desbloqueado en el calendario\nN°26 - 2026"}
     },
     {
         "id":564, "roomId":113, "slot":"slot5", "releaseDate":"2026-05-01", "light":true, "security":"166156308f9c66d1",
         "name":"Pufs",
         "roomName":"Breathing Space",
-        "criteria":{"type":"calendar", "info":"2026-26", "text":"Desbloqueado en el calendario\nN°26 - 2026"},
-        "backgroundColors":null
+        "criteria":{"type":"calendar", "info":"2026-26", "text":"Desbloqueado en el calendario\nN°26 - 2026"}
+    },
+    {
+        "id":565, "roomId":114, "slot":"background", "releaseDate":"2026-05-20", "light":true, "security":"ac3b92b1e2e72b07",
+        "name":"Paredes",
+        "roomName":"Amanda's Touch",
+        "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"},
+        "backgroundColors":{
+            "day":{"color1":"EEFBFF","color2":"E4CFC0","colorLight":"2CDAFF"},
+            "night":{"color1":"FF9289","color2":"6C566D","colorLight":"F6AD5B"}
+        }
+    },
+    {
+        "id":566, "roomId":114, "slot":"slot1", "releaseDate":"2026-05-20", "light":true, "security":"7c653b20732fc5dc",
+        "name":"Cocina",
+        "roomName":"Amanda's Touch",
+        "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"}
+    },
+    {
+        "id":567, "roomId":114, "slot":"slot2", "releaseDate":"2026-05-20", "light":false, "security":"84c9e84fde05f052",
+        "name":"Cama",
+        "roomName":"Amanda's Touch",
+        "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"}
+    },
+    {
+        "id":568, "roomId":114, "slot":"slot3", "releaseDate":"2026-05-20", "light":false, "security":"09b03cd8c9efd685",
+        "name":"Mesa",
+        "roomName":"Amanda's Touch",
+        "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"}
+    },
+    {
+        "id":569, "roomId":114, "slot":"slot4", "releaseDate":"2026-05-20", "light":false, "security":"02705ff4acd05210",
+        "name":"Perchero",
+        "roomName":"Amanda's Touch",
+        "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"}
+    },
+    {
+        "id":570, "roomId":114, "slot":"slot5", "releaseDate":"2026-05-20", "light":false, "security":"7c4777a8b090b59e",
+        "name":"Mesa baja",
+        "roomName":"Amanda's Touch",
+        "criteria":{"type":"pack", "info":"Amanda's Vibe", "text":"Desbloqueado en el Pack exclusivo\nAmanda's Vibe"}
+    },
+    {
+        "id":571, "roomId":115, "slot":"background", "releaseDate":"2026-06-01", "light":true, "security":"436b7a554793f258",
+        "name":"Paredes",
+        "roomName":"Patio Al Fresco",
+        "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"},
+        "backgroundColors":{
+            "day":{"color1":"FFFBED","color2":"CFB198","colorLight":"00D9FF"},
+            "night":{"color1":"84CAFF","color2":"A28B9F","colorLight":"00D9FF"}
+        }
+        
+    },
+    {
+        "id":572, "roomId":115, "slot":"slot5", "releaseDate":"2026-06-01", "light":false, "security":"0371839f19772a33",
+        "name":"Pétalos",
+        "roomName":"Patio Al Fresco",
+        "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"}
+    },
+    {
+        "id":573, "roomId":115, "slot":"slot4", "releaseDate":"2026-06-01", "light":false, "security":"dd89025cb2385794",
+        "name":"Silla",
+        "roomName":"Patio Al Fresco",
+        "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"}
+    },
+    {
+        "id":574, "roomId":115, "slot":"slot3", "releaseDate":"2026-06-01", "light":false, "security":"3157029d50266233",
+        "name":"Mesa auxiliar",
+        "roomName":"Patio Al Fresco",
+        "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"}
+    },
+    {
+        "id":575, "roomId":115, "slot":"slot2", "releaseDate":"2026-06-01", "light":true, "security":"f6f9974748b68b3b",
+        "name":"Mesa",
+        "roomName":"Patio Al Fresco",
+        "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"}
+    },
+    {
+        "id":576, "roomId":115, "slot":"slot1", "releaseDate":"2026-06-01", "light":false, "security":"f741d617683c0c76",
+        "name":"Salón",
+        "roomName":"Patio Al Fresco",
+        "criteria":{"type":"gauge", "info":"Rhythm of Passion", "text":"Desbloqueado en el evento de medidor\nRhythm of Passion"}
+    },
+
+    {
+        "id":583, "roomId":118, "slot":"background", "releaseDate":"2026-07-22", "light":true, "security":"878e9014e4318ec3",
+        "name":"Cala",
+        "roomName":"Smuggler's Cove",
+        "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"},
+        "backgroundColors":{
+            "day":{"color1":"FAF4E6","color2":"DDFFFF","colorLight":"8B9197"},
+            "night":{"color1":"FFF6DB","color2":"FFCFA8","colorLight":"FF0E00"}
+        }
+    },
+    {
+        "id":584, "roomId":118, "slot":"slot1", "releaseDate":"2026-07-22", "light":false, "security":"b1d632ab1ae009b5",
+        "name":"Hamaca",
+        "roomName":"Smuggler's Cove",
+        "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"}
+    },
+    {
+        "id":585, "roomId":118, "slot":"slot2", "releaseDate":"2026-07-22", "light":false, "security":"556f6cb49b82e293",
+        "name":"Barco",
+        "roomName":"Smuggler's Cove",
+        "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"}
+    },
+    {
+        "id":586, "roomId":118, "slot":"slot3", "releaseDate":"2026-07-22", "light":false, "security":"22d237a9b2a41160",
+        "name":"Cofre",
+        "roomName":"Smuggler's Cove",
+        "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"}
+    },
+    {
+        "id":587, "roomId":118, "slot":"slot4", "releaseDate":"2026-07-22", "light":false, "security":"2efc5f02a59b634d",
+        "name":"Bandera",
+        "roomName":"Smuggler's Cove",
+        "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"}
+    },
+    {
+        "id":588, "roomId":118, "slot":"slot5", "releaseDate":"2026-07-22", "light":false, "security":"5b229ea7dbb4de19",
+        "name":"Barricas",
+        "roomName":"Smuggler's Cove",
+        "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado durante el evento\nSummer 2026"}
+    },
+    {
+        "id":589, "roomId":119, "slot":"background", "releaseDate":"2026-07-22", "light":false, "security":"b708395f1c05f681",
+        "name":"Fondos marinos",
+        "roomName":"Under the Sea",
+        "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"},
+        "backgroundColors":{
+            "day":{"color1":"FFFBEA","color2":"9BCFF3","colorLight":null},
+            "night":{"color1":"9DCBFF","color2":"6572EB","colorLight":null}
+        }
+    },
+    {
+        "id":590, "roomId":119, "slot":"slot1", "releaseDate":"2026-07-22", "light":false, "security":"f6c362e223a35760",
+        "name":"Corales",
+        "roomName":"Under the Sea",
+        "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"}
+    },
+    {
+        "id":591, "roomId":119, "slot":"slot2", "releaseDate":"2026-07-22", "light":false, "security":"e3dd86cfa3d7ce1f",
+        "name":"Cama",
+        "roomName":"Under the Sea",
+        "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"}
+    },
+    {
+        "id":592, "roomId":119, "slot":"slot3", "releaseDate":"2026-07-22", "light":true, "security":"c122ac1f49fd5ae5",
+        "name":"Adivinación",
+        "roomName":"Under the Sea",
+        "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"}
+    },
+    {
+        "id":593, "roomId":119, "slot":"slot4", "releaseDate":"2026-07-22", "light":false, "security":"62b0d30a2761275c",
+        "name":"Estatua",
+        "roomName":"Under the Sea",
+        "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"}
+    },
+    {
+        "id":594, "roomId":119, "slot":"slot5", "releaseDate":"2026-07-22", "light":false, "security":"3141a77f35d61ae8",
+        "name":"Ancla",
+        "roomName":"Under the Sea",
+        "criteria":{"type":"gameEvent", "info":"summer-2026", "text":"Desbloqueado en el Pack exclusivo\nDeep Sea Menace (Summer 2026)"}
     }
 ]
