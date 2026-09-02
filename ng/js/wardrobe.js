@@ -3,8 +3,8 @@ $(document).ready(function() {
         $.get("./data/avatar.json", dbAvatar => {
             $.get("./data/room.json", dbRoom => {
                 $.get("./data/pet.json", dbPet => {
-                    $.get("./data/crush.json", dbCrush => {
-                    
+                    $.get("./data/crush.json", bCrush => {
+                
                         cloth = dbCloth;
                         avatar = dbAvatar;
                         room = dbRoom;
