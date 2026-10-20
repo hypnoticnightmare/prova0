@@ -31742,453 +31742,417 @@
         "releaseDate":"2026-09-15"
     },
     {
-        "groupId":17307, "zone":"head", "category":"earring", "security":"d84ec8d2fa384d75", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Earrings",
-        "outfitName":"Soft Push",
+        "groupId":18761, "zone":"feet", "category":"shoes", "security":"b70e47c3ac02f29f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bailarinas",
+        "outfitName":"Mini Pretty in Pink",
         "variations":[
-            {"id":17307, "colors":["pink"]},
-            {"id":17308, "colors":["black"]},
-            {"id":17309, "colors":["white"]},
-            {"id":17310, "colors":["purple"]},
-            {"id":17311, "colors":["blue"]},
-            {"id":17312, "colors":["green"]},
-            {"id":17313, "colors":["red"]},
-            {"id":17314, "colors":["brown"]},
-            {"id":17315, "colors":["yellow"]},
-            {"id":17316, "colors":["grey"]}
-        ], "criteria":null,
-        "releaseDate":"2026-09-18"
-    },
-    {
-        "groupId":17367, "zone":"head", "category":"earring", "security":"72ce9e96b63b8dd8", "multiLayered":true, "layerBehavior":"backInFront",
-        "name":"Earrings",
-        "outfitName":"Strong Push",
-        "variations":[
-            {"id":17367, "colors":["pink"]},
-            {"id":17368, "colors":["black"]},
-            {"id":17369, "colors":["white"]},
-            {"id":17370, "colors":["purple"]},
-            {"id":17371, "colors":["blue"]},
-            {"id":17372, "colors":["green"]},
-            {"id":17373, "colors":["red"]},
-            {"id":17374, "colors":["brown"]},
-            {"id":17375, "colors":["yellow"]},
-            {"id":17376, "colors":["grey"]}
-        ], "criteria":null,
-        "releaseDate":"2026-09-18"
-    },
-    {
-        "groupId":17267, "zone":"torso", "category":"top", "security":"cd2abade2e00b890", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Top",
-        "outfitName":"Soft Push",
-        "variations":[
-            {"id":17267, "colors":["pink"]},
-            {"id":17268, "colors":["black"]},
-            {"id":17269, "colors":["white"]},
-            {"id":17270, "colors":["purple"]},
-            {"id":17271, "colors":["blue"]},
-            {"id":17272, "colors":["green"]},
-            {"id":17273, "colors":["red"]},
-            {"id":17274, "colors":["brown"]},
-            {"id":17275, "colors":["yellow"]},
-            {"id":17276, "colors":["grey"]}
-        ], "criteria":null,
-        "releaseDate":"2026-09-18"
-    },
-    {
-        "groupId":17347, "zone":"torso", "category":"top", "security":"a1b787062633f936", "multiLayered":true, "layerBehavior":"backInFront",
-        "name":"Top",
-        "outfitName":"Strong Push",
-        "variations":[
-            {"id":17347, "colors":["pink"]},
-            {"id":17348, "colors":["black"]},
-            {"id":17349, "colors":["white"]},
-            {"id":17350, "colors":["purple"]},
-            {"id":17351, "colors":["blue"]},
-            {"id":17352, "colors":["green"]},
-            {"id":17353, "colors":["red"]},
-            {"id":17354, "colors":["brown"]},
-            {"id":17355, "colors":["yellow"]},
-            {"id":17356, "colors":["grey"]}
-        ], "criteria":null,
-        "releaseDate":"2026-09-18"
-    },
-    {
-        "groupId":17287, "zone":"torso", "category":"jacket", "security":"13ede06dfb3f9aa2", "multiLayered":true, "layerBehavior":"normal",
-        "name":"Blazer",
-        "outfitName":"Soft Push",
-        "variations":[
-            {"id":17287, "colors":["pink"]},
-            {"id":17288, "colors":["black"]},
-            {"id":17289, "colors":["white"]},
-            {"id":17290, "colors":["purple"]},
-            {"id":17291, "colors":["blue"]},
-            {"id":17292, "colors":["green"]},
-            {"id":17293, "colors":["red"]},
-            {"id":17294, "colors":["brown"]},
-            {"id":17295, "colors":["yellow"]},
-            {"id":17296, "colors":["grey"]}
-        ], "criteria":null,
-        "releaseDate":"2026-09-18"
-    },
-    {
-        "groupId":17297, "zone":"arms", "category":"bag", "security":"a345e2a16c8aa7f2", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Bag",
-        "outfitName":"Soft Push",
-        "variations":[
-            {"id":17297, "colors":["pink"]},
-            {"id":17298, "colors":["black"]},
-            {"id":17299, "colors":["white"]},
-            {"id":17300, "colors":["purple"]},
-            {"id":17301, "colors":["blue"]},
-            {"id":17302, "colors":["green"]},
-            {"id":17303, "colors":["red"]},
-            {"id":17304, "colors":["brown"]},
-            {"id":17305, "colors":["yellow"]},
-            {"id":17306, "colors":["grey"]}
-        ], "criteria":null,
-        "releaseDate":"2026-09-18"
-    },
-    {
-        "groupId":17357, "zone":"arms", "category":"bag", "security":"1528d12acdc1de43", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Bag",
-        "outfitName":"Strong Push",
-        "variations":[
-            {"id":17357, "colors":["pink"]},
-            {"id":17358, "colors":["black"]},
-            {"id":17359, "colors":["white"]},
-            {"id":17360, "colors":["purple"]},
-            {"id":17361, "colors":["blue"]},
-            {"id":17362, "colors":["green"]},
-            {"id":17363, "colors":["red"]},
-            {"id":17364, "colors":["brown"]},
-            {"id":17365, "colors":["yellow"]},
-            {"id":17366, "colors":["grey"]}
-        ], "criteria":null,
-        "releaseDate":"2026-09-18"
-    },
-    {
-        "groupId":17277, "zone":"waistToKnee", "category":"pants", "security":"dfd34745ff09cf80", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Shorts",
-        "outfitName":"Soft Push",
-        "variations":[
-            {"id":17277, "colors":["pink"]},
-            {"id":17278, "colors":["black"]},
-            {"id":17279, "colors":["white"]},
-            {"id":17280, "colors":["purple"]},
-            {"id":17281, "colors":["blue"]},
-            {"id":17282, "colors":["green"]},
-            {"id":17283, "colors":["red"]},
-            {"id":17284, "colors":["brown"]},
-            {"id":17285, "colors":["yellow"]},
-            {"id":17286, "colors":["grey"]}
-        ], "criteria":null,
-        "releaseDate":"2026-09-18"
-    },
-    {
-        "groupId":17337, "zone":"waistToKnee", "category":"skirt", "security":"65a87b55ecfb1ed7", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Skirt",
-        "outfitName":"Strong Push",
-        "variations":[
-            {"id":17337, "colors":["pink"]},
-            {"id":17338, "colors":["black"]},
-            {"id":17339, "colors":["white"]},
-            {"id":17340, "colors":["purple"]},
-            {"id":17341, "colors":["blue"]},
-            {"id":17342, "colors":["green"]},
-            {"id":17343, "colors":["red"]},
-            {"id":17344, "colors":["brown"]},
-            {"id":17345, "colors":["yellow"]},
-            {"id":17346, "colors":["grey"]}
-        ], "criteria":null,
-        "releaseDate":"2026-09-18"
-    },
-    {
-        "groupId":17257, "zone":"feet", "category":"shoes", "security":"6dcc46b7820a24b3", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Shoes",
-        "outfitName":"Soft Push",
-        "variations":[
-            {"id":17257, "colors":["pink"]},
-            {"id":17258, "colors":["black"]},
-            {"id":17259, "colors":["white"]},
-            {"id":17260, "colors":["purple"]},
-            {"id":17261, "colors":["blue"]},
-            {"id":17262, "colors":["green"]},
-            {"id":17263, "colors":["red"]},
-            {"id":17264, "colors":["brown"]},
-            {"id":17265, "colors":["yellow"]},
-            {"id":17266, "colors":["grey"]}
-        ], "criteria":null,
-        "releaseDate":"2026-09-18"
-    },
-    {
-        "groupId":17327, "zone":"feet", "category":"shoes", "security":"f052690ec96cedf1", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Heels",
-        "outfitName":"Strong Push",
-        "variations":[
-            {"id":17327, "colors":["pink"]},
-            {"id":17328, "colors":["black"]},
-            {"id":17329, "colors":["white"]},
-            {"id":17330, "colors":["purple"]},
-            {"id":17331, "colors":["blue"]},
-            {"id":17332, "colors":["green"]},
-            {"id":17333, "colors":["red"]},
-            {"id":17334, "colors":["brown"]},
-            {"id":17335, "colors":["yellow"]},
-            {"id":17336, "colors":["grey"]}
-        ], "criteria":null,
-        "releaseDate":"2026-09-18"
-    },
-    {
-        "groupId":17317, "zone":"feet", "category":"socks", "security":"40938bdbb25a560f", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Tights",
-        "outfitName":"Strong Push",
-        "variations":[
-            {"id":17317, "colors":["pink"]},
-            {"id":17318, "colors":["black"]},
-            {"id":17319, "colors":["white"]},
-            {"id":17320, "colors":["purple"]},
-            {"id":17321, "colors":["blue"]},
-            {"id":17322, "colors":["green"]},
-            {"id":17323, "colors":["red"]},
-            {"id":17324, "colors":["brown"]},
-            {"id":17325, "colors":["yellow"]},
-            {"id":17326, "colors":["grey"]}
-        ], "criteria":null,
-        "releaseDate":"2026-09-18"
-    },
-    {
-        "groupId":18811, "zone":"head", "category":"wig", "security":"8f79d4182bb9fc49", "multiLayered":true, "layerBehavior":"normal",
-        "name":"Wig",
-        "outfitName":"Mini pretty in pink",
-        "variations":[
-            {"id":18811, "colors":["pink"]},
-            {"id":18812, "colors":["black"]},
-            {"id":18813, "colors":["white"]},
-            {"id":18814, "colors":["purple"]},
-            {"id":18815, "colors":["blue"]},
-            {"id":18816, "colors":["green"]},
-            {"id":18817, "colors":["red"]},
-            {"id":18818, "colors":["brown"]},
-            {"id":18819, "colors":["yellow"]},
-            {"id":18820, "colors":["grey"]}
-        ], "criteria":null,
+            {"id":18761, "colors":["pink"]},
+            {"id":18762, "colors":["blue"]},
+            {"id":18763, "colors":["green"]},
+            {"id":18764, "colors":["purple"]},
+            {"id":18765, "colors":["blue","green"]},
+            {"id":18766, "colors":["orange"]},
+            {"id":18767, "colors":["yellow"]},
+            {"id":18768, "colors":["white"]},
+            {"id":18769, "colors":["black"]},
+            {"id":18770, "colors":["red"]}
+        ], "criteria":{"type":"gameEvent", "info":"pinkOctober-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Pretty in Pink"},
         "releaseDate":"2026-10-01"
     },
     {
-        "groupId":18871, "zone":"face", "category":"neckAccessory", "security":"69e8424c4e50d47f", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Bow",
-        "outfitName":"Back to school",
+        "groupId":18771, "zone":"waistToKnee", "category":"skirt", "security":"e7354f64ca7eedf7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Falda",
+        "outfitName":"Mini Pretty in Pink",
         "variations":[
-            {"id":18871, "colors":["pink"]},
-            {"id":18872, "colors":["black"]},
-            {"id":18873, "colors":["white"]},
-            {"id":18874, "colors":["purple"]},
-            {"id":18875, "colors":["blue"]},
-            {"id":18876, "colors":["green"]},
-            {"id":18877, "colors":["red"]},
-            {"id":18878, "colors":["brown"]},
-            {"id":18879, "colors":["yellow"]},
-            {"id":18880, "colors":["grey"]}
-        ], "criteria":null,
-        "releaseDate":"2026-10-01"
-    },
-    {
-        "groupId":18821, "zone":"face", "category":"neckAccessory", "security":"739626f69d3f6883", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Bow",
-        "outfitName":"The pink ribbon",
-        "variations":[
-            {"id":18821, "colors":["pink"]},
-            {"id":18822, "colors":["black"]},
-            {"id":18823, "colors":["white"]},
-            {"id":18824, "colors":["purple"]},
-            {"id":18825, "colors":["blue"]},
-            {"id":18826, "colors":["green"]},
-            {"id":18827, "colors":["red"]},
-            {"id":18828, "colors":["brown"]},
-            {"id":18829, "colors":["yellow"]},
-            {"id":18830, "colors":["grey"]}
-        ], "criteria":null,
-        "releaseDate":"2026-10-01"
-    },
-    {
-        "groupId":18791, "zone":"face", "category":"neckAccessory", "security":"ebd537b2b5108d99", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Scarf",
-        "outfitName":"Mini pretty in pink",
-        "variations":[
-            {"id":18791, "colors":["pink"]},
-            {"id":18792, "colors":["black"]},
-            {"id":18793, "colors":["white"]},
-            {"id":18794, "colors":["purple"]},
-            {"id":18795, "colors":["blue"]},
-            {"id":18796, "colors":["green"]},
-            {"id":18797, "colors":["red"]},
-            {"id":18798, "colors":["brown"]},
-            {"id":18799, "colors":["yellow"]},
-            {"id":18800, "colors":["grey"]}
-        ], "criteria":null,
-        "releaseDate":"2026-10-01"
-    },
-    {
-        "groupId":18851, "zone":"torso", "category":"top", "security":"421d2429e75a5efa", "multiLayered":true, "layerBehavior":"backInFront",
-        "name":"Blouse",
-        "outfitName":"Back to school",
-        "variations":[
-            {"id":18851, "colors":["pink"]},
-            {"id":18852, "colors":["black"]},
-            {"id":18853, "colors":["white"]},
-            {"id":18854, "colors":["purple"]},
-            {"id":18855, "colors":["blue"]},
-            {"id":18856, "colors":["green"]},
-            {"id":18857, "colors":["red"]},
-            {"id":18858, "colors":["brown"]},
-            {"id":18859, "colors":["yellow"]},
-            {"id":18860, "colors":["grey"]}
-        ], "criteria":null,
+            {"id":18771, "colors":["pink"]},
+            {"id":18772, "colors":["blue"]},
+            {"id":18773, "colors":["green"]},
+            {"id":18774, "colors":["purple"]},
+            {"id":18775, "colors":["blue","green"]},
+            {"id":18776, "colors":["orange"]},
+            {"id":18777, "colors":["yellow"]},
+            {"id":18778, "colors":["white"]},
+            {"id":18779, "colors":["black"]},
+            {"id":18780, "colors":["red"]}
+        ], "criteria":{"type":"gameEvent", "info":"pinkOctober-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Pretty in Pink"},
         "releaseDate":"2026-10-01"
     },
     {
         "groupId":18781, "zone":"torso", "category":"top", "security":"ded166216ccb1af6", "multiLayered":false, "layerBehavior":"normal",
         "name":"Top",
-        "outfitName":"Mini pretty in pink",
+        "outfitName":"Mini Pretty in Pink",
         "variations":[
-            {"id":18781, "colors":["pink"]},
-            {"id":18782, "colors":["black"]},
-            {"id":18783, "colors":["white"]},
-            {"id":18784, "colors":["purple"]},
-            {"id":18785, "colors":["blue"]},
-            {"id":18786, "colors":["green"]},
-            {"id":18787, "colors":["red"]},
-            {"id":18788, "colors":["brown"]},
-            {"id":18789, "colors":["yellow"]},
-            {"id":18790, "colors":["grey"]}
-        ], "criteria":null,
+            {"id":18781, "colors":["pink","white"]},
+            {"id":18782, "colors":["blue","white"]},
+            {"id":18783, "colors":["green","white"]},
+            {"id":18784, "colors":["purple","white"]},
+            {"id":18785, "colors":["blue","white","green"]},
+            {"id":18786, "colors":["orange","white"]},
+            {"id":18787, "colors":["yellow","white"]},
+            {"id":18788, "colors":["white"]},
+            {"id":18789, "colors":["black","white"]},
+            {"id":18790, "colors":["red","white"]}
+        ], "criteria":{"type":"gameEvent", "info":"pinkOctober-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Pretty in Pink"},
         "releaseDate":"2026-10-01"
     },
     {
-        "groupId":18861, "zone":"torso_waistToKnee", "category":"dress", "security":"fe227367fe1bba55", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Dress",
-        "outfitName":"Back to school",
+        "groupId":18791, "zone":"head", "category":"neckAccessory", "security":"ebd537b2b5108d99", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Fular",
+        "outfitName":"Mini Pretty in Pink",
         "variations":[
-            {"id":18861, "colors":["pink"]},
-            {"id":18862, "colors":["black"]},
-            {"id":18863, "colors":["white"]},
-            {"id":18864, "colors":["purple"]},
-            {"id":18865, "colors":["blue"]},
-            {"id":18866, "colors":["green"]},
-            {"id":18867, "colors":["red"]},
-            {"id":18868, "colors":["brown"]},
-            {"id":18869, "colors":["yellow"]},
-            {"id":18870, "colors":["grey"]}
-        ], "criteria":null,
-        "releaseDate":"2026-10-01"
-    },
-    {
-        "groupId":18881, "zone":"arms", "category":"bag", "security":"c5694ef37e7f2b06", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Bag",
-        "outfitName":"Back to school",
-        "variations":[
-            {"id":18881, "colors":["pink"]},
-            {"id":18882, "colors":["black"]},
-            {"id":18883, "colors":["white"]},
-            {"id":18884, "colors":["purple"]},
-            {"id":18885, "colors":["blue"]},
-            {"id":18886, "colors":["green"]},
-            {"id":18887, "colors":["red"]},
-            {"id":18888, "colors":["brown"]},
-            {"id":18889, "colors":["yellow"]},
-            {"id":18890, "colors":["grey"]}
-        ], "criteria":null,
+            {"id":18791, "colors":["pink"]},
+            {"id":18792, "colors":["blue"]},
+            {"id":18793, "colors":["green"]},
+            {"id":18794, "colors":["purple"]},
+            {"id":18795, "colors":["blue","green"]},
+            {"id":18796, "colors":["orange"]},
+            {"id":18797, "colors":["yellow"]},
+            {"id":18798, "colors":["white"]},
+            {"id":18799, "colors":["black"]},
+            {"id":18800, "colors":["red"]}
+        ], "criteria":{"type":"gameEvent", "info":"pinkOctober-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Pretty in Pink"},
         "releaseDate":"2026-10-01"
     },
     {
         "groupId":18801, "zone":"arms", "category":"bag", "security":"022ea1965ca43f3d", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Bag",
-        "outfitName":"Mini pretty in pink",
+        "name":"Bolso",
+        "outfitName":"Mini Pretty in Pink",
         "variations":[
             {"id":18801, "colors":["pink"]},
-            {"id":18802, "colors":["black"]},
-            {"id":18803, "colors":["white"]},
+            {"id":18802, "colors":["blue"]},
+            {"id":18803, "colors":["green"]},
             {"id":18804, "colors":["purple"]},
-            {"id":18805, "colors":["blue"]},
-            {"id":18806, "colors":["green"]},
-            {"id":18807, "colors":["red"]},
-            {"id":18808, "colors":["brown"]},
-            {"id":18809, "colors":["yellow"]},
-            {"id":18810, "colors":["grey"]}
-        ], "criteria":null,
+            {"id":18805, "colors":["blue","green"]},
+            {"id":18806, "colors":["orange"]},
+            {"id":18807, "colors":["yellow"]},
+            {"id":18808, "colors":["white"]},
+            {"id":18809, "colors":["black"]},
+            {"id":18810, "colors":["red"]}
+        ], "criteria":{"type":"gameEvent", "info":"pinkOctober-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Pretty in Pink"},
         "releaseDate":"2026-10-01"
     },
     {
-        "groupId":18771, "zone":"waistToKnee", "category":"skirt", "security":"e7354f64ca7eedf7", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Skirt",
-        "outfitName":"Mini pretty in pink",
+        "groupId":18811, "zone":"head", "category":"wig", "security":"8f79d4182bb9fc49", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Peluca",
+        "outfitName":"Mini Pretty in Pink",
         "variations":[
-            {"id":18771, "colors":["pink"]},
-            {"id":18772, "colors":["black"]},
-            {"id":18773, "colors":["white"]},
-            {"id":18774, "colors":["purple"]},
-            {"id":18775, "colors":["blue"]},
-            {"id":18776, "colors":["green"]},
-            {"id":18777, "colors":["red"]},
-            {"id":18778, "colors":["brown"]},
-            {"id":18779, "colors":["yellow"]},
-            {"id":18780, "colors":["grey"]}
-        ], "criteria":null,
+            {"id":18811, "colors":["brown"]},
+            {"id":18812, "colors":["white"]},
+            {"id":18813, "colors":["black"]},
+            {"id":18814, "colors":["blue"]},
+            {"id":18815, "colors":["blue"]},
+            {"id":18816, "colors":["purple"]},
+            {"id":18817, "colors":["red"]},
+            {"id":18818, "colors":["yellow"]},
+            {"id":18819, "colors":["orange"]},
+            {"id":18820, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"pinkOctober-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Pretty in Pink"},
         "releaseDate":"2026-10-01"
     },
     {
-        "groupId":18761, "zone":"feet", "category":"shoes", "security":"b70e47c3ac02f29f", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Flats",
-        "outfitName":"Mini pretty in pink",
+        "groupId":18821, "zone":"head", "category":"neckAccessory", "security":"739626f69d3f6883", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Lazo solidario",
+        "outfitName":null,
         "variations":[
-            {"id":18761, "colors":["pink"]},
-            {"id":18762, "colors":["black"]},
-            {"id":18763, "colors":["white"]},
-            {"id":18764, "colors":["purple"]},
-            {"id":18765, "colors":["blue"]},
-            {"id":18766, "colors":["green"]},
-            {"id":18767, "colors":["red"]},
-            {"id":18768, "colors":["brown"]},
-            {"id":18769, "colors":["yellow"]},
-            {"id":18770, "colors":["grey"]}
-        ], "criteria":null,
-        "releaseDate":"2026-10-01"
-    },
-    {
-        "groupId":18841, "zone":"feet", "category":"shoes", "security":"991f79fb99d79564", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Shoes",
-        "outfitName":"Back to school",
-        "variations":[
-            {"id":18841, "colors":["pink"]},
-            {"id":18842, "colors":["black"]},
-            {"id":18843, "colors":["white"]},
-            {"id":18844, "colors":["purple"]},
-            {"id":18845, "colors":["blue"]},
-            {"id":18846, "colors":["green"]},
-            {"id":18847, "colors":["red"]},
-            {"id":18848, "colors":["brown"]},
-            {"id":18849, "colors":["yellow"]},
-            {"id":18850, "colors":["grey"]}
-        ], "criteria":null,
+            {"id":18821, "colors":["pink"]},
+            {"id":18822, "colors":["blue"]},
+            {"id":18823, "colors":["green"]},
+            {"id":18824, "colors":["purple"]},
+            {"id":18825, "colors":["blue","green"]},
+            {"id":18826, "colors":["orange"]},
+            {"id":18827, "colors":["yellow"]},
+            {"id":18828, "colors":["white"]},
+            {"id":18829, "colors":["black"]},
+            {"id":18830, "colors":["red"]}
+        ], "criteria":{"type":"gameEvent", "info":"pinkOctober-2026", "text":"Desbloqueado durante el evento\nPink October"},
         "releaseDate":"2026-10-01"
     },
     {
         "groupId":18831, "zone":"feet", "category":"socks", "security":"eaaa9167279602ac", "multiLayered":false, "layerBehavior":"normal",
-        "name":"Tights",
-        "outfitName":"Back to school",
+        "name":"Pantys",
+        "outfitName":"Back to School",
         "variations":[
-            {"id":18831, "colors":["pink"]},
-            {"id":18832, "colors":["black"]},
-            {"id":18833, "colors":["white"]},
-            {"id":18834, "colors":["purple"]},
-            {"id":18835, "colors":["blue"]},
-            {"id":18836, "colors":["green"]},
-            {"id":18837, "colors":["red"]},
-            {"id":18838, "colors":["brown"]},
-            {"id":18839, "colors":["yellow"]},
-            {"id":18840, "colors":["grey"]}
+            {"id":18831, "colors":["white","red"]},
+            {"id":18832, "colors":["brown"]},
+            {"id":18833, "colors":["purple","white"]},
+            {"id":18834, "colors":["green"]},
+            {"id":18835, "colors":["red","black"]},
+            {"id":18836, "colors":["brown","pink"]},
+            {"id":18837, "colors":["purple","pink"]},
+            {"id":18838, "colors":["blue"]},
+            {"id":18839, "colors":["grey","yellow"]},
+            {"id":18840, "colors":["black","blue","green"]}
+        ], "criteria":{"type":"calendar", "info":"2026-31", "text":"Desbloqueado en el calendario\nN°31 - 2026"},
+        "releaseDate":"2026-09-28"
+    },
+    {
+        "groupId":18841, "zone":"feet", "category":"shoes", "security":"991f79fb99d79564", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Zapatos",
+        "outfitName":"Back to School",
+        "variations":[
+            {"id":18841, "colors":["golden","black"]},
+            {"id":18842, "colors":["golden","brown"]},
+            {"id":18843, "colors":["golden","purple"]},
+            {"id":18844, "colors":["golden","green"]},
+            {"id":18845, "colors":["golden","red"]},
+            {"id":18846, "colors":["silver","pink"]},
+            {"id":18847, "colors":["silver","grey"]},
+            {"id":18848, "colors":["silver","blue"]},
+            {"id":18849, "colors":["silver","yellow"]},
+            {"id":18850, "colors":["silver","black"]}
+        ], "criteria":{"type":"calendar", "info":"2026-31", "text":"Desbloqueado en el calendario\nN°31 - 2026"},
+        "releaseDate":"2026-09-28"
+    },
+    {
+        "groupId":18851, "zone":"torso", "category":"top", "security":"421d2429e75a5efa", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Camisa",
+        "outfitName":"Back to School",
+        "variations":[
+            {"id":18851, "colors":["white"]},
+            {"id":18852, "colors":["brown"]},
+            {"id":18853, "colors":["purple"]},
+            {"id":18854, "colors":["green"]},
+            {"id":18855, "colors":["red"]},
+            {"id":18856, "colors":["brown"]},
+            {"id":18857, "colors":["pink"]},
+            {"id":18858, "colors":["blue"]},
+            {"id":18859, "colors":["grey"]},
+            {"id":18860, "colors":["black"]}
+        ], "criteria":{"type":"calendar", "info":"2026-31", "text":"Desbloqueado en el calendario\nN°31 - 2026"},
+        "releaseDate":"2026-09-28"
+    },
+    {
+        "groupId":18861, "zone":"torso_waistToKnee", "category":"dress", "security":"fe227367fe1bba55", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vestido",
+        "outfitName":"Back to School",
+        "variations":[
+            {"id":18861, "colors":["red"]},
+            {"id":18862, "colors":["brown"]},
+            {"id":18863, "colors":["white"]},
+            {"id":18864, "colors":["green"]},
+            {"id":18865, "colors":["black"]},
+            {"id":18866, "colors":["pink"]},
+            {"id":18867, "colors":["purple"]},
+            {"id":18868, "colors":["blue"]},
+            {"id":18869, "colors":["yellow"]},
+            {"id":18870, "colors":["green","blue"]}
+        ], "criteria":{"type":"calendar", "info":"2026-31", "text":"Desbloqueado en el calendario\nN°31 - 2026"},
+        "releaseDate":"2026-09-28"
+    },
+    {
+        "groupId":18871, "zone":"head", "category":"neckAccessory", "security":"69e8424c4e50d47f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Lazo",
+        "outfitName":"Back to School",
+        "variations":[
+            {"id":18871, "colors":["red"]},
+            {"id":18872, "colors":["brown"]},
+            {"id":18873, "colors":["white"]},
+            {"id":18874, "colors":["green"]},
+            {"id":18875, "colors":["black"]},
+            {"id":18876, "colors":["pink"]},
+            {"id":18877, "colors":["purple"]},
+            {"id":18878, "colors":["blue"]},
+            {"id":18879, "colors":["yellow"]},
+            {"id":18880, "colors":["green","blue"]}
+        ], "criteria":{"type":"calendar", "info":"2026-31", "text":"Desbloqueado en el calendario\nN°31 - 2026"},
+        "releaseDate":"2026-09-28"
+    },
+    {
+        "groupId":18881, "zone":"arms", "category":"bag", "security":"c5694ef37e7f2b06", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cartera",
+        "outfitName":"Back to School",
+        "variations":[
+            {"id":18881, "colors":["golden","black"]},
+            {"id":18882, "colors":["golden","brown"]},
+            {"id":18883, "colors":["golden","purple"]},
+            {"id":18884, "colors":["golden","green"]},
+            {"id":18885, "colors":["golden","red"]},
+            {"id":18886, "colors":["silver","pink"]},
+            {"id":18887, "colors":["silver","grey"]},
+            {"id":18888, "colors":["silver","blue"]},
+            {"id":18889, "colors":["silver","yellow"]},
+            {"id":18890, "colors":["silver","black"]}
+        ], "criteria":{"type":"calendar", "info":"2026-31", "text":"Desbloqueado en el calendario\nN°31 - 2026"},
+        "releaseDate":"2026-09-28"
+    },
+    {
+        "groupId":19271, "zone":"head", "category":"hat", "security":"36113ee8ec71afd3", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Hat",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19271, "colors":["red"]},
+            {"id":19272, "colors":["brown"]},
+            {"id":19273, "colors":["white"]},
+            {"id":19274, "colors":["green"]},
+            {"id":19275, "colors":["black"]},
+            {"id":19276, "colors":["pink"]},
+            {"id":19277, "colors":["purple"]},
+            {"id":19278, "colors":["blue"]},
+            {"id":19279, "colors":["yellow"]},
+            {"id":19280, "colors":["green","blue"]}
         ], "criteria":null,
-        "releaseDate":"2026-10-01"
+        "releaseDate":"2026-10-20"
+    },
+    {
+        "groupId":19211, "zone":"face", "category":"neckAccessory", "security":"bb134fc8cfc19ca1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Hat",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19211, "colors":["red"]},
+            {"id":19212, "colors":["brown"]},
+            {"id":19213, "colors":["white"]},
+            {"id":19214, "colors":["green"]},
+            {"id":19215, "colors":["black"]},
+            {"id":19216, "colors":["pink"]},
+            {"id":19217, "colors":["purple"]},
+            {"id":19218, "colors":["blue"]},
+            {"id":19219, "colors":["yellow"]},
+            {"id":19220, "colors":["green","blue"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-20"
+    },
+    {
+        "groupId":19221, "zone":"torso", "category":"top", "security":"906f4dc75e196f8b", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Blouse",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19221, "colors":["red"]},
+            {"id":19222, "colors":["brown"]},
+            {"id":19223, "colors":["white"]},
+            {"id":19224, "colors":["green"]},
+            {"id":19225, "colors":["black"]},
+            {"id":19226, "colors":["pink"]},
+            {"id":19227, "colors":["purple"]},
+            {"id":19228, "colors":["blue"]},
+            {"id":19229, "colors":["yellow"]},
+            {"id":19230, "colors":["green","blue"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-20"
+    },
+    {
+        "groupId":19231, "zone":"torso", "category":"jacket", "security":"cf87c17ec7ae89e8", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Jacket",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19231, "colors":["red"]},
+            {"id":19232, "colors":["brown"]},
+            {"id":19233, "colors":["white"]},
+            {"id":19234, "colors":["green"]},
+            {"id":19235, "colors":["black"]},
+            {"id":19236, "colors":["pink"]},
+            {"id":19237, "colors":["purple"]},
+            {"id":19238, "colors":["blue"]},
+            {"id":19239, "colors":["yellow"]},
+            {"id":19240, "colors":["green","blue"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-20"
+    },
+    {
+        "groupId":19261, "zone":"torso", "category":"jacket", "security":"5a088130347ff291", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Coat",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19261, "colors":["red"]},
+            {"id":19262, "colors":["brown"]},
+            {"id":19263, "colors":["white"]},
+            {"id":19264, "colors":["green"]},
+            {"id":19265, "colors":["black"]},
+            {"id":19266, "colors":["pink"]},
+            {"id":19267, "colors":["purple"]},
+            {"id":19268, "colors":["blue"]},
+            {"id":19269, "colors":["yellow"]},
+            {"id":19270, "colors":["green","blue"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-20"
+    },
+    {
+        "groupId":19251, "zone":"torso_waistToKnee", "category":"waist", "security":"8455ac62b0b27c40", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Belt",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19251, "colors":["red"]},
+            {"id":19252, "colors":["brown"]},
+            {"id":19253, "colors":["white"]},
+            {"id":19254, "colors":["green"]},
+            {"id":19255, "colors":["black"]},
+            {"id":19256, "colors":["pink"]},
+            {"id":19257, "colors":["purple"]},
+            {"id":19258, "colors":["blue"]},
+            {"id":19259, "colors":["yellow"]},
+            {"id":19260, "colors":["green","blue"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-20"
+    },
+    {
+        "groupId":19281, "zone":"arms", "category":"bag", "security":"f11961b12100b52f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Crossbow",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19281, "colors":["red"]},
+            {"id":19282, "colors":["brown"]},
+            {"id":19283, "colors":["white"]},
+            {"id":19284, "colors":["green"]},
+            {"id":19285, "colors":["black"]},
+            {"id":19286, "colors":["pink"]},
+            {"id":19287, "colors":["purple"]},
+            {"id":19288, "colors":["blue"]},
+            {"id":19289, "colors":["yellow"]},
+            {"id":19290, "colors":["green","blue"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-20"
+    },
+    {
+        "groupId":19191, "zone":"waistToKnee", "category":"pants", "security":"1f33dbf5353963c4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pants",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19191, "colors":["red"]},
+            {"id":19192, "colors":["brown"]},
+            {"id":19193, "colors":["white"]},
+            {"id":19194, "colors":["green"]},
+            {"id":19195, "colors":["black"]},
+            {"id":19196, "colors":["pink"]},
+            {"id":19197, "colors":["purple"]},
+            {"id":19198, "colors":["blue"]},
+            {"id":19199, "colors":["yellow"]},
+            {"id":19200, "colors":["green","blue"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-20"
+    },
+    {
+        "groupId":19201, "zone":"feet", "category":"shoes", "security":"e999732920691d9f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Boots",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19201, "colors":["red"]},
+            {"id":19202, "colors":["brown"]},
+            {"id":19203, "colors":["white"]},
+            {"id":19204, "colors":["green"]},
+            {"id":19205, "colors":["black"]},
+            {"id":19206, "colors":["pink"]},
+            {"id":19207, "colors":["purple"]},
+            {"id":19208, "colors":["blue"]},
+            {"id":19209, "colors":["yellow"]},
+            {"id":19210, "colors":["green","blue"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-20"
+    },
+    {
+        "groupId":19241, "zone":"feet", "category":"legAccessory", "security":"84c418575ad4ac8f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Dagger",
+        "outfitName":"Vampire Hunter",
+        "variations":[
+            {"id":19241, "colors":["red"]},
+            {"id":19242, "colors":["brown"]},
+            {"id":19243, "colors":["white"]},
+            {"id":19244, "colors":["green"]},
+            {"id":19245, "colors":["black"]},
+            {"id":19246, "colors":["pink"]},
+            {"id":19247, "colors":["purple"]},
+            {"id":19248, "colors":["blue"]},
+            {"id":19249, "colors":["yellow"]},
+            {"id":19250, "colors":["green","blue"]}
+        ], "criteria":null,
+        "releaseDate":"2026-10-20"
     }
 ]
