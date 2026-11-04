@@ -33372,5 +33372,23 @@
             {"id":19680, "colors":["pink"]}
         ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
         "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19481, "zone":"waistToKnee", "category":"skirt", "security":"ea861be44e9fd1bb", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Skirt",
+        "outfitName":"Mini Versailles",
+        "variations":[
+            {"id":19481, "colors":["black"]},
+            {"id":19482, "colors":["red"]},
+            {"id":19483, "colors":["white"]},
+            {"id":19484, "colors":["brown"]},
+            {"id":19485, "colors":["purple"]},
+            {"id":19486, "colors":["blue"]},
+            {"id":19487, "colors":["green"]},
+            {"id":19488, "colors":["pink"]},
+            {"id":19489, "colors":["yellow"]},
+            {"id":19490, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
+        "releaseDate":"2026-11-04"
     }
 ]
