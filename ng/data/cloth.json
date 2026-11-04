@@ -32886,5 +32886,23 @@
             {"id":19460, "colors":["pink"]}
         ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
         "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19701, "zone":"head", "category":"wig", "security":"5ba3ed0f4af036b0", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Wig",
+        "outfitName":"Mini Pastel",
+        "variations":[
+            {"id":19701, "colors":["black"]},
+            {"id":19702, "colors":["red"]},
+            {"id":19703, "colors":["white"]},
+            {"id":19704, "colors":["brown"]},
+            {"id":19705, "colors":["purple"]},
+            {"id":19706, "colors":["blue"]},
+            {"id":19707, "colors":["green"]},
+            {"id":19708, "colors":["pink"]},
+            {"id":19709, "colors":["yellow"]},
+            {"id":19710, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
+        "releaseDate":"2026-11-04"
     }
 ]
