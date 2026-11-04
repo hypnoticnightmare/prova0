@@ -32994,5 +32994,23 @@
             {"id":19630, "colors":["pink"]}
         ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
         "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19331, "zone":"torso", "category":"top", "security":"12a4d6304595d214", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Corset",
+        "outfitName":"Mini Versailles",
+        "variations":[
+            {"id":19331, "colors":["black"]},
+            {"id":19332, "colors":["red"]},
+            {"id":19333, "colors":["white"]},
+            {"id":19334, "colors":["brown"]},
+            {"id":19335, "colors":["purple"]},
+            {"id":19336, "colors":["blue"]},
+            {"id":19337, "colors":["green"]},
+            {"id":19338, "colors":["pink"]},
+            {"id":19339, "colors":["yellow"]},
+            {"id":19340, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
+        "releaseDate":"2026-11-04"
     }
 ]
