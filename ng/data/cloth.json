@@ -33156,5 +33156,23 @@
             {"id":19580, "colors":["pink"]}
         ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
         "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19441, "zone":"torso_waistToKnee", "category":"waist", "security":"39326b1122e39adc", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Belt",
+        "outfitName":"Mini Star",
+        "variations":[
+            {"id":19441, "colors":["black"]},
+            {"id":19442, "colors":["red"]},
+            {"id":19443, "colors":["white"]},
+            {"id":19444, "colors":["brown"]},
+            {"id":19445, "colors":["purple"]},
+            {"id":19446, "colors":["blue"]},
+            {"id":19447, "colors":["green"]},
+            {"id":19448, "colors":["pink"]},
+            {"id":19449, "colors":["yellow"]},
+            {"id":19450, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
+        "releaseDate":"2026-11-04"
     }
 ]
