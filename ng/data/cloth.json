@@ -33318,5 +33318,23 @@
             {"id":19370, "colors":["pink"]}
         ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
         "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19411, "zone":"waistToKnee", "category":"pants", "security":"60cca59108fbde99", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Pants",
+        "outfitName":"Mini Gentle",
+        "variations":[
+            {"id":19411, "colors":["black"]},
+            {"id":19412, "colors":["red"]},
+            {"id":19413, "colors":["white"]},
+            {"id":19414, "colors":["brown"]},
+            {"id":19415, "colors":["purple"]},
+            {"id":19416, "colors":["blue"]},
+            {"id":19417, "colors":["green"]},
+            {"id":19418, "colors":["pink"]},
+            {"id":19419, "colors":["yellow"]},
+            {"id":19420, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
+        "releaseDate":"2026-11-04"
     }
 ]
