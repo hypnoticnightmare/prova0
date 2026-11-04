@@ -32904,5 +32904,23 @@
             {"id":19710, "colors":["pink"]}
         ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
         "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19421, "zone":"face", "category":"faceAccessory", "security":"8e38384ec60c337b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Eye",
+        "outfitName":"Mini Gentle",
+        "variations":[
+            {"id":19421, "colors":["black"]},
+            {"id":19422, "colors":["red"]},
+            {"id":19423, "colors":["white"]},
+            {"id":19424, "colors":["brown"]},
+            {"id":19425, "colors":["purple"]},
+            {"id":19426, "colors":["blue"]},
+            {"id":19427, "colors":["green"]},
+            {"id":19428, "colors":["pink"]},
+            {"id":19429, "colors":["yellow"]},
+            {"id":19430, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
+        "releaseDate":"2026-11-04"
     }
 ]
