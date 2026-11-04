@@ -32922,5 +32922,23 @@
             {"id":19430, "colors":["pink"]}
         ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
         "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19461, "zone":"face", "category":"faceAccessory", "security":"a7aef959a8a2c9e0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Glasses",
+        "outfitName":"Mini Star",
+        "variations":[
+            {"id":19461, "colors":["black"]},
+            {"id":19462, "colors":["red"]},
+            {"id":19463, "colors":["white"]},
+            {"id":19464, "colors":["brown"]},
+            {"id":19465, "colors":["purple"]},
+            {"id":19466, "colors":["blue"]},
+            {"id":19467, "colors":["green"]},
+            {"id":19468, "colors":["pink"]},
+            {"id":19469, "colors":["yellow"]},
+            {"id":19470, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
+        "releaseDate":"2026-11-04"
     }
 ]
