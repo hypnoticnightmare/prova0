@@ -32732,5 +32732,23 @@
             {"id":19320, "colors":["pink"]}
         ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
         "releaseDate":"2026-10-27"
+    },
+    {
+        "groupId":19351, "zone":"head", "category":"hat", "security":"ffb8570048bdbec1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Hat",
+        "outfitName":"Mini Versailles",
+        "variations":[
+            {"id":19351, "colors":["black"]},
+            {"id":19352, "colors":["red"]},
+            {"id":19353, "colors":["white"]},
+            {"id":19354, "colors":["brown"]},
+            {"id":19355, "colors":["purple"]},
+            {"id":19356, "colors":["blue"]},
+            {"id":19357, "colors":["green"]},
+            {"id":19358, "colors":["pink"]},
+            {"id":19359, "colors":["yellow"]},
+            {"id":19360, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
+        "releaseDate":"2026-11-04"
     }
 ]
