@@ -33282,5 +33282,23 @@
             {"id":19590, "colors":["pink"]}
         ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
         "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19591, "zone":"arms", "category":"armAccessory", "security":"80a2519cde9f49e4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Wrist band",
+        "outfitName":"Mini Tennis",
+        "variations":[
+            {"id":19591, "colors":["black"]},
+            {"id":19592, "colors":["red"]},
+            {"id":19593, "colors":["white"]},
+            {"id":19594, "colors":["brown"]},
+            {"id":19595, "colors":["purple"]},
+            {"id":19596, "colors":["blue"]},
+            {"id":19597, "colors":["green"]},
+            {"id":19598, "colors":["pink"]},
+            {"id":19599, "colors":["yellow"]},
+            {"id":19600, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
+        "releaseDate":"2026-11-04"
     }
 ]
