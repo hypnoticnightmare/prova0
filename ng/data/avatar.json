@@ -775,8 +775,8 @@
                     {"id":394, "colors":["green"]},
                     {"id":395, "colors":["orange"]},
                     {"id":396, "colors":["brown"]}
-                ], "criteria":{"type":"pack", "info":"Fox Illusion", "text":"Desbloqueado en el Pack exclusivo\nFox Illusion"},
-                "releaseDate":"2026-09-02"
+                ], "criteria":null,
+                "releaseDate":"2026-11-04"
             },
             {
                 "groupId":377, "zone":"face", "category":"eyes", "security":"7f3c3ba5a64c3614",
@@ -793,8 +793,8 @@
                     {"id":384, "colors":["green"]},
                     {"id":385, "colors":["orange"]},
                     {"id":386, "colors":["brown"]}
-                ], "criteria":{"type":"pack", "info":"Fox Illusion", "text":"Desbloqueado en el Pack exclusivo\nFox Illusion"},
-                "releaseDate":"2026-09-02"
+                ], "criteria":null,
+                "releaseDate":"2026-11-04"
             },
             {
                 "groupId":368, "zone":"face", "category":"eyes", "security":"268def0b05800603",
@@ -811,8 +811,8 @@
                     {"id":375, "colors":["green"]},
                     {"id":376, "colors":["orange"]},
                     {"id":377, "colors":["brown"]}
-                ], "criteria":{"type":"pack", "info":"Fox Illusion", "text":"Desbloqueado en el Pack exclusivo\nFox Illusion"},
-                "releaseDate":"2026-09-02"
+                ], "criteria":null,
+                "releaseDate":"2026-11-04"
             },
             {
                 "groupId":347, "zone":"face", "category":"eyes", "security":"16e77c3d2124ae57",
@@ -829,8 +829,8 @@
                     {"id":354, "colors":["green"]},
                     {"id":355, "colors":["orange"]},
                     {"id":356, "colors":["brown"]}
-                ], "criteria":{"type":"pack", "info":"Fox Illusion", "text":"Desbloqueado en el Pack exclusivo\nFox Illusion"},
-                "releaseDate":"2026-09-02"
+                ], "criteria":null,
+                "releaseDate":"2026-11-04"
             },
             {
                 "groupId":337, "zone":"face", "category":"eyes", "security":"0171d884756f71e8",
@@ -847,8 +847,8 @@
                     {"id":344, "colors":["green"]},
                     {"id":345, "colors":["orange"]},
                     {"id":346, "colors":["brown"]}
-                ], "criteria":{"type":"pack", "info":"Fox Illusion", "text":"Desbloqueado en el Pack exclusivo\nFox Illusion"},
-                "releaseDate":"2026-09-02"
+                ], "criteria":null,
+                "releaseDate":"2026-11-04"
             },
             {
                 "groupId":327, "zone":"face", "category":"eyes", "security":"7a08f7366519cd82",
@@ -865,8 +865,8 @@
                     {"id":334, "colors":["green"]},
                     {"id":3435, "colors":["orange"]},
                     {"id":336, "colors":["brown"]}
-                ], "criteria":{"type":"pack", "info":"Fox Illusion", "text":"Desbloqueado en el Pack exclusivo\nFox Illusion"},
-                "releaseDate":"2026-09-02"
+                ], "criteria":null,
+                "releaseDate":"2026-11-04"
             }
         ],
         "mouth":[
@@ -1272,8 +1272,8 @@
                     {"id":288, "colors":["black","green"]},
                     {"id":289, "colors":["black","grey"]},
                     {"id":290, "colors":["black","orange"]}
-                ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"},
-                "releaseDate":"2026-10-27"
+                ], "criteria":null,
+                "releaseDate":"2026-11-04"
             },
             {
                 "groupId":291, "zone":"face", "category":"mouth", "security":"6b1e917286df65b9",
@@ -1290,8 +1290,8 @@
                     {"id":298, "colors":["black","green"]},
                     {"id":299, "colors":["black","grey"]},
                     {"id":300, "colors":["black","orange"]}
-                ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"},
-                "releaseDate":"2026-10-27"
+                ], "criteria":null,
+                "releaseDate":"2026-11-04"
             },
             {
                 "groupId":301, "zone":"face", "category":"mouth", "security":"c2e61ce62ea131ab",
@@ -1308,8 +1308,8 @@
                     {"id":308, "colors":["black","green"]},
                     {"id":309, "colors":["black","grey"]},
                     {"id":310, "colors":["black","orange"]}
-                ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"},
-                "releaseDate":"2026-10-27"
+                ], "criteria":null,
+                "releaseDate":"2026-11-04"
             },
             {
                 "groupId":271, "zone":"face", "category":"mouth", "security":"f454e769e588cf0c",
@@ -1326,8 +1326,8 @@
                     {"id":278, "colors":["black","green"]},
                     {"id":279, "colors":["black","grey"]},
                     {"id":280, "colors":["black","orange"]}
-                ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"},
-                "releaseDate":"2026-10-27"
+                ], "criteria":null,
+                "releaseDate":"2026-11-04"
             },
             {
                 "groupId":262, "zone":"face", "category":"mouth", "security":"23cfcf9eab087b02",
@@ -1344,8 +1344,8 @@
                     {"id":269, "colors":["black","green"]},
                     {"id":270, "colors":["black","grey"]},
                     {"id":271, "colors":["black","orange"]}
-                ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"},
-                "releaseDate":"2026-10-27"
+                ], "criteria":null,
+                "releaseDate":"2026-11-04"
             },
             {
                 "groupId":251, "zone":"face", "category":"mouth", "security":"b3c024e78ae2536d",
@@ -1362,8 +1362,8 @@
                     {"id":258, "colors":["black","green"]},
                     {"id":259, "colors":["black","grey"]},
                     {"id":260, "colors":["black","orange"]}
-                ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"},
-                "releaseDate":"2026-10-27"
+                ], "criteria":null,
+                "releaseDate":"2026-11-04"
             }
         ]
     },
