@@ -759,6 +759,24 @@
                     {"id":326, "colors":["brown"]}
                 ], "criteria":{"type":"pack", "info":"Fox Illusion", "text":"Desbloqueado en el Pack exclusivo\nFox Illusion"},
                 "releaseDate":"2026-09-02"
+            },
+            {
+                "groupId":387, "zone":"face", "category":"eyes", "security":"900a3fcdfff56f34",
+                "name":"Ojos",
+                "outfitName":"Starside",
+                "variations":[
+                    {"id":387, "colors":["orange","red"]},
+                    {"id":388, "colors":["blue"]},
+                    {"id":389, "colors":["white"]},
+                    {"id":390, "colors":["black"]},
+                    {"id":391, "colors":["black"]},
+                    {"id":392, "colors":["purple"]},
+                    {"id":393, "colors":["green","yellow"]},
+                    {"id":394, "colors":["green"]},
+                    {"id":395, "colors":["orange"]},
+                    {"id":396, "colors":["brown"]}
+                ], "criteria":{"type":"pack", "info":"Fox Illusion", "text":"Desbloqueado en el Pack exclusivo\nFox Illusion"},
+                "releaseDate":"2026-09-02"
             }
         ],
         "mouth":[
