@@ -32976,5 +32976,23 @@
             {"id":19749, "colors":["pink"]}
         ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
         "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19621, "zone":"face", "category":"neckAccessory", "security":"2ddddd7fc52eeef4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Necklace",
+        "outfitName":"Mini Jester",
+        "variations":[
+            {"id":19621, "colors":["black"]},
+            {"id":19622, "colors":["red"]},
+            {"id":19623, "colors":["white"]},
+            {"id":19624, "colors":["brown"]},
+            {"id":19625, "colors":["purple"]},
+            {"id":19626, "colors":["blue"]},
+            {"id":19627, "colors":["green"]},
+            {"id":19628, "colors":["pink"]},
+            {"id":19629, "colors":["yellow"]},
+            {"id":19630, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
+        "releaseDate":"2026-11-04"
     }
 ]
