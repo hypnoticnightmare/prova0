@@ -1346,6 +1346,24 @@
                     {"id":271, "colors":["black","orange"]}
                 ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"},
                 "releaseDate":"2026-10-27"
+            },
+            {
+                "groupId":251, "zone":"face", "category":"mouth", "security":"b3c024e78ae2536d",
+                "name":"Boca",
+                "outfitName":"Galaxy",
+                "variations":[
+                    {"id":251, "colors":["black","purple"]},
+                    {"id":252, "colors":["black","pink"]},
+                    {"id":253, "colors":["black","white"]},
+                    {"id":254, "colors":["black","blue"]},
+                    {"id":255, "colors":["black","yellow"]},
+                    {"id":256, "colors":["black","green"]},
+                    {"id":257, "colors":["black","red"]},
+                    {"id":258, "colors":["black","green"]},
+                    {"id":259, "colors":["black","grey"]},
+                    {"id":260, "colors":["black","orange"]}
+                ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"},
+                "releaseDate":"2026-10-27"
             }
         ]
     },
