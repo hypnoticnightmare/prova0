@@ -33246,5 +33246,23 @@
             {"id":19700, "colors":["pink"]}
         ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
         "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19641, "zone":"arms", "category":"bag", "security":"7482347f6d30fbd7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Ball",
+        "outfitName":"Mini Slam",
+        "variations":[
+            {"id":19641, "colors":["black"]},
+            {"id":19642, "colors":["red"]},
+            {"id":19643, "colors":["white"]},
+            {"id":19644, "colors":["brown"]},
+            {"id":19645, "colors":["purple"]},
+            {"id":19646, "colors":["blue"]},
+            {"id":19647, "colors":["green"]},
+            {"id":19648, "colors":["pink"]},
+            {"id":19649, "colors":["yellow"]},
+            {"id":19650, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
+        "releaseDate":"2026-11-04"
     }
 ]
