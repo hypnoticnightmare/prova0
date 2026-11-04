@@ -32786,5 +32786,23 @@
             {"id":19570, "colors":["pink"]}
         ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
         "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19601, "zone":"head", "category":"hat", "security":"ff7ce8bb122aea1b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Visor",
+        "outfitName":"Mini Tennis",
+        "variations":[
+            {"id":19601, "colors":["black"]},
+            {"id":19602, "colors":["red"]},
+            {"id":19603, "colors":["white"]},
+            {"id":19604, "colors":["brown"]},
+            {"id":19605, "colors":["purple"]},
+            {"id":19606, "colors":["blue"]},
+            {"id":19607, "colors":["green"]},
+            {"id":19608, "colors":["pink"]},
+            {"id":19609, "colors":["yellow"]},
+            {"id":19610, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
+        "releaseDate":"2026-11-04"
     }
 ]
