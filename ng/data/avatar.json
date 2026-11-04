@@ -802,6 +802,7 @@
                 "outfitName":"Butterfly",
                 "variations":[
                     {"id":368, "colors":["orange","red"]},
+                    {"id":367, "colors":["brown"]},
                     {"id":369, "colors":["blue"]},
                     {"id":370, "colors":["white"]},
                     {"id":371, "colors":["black"]},
@@ -809,8 +810,7 @@
                     {"id":373, "colors":["purple"]},
                     {"id":374, "colors":["green","yellow"]},
                     {"id":375, "colors":["green"]},
-                    {"id":376, "colors":["orange"]},
-                    {"id":377, "colors":["brown"]}
+                    {"id":376, "colors":["orange"]}
                 ], "criteria":null,
                 "releaseDate":"2026-11-04"
             },
@@ -863,7 +863,7 @@
                     {"id":332, "colors":["purple"]},
                     {"id":333, "colors":["green","yellow"]},
                     {"id":334, "colors":["green"]},
-                    {"id":3435, "colors":["orange"]},
+                    {"id":335, "colors":["orange"]},
                     {"id":336, "colors":["brown"]}
                 ], "criteria":null,
                 "releaseDate":"2026-11-04"
