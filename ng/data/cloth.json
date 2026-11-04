@@ -33430,7 +33430,7 @@
     {
         "groupId":19721, "zone":"face", "category":"makeup", "security":"94e8206ca6187615", "multiLayered":false, "layerBehavior":"normal",
         "name":"Stars",
-        "outfitName":null,
+        "outfitName":"Starside",
         "variations":[
             {"id":19721, "colors":["brown"]},
             {"id":19722, "colors":["pink"]},
