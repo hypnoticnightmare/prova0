@@ -32840,5 +32840,33 @@
             {"id":19720, "colors":["pink"]}
         ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
         "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19381, "zone":"head", "category":"wig", "security":"4fba8401cd2c0d74", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Wig",
+        "outfitName":"Mini Punk",
+        "variations":[
+            {"id":19381, "colors":["black"]},
+            {"id":19382, "colors":["red"]},
+            {"id":19383, "colors":["white"]},
+            {"id":19384, "colors":["brown"]},
+            {"id":19385, "colors":["purple"]},
+            {"id":19386, "colors":["blue"]},
+            {"id":19387, "colors":["green"]},
+            {"id":19388, "colors":["pink"]},
+            {"id":19389, "colors":["yellow"]},
+            {"id":19390, "colors":["pink"]},
+            {"id":19391, "colors":["black"]},
+            {"id":19392, "colors":["red"]},
+            {"id":19393, "colors":["white"]},
+            {"id":19394, "colors":["brown"]},
+            {"id":19395, "colors":["purple"]},
+            {"id":19396, "colors":["blue"]},
+            {"id":19397, "colors":["green"]},
+            {"id":19398, "colors":["pink"]},
+            {"id":19399, "colors":["yellow"]},
+            {"id":19400, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
+        "releaseDate":"2026-11-04"
     }
 ]
