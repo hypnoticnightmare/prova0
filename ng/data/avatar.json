@@ -135,6 +135,15 @@
                     {"id":51, "colors":["grey"]}
                 ], "criteria":{"type":"pack", "info":"Born to Rebel", "text":"Desbloqueado en el Pack exclusivo\nBorn to Rebel"},
                 "releaseDate":"2026-09-02"
+            },
+            {
+                "groupId":41, "zone":"head", "category":"eyebrows", "security":"b95b33ae73c13164",
+                "name":"Cejas",
+                "outfitName":"Labret",
+                "variations":[
+                    {"id":41, "colors":["black"]}
+                ], "criteria":null,
+                "releaseDate":"2026-01-05"
             }
         ],
         "eyes":[
