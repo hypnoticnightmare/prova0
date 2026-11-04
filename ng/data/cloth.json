@@ -33426,5 +33426,23 @@
             {"id":19330, "colors":["pink"]}
         ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
         "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19721, "zone":"face", "category":"makeup", "security":"94e8206ca6187615", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Stars",
+        "outfitName":null,
+        "variations":[
+            {"id":19721, "colors":["brown"]},
+            {"id":19722, "colors":["pink"]},
+            {"id":19723, "colors":["white"]},
+            {"id":19724, "colors":["white"]},
+            {"id":19725, "colors":["white"]},
+            {"id":19726, "colors":["white"]},
+            {"id":19727, "colors":["white"]},
+            {"id":19728, "colors":["white"]},
+            {"id":19729, "colors":["white"]},
+            {"id":19730, "colors":["white"]},
+        ], "criteria":null,
+        "releaseDate":"2024-04-17"
     }
 ]
