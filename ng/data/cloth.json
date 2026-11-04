@@ -33430,7 +33430,7 @@
     {
         "groupId":19721, "zone":"face", "category":"makeup", "security":"94e8206ca6187615", "multiLayered":false, "layerBehavior":"normal",
         "name":"Stars",
-        "outfitName":"Starside",
+        "outfitName":null,
         "variations":[
             {"id":19721, "colors":["brown"]},
             {"id":19722, "colors":["pink"]},
@@ -33443,6 +33443,42 @@
             {"id":19729, "colors":["white"]},
             {"id":19730, "colors":["white"]}
         ], "criteria":null,
-        "releaseDate":"2024-04-17"
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19531, "zone":"face", "category":"makeup", "security":"b15f562d584558ea", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cyber",
+        "outfitName":null,
+        "variations":[
+            {"id":19531, "colors":["brown"]},
+            {"id":19532, "colors":["pink"]},
+            {"id":19533, "colors":["white"]},
+            {"id":19534, "colors":["white"]},
+            {"id":19535, "colors":["white"]},
+            {"id":19536, "colors":["white"]},
+            {"id":19537, "colors":["white"]},
+            {"id":19538, "colors":["white"]},
+            {"id":19539, "colors":["white"]},
+            {"id":19540, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19521, "zone":"face", "category":"makeup", "security":"8f0c93fda6efa78a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cyber",
+        "outfitName":null,
+        "variations":[
+            {"id":19521, "colors":["brown"]},
+            {"id":19522, "colors":["pink"]},
+            {"id":19523, "colors":["white"]},
+            {"id":19524, "colors":["white"]},
+            {"id":19525, "colors":["white"]},
+            {"id":19526, "colors":["white"]},
+            {"id":19527, "colors":["white"]},
+            {"id":19528, "colors":["white"]},
+            {"id":19529, "colors":["white"]},
+            {"id":19530, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2026-11-04"
     }
 ]
