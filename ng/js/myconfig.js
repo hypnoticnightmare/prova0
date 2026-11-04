@@ -1,20 +1,21 @@
 var sucrette = {
     "avatar":{
-        "skin":"hortensia",
-        "hair":"brown",
-        "eyebrows":"1-5b720362ccbfc015",
-        "eyesColor":"brown",
+        "skin":"rose",
+        "hair":"pink",
+        "eyebrows":"7-900edda5def34164",
+        "eyesColor":"light_green",
         "eyes":"1-c8f85ec8f0f3ab2d",
-        "mouth":"2-d52f3502c5814f22",
+        "mouth":"143-9aed8576a4d41d52",
         "expressionPreset":7,
         "expression":{
             "eyebrow":"H_Mid",
             "eye":"N_Open_FrontLook",
             "mouth":"H_Closed"
         },
-
+        
         "customSkin":null
     },
+        
     "orderInfo":[
         {"category":"avatar", "layer":null, "value":null}, // solo es true si customSkin es != null
         {"category":"underwear", "layer":null, "value":"1-28645abdd790d028"},
@@ -23,15 +24,15 @@ var sucrette = {
 
     ],
     "room":{
-        "background":"1-12345678abcdef",
-        "slot1":"6-db2e30f7b3aee506",
-        "slot2":"5-4bb83595a6a16409",
-        "slot3":"4-6f4f67f0b4c78f19",
+        "background":"468-5a18a79d68fba516",
+        "slot1":null,
+        "slot2":null,
+        "slot3":null,
         "slot4":null,
         "slot5":null
     },
     "pet":{
-        "status":true,
+        "status":false,
         "outfit":null
     },
     "crush":{
