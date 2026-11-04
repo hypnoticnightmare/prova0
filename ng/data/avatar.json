@@ -777,6 +777,24 @@
                     {"id":396, "colors":["brown"]}
                 ], "criteria":{"type":"pack", "info":"Fox Illusion", "text":"Desbloqueado en el Pack exclusivo\nFox Illusion"},
                 "releaseDate":"2026-09-02"
+            },
+            {
+                "groupId":377, "zone":"face", "category":"eyes", "security":"7f3c3ba5a64c3614",
+                "name":"Ojos",
+                "outfitName":"Studs",
+                "variations":[
+                    {"id":377, "colors":["orange","red"]},
+                    {"id":378, "colors":["blue"]},
+                    {"id":379, "colors":["white"]},
+                    {"id":380, "colors":["black"]},
+                    {"id":381, "colors":["black"]},
+                    {"id":382, "colors":["purple"]},
+                    {"id":383, "colors":["green","yellow"]},
+                    {"id":384, "colors":["green"]},
+                    {"id":385, "colors":["orange"]},
+                    {"id":386, "colors":["brown"]}
+                ], "criteria":{"type":"pack", "info":"Fox Illusion", "text":"Desbloqueado en el Pack exclusivo\nFox Illusion"},
+                "releaseDate":"2026-09-02"
             }
         ],
         "mouth":[
