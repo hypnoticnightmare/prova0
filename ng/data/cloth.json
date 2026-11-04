@@ -32868,5 +32868,23 @@
             {"id":19400, "colors":["pink"]}
         ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
         "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19451, "zone":"head", "category":"wig", "security":"050b7ec0bb59e83b", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Wig",
+        "outfitName":"Mini Star",
+        "variations":[
+            {"id":19451, "colors":["black"]},
+            {"id":19452, "colors":["red"]},
+            {"id":19453, "colors":["white"]},
+            {"id":19454, "colors":["brown"]},
+            {"id":19455, "colors":["purple"]},
+            {"id":19456, "colors":["blue"]},
+            {"id":19457, "colors":["green"]},
+            {"id":19458, "colors":["pink"]},
+            {"id":19459, "colors":["yellow"]},
+            {"id":19460, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
+        "releaseDate":"2026-11-04"
     }
 ]
