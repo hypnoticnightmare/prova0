@@ -32822,5 +32822,23 @@
             {"id":19620, "colors":["pink"]}
         ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
         "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19711, "zone":"head", "category":"hat", "security":"c64d87101ad5e802", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Hat",
+        "outfitName":"Mini Pastel",
+        "variations":[
+            {"id":19711, "colors":["black"]},
+            {"id":19712, "colors":["red"]},
+            {"id":19713, "colors":["white"]},
+            {"id":19714, "colors":["brown"]},
+            {"id":19715, "colors":["purple"]},
+            {"id":19716, "colors":["blue"]},
+            {"id":19717, "colors":["green"]},
+            {"id":19718, "colors":["pink"]},
+            {"id":19719, "colors":["yellow"]},
+            {"id":19720, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
+        "releaseDate":"2026-11-04"
     }
 ]
