@@ -33354,5 +33354,23 @@
             {"id":19551, "colors":["pink"]}
         ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
         "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19671, "zone":"waistToKnee", "category":"pants", "security":"072fef76e550d6d4", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Pants",
+        "outfitName":"Mini Slam",
+        "variations":[
+            {"id":19671, "colors":["black"]},
+            {"id":19672, "colors":["red"]},
+            {"id":19673, "colors":["white"]},
+            {"id":19674, "colors":["brown"]},
+            {"id":19675, "colors":["purple"]},
+            {"id":19676, "colors":["blue"]},
+            {"id":19677, "colors":["green"]},
+            {"id":19678, "colors":["pink"]},
+            {"id":19679, "colors":["yellow"]},
+            {"id":19680, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
+        "releaseDate":"2026-11-04"
     }
 ]
