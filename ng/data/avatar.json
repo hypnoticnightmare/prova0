@@ -117,6 +117,24 @@
                     {"id":40, "colors":["black", "white"]}
                 ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"},
                 "releaseDate":"2026-10-27"
+            },
+            {
+                "groupId":42, "zone":"head", "category":"eyebrows", "security":"870ad4bfdda0bba5",
+                "name":"Cejas",
+                "outfitName":"Studs",
+                "variations":[
+                    {"id":42, "colors":["red"]},
+                    {"id":43, "colors":["yellow"]},
+                    {"id":44, "colors":["yellow"]},
+                    {"id":45, "colors":["green"]},
+                    {"id":46, "colors":["blue","green"]},
+                    {"id":47, "colors":["blue"]},
+                    {"id":48, "colors":["purple"]},
+                    {"id":49, "colors":["pink"]},
+                    {"id":50, "colors":["white"]},
+                    {"id":51, "colors":["grey"]}
+                ], "criteria":{"type":"pack", "info":"Born to Rebel", "text":"Desbloqueado en el Pack exclusivo\nBorn to Rebel"},
+                "releaseDate":"2026-09-02"
             }
         ],
         "eyes":[
