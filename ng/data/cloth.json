@@ -33174,5 +33174,23 @@
             {"id":19450, "colors":["pink"]}
         ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
         "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19371, "zone":"torso_waistToKnee", "category":"waist", "security":"30c755d7b9fe7b06", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Harness",
+        "outfitName":"Mini Punk",
+        "variations":[
+            {"id":19371, "colors":["black"]},
+            {"id":19372, "colors":["red"]},
+            {"id":19373, "colors":["white"]},
+            {"id":19374, "colors":["brown"]},
+            {"id":19375, "colors":["purple"]},
+            {"id":19376, "colors":["blue"]},
+            {"id":19377, "colors":["green"]},
+            {"id":19378, "colors":["pink"]},
+            {"id":19379, "colors":["yellow"]},
+            {"id":19380, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
+        "releaseDate":"2026-11-04"
     }
 ]
