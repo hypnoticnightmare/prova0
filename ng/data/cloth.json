@@ -33194,7 +33194,7 @@
         "releaseDate":"2026-11-04"
     },
     {
-        "groupId":19341, "zone":"torso_waistToKnee", "category":"waist", "security":"aa91b4ce52659e37", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":19341, "zone":"torso_waistToKnee", "category":"waist", "security":"aa91b4ce52659e37", "multiLayered":true, "layerBehavior":"normal",
         "name":"Pannier",
         "outfitName":"Mini Versailles",
         "variations":[
