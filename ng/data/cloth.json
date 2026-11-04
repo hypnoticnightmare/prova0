@@ -32750,5 +32750,23 @@
             {"id":19360, "colors":["pink"]}
         ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
         "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19471, "zone":"head", "category":"hat", "security":"bc22f8b7d5719041", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Hat",
+        "outfitName":"Mini Fin'Amor",
+        "variations":[
+            {"id":19471, "colors":["black"]},
+            {"id":19472, "colors":["red"]},
+            {"id":19473, "colors":["white"]},
+            {"id":19474, "colors":["brown"]},
+            {"id":19475, "colors":["purple"]},
+            {"id":19476, "colors":["blue"]},
+            {"id":19477, "colors":["green"]},
+            {"id":19478, "colors":["pink"]},
+            {"id":19479, "colors":["yellow"]},
+            {"id":19480, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
+        "releaseDate":"2026-11-04"
     }
 ]
