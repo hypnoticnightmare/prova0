@@ -33066,5 +33066,23 @@
             {"id":19500, "colors":["pink"]}
         ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
         "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19551, "zone":"torso", "category":"top", "security":"b112d17c2808bff1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Mini Spring Lace",
+        "variations":[
+            {"id":19551, "colors":["black"]},
+            {"id":19552, "colors":["red"]},
+            {"id":19553, "colors":["white"]},
+            {"id":19554, "colors":["brown"]},
+            {"id":19555, "colors":["purple"]},
+            {"id":19556, "colors":["blue"]},
+            {"id":19557, "colors":["green"]},
+            {"id":19558, "colors":["pink"]},
+            {"id":19559, "colors":["yellow"]},
+            {"id":19560, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
+        "releaseDate":"2026-11-04"
     }
 ]
