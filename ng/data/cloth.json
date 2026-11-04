@@ -33390,5 +33390,23 @@
             {"id":19490, "colors":["pink"]}
         ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
         "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19501, "zone":"feet", "category":"shoes", "security":"a7516d82ff5d2c1a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Boots",
+        "outfitName":"Mini Fin'Amor",
+        "variations":[
+            {"id":19501, "colors":["black"]},
+            {"id":19502, "colors":["red"]},
+            {"id":19503, "colors":["white"]},
+            {"id":19504, "colors":["brown"]},
+            {"id":19505, "colors":["purple"]},
+            {"id":19506, "colors":["blue"]},
+            {"id":19507, "colors":["green"]},
+            {"id":19508, "colors":["pink"]},
+            {"id":19509, "colors":["yellow"]},
+            {"id":19510, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
+        "releaseDate":"2026-11-04"
     }
 ]
