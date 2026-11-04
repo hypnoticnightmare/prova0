@@ -33228,5 +33228,23 @@
             {"id":19670, "colors":["pink"]}
         ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
         "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19691, "zone":"arms", "category":"bag", "security":"1344af412d951b22", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bag",
+        "outfitName":"Mini Pastel",
+        "variations":[
+            {"id":19691, "colors":["black"]},
+            {"id":19692, "colors":["red"]},
+            {"id":19693, "colors":["white"]},
+            {"id":19694, "colors":["brown"]},
+            {"id":19695, "colors":["purple"]},
+            {"id":19696, "colors":["blue"]},
+            {"id":19697, "colors":["green"]},
+            {"id":19698, "colors":["pink"]},
+            {"id":19699, "colors":["yellow"]},
+            {"id":19700, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
+        "releaseDate":"2026-11-04"
     }
 ]
