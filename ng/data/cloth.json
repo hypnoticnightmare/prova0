@@ -33210,5 +33210,23 @@
             {"id":19350, "colors":["pink"]}
         ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
         "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19661, "zone":"arms", "category":"gloves", "security":"a6f2fcadbc14110f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Slevees",
+        "outfitName":"Mini Slam",
+        "variations":[
+            {"id":19661, "colors":["black"]},
+            {"id":19662, "colors":["red"]},
+            {"id":19663, "colors":["white"]},
+            {"id":19664, "colors":["brown"]},
+            {"id":19665, "colors":["purple"]},
+            {"id":19666, "colors":["blue"]},
+            {"id":19667, "colors":["green"]},
+            {"id":19668, "colors":["pink"]},
+            {"id":19669, "colors":["yellow"]},
+            {"id":19670, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
+        "releaseDate":"2026-11-04"
     }
 ]
