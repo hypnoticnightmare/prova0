@@ -831,6 +831,24 @@
                     {"id":356, "colors":["brown"]}
                 ], "criteria":{"type":"pack", "info":"Fox Illusion", "text":"Desbloqueado en el Pack exclusivo\nFox Illusion"},
                 "releaseDate":"2026-09-02"
+            },
+            {
+                "groupId":337, "zone":"face", "category":"eyes", "security":"0171d884756f71e8",
+                "name":"Ojos",
+                "outfitName":"Butterfly",
+                "variations":[
+                    {"id":337, "colors":["orange","red"]},
+                    {"id":338, "colors":["blue"]},
+                    {"id":339, "colors":["white"]},
+                    {"id":340, "colors":["black"]},
+                    {"id":341, "colors":["black"]},
+                    {"id":342, "colors":["purple"]},
+                    {"id":343, "colors":["green","yellow"]},
+                    {"id":344, "colors":["green"]},
+                    {"id":345, "colors":["orange"]},
+                    {"id":346, "colors":["brown"]}
+                ], "criteria":{"type":"pack", "info":"Fox Illusion", "text":"Desbloqueado en el Pack exclusivo\nFox Illusion"},
+                "releaseDate":"2026-09-02"
             }
         ],
         "mouth":[
