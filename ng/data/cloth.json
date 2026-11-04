@@ -33408,5 +33408,23 @@
             {"id":19510, "colors":["pink"]}
         ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
         "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19321, "zone":"feet", "category":"shoes", "security":"e7a7fa6e3fb277c1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Boots",
+        "outfitName":"Mini Versailles",
+        "variations":[
+            {"id":19321, "colors":["black"]},
+            {"id":19322, "colors":["red"]},
+            {"id":19323, "colors":["white"]},
+            {"id":19324, "colors":["brown"]},
+            {"id":19325, "colors":["purple"]},
+            {"id":19326, "colors":["blue"]},
+            {"id":19327, "colors":["green"]},
+            {"id":19328, "colors":["pink"]},
+            {"id":19329, "colors":["yellow"]},
+            {"id":19330, "colors":["pink"]}
+        ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
+        "releaseDate":"2026-11-04"
     }
 ]
