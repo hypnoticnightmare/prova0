@@ -33624,5 +33624,23 @@
             {"id":19800, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2026-11-18"
+    },
+    {
+        "groupId":19821, "zone":"general", "category":"other", "security":"c2f10cc321638f0f", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Sand",
+        "outfitName":"Desert Diviner",
+        "variations":[
+            {"id":19821, "colors":["black"]},
+            {"id":19822, "colors":["red"]},
+            {"id":19823, "colors":["white"]},
+            {"id":19824, "colors":["brown"]},
+            {"id":19825, "colors":["purple"]},
+            {"id":19826, "colors":["blue"]},
+            {"id":19827, "colors":["green"]},
+            {"id":19828, "colors":["pink"]},
+            {"id":19829, "colors":["yellow"]},
+            {"id":19830, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2026-11-18"
     }
 ]
