@@ -33588,5 +33588,41 @@
             {"id":19790, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2026-11-18"
+    },
+    {
+        "groupId":19751, "zone":"head", "category":"faceAccessory", "security":"e5f7cfb2e2fd3f75", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Accessory",
+        "outfitName":"Desert Diviner",
+        "variations":[
+            {"id":19751, "colors":["black"]},
+            {"id":19752, "colors":["red"]},
+            {"id":19753, "colors":["white"]},
+            {"id":19754, "colors":["brown"]},
+            {"id":19755, "colors":["purple"]},
+            {"id":19756, "colors":["blue"]},
+            {"id":19757, "colors":["green"]},
+            {"id":19758, "colors":["pink"]},
+            {"id":19759, "colors":["yellow"]},
+            {"id":19760, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2026-11-18"
+    },
+    {
+        "groupId":19791, "zone":"head", "category":"faceAccessory", "security":"a61e3a7c6df8954f", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Jewelry",
+        "outfitName":"Desert Diviner",
+        "variations":[
+            {"id":19791, "colors":["black"]},
+            {"id":19792, "colors":["red"]},
+            {"id":19793, "colors":["white"]},
+            {"id":19794, "colors":["brown"]},
+            {"id":19795, "colors":["purple"]},
+            {"id":19796, "colors":["blue"]},
+            {"id":19797, "colors":["green"]},
+            {"id":19798, "colors":["pink"]},
+            {"id":19799, "colors":["yellow"]},
+            {"id":19800, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2026-11-18"
     }
 ]
