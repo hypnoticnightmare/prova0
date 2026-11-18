@@ -33516,6 +33516,23 @@
             {"id":19780, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2026-11-18"
+    },
+    {
+        "groupId":19741, "zone":"face", "category":"makeup", "security":"9d0ccff7602e2919", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tattoos",
+        "outfitName":"Desert Diviner",
+        "variations":[
+            {"id":19741, "colors":["black"]},
+            {"id":19742, "colors":["red"]},
+            {"id":19743, "colors":["white"]},
+            {"id":19744, "colors":["brown"]},
+            {"id":19745, "colors":["purple"]},
+            {"id":19746, "colors":["blue"]},
+            {"id":19747, "colors":["green"]},
+            {"id":19748, "colors":["pink"]},
+            {"id":19749, "colors":["yellow"]},
+            {"id":19750, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2026-11-18"
     }
-    
 ]
