@@ -33534,5 +33534,41 @@
             {"id":19750, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2026-11-18"
+    },
+    {
+        "groupId":19801, "zone":"head", "category":"hat", "security":"d587313ca2cd0f9e", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Hood",
+        "outfitName":"Desert Diviner",
+        "variations":[
+            {"id":19801, "colors":["black"]},
+            {"id":19802, "colors":["red"]},
+            {"id":19803, "colors":["white"]},
+            {"id":19804, "colors":["brown"]},
+            {"id":19805, "colors":["purple"]},
+            {"id":19806, "colors":["blue"]},
+            {"id":19807, "colors":["green"]},
+            {"id":19808, "colors":["pink"]},
+            {"id":19809, "colors":["yellow"]},
+            {"id":19810, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2026-11-18"
+    },
+    {
+        "groupId":19811, "zone":"head", "category":"hat", "security":"bee192464b3d9472", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Veil",
+        "outfitName":"Desert Diviner",
+        "variations":[
+            {"id":19811, "colors":["black"]},
+            {"id":19812, "colors":["red"]},
+            {"id":19813, "colors":["white"]},
+            {"id":19814, "colors":["brown"]},
+            {"id":19815, "colors":["purple"]},
+            {"id":19816, "colors":["blue"]},
+            {"id":19817, "colors":["green"]},
+            {"id":19818, "colors":["pink"]},
+            {"id":19819, "colors":["yellow"]},
+            {"id":19820, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2026-11-18"
     }
 ]
