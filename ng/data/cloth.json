@@ -33570,5 +33570,23 @@
             {"id":19820, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2026-11-18"
+    },
+    {
+        "groupId":19781, "zone":"head", "category":"wig", "security":"2926ddbe7a0d7df5", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Wig",
+        "outfitName":"Desert Diviner",
+        "variations":[
+            {"id":19781, "colors":["black"]},
+            {"id":19782, "colors":["red"]},
+            {"id":19783, "colors":["white"]},
+            {"id":19784, "colors":["brown"]},
+            {"id":19785, "colors":["purple"]},
+            {"id":19786, "colors":["blue"]},
+            {"id":19787, "colors":["green"]},
+            {"id":19788, "colors":["pink"]},
+            {"id":19789, "colors":["yellow"]},
+            {"id":19790, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2026-11-18"
     }
 ]
