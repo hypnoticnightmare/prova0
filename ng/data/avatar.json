@@ -867,7 +867,26 @@
                     {"id":336, "colors":["brown"]}
                 ], "criteria":null,
                 "releaseDate":"2026-11-04"
+            },
+            {
+                "groupId":357, "zone":"face", "category":"eyes", "security":"bff4e335840a2ee9",
+                "name":"Eyes",
+                "outfitName":"Desert Diviner",
+                "variations":[
+                    {"id":357, "colors":["orange","red"]},
+                    {"id":358, "colors":["blue"]},
+                    {"id":359, "colors":["white"]},
+                    {"id":360, "colors":["black"]},
+                    {"id":361, "colors":["black"]},
+                    {"id":362, "colors":["purple"]},
+                    {"id":363, "colors":["green","yellow"]},
+                    {"id":364, "colors":["green"]},
+                    {"id":365, "colors":["orange"]},
+                    {"id":366, "colors":["brown"]}
+                ], "criteria":null,
+                "releaseDate":"2026-11-18"
             }
+            
         ],
         "mouth":[
             {
