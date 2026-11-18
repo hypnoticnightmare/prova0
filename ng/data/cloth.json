@@ -33498,5 +33498,24 @@
             {"id":19770, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2026-11-18"
+    },
+    {
+        "groupId":19771, "zone":"torso_waistToKnee", "category":"waist", "security":"f789d69ac15cdcf1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Belt",
+        "outfitName":"Desert Diviner",
+        "variations":[
+            {"id":19771, "colors":["black"]},
+            {"id":19772, "colors":["red"]},
+            {"id":19773, "colors":["white"]},
+            {"id":19774, "colors":["brown"]},
+            {"id":19775, "colors":["purple"]},
+            {"id":19776, "colors":["blue"]},
+            {"id":19777, "colors":["green"]},
+            {"id":19778, "colors":["pink"]},
+            {"id":19779, "colors":["yellow"]},
+            {"id":19780, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2026-11-18"
     }
+    
 ]
